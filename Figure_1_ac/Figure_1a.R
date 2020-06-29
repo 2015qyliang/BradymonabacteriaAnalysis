@@ -21,7 +21,7 @@ for (tib in raw.tiblable) {
 ml.tree@phylo$tip.label <- sdum.tiblable
 
 # get prey list
-tableS1.df <- read.table('Figure_1c_TableS1.txt', 
+tableS1.df <- read.table('TableS1.txt', 
                          header = T, sep = '\t', stringsAsFactors = F)
 tableS1.df.new <- tableS1.df[2:dim(tableS1.df)[1],]
 preyType <- as.numeric(tableS1.df.new$Prey_of_FA350) + as.numeric(tableS1.df.new$Prey_of_B210)
