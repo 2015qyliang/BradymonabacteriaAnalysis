@@ -1,0 +1,4317 @@
+scaffold1_1	K08309
+scaffold1_2
+scaffold1_3
+scaffold1_4
+scaffold1_5
+scaffold1_6
+scaffold1_7
+scaffold1_8	K01895
+scaffold1_9
+scaffold1_10	K10563
+scaffold1_11
+scaffold1_12
+scaffold1_13
+scaffold1_14
+scaffold1_15
+scaffold1_16
+scaffold1_17
+scaffold1_18
+scaffold1_19
+scaffold1_20
+scaffold1_21
+scaffold1_22
+scaffold1_23
+scaffold1_24
+scaffold2_1
+scaffold2_2
+scaffold2_3
+scaffold2_4
+scaffold2_5
+scaffold2_6	K02835
+scaffold2_7	K03628
+scaffold2_8
+scaffold2_9	K08301
+scaffold2_10	K00864
+scaffold2_11	K12132
+scaffold2_12
+scaffold2_13
+scaffold2_14
+scaffold2_15
+scaffold2_16
+scaffold2_17
+scaffold2_18
+scaffold2_19
+scaffold2_20
+scaffold2_21	K07112
+scaffold2_22	K07112
+scaffold2_23
+scaffold2_24
+scaffold2_25
+scaffold2_26
+scaffold2_27
+scaffold2_28
+scaffold2_29
+scaffold2_30
+scaffold2_31
+scaffold2_32
+scaffold2_33	K11068
+scaffold2_34
+scaffold2_35
+scaffold2_36
+scaffold2_37
+scaffold2_38
+scaffold2_39
+scaffold2_40
+scaffold2_41
+scaffold2_42
+scaffold2_43
+scaffold2_44	K12132
+scaffold2_45
+scaffold2_46
+scaffold2_47
+scaffold2_48
+scaffold2_49
+scaffold2_50
+scaffold2_51
+scaffold2_52
+scaffold2_53
+scaffold2_54
+scaffold2_55
+scaffold2_56
+scaffold2_57	K09859
+scaffold2_58	K07337
+scaffold2_59
+scaffold2_60
+scaffold2_61
+scaffold2_62
+scaffold2_63	K04564
+scaffold2_64
+scaffold2_65
+scaffold2_66
+scaffold2_67
+scaffold2_68	K06076
+scaffold2_69
+scaffold2_70
+scaffold2_71
+scaffold2_72	K07304
+scaffold2_73
+scaffold2_74
+scaffold2_75
+scaffold2_76
+scaffold2_77
+scaffold2_78
+scaffold2_79	K06902
+scaffold2_80
+scaffold2_81
+scaffold2_82
+scaffold3_1
+scaffold3_2
+scaffold3_3
+scaffold3_4
+scaffold3_5
+scaffold3_6
+scaffold4_1
+scaffold4_2
+scaffold4_3
+scaffold4_4
+scaffold4_5
+scaffold4_6
+scaffold4_7
+scaffold4_8
+scaffold4_9
+scaffold4_10
+scaffold4_11
+scaffold4_12
+scaffold4_13
+scaffold4_14
+scaffold4_15	K15045
+scaffold4_16
+scaffold4_17
+scaffold4_18
+scaffold4_19	K04771
+scaffold4_20
+scaffold4_21
+scaffold5_1
+scaffold5_2
+scaffold5_3
+scaffold5_4
+scaffold5_5
+scaffold5_6
+scaffold5_7
+scaffold5_8
+scaffold5_9
+scaffold5_10
+scaffold5_11
+scaffold5_12	K02379
+scaffold5_13
+scaffold5_14
+scaffold5_15	K03089
+scaffold5_16
+scaffold5_17	K01434
+scaffold5_18
+scaffold5_19
+scaffold5_20
+scaffold5_21
+scaffold5_22
+scaffold5_23	K14441
+scaffold5_24
+scaffold5_25
+scaffold5_26
+scaffold5_27
+scaffold5_28
+scaffold5_29
+scaffold5_30
+scaffold5_31	K03544
+scaffold5_32	K18012
+scaffold5_33	K21929
+scaffold5_34	K13038
+scaffold5_35
+scaffold5_36
+scaffold6_1
+scaffold6_2
+scaffold6_3	K07090
+scaffold6_4	K07386
+scaffold6_5
+scaffold6_6
+scaffold6_7
+scaffold6_8	K00573
+scaffold6_9	K06975
+scaffold6_10	K01845
+scaffold6_11	K01772
+scaffold6_12	K01698
+scaffold6_13	K00231
+scaffold6_14	K01599
+scaffold6_15
+scaffold6_16	K01749
+scaffold6_17	K02492
+scaffold6_18
+scaffold6_19	K11206
+scaffold6_20	K09748
+scaffold6_21	K02600
+scaffold6_22	K07742
+scaffold6_23	K02519
+scaffold6_24	K02834
+scaffold6_25	K06881
+scaffold6_26	K03177
+scaffold6_27
+scaffold6_28	K06959
+scaffold6_29	K00384
+scaffold6_30
+scaffold6_31	K01915
+scaffold6_32	K04751
+scaffold6_33
+scaffold6_34	K00262
+scaffold6_35
+scaffold6_36
+scaffold6_37
+scaffold6_38
+scaffold6_39
+scaffold6_40	K00334
+scaffold6_41	K00335
+scaffold6_42	K00339
+scaffold6_43	K00340
+scaffold6_44	K00341
+scaffold6_45	K00342
+scaffold6_46	K00343
+scaffold6_47
+scaffold6_48	K14058
+scaffold6_49	K03466
+scaffold6_50	K02355
+scaffold6_51	K19784
+scaffold6_52
+scaffold6_53
+scaffold6_54	K07095
+scaffold6_55	K21552
+scaffold6_56
+scaffold6_57	K15977
+scaffold6_58	K01604
+scaffold6_59
+scaffold6_60	K03497
+scaffold6_61	K03496
+scaffold6_62
+scaffold6_63
+scaffold6_64
+scaffold6_65
+scaffold6_66	K07444
+scaffold6_67	K06911
+scaffold6_68
+scaffold6_69	K01424
+scaffold6_70	K07661
+scaffold6_71
+scaffold6_72
+scaffold6_73	K03455
+scaffold6_74	K05569
+scaffold6_75	K05570
+scaffold6_76	K05571
+scaffold6_77
+scaffold6_78
+scaffold6_79	K05567
+scaffold6_80
+scaffold6_81	K05568
+scaffold6_82
+scaffold6_83	K04773
+scaffold6_84
+scaffold6_85	K07323
+scaffold6_86
+scaffold6_87	K02283
+scaffold6_88	K10823
+scaffold6_89	K02031
+scaffold6_90	K02034
+scaffold6_91	K02033
+scaffold6_92	K02035
+scaffold6_93	K01876
+scaffold6_94
+scaffold6_95	K01903
+scaffold6_96	K01902
+scaffold6_97	K00940
+scaffold6_98	K06941
+scaffold6_99
+scaffold6_100
+scaffold6_101	K12132
+scaffold6_102	K01872
+scaffold6_103
+scaffold6_104
+scaffold6_105
+scaffold6_106
+scaffold6_107	K01990
+scaffold6_108
+scaffold7_1
+scaffold7_2	K08316
+scaffold7_3	K00954
+scaffold7_4	K00812
+scaffold7_5
+scaffold7_6
+scaffold7_7	K00631
+scaffold7_8
+scaffold7_9
+scaffold7_10
+scaffold7_11
+scaffold7_12
+scaffold7_13
+scaffold7_14
+scaffold7_15	K16639
+scaffold7_16
+scaffold7_17
+scaffold8_1
+scaffold8_2	K09922
+scaffold8_3
+scaffold8_4
+scaffold8_5
+scaffold8_6
+scaffold8_7
+scaffold8_8
+scaffold8_9	K06213
+scaffold8_10	K18890
+scaffold8_11	K18889
+scaffold8_12	K03100
+scaffold8_13
+scaffold8_14
+scaffold8_15
+scaffold8_16
+scaffold8_17	K02067
+scaffold8_18	K02065
+scaffold8_19
+scaffold8_20	K02066
+scaffold8_21	K02066
+scaffold8_22	K02065
+scaffold8_23
+scaffold9_1
+scaffold9_2
+scaffold9_3
+scaffold9_4	K07098
+scaffold9_5	K10843
+scaffold9_6	K08972
+scaffold9_7
+scaffold9_8	K05844
+scaffold9_9	K12132
+scaffold9_10
+scaffold9_11	K01873
+scaffold9_12
+scaffold9_13
+scaffold9_14
+scaffold9_15	K07714
+scaffold9_16
+scaffold9_17	K02654
+scaffold9_18
+scaffold9_19
+scaffold9_20	K03088
+scaffold9_21	K02469
+scaffold9_22
+scaffold9_23
+scaffold9_24	K02108
+scaffold9_25	K02110
+scaffold9_26
+scaffold10_1
+scaffold10_2
+scaffold10_3	K00705
+scaffold10_4	K08309
+scaffold10_5
+scaffold10_6
+scaffold10_7
+scaffold10_8
+scaffold10_9	K03088
+scaffold10_10
+scaffold10_11	K02935
+scaffold10_12	K02864
+scaffold10_13	K02863
+scaffold10_14	K02867
+scaffold10_15	K02601
+scaffold10_16	K03073
+scaffold10_17	K02358
+scaffold10_18	K03218
+scaffold10_19	K01591
+scaffold10_20	K01881
+scaffold10_21
+scaffold10_22
+scaffold10_23
+scaffold10_24
+scaffold10_25
+scaffold10_26
+scaffold10_27	K01999
+scaffold10_28	K01999
+scaffold10_29	K01304
+scaffold10_30
+scaffold10_31
+scaffold10_32	K03086
+scaffold10_33	K02316
+scaffold10_34
+scaffold10_35
+scaffold10_36	K00820
+scaffold10_37
+scaffold10_38
+scaffold10_39	K00632
+scaffold10_40	K02503
+scaffold10_41
+scaffold10_42
+scaffold10_43
+scaffold10_44
+scaffold10_45	K00631
+scaffold10_46	K22320
+scaffold10_47	K22319
+scaffold10_48	K22318
+scaffold10_49	K22317
+scaffold10_50
+scaffold11_1
+scaffold11_2	K03711
+scaffold11_3
+scaffold11_4
+scaffold11_5
+scaffold11_6
+scaffold11_7
+scaffold11_8	K03306
+scaffold11_9	K07220
+scaffold11_10
+scaffold11_11	K00681
+scaffold11_12	K12132
+scaffold11_13
+scaffold11_14	K00928
+scaffold11_15
+scaffold11_16
+scaffold11_17	K06176
+scaffold11_18	K00990
+scaffold11_19	K04763
+scaffold11_20	K05896
+scaffold11_21	K06024
+scaffold11_22	K06178
+scaffold11_23	K01992
+scaffold11_24	K01990
+scaffold11_25	K02652
+scaffold11_26	K02669
+scaffold11_27	K02653
+scaffold11_28	K02668
+scaffold11_29	K02667
+scaffold11_30
+scaffold11_31
+scaffold11_32
+scaffold11_33	K01990
+scaffold11_34
+scaffold11_35
+scaffold11_36
+scaffold11_37	K03642
+scaffold11_38
+scaffold11_39
+scaffold11_40	K03696
+scaffold11_41
+scaffold11_42
+scaffold11_43	K12132
+scaffold11_44	K09808
+scaffold11_45
+scaffold11_46
+scaffold11_47	K03750
+scaffold11_48
+scaffold11_49
+scaffold11_50
+scaffold11_51	K12132
+scaffold11_52
+scaffold11_53
+scaffold11_54
+scaffold11_55	K15011
+scaffold11_56	K15012
+scaffold11_57
+scaffold11_58	K04485
+scaffold11_59
+scaffold11_60
+scaffold11_61	K01736
+scaffold11_62	K13292
+scaffold11_63	K17686
+scaffold11_64
+scaffold11_65	K00963
+scaffold12_1
+scaffold12_2
+scaffold12_3
+scaffold12_4
+scaffold12_5
+scaffold12_6
+scaffold12_7
+scaffold12_8	K11312
+scaffold12_9
+scaffold13_1	K02433
+scaffold13_2	K02434
+scaffold13_3	K08963
+scaffold13_4
+scaffold13_5
+scaffold13_6
+scaffold13_7
+scaffold13_8
+scaffold13_9
+scaffold13_10
+scaffold13_11
+scaffold13_12
+scaffold13_13	K01524
+scaffold13_14
+scaffold13_15	K03215
+scaffold13_16	K03688
+scaffold13_17
+scaffold13_18	K03832
+scaffold13_19	K03559
+scaffold13_20	K03561
+scaffold13_21	K01011
+scaffold13_22	K01011
+scaffold13_23
+scaffold13_24
+scaffold13_25
+scaffold13_26
+scaffold13_27
+scaffold13_28
+scaffold13_29	K01409
+scaffold13_30
+scaffold13_31
+scaffold13_32	K03116
+scaffold13_33
+scaffold13_34
+scaffold13_35
+scaffold13_36
+scaffold13_37	K04084
+scaffold13_38
+scaffold13_39
+scaffold13_40	K02837
+scaffold13_41	K00057
+scaffold13_42
+scaffold13_43	K10914
+scaffold13_44
+scaffold13_45	K00287
+scaffold13_46	K00560
+scaffold13_47
+scaffold13_48	K01759
+scaffold13_49
+scaffold13_50
+scaffold13_51	K09165
+scaffold13_52	K01669
+scaffold13_53	K07071
+scaffold13_54
+scaffold13_55
+scaffold13_56
+scaffold13_57
+scaffold13_58
+scaffold13_59	K01955
+scaffold13_60
+scaffold13_61	K00067
+scaffold13_62	K07232
+scaffold13_63
+scaffold13_64
+scaffold13_65	K07164
+scaffold13_66
+scaffold13_67	K00756
+scaffold13_68	K13993
+scaffold13_69
+scaffold13_70
+scaffold13_71
+scaffold13_72
+scaffold13_73
+scaffold13_74
+scaffold13_75
+scaffold13_76	K13020
+scaffold13_77	K13018
+scaffold13_78
+scaffold13_79	K16554
+scaffold13_80
+scaffold13_81
+scaffold13_82	K00012
+scaffold13_83	K02474
+scaffold13_84	K08679
+scaffold13_85
+scaffold13_86
+scaffold13_87	K01790
+scaffold13_88	K00973
+scaffold13_89	K01710
+scaffold13_90
+scaffold13_91
+scaffold13_92
+scaffold13_93
+scaffold13_94
+scaffold13_95
+scaffold13_96
+scaffold13_97
+scaffold13_98	K00688
+scaffold13_99
+scaffold13_100	K00798
+scaffold13_101
+scaffold13_102
+scaffold14_1
+scaffold14_2
+scaffold14_3	K00284
+scaffold14_4
+scaffold14_5
+scaffold14_6
+scaffold14_7
+scaffold14_8
+scaffold14_9
+scaffold14_10
+scaffold14_11
+scaffold14_12
+scaffold14_13
+scaffold14_14
+scaffold14_15	K03499
+scaffold14_16	K03498
+scaffold14_17
+scaffold14_18
+scaffold14_19
+scaffold14_20
+scaffold14_21	K01338
+scaffold14_22	K03544
+scaffold14_23	K01358
+scaffold14_24	K03545
+scaffold14_25
+scaffold14_26	K07735
+scaffold14_27	K02313
+scaffold14_28	K02914
+scaffold14_29	K03536
+scaffold14_30	K08998
+scaffold14_31	K03217
+scaffold14_32
+scaffold14_33	K03650
+scaffold14_34
+scaffold14_35
+scaffold14_36	K07560
+scaffold14_37
+scaffold14_38	K01897
+scaffold14_39
+scaffold14_40	K03671
+scaffold14_41
+scaffold14_42
+scaffold14_43
+scaffold14_44
+scaffold14_45	K06180
+scaffold14_46
+scaffold14_47
+scaffold14_48
+scaffold14_49	K11717
+scaffold14_50
+scaffold14_51
+scaffold14_52
+scaffold14_53
+scaffold14_54	K06911
+scaffold14_55
+scaffold14_56
+scaffold14_57
+scaffold14_58
+scaffold14_59
+scaffold14_60	K00230
+scaffold14_61
+scaffold14_62
+scaffold14_63	K14415
+scaffold14_64	K01974
+scaffold14_65	K14414
+scaffold14_66	K00799
+scaffold14_67
+scaffold14_68	K10943
+scaffold14_69
+scaffold14_70
+scaffold14_71
+scaffold14_72
+scaffold14_73
+scaffold14_74	K00451
+scaffold14_75
+scaffold14_76
+scaffold14_77
+scaffold14_78
+scaffold14_79
+scaffold14_80
+scaffold14_81
+scaffold14_82
+scaffold14_83	K02428
+scaffold14_84	K00057
+scaffold14_85
+scaffold14_86
+scaffold14_87
+scaffold14_88
+scaffold14_89
+scaffold15_1
+scaffold15_2	K01737
+scaffold15_3	K00547
+scaffold15_3	K00297
+scaffold15_4	K01738
+scaffold15_5	K00640
+scaffold15_6
+scaffold15_7
+scaffold15_8
+scaffold15_9
+scaffold15_10
+scaffold15_11
+scaffold15_12
+scaffold15_13
+scaffold15_14
+scaffold15_15
+scaffold15_16
+scaffold15_17
+scaffold15_18
+scaffold15_19
+scaffold15_20
+scaffold15_21
+scaffold15_22
+scaffold15_23
+scaffold15_24	K05807
+scaffold15_25	K02996
+scaffold15_26	K02871
+scaffold15_27
+scaffold15_28
+scaffold15_29
+scaffold15_30
+scaffold15_31	K03106
+scaffold15_32
+scaffold15_33
+scaffold15_34	K03664
+scaffold15_35
+scaffold15_36
+scaffold15_37
+scaffold15_38	K03687
+scaffold15_39
+scaffold15_40
+scaffold15_41
+scaffold15_42
+scaffold15_43
+scaffold15_44
+scaffold15_45
+scaffold15_46
+scaffold15_47
+scaffold15_48
+scaffold15_49
+scaffold15_50
+scaffold15_51
+scaffold15_52
+scaffold15_53	K09705
+scaffold15_54
+scaffold15_55	K07257
+scaffold15_56
+scaffold15_57
+scaffold15_58
+scaffold15_59	K03406
+scaffold15_60
+scaffold15_61
+scaffold15_62
+scaffold15_63	K06147
+scaffold15_64	K03579
+scaffold16_1
+scaffold17_1
+scaffold17_2
+scaffold17_3
+scaffold17_4
+scaffold17_5	K06076
+scaffold17_6
+scaffold17_7
+scaffold17_8
+scaffold17_9
+scaffold17_10	K01358
+scaffold17_11	K06877
+scaffold17_12	K03831
+scaffold17_13
+scaffold17_14
+scaffold17_15	K02469
+scaffold17_16
+scaffold17_17
+scaffold17_18
+scaffold17_19	K03408
+scaffold17_20
+scaffold17_21	K03406
+scaffold17_22
+scaffold18_1
+scaffold18_2
+scaffold18_3
+scaffold18_4
+scaffold19_1
+scaffold19_2	K15727
+scaffold19_3	K15726
+scaffold19_4
+scaffold19_5	K00526
+scaffold19_6	K00525
+scaffold19_7
+scaffold19_8	K02338
+scaffold19_9	K03629
+scaffold19_10	K03215
+scaffold19_11
+scaffold19_12	K03639
+scaffold19_13	K21142
+scaffold19_14
+scaffold19_15	K01844
+scaffold19_16
+scaffold19_17
+scaffold19_18
+scaffold19_19
+scaffold19_20
+scaffold19_21	K07301
+scaffold19_22	K01950
+scaffold19_23
+scaffold19_24
+scaffold19_25
+scaffold19_26
+scaffold19_27
+scaffold19_28	K01745
+scaffold19_29
+scaffold19_30
+scaffold19_31
+scaffold19_32
+scaffold19_33
+scaffold19_34	K06980
+scaffold19_35	K00806
+scaffold19_36	K00941
+scaffold19_37	K01775
+scaffold19_38	K02520
+scaffold19_39
+scaffold19_40	K03413
+scaffold19_41
+scaffold19_42	K02401
+scaffold19_43	K02421
+scaffold19_44	K02420
+scaffold19_45	K03226
+scaffold19_46
+scaffold19_47
+scaffold19_48
+scaffold19_49
+scaffold19_50
+scaffold19_51
+scaffold19_52
+scaffold19_53
+scaffold19_54
+scaffold19_55
+scaffold19_56
+scaffold19_57
+scaffold19_58	K01953
+scaffold19_59
+scaffold19_60
+scaffold19_61
+scaffold19_62
+scaffold19_63
+scaffold19_64
+scaffold19_65
+scaffold19_66
+scaffold19_67
+scaffold19_68
+scaffold19_69
+scaffold19_70
+scaffold19_71
+scaffold19_72
+scaffold19_73
+scaffold19_74
+scaffold19_75
+scaffold19_76	K07001
+scaffold19_77	K06878
+scaffold19_78
+scaffold20_1
+scaffold20_2
+scaffold20_3	K09989
+scaffold20_4
+scaffold20_5
+scaffold20_6
+scaffold20_7
+scaffold20_8
+scaffold20_9	K01990
+scaffold20_10	K01992
+scaffold20_11
+scaffold20_12
+scaffold20_13	K01920
+scaffold20_14	K04565
+scaffold20_15
+scaffold20_16
+scaffold20_17
+scaffold20_18
+scaffold20_19
+scaffold20_20	K12132
+scaffold20_21
+scaffold20_22	K01147
+scaffold20_23	K01029
+scaffold20_24	K01028
+scaffold20_25
+scaffold20_26
+scaffold20_27
+scaffold20_28
+scaffold20_29
+scaffold20_30
+scaffold20_31
+scaffold20_32	K00428
+scaffold20_33
+scaffold20_34
+scaffold20_35
+scaffold20_36
+scaffold20_37
+scaffold20_38
+scaffold20_39
+scaffold20_40
+scaffold20_41	K04073
+scaffold20_42	K01666
+scaffold20_43	K01617
+scaffold20_44
+scaffold20_45	K00981
+scaffold20_46	K10255
+scaffold20_47
+scaffold20_48
+scaffold20_49
+scaffold20_50
+scaffold20_51
+scaffold20_52	K13652
+scaffold20_53	K03303
+scaffold20_54
+scaffold20_55
+scaffold20_56
+scaffold20_57
+scaffold20_58
+scaffold20_59
+scaffold20_60
+scaffold20_61
+scaffold20_62
+scaffold20_63
+scaffold20_64
+scaffold20_65	K10778
+scaffold20_66
+scaffold20_67
+scaffold20_68
+scaffold20_69
+scaffold20_70
+scaffold20_71
+scaffold20_72
+scaffold20_73	K00697
+scaffold20_74
+scaffold20_75
+scaffold20_76
+scaffold20_77
+scaffold20_78	K05343
+scaffold20_79
+scaffold20_80	K07090
+scaffold20_81
+scaffold20_82
+scaffold20_83	K00432
+scaffold20_84
+scaffold20_85
+scaffold20_86
+scaffold20_87
+scaffold20_88
+scaffold20_89
+scaffold20_90	K02495
+scaffold20_91
+scaffold20_92	K02238
+scaffold20_93
+scaffold20_94	K03070
+scaffold20_95	K01633
+scaffold20_96
+scaffold20_97	K03407
+scaffold21_1
+scaffold21_2
+scaffold21_3
+scaffold21_4
+scaffold21_5
+scaffold21_6
+scaffold21_7
+scaffold21_8
+scaffold21_9	K16710
+scaffold21_10
+scaffold21_11
+scaffold21_12
+scaffold21_13
+scaffold21_14
+scaffold21_15
+scaffold21_16
+scaffold21_17
+scaffold21_18
+scaffold21_19
+scaffold21_20
+scaffold21_21	K02114
+scaffold21_22	K02112
+scaffold21_23	K02115
+scaffold21_24	K02111
+scaffold21_25	K02113
+scaffold21_26	K02109
+scaffold21_27	K02109
+scaffold21_28	K00164
+scaffold21_29	K00658
+scaffold21_30	K00382
+scaffold21_31	K06886
+scaffold21_32
+scaffold22_1
+scaffold22_2	K03707
+scaffold22_3
+scaffold22_4	K00425
+scaffold22_5	K00426
+scaffold22_6
+scaffold22_7
+scaffold22_8
+scaffold22_9
+scaffold23_1
+scaffold23_2
+scaffold23_3
+scaffold23_4
+scaffold23_5	K10800
+scaffold23_6
+scaffold23_7
+scaffold23_8
+scaffold23_9
+scaffold23_10
+scaffold23_11	K03573
+scaffold23_12
+scaffold23_13	K01525
+scaffold23_14	K01697
+scaffold23_15
+scaffold23_16
+scaffold23_17
+scaffold23_18
+scaffold23_19
+scaffold23_20
+scaffold23_21	K05591
+scaffold23_22
+scaffold23_23	K02372
+scaffold23_24	K00639
+scaffold23_25
+scaffold23_26	K10780
+scaffold23_27	K00059
+scaffold23_28
+scaffold23_29
+scaffold23_30	K02888
+scaffold23_31	K02899
+scaffold23_32	K03979
+scaffold23_33
+scaffold23_34
+scaffold23_35
+scaffold23_36
+scaffold23_37
+scaffold23_38
+scaffold23_39
+scaffold23_40	K03111
+scaffold23_41
+scaffold23_42
+scaffold23_43
+scaffold23_44	K00054
+scaffold23_45
+scaffold23_46
+scaffold23_47
+scaffold23_48	K00970
+scaffold23_49
+scaffold23_50
+scaffold23_51
+scaffold23_52
+scaffold23_53
+scaffold23_54	K00249
+scaffold23_55
+scaffold23_56
+scaffold23_57
+scaffold23_58
+scaffold23_59	K00799
+scaffold23_60
+scaffold23_61
+scaffold23_62
+scaffold23_63
+scaffold23_64
+scaffold23_65
+scaffold23_66
+scaffold23_67
+scaffold23_68	K00937
+scaffold23_69
+scaffold23_70	K03767
+scaffold23_71
+scaffold23_72	K00845
+scaffold23_73	K01586
+scaffold23_74
+scaffold23_75
+scaffold24_1	K12132
+scaffold24_2
+scaffold24_3
+scaffold24_4
+scaffold24_5
+scaffold24_6
+scaffold24_7	K03525
+scaffold24_8	K02033
+scaffold24_9	K02034
+scaffold24_10	K01207
+scaffold24_11	K00788
+scaffold24_12	K03644
+scaffold24_13
+scaffold24_14
+scaffold24_15	K08964
+scaffold24_16
+scaffold24_17	K03386
+scaffold24_18	K04756
+scaffold24_19	K00772
+scaffold24_20
+scaffold24_21
+scaffold24_22	K07478
+scaffold24_23
+scaffold24_24
+scaffold24_25
+scaffold24_26
+scaffold24_27
+scaffold24_28
+scaffold24_29
+scaffold24_30
+scaffold24_31	K10773
+scaffold24_32
+scaffold24_33	K01679
+scaffold24_34	K00684
+scaffold24_35
+scaffold24_36	K00869
+scaffold24_37	K01597
+scaffold24_38	K03695
+scaffold24_39
+scaffold24_40
+scaffold24_41	K12132
+scaffold24_42
+scaffold24_43
+scaffold24_44
+scaffold24_45
+scaffold24_46
+scaffold24_47	K00761
+scaffold24_48
+scaffold24_49
+scaffold24_50
+scaffold24_51
+scaffold25_1
+scaffold25_2
+scaffold25_3
+scaffold25_4
+scaffold25_5
+scaffold25_6
+scaffold25_7
+scaffold25_8
+scaffold25_9
+scaffold25_10
+scaffold25_11
+scaffold25_12
+scaffold25_13
+scaffold25_14
+scaffold25_15
+scaffold25_16
+scaffold25_17	K03741
+scaffold25_18
+scaffold25_19	K03325
+scaffold25_20	K03741
+scaffold25_21	K11811
+scaffold25_22
+scaffold25_23	K18939
+scaffold25_24
+scaffold25_25
+scaffold25_26
+scaffold25_27
+scaffold25_28
+scaffold25_29
+scaffold25_30	K06886
+scaffold25_31
+scaffold25_32
+scaffold25_33
+scaffold25_34
+scaffold25_35
+scaffold25_36	K05520
+scaffold25_37
+scaffold25_38
+scaffold25_39
+scaffold25_40
+scaffold25_41
+scaffold25_42
+scaffold25_43
+scaffold25_44
+scaffold25_45	K03919
+scaffold25_46
+scaffold25_47
+scaffold25_48
+scaffold25_49
+scaffold25_50	K06917
+scaffold25_51	K01008
+scaffold25_52
+scaffold25_53
+scaffold25_54
+scaffold25_55	K11209
+scaffold25_56
+scaffold25_57
+scaffold25_58	K00799
+scaffold25_59	K00799
+scaffold25_60
+scaffold25_61
+scaffold25_62	K03932
+scaffold25_63
+scaffold25_64
+scaffold25_65
+scaffold25_66
+scaffold25_67
+scaffold25_68	K06872
+scaffold25_69	K06872
+scaffold25_70	K06872
+scaffold25_71
+scaffold25_72
+scaffold25_73
+scaffold25_74
+scaffold25_75	K07755
+scaffold25_76
+scaffold25_77	K02020
+scaffold25_78	K02018
+scaffold25_79	K02017
+scaffold25_80
+scaffold25_81
+scaffold25_82
+scaffold25_83
+scaffold25_84	K01673
+scaffold25_85
+scaffold25_86
+scaffold25_87
+scaffold25_88
+scaffold25_89	K06203
+scaffold25_90
+scaffold25_91
+scaffold25_92
+scaffold25_93	K06949
+scaffold25_94
+scaffold25_95	K11259
+scaffold25_96	K00253
+scaffold25_97	K05539
+scaffold25_98
+scaffold25_99
+scaffold25_100	K02259
+scaffold25_101	K01893
+scaffold25_102
+scaffold25_103	K06180
+scaffold25_104	K00077
+scaffold25_105	K06179
+scaffold25_106
+scaffold25_107	K07394
+scaffold25_108	K07010
+scaffold25_109	K03216
+scaffold25_110
+scaffold25_111	K06180
+scaffold25_112
+scaffold25_113
+scaffold25_114
+scaffold25_115
+scaffold25_116
+scaffold25_117
+scaffold25_118
+scaffold25_119
+scaffold25_120
+scaffold25_121
+scaffold25_122
+scaffold25_123	K03925
+scaffold25_124	K03438
+scaffold25_125
+scaffold25_126	K03587
+scaffold25_127	K01928
+scaffold25_128	K01929
+scaffold25_129	K01000
+scaffold25_130	K03588
+scaffold25_131	K02563
+scaffold25_132	K00075
+scaffold25_133	K01921
+scaffold25_134	K03589
+scaffold25_135	K03590
+scaffold25_136	K03531
+scaffold25_137	K15396
+scaffold25_138
+scaffold25_139
+scaffold25_140	K02956
+scaffold25_141
+scaffold25_142	K00962
+scaffold25_143
+scaffold25_144
+scaffold25_145
+scaffold25_146	K04084
+scaffold25_147
+scaffold25_148	K04043
+scaffold25_149
+scaffold25_150	K03770
+scaffold25_151	K03569
+scaffold25_152	K03570
+scaffold25_153
+scaffold25_154	K05515
+scaffold25_155	K05837
+scaffold25_156
+scaffold25_157
+scaffold25_158	K00363
+scaffold25_159
+scaffold25_160
+scaffold25_161
+scaffold25_162	K07113
+scaffold25_163	K00616
+scaffold25_164	K01875
+scaffold25_165	K07003
+scaffold25_166	K07447
+scaffold25_167	K07082
+scaffold25_168
+scaffold25_169
+scaffold25_170
+scaffold25_171	K08309
+scaffold25_172
+scaffold25_173
+scaffold25_174
+scaffold25_175	K20074
+scaffold25_176	K04096
+scaffold25_177
+scaffold25_178
+scaffold25_179	K03767
+scaffold25_180
+scaffold25_181
+scaffold25_182
+scaffold25_183
+scaffold25_184	K07588
+scaffold25_185
+scaffold26_1
+scaffold26_2
+scaffold26_3
+scaffold26_4	K02068
+scaffold26_5	K02069
+scaffold26_6
+scaffold26_7
+scaffold26_8	K00662
+scaffold26_9
+scaffold26_10
+scaffold26_11
+scaffold26_12
+scaffold29_1	K01885
+scaffold29_2
+scaffold29_3	K07443
+scaffold29_4
+scaffold29_5
+scaffold29_6
+scaffold29_7
+scaffold29_8	K00858
+scaffold29_9
+scaffold29_10
+scaffold29_11	K07574
+scaffold29_12
+scaffold29_13
+scaffold29_14
+scaffold29_15	K03798
+scaffold29_16
+scaffold29_17	K02968
+scaffold29_18
+scaffold29_19	K02340
+scaffold29_20
+scaffold29_21
+scaffold29_22	K04043
+scaffold29_23
+scaffold29_24	K03442
+scaffold29_25
+scaffold30_1
+scaffold31_1
+scaffold32_1
+scaffold32_2
+scaffold32_3
+scaffold32_4	K07722
+scaffold32_5
+scaffold32_6
+scaffold32_7
+scaffold32_8
+scaffold32_9
+scaffold32_10
+scaffold32_11
+scaffold32_12
+scaffold32_13
+scaffold32_14
+scaffold32_15
+scaffold32_16
+scaffold32_17
+scaffold32_18	K03918
+scaffold32_19
+scaffold32_20
+scaffold32_21
+scaffold32_22
+scaffold32_23
+scaffold32_24
+scaffold32_25	K01354
+scaffold32_26
+scaffold32_27
+scaffold32_28	K12132
+scaffold32_29	K00002
+scaffold32_30
+scaffold32_31
+scaffold32_32
+scaffold32_33
+scaffold32_34
+scaffold32_35
+scaffold32_36
+scaffold32_37
+scaffold32_38
+scaffold32_39
+scaffold32_40
+scaffold32_41
+scaffold32_42
+scaffold32_43	K01537
+scaffold32_44
+scaffold32_45
+scaffold32_46	K01932
+scaffold33_1
+scaffold33_2	K03088
+scaffold33_3
+scaffold33_4
+scaffold33_5	K03775
+scaffold33_6
+scaffold33_7	K00950
+scaffold33_8	K03702
+scaffold33_9
+scaffold33_10
+scaffold33_11
+scaffold33_12
+scaffold33_13
+scaffold33_14
+scaffold33_15
+scaffold33_16
+scaffold33_17
+scaffold33_18
+scaffold33_19
+scaffold34_1
+scaffold35_1
+scaffold36_1
+scaffold36_2	K03978
+scaffold36_3	K03789
+scaffold36_4	K00948
+scaffold36_5
+scaffold36_6
+scaffold36_7
+scaffold36_8	K00783
+scaffold36_9	K09710
+scaffold36_10	K00147
+scaffold37_1	K01006
+scaffold37_2	K06133
+scaffold37_3	K03089
+scaffold37_4
+scaffold37_5	K07713
+scaffold37_6	K04767
+scaffold37_7	K00382
+scaffold37_8	K00799
+scaffold37_9
+scaffold37_10
+scaffold37_11
+scaffold37_12
+scaffold37_13	K00467
+scaffold37_14
+scaffold37_15	K02016
+scaffold37_16
+scaffold37_17
+scaffold37_18
+scaffold37_19	K16089
+scaffold37_20
+scaffold37_21	K02016
+scaffold37_22	K02015
+scaffold37_23	K02013
+scaffold37_24	K07225
+scaffold37_25
+scaffold37_26
+scaffold37_27	K06193
+scaffold37_28
+scaffold37_29	K00382
+scaffold37_30	K00658
+scaffold37_31	K03671
+scaffold37_32
+scaffold37_33	K03168
+scaffold37_34
+scaffold37_35	K03654
+scaffold37_36
+scaffold37_37
+scaffold37_38	K09747
+scaffold37_39	K06187
+scaffold37_40
+scaffold37_41	K06883
+scaffold37_42
+scaffold37_43	K07456
+scaffold37_44	K03563
+scaffold37_45
+scaffold37_46	K16149
+scaffold37_47
+scaffold37_48
+scaffold37_49	K01634
+scaffold37_50
+scaffold37_51
+scaffold37_52
+scaffold37_53
+scaffold37_54
+scaffold37_55
+scaffold37_56
+scaffold37_57	K07341
+scaffold37_58
+scaffold37_59
+scaffold37_60
+scaffold37_61
+scaffold37_62
+scaffold37_63
+scaffold37_64	K08602
+scaffold37_65
+scaffold37_66
+scaffold37_67
+scaffold37_68	K03581
+scaffold37_69
+scaffold37_70
+scaffold37_71
+scaffold37_72
+scaffold37_73	K08676
+scaffold37_74
+scaffold37_75	K03752
+scaffold37_76	K01638
+scaffold37_77	K01637
+scaffold37_78
+scaffold37_79
+scaffold37_80
+scaffold37_81
+scaffold37_82
+scaffold37_83
+scaffold37_84	K01534
+scaffold37_85
+scaffold37_86
+scaffold37_87
+scaffold37_88	K00803
+scaffold37_89
+scaffold37_90	K06969
+scaffold37_91
+scaffold37_92
+scaffold37_93	K06958
+scaffold37_94	K20074
+scaffold37_95
+scaffold37_96	K12132
+scaffold37_97
+scaffold37_98
+scaffold37_99	K02963
+scaffold37_100	K02913
+scaffold37_101
+scaffold37_102
+scaffold37_103
+scaffold37_104
+scaffold37_105	K02902
+scaffold37_106
+scaffold37_107	K05788
+scaffold37_108	K10026
+scaffold37_109
+scaffold37_110
+scaffold37_111
+scaffold37_112	K12132
+scaffold37_113	K03980
+scaffold37_114	K03154
+scaffold37_115	K03149
+scaffold37_116	K00788
+scaffold37_117
+scaffold37_118
+scaffold37_119	K03530
+scaffold37_120	K18013
+scaffold37_121	K18014
+scaffold37_122
+scaffold37_123
+scaffold37_124
+scaffold37_125
+scaffold37_126
+scaffold37_127	K12349
+scaffold37_128	K16052
+scaffold37_129
+scaffold37_130	K12132
+scaffold37_131
+scaffold37_132
+scaffold37_133
+scaffold37_134
+scaffold37_135
+scaffold38_1
+scaffold38_2
+scaffold38_3
+scaffold38_4
+scaffold38_5
+scaffold38_6
+scaffold38_7	K03665
+scaffold38_8
+scaffold38_9
+scaffold38_10
+scaffold38_11
+scaffold38_12
+scaffold38_13
+scaffold38_14
+scaffold38_15
+scaffold38_16
+scaffold38_17
+scaffold38_18
+scaffold38_19
+scaffold38_20
+scaffold38_21
+scaffold38_22
+scaffold39_1	K12132
+scaffold39_2
+scaffold39_3	K09744
+scaffold39_4
+scaffold39_5
+scaffold39_6
+scaffold39_7
+scaffold39_8
+scaffold39_9
+scaffold39_10
+scaffold39_11
+scaffold39_12
+scaffold39_13	K06188
+scaffold39_14
+scaffold39_15
+scaffold39_16
+scaffold39_17	K03575
+scaffold39_18
+scaffold39_19	K00558
+scaffold39_20
+scaffold39_21
+scaffold39_22
+scaffold39_23
+scaffold39_24
+scaffold39_25
+scaffold39_26
+scaffold39_27
+scaffold39_28
+scaffold39_29
+scaffold39_30
+scaffold39_31
+scaffold39_32
+scaffold39_33
+scaffold39_34	K14445
+scaffold39_35
+scaffold39_36
+scaffold39_37
+scaffold39_38
+scaffold39_39	K06911
+scaffold39_40
+scaffold40_1
+scaffold40_2
+scaffold40_3
+scaffold40_4
+scaffold40_5
+scaffold40_6
+scaffold40_7
+scaffold40_8
+scaffold40_9
+scaffold40_10
+scaffold40_11
+scaffold40_12
+scaffold40_13
+scaffold40_14
+scaffold40_15
+scaffold40_16
+scaffold40_17
+scaffold40_18
+scaffold40_19
+scaffold40_20
+scaffold40_21
+scaffold40_22
+scaffold40_23
+scaffold40_24
+scaffold40_25
+scaffold40_26	K07104
+scaffold40_27
+scaffold40_28
+scaffold40_29
+scaffold40_30
+scaffold40_31
+scaffold40_32
+scaffold40_33	K00059
+scaffold40_34
+scaffold40_35
+scaffold40_36
+scaffold40_37	K15336
+scaffold40_38
+scaffold40_39
+scaffold40_40
+scaffold40_41
+scaffold40_42	K01735
+scaffold40_43
+scaffold41_1
+scaffold41_2
+scaffold41_3
+scaffold41_4
+scaffold41_5
+scaffold41_6
+scaffold41_7
+scaffold41_8
+scaffold41_9
+scaffold41_10
+scaffold41_11
+scaffold41_12
+scaffold41_13
+scaffold41_14
+scaffold41_15
+scaffold41_16
+scaffold41_17
+scaffold41_18	K02674
+scaffold41_19
+scaffold41_20
+scaffold42_1
+scaffold42_2
+scaffold42_3
+scaffold42_4
+scaffold42_5
+scaffold42_6
+scaffold42_7	K07114
+scaffold42_8	K07114
+scaffold42_9	K07114
+scaffold42_10
+scaffold42_11	K07114
+scaffold42_12
+scaffold43_1
+scaffold43_2
+scaffold43_3	K01803
+scaffold43_4	K00927
+scaffold43_5	K00134
+scaffold43_6
+scaffold43_7	K09933
+scaffold43_8
+scaffold43_9	K01480
+scaffold43_10
+scaffold43_11	K03696
+scaffold43_12	K03501
+scaffold43_13
+scaffold43_14
+scaffold43_15
+scaffold43_16
+scaffold43_17	K02470
+scaffold43_18
+scaffold43_19
+scaffold43_20
+scaffold43_21
+scaffold44_1
+scaffold44_2	K03116
+scaffold44_3	K03685
+scaffold44_4	K00566
+scaffold44_5	K04487
+scaffold44_6
+scaffold44_7
+scaffold44_8
+scaffold44_9
+scaffold44_10
+scaffold44_11
+scaffold44_12
+scaffold44_13	K16089
+scaffold44_14
+scaffold44_15
+scaffold44_16
+scaffold44_17	K02035
+scaffold44_18
+scaffold44_19
+scaffold44_20
+scaffold44_21
+scaffold44_22
+scaffold44_23
+scaffold44_24
+scaffold44_25
+scaffold44_26
+scaffold44_27	K06199
+scaffold44_28	K06199
+scaffold44_29
+scaffold44_30
+scaffold44_31	K02348
+scaffold44_32	K01800
+scaffold44_33	K16171
+scaffold44_34
+scaffold44_35
+scaffold44_36	K04771
+scaffold44_37	K02341
+scaffold44_38
+scaffold44_39	K01874
+scaffold44_40
+scaffold44_41	K03424
+scaffold44_42
+scaffold44_43
+scaffold44_44	K01990
+scaffold44_45	K01992
+scaffold44_46
+scaffold44_47
+scaffold44_48
+scaffold44_49
+scaffold44_50
+scaffold44_51
+scaffold44_52
+scaffold44_53	K01055
+scaffold44_54
+scaffold44_55
+scaffold44_56	K02939
+scaffold44_57	K02990
+scaffold44_58
+scaffold44_59	K01056
+scaffold44_60	K02897
+scaffold44_61
+scaffold44_62
+scaffold44_63
+scaffold44_64
+scaffold44_65
+scaffold44_66
+scaffold44_67
+scaffold44_68	K12410
+scaffold44_69
+scaffold44_70
+scaffold44_71
+scaffold44_72
+scaffold44_73	K03704
+scaffold44_74
+scaffold44_75
+scaffold44_76
+scaffold44_77
+scaffold44_78
+scaffold44_79
+scaffold44_80
+scaffold44_81
+scaffold44_82
+scaffold44_83
+scaffold44_84	K06950
+scaffold44_85
+scaffold44_86
+scaffold44_87
+scaffold44_88
+scaffold44_89
+scaffold44_90	K07566
+scaffold44_91	K13049
+scaffold44_92	K01142
+scaffold44_93
+scaffold44_94	K01724
+scaffold44_95
+scaffold44_96	K01724
+scaffold44_97
+scaffold44_98
+scaffold44_99
+scaffold44_100
+scaffold44_101
+scaffold44_102	K15256
+scaffold44_103
+scaffold44_104
+scaffold44_105
+scaffold44_106	K11381
+scaffold44_107	K06975
+scaffold44_108	K15738
+scaffold44_109
+scaffold44_110
+scaffold44_111
+scaffold44_112
+scaffold44_113
+scaffold44_114
+scaffold44_115	K01869
+scaffold44_116
+scaffold44_117
+scaffold44_118
+scaffold44_119
+scaffold44_120	K07040
+scaffold44_121	K02911
+scaffold44_122	K01808
+scaffold44_123	K07738
+scaffold44_124	K11752
+scaffold44_125	K00793
+scaffold44_126	K14652
+scaffold44_127	K00794
+scaffold44_128	K03625
+scaffold44_129
+scaffold44_130
+scaffold44_131
+scaffold44_132
+scaffold44_133
+scaffold44_134
+scaffold44_135
+scaffold44_136
+scaffold44_137
+scaffold44_138	K02556
+scaffold44_139	K02557
+scaffold44_140
+scaffold44_141
+scaffold44_142
+scaffold44_143
+scaffold44_144
+scaffold44_145	K10914
+scaffold44_146	K11731
+scaffold44_147	K00283
+scaffold44_148	K03496
+scaffold44_149
+scaffold44_150
+scaffold44_151
+scaffold44_152	K01809
+scaffold44_153
+scaffold44_154	K01919
+scaffold44_155
+scaffold44_156
+scaffold44_157	K08309
+scaffold44_158	K00773
+scaffold44_159	K07301
+scaffold44_160
+scaffold44_161	K12132
+scaffold44_162
+scaffold45_1
+scaffold45_2
+scaffold45_3	K03924
+scaffold45_4
+scaffold45_5	K00995
+scaffold45_6
+scaffold45_7
+scaffold45_8	K01647
+scaffold45_9	K01966
+scaffold45_10	K00703
+scaffold45_11	K00965
+scaffold45_12
+scaffold45_13
+scaffold45_14
+scaffold45_15
+scaffold45_16
+scaffold45_17
+scaffold45_18
+scaffold45_19	K06890
+scaffold45_20
+scaffold45_21	K03561
+scaffold45_22	K03559
+scaffold45_23
+scaffold45_24
+scaffold45_25
+scaffold45_26	K09931
+scaffold45_27	K10914
+scaffold45_28	K11754
+scaffold45_29
+scaffold45_30
+scaffold45_31
+scaffold45_32
+scaffold45_33	K00507
+scaffold45_34
+scaffold45_35
+scaffold45_36	K14162
+scaffold45_37	K14161
+scaffold45_38	K03553
+scaffold45_39	K16703
+scaffold45_40	K01784
+scaffold45_41
+scaffold45_42
+scaffold45_43
+scaffold45_44	K07263
+scaffold45_45
+scaffold45_46
+scaffold45_47
+scaffold45_48	K15580
+scaffold45_49	K15581
+scaffold45_50	K15582
+scaffold45_51	K15583
+scaffold45_52	K10823
+scaffold45_53
+scaffold45_54	K03701
+scaffold45_55
+scaffold45_56
+scaffold45_57
+scaffold45_58
+scaffold45_59	K03657
+scaffold45_60	K03495
+scaffold45_61	K02315
+scaffold45_62	K07042
+scaffold45_63	K07037
+scaffold45_64
+scaffold45_65
+scaffold45_66
+scaffold45_67
+scaffold45_68	K01665
+scaffold45_69	K00826
+scaffold45_70	K01658
+scaffold45_71
+scaffold45_72
+scaffold45_73
+scaffold45_74
+scaffold45_75
+scaffold45_76
+scaffold45_77	K01507
+scaffold45_78
+scaffold45_79
+scaffold45_80	K00537
+scaffold45_81
+scaffold45_82
+scaffold45_83
+scaffold45_84
+scaffold45_85	K08680
+scaffold45_86	K03856
+scaffold45_87	K01911
+scaffold45_88
+scaffold45_89	K02548
+scaffold45_90	K02551
+scaffold45_91	K02552
+scaffold45_92	K01661
+scaffold45_93
+scaffold45_94	K07226
+scaffold45_95
+scaffold45_96
+scaffold45_97
+scaffold45_98
+scaffold45_99	K07098
+scaffold45_100	K06197
+scaffold45_101
+scaffold45_102
+scaffold45_103
+scaffold45_104	K07462
+scaffold45_105	K03074
+scaffold45_106	K03072
+scaffold45_107	K03210
+scaffold45_108	K00773
+scaffold45_109	K07568
+scaffold45_110
+scaffold45_111
+scaffold45_112
+scaffold45_113
+scaffold45_114
+scaffold45_115
+scaffold45_116	K06158
+scaffold45_117
+scaffold45_118
+scaffold45_119
+scaffold45_120
+scaffold45_121
+scaffold45_122	K01784
+scaffold45_123
+scaffold45_124	K12132
+scaffold45_125	K12132
+scaffold45_126	K03698
+scaffold45_127	K03969
+scaffold45_128
+scaffold45_129	K03547
+scaffold45_130	K03546
+scaffold45_131	K00966
+scaffold45_132	K03969
+scaffold45_133
+scaffold45_134	K12132
+scaffold45_135
+scaffold45_136	K05396
+scaffold45_137	K01104
+scaffold45_138	K01159
+scaffold45_139	K03550
+scaffold45_140	K03551
+scaffold45_141	K01495
+scaffold45_142	K00384
+scaffold45_143	K01961
+scaffold45_144
+scaffold45_145	K01925
+scaffold45_146	K01924
+scaffold45_147
+scaffold45_148
+scaffold45_149
+scaffold45_150	K04765
+scaffold45_151
+scaffold45_152
+scaffold45_153	K06217
+scaffold45_154
+scaffold45_155
+scaffold45_156	K12132
+scaffold45_157
+scaffold45_158
+scaffold45_159
+scaffold45_160
+scaffold45_161
+scaffold45_162
+scaffold45_163
+scaffold45_164
+scaffold45_165	K07052
+scaffold45_166
+scaffold45_167	K06925
+scaffold45_168	K12132
+scaffold45_169
+scaffold45_170
+scaffold45_171
+scaffold45_172	K00760
+scaffold45_173	K00857
+scaffold45_174
+scaffold45_175
+scaffold45_176	K01778
+scaffold45_177
+scaffold45_178	K01897
+scaffold45_179
+scaffold46_1
+scaffold46_2
+scaffold46_3	K01975
+scaffold46_4	K03742
+scaffold46_5	K12132
+scaffold46_6
+scaffold46_7	K03222
+scaffold46_8
+scaffold46_9
+scaffold46_10	K03224
+scaffold46_11
+scaffold46_12
+scaffold46_13
+scaffold46_14
+scaffold46_15	K04088
+scaffold46_16	K04087
+scaffold46_17
+scaffold47_1
+scaffold47_2
+scaffold47_3
+scaffold47_4	K05979
+scaffold47_5	K03817
+scaffold47_6
+scaffold47_7
+scaffold47_8
+scaffold47_9
+scaffold47_10
+scaffold47_11
+scaffold47_12
+scaffold47_13	K02433
+scaffold48_1
+scaffold48_2	K12511
+scaffold48_3	K12510
+scaffold48_4	K02283
+scaffold48_5	K02280
+scaffold48_6	K02279
+scaffold48_7	K00091
+scaffold48_8	K07023
+scaffold48_9	K00457
+scaffold48_10	K02044
+scaffold48_11	K02042
+scaffold48_12
+scaffold48_13	K00091
+scaffold48_14
+scaffold48_15
+scaffold48_16	K03215
+scaffold48_17	K12132
+scaffold48_18
+scaffold48_19
+scaffold48_20	K10742
+scaffold48_21
+scaffold48_22
+scaffold48_23
+scaffold48_24	K03594
+scaffold48_25
+scaffold48_26	K03744
+scaffold48_27
+scaffold48_28
+scaffold48_29	K00925
+scaffold48_30
+scaffold48_31
+scaffold48_32
+scaffold48_33	K03453
+scaffold48_34
+scaffold48_35
+scaffold48_36
+scaffold48_37
+scaffold48_38
+scaffold49_1	K03601
+scaffold49_2
+scaffold49_3	K04773
+scaffold49_4	K03676
+scaffold49_5
+scaffold49_6
+scaffold49_7
+scaffold49_8	K04075
+scaffold49_9	K03798
+scaffold49_10	K00796
+scaffold49_11	K18672
+scaffold49_12
+scaffold49_13	K03431
+scaffold49_14	K03474
+scaffold49_15	K17758
+scaffold49_15	K17759
+scaffold49_16
+scaffold49_17
+scaffold49_18
+scaffold49_19	K06940
+scaffold49_20
+scaffold49_21	K03634
+scaffold49_22
+scaffold49_23
+scaffold49_24
+scaffold49_25
+scaffold49_26	K00184
+scaffold49_27	K00185
+scaffold49_28
+scaffold49_29
+scaffold49_30
+scaffold49_31
+scaffold49_32	K02275
+scaffold49_33	K02274
+scaffold49_34	K02276
+scaffold49_35
+scaffold49_36	K02257
+scaffold49_37	K02258
+scaffold49_38
+scaffold49_39	K14998
+scaffold49_40
+scaffold49_41	K00759
+scaffold49_42	K03787
+scaffold49_43
+scaffold49_44
+scaffold49_45
+scaffold49_46
+scaffold49_47	K03924
+scaffold49_48
+scaffold49_49
+scaffold49_50
+scaffold49_51
+scaffold49_52
+scaffold49_53	K12132
+scaffold49_54	K12132
+scaffold49_55
+scaffold49_56
+scaffold49_57
+scaffold49_58
+scaffold49_59
+scaffold49_60
+scaffold49_61	K00765
+scaffold49_62	K02502
+scaffold49_63
+scaffold49_64	K03469
+scaffold49_65	K03924
+scaffold49_66
+scaffold49_67
+scaffold49_68	K07114
+scaffold49_69	K07114
+scaffold49_70
+scaffold50_1
+scaffold50_2
+scaffold50_3	K07124
+scaffold50_4
+scaffold50_5
+scaffold50_6	K03652
+scaffold50_7	K00275
+scaffold50_8	K09792
+scaffold50_9	K15862
+scaffold50_10
+scaffold50_11	K00406
+scaffold50_12
+scaffold50_13
+scaffold50_14	K01533
+scaffold50_15
+scaffold50_16
+scaffold50_17
+scaffold50_18
+scaffold50_19	K11068
+scaffold50_20	K03932
+scaffold50_21
+scaffold50_22
+scaffold50_23	K21470
+scaffold50_24
+scaffold50_25
+scaffold50_26
+scaffold50_27	K22719
+scaffold50_28	K09811
+scaffold50_29
+scaffold50_30
+scaffold50_31
+scaffold50_32	K01776
+scaffold50_33
+scaffold50_34
+scaffold50_35
+scaffold50_36
+scaffold50_37
+scaffold50_38	K03046
+scaffold50_39	K03043
+scaffold50_40
+scaffold50_41
+scaffold50_42	K02986
+scaffold50_43
+scaffold50_44
+scaffold50_45
+scaffold50_46
+scaffold50_47	K13924
+scaffold50_48
+scaffold50_49
+scaffold50_50	K02557
+scaffold50_51
+scaffold50_52
+scaffold50_53
+scaffold51_1
+scaffold51_2	K04042
+scaffold51_3	K01488
+scaffold51_4
+scaffold51_5
+scaffold51_6
+scaffold51_7
+scaffold51_8
+scaffold51_9
+scaffold51_10
+scaffold51_11
+scaffold51_12	K12132
+scaffold51_13	K13288
+scaffold51_14	K12132
+scaffold51_15
+scaffold51_16
+scaffold52_1
+scaffold52_2
+scaffold52_3	K00228
+scaffold52_4
+scaffold52_5
+scaffold52_6
+scaffold52_7
+scaffold52_8
+scaffold52_9
+scaffold52_10
+scaffold52_11
+scaffold52_12
+scaffold52_13
+scaffold52_14	K16091
+scaffold52_15
+scaffold52_16
+scaffold52_17	K03427
+scaffold52_18	K01154
+scaffold52_19	K01153
+scaffold52_20
+scaffold52_21	K09781
+scaffold52_22
+scaffold52_23
+scaffold52_24
+scaffold52_25
+scaffold52_26
+scaffold52_27
+scaffold52_28
+scaffold52_29
+scaffold52_30
+scaffold52_31
+scaffold52_32
+scaffold52_33
+scaffold52_34
+scaffold52_35
+scaffold52_36
+scaffold52_37
+scaffold52_38
+scaffold52_39
+scaffold52_40
+scaffold52_41
+scaffold52_42
+scaffold52_43
+scaffold52_44
+scaffold52_45
+scaffold52_46
+scaffold52_47
+scaffold52_48
+scaffold52_49
+scaffold52_50
+scaffold52_51
+scaffold52_52
+scaffold52_53
+scaffold52_54
+scaffold52_55
+scaffold52_56
+scaffold52_57
+scaffold52_58
+scaffold53_1
+scaffold53_2
+scaffold53_3	K00721
+scaffold53_4
+scaffold53_5
+scaffold53_6
+scaffold53_7	K03412
+scaffold53_8	K00575
+scaffold53_9
+scaffold53_10
+scaffold53_11
+scaffold53_12	K06204
+scaffold53_13
+scaffold53_14	K03657
+scaffold53_15	K00030
+scaffold53_16
+scaffold53_17
+scaffold53_18
+scaffold53_19
+scaffold53_20
+scaffold53_21
+scaffold53_22	K15725
+scaffold53_23	K15727
+scaffold53_24	K15726
+scaffold53_25	K01534
+scaffold53_26
+scaffold53_27
+scaffold53_28	K20860
+scaffold53_29
+scaffold53_30
+scaffold53_31
+scaffold53_32
+scaffold53_33
+scaffold53_34
+scaffold53_35
+scaffold53_36
+scaffold53_37
+scaffold53_38	K01991
+scaffold53_39
+scaffold53_40
+scaffold53_41
+scaffold53_42
+scaffold53_43
+scaffold53_44
+scaffold53_45
+scaffold53_46
+scaffold53_47
+scaffold53_48
+scaffold53_49
+scaffold53_50	K00797
+scaffold53_51	K01611
+scaffold53_52	K02347
+scaffold53_53	K11065
+scaffold53_54
+scaffold53_55
+scaffold53_56
+scaffold53_57
+scaffold53_58
+scaffold53_59
+scaffold53_60
+scaffold53_61
+scaffold53_62
+scaffold53_63
+scaffold53_64
+scaffold53_65	K01077
+scaffold53_66
+scaffold53_67	K02879
+scaffold53_68	K03040
+scaffold53_69	K02948
+scaffold53_70	K02952
+scaffold53_71	K02919
+scaffold53_72	K02518
+scaffold53_73	K00939
+scaffold53_74	K03076
+scaffold53_75	K02876
+scaffold53_76	K02907
+scaffold53_77	K02988
+scaffold53_78	K02881
+scaffold53_79	K02933
+scaffold53_80	K02994
+scaffold53_81	K02931
+scaffold53_82	K02895
+scaffold53_83	K02874
+scaffold53_84	K02961
+scaffold53_85	K02904
+scaffold53_86	K02878
+scaffold53_87	K02982
+scaffold53_88	K02890
+scaffold53_89	K02965
+scaffold53_90	K02886
+scaffold53_91	K02892
+scaffold53_92	K02926
+scaffold53_93	K02946
+scaffold53_94	K02355
+scaffold53_95	K02992
+scaffold53_96	K02950
+scaffold53_97
+scaffold53_98
+scaffold53_99
+scaffold53_100	K06147
+scaffold53_101
+scaffold53_102	K01953
+scaffold53_103
+scaffold53_104
+scaffold53_105	K00648
+scaffold53_106
+scaffold53_107
+scaffold53_108
+scaffold53_109
+scaffold53_110
+scaffold53_111
+scaffold54_1
+scaffold54_2
+scaffold54_3	K07305
+scaffold54_4
+scaffold54_5
+scaffold54_6
+scaffold54_7	K00872
+scaffold54_8	K06147
+scaffold54_9
+scaffold54_10
+scaffold54_11
+scaffold54_12
+scaffold54_13
+scaffold54_14
+scaffold54_15
+scaffold54_16	K07012
+scaffold54_17	K19136
+scaffold54_18	K19131
+scaffold54_19	K19132
+scaffold54_20	K15342
+scaffold54_21	K09951
+scaffold54_22
+scaffold54_23
+scaffold54_24
+scaffold54_25
+scaffold54_26
+scaffold54_27
+scaffold54_28
+scaffold54_29	K07061
+scaffold54_30	K19076
+scaffold54_31
+scaffold54_32	K09000
+scaffold54_33
+scaffold54_34
+scaffold54_35
+scaffold54_36
+scaffold54_37
+scaffold54_38
+scaffold54_39
+scaffold54_40
+scaffold54_41
+scaffold54_42
+scaffold54_43
+scaffold54_44
+scaffold54_45	K07038
+scaffold54_46	K06911
+scaffold54_47	K22579
+scaffold54_48	K03926
+scaffold54_49
+scaffold54_50	K18398
+scaffold54_51	K06442
+scaffold54_52
+scaffold54_53
+scaffold54_54
+scaffold54_55	K16053
+scaffold54_56
+scaffold54_57
+scaffold54_58
+scaffold54_59
+scaffold54_60
+scaffold54_61
+scaffold54_62
+scaffold54_63
+scaffold54_64
+scaffold54_65
+scaffold54_66
+scaffold54_67	K00111
+scaffold54_68	K01953
+scaffold54_69
+scaffold54_70
+scaffold54_71	K05304
+scaffold54_72	K07257
+scaffold54_73	K04761
+scaffold54_74	K03782
+scaffold54_75
+scaffold54_76
+scaffold54_77
+scaffold54_78
+scaffold54_79
+scaffold54_80
+scaffold54_81
+scaffold54_82
+scaffold54_83
+scaffold54_84
+scaffold54_85
+scaffold54_86
+scaffold54_87
+scaffold54_88
+scaffold54_89
+scaffold54_90
+scaffold54_91
+scaffold54_92
+scaffold54_93
+scaffold54_94
+scaffold54_95
+scaffold54_96
+scaffold54_97
+scaffold54_98
+scaffold54_99
+scaffold54_100	K09816
+scaffold54_101	K09817
+scaffold54_102	K02077
+scaffold54_103
+scaffold55_1
+scaffold55_2	K07192
+scaffold55_3	K07192
+scaffold55_4
+scaffold55_5
+scaffold55_6	K12574
+scaffold55_7	K03498
+scaffold55_8	K03499
+scaffold55_9
+scaffold55_10	K00971
+scaffold55_11
+scaffold55_12
+scaffold55_13
+scaffold55_14	K01297
+scaffold55_15
+scaffold55_16	K01092
+scaffold55_17
+scaffold55_18
+scaffold55_19
+scaffold55_20	K03640
+scaffold55_21
+scaffold55_22
+scaffold55_23
+scaffold55_24	K01868
+scaffold55_25
+scaffold55_26
+scaffold55_27	K11991
+scaffold55_28
+scaffold55_29
+scaffold55_30
+scaffold55_31
+scaffold55_32	K02346
+scaffold55_33	K07053
+scaffold55_34	K07114
+scaffold55_35
+scaffold55_36
+scaffold55_37
+scaffold55_38
+scaffold55_39	K05802
+scaffold55_40	K01695
+scaffold55_41	K01696
+scaffold55_42
+scaffold55_43
+scaffold55_44
+scaffold55_45	K01299
+scaffold55_46
+scaffold55_47
+scaffold55_48	K15598
+scaffold55_49
+scaffold55_50
+scaffold55_51	K06894
+scaffold55_52
+scaffold55_53
+scaffold55_54
+scaffold55_55	K15876
+scaffold55_56	K03385
+scaffold55_57
+scaffold55_58	K03781
+scaffold55_59
+scaffold55_60
+scaffold55_61
+scaffold55_62	K22349
+scaffold55_63	K22349
+scaffold55_64
+scaffold55_65
+scaffold55_66
+scaffold55_67
+scaffold55_68
+scaffold55_69
+scaffold55_70
+scaffold55_71	K03427
+scaffold55_72
+scaffold55_73
+scaffold55_74
+scaffold55_75
+scaffold55_76
+scaffold55_77
+scaffold55_78
+scaffold55_79
+scaffold55_80	K09927
+scaffold55_81
+scaffold55_82	K01431
+scaffold55_83
+scaffold55_84
+scaffold55_85	K01897
+scaffold55_86	K00091
+scaffold55_87
+scaffold55_88
+scaffold55_89
+scaffold55_90
+scaffold55_91	K03657
+scaffold55_92	K01714
+scaffold55_93	K00215
+scaffold55_94
+scaffold55_95	K02687
+scaffold55_96	K09761
+scaffold55_97	K00948
+scaffold55_98
+scaffold55_99
+scaffold55_100
+scaffold55_101	K03215
+scaffold55_102	K12132
+scaffold55_103
+scaffold55_104	K01474
+scaffold55_105	K01473
+scaffold55_106	K00261
+scaffold55_107
+scaffold55_108
+scaffold55_109
+scaffold55_110	K03088
+scaffold55_111	K00259
+scaffold55_112
+scaffold55_113
+scaffold55_114
+scaffold55_115
+scaffold55_116
+scaffold55_117	K00528
+scaffold55_118
+scaffold55_119
+scaffold55_120
+scaffold55_121
+scaffold55_122	K03724
+scaffold55_123	K06131
+scaffold55_124	K03575
+scaffold55_125
+scaffold55_126	K12132
+scaffold55_127
+scaffold55_128
+scaffold55_129
+scaffold55_130
+scaffold55_131
+scaffold55_132	K07056
+scaffold55_133
+scaffold55_134
+scaffold55_135
+scaffold55_136
+scaffold55_137
+scaffold55_138
+scaffold55_139
+scaffold55_140
+scaffold55_141
+scaffold55_142
+scaffold55_143	K07460
+scaffold55_144	K03470
+scaffold55_145
+scaffold55_146	K02884
+scaffold55_147
+scaffold55_148	K01843
+scaffold55_149	K01066
+scaffold55_150
+scaffold55_151
+scaffold55_152
+scaffold55_153	K03642
+scaffold55_154	K00632
+scaffold55_155	K07516
+scaffold55_156
+scaffold55_157	K07390
+scaffold55_158	K02959
+scaffold55_159	K06960
+scaffold55_160	K02860
+scaffold55_161	K00554
+scaffold55_162	K23239
+scaffold55_163	K00121
+scaffold55_164	K01070
+scaffold55_165
+scaffold55_166
+scaffold55_167
+scaffold55_168
+scaffold55_169	K03703
+scaffold55_170	K03769
+scaffold55_171
+scaffold55_172	K00024
+scaffold55_173	K20074
+scaffold55_174	K09065
+scaffold55_175	K01940
+scaffold55_176	K01438
+scaffold55_177
+scaffold55_178	K22478
+scaffold55_179	K00145
+scaffold55_180	K01755
+scaffold55_181
+scaffold55_182
+scaffold55_183	K02003
+scaffold55_184
+scaffold55_185
+scaffold55_186
+scaffold55_187
+scaffold55_188
+scaffold55_189
+scaffold55_190
+scaffold55_191
+scaffold55_192
+scaffold55_193
+scaffold55_194
+scaffold55_195
+scaffold55_196
+scaffold55_197
+scaffold55_198	K03594
+scaffold55_199
+scaffold55_200
+scaffold55_201
+scaffold55_202
+scaffold55_203
+scaffold55_204
+scaffold55_205
+scaffold55_206
+scaffold55_207	K08764
+scaffold55_208	K04083
+scaffold55_209	K07098
+scaffold55_210	K21071
+scaffold55_211
+scaffold55_212	K01438
+scaffold55_213	K01087
+scaffold55_214	K03885
+scaffold55_215
+scaffold55_216	K07126
+scaffold55_217	K12132
+scaffold55_218
+scaffold55_219
+scaffold55_220
+scaffold55_221
+scaffold55_222
+scaffold55_223	K01951
+scaffold55_224
+scaffold55_225
+scaffold55_226
+scaffold55_227	K00232
+scaffold55_228
+scaffold55_229
+scaffold55_230
+scaffold55_231	K02945
+scaffold55_232	K11741
+scaffold55_233	K02200
+scaffold55_234
+scaffold55_235
+scaffold55_236
+scaffold55_237
+scaffold55_238
+scaffold55_239
+scaffold55_240
+scaffold55_241
+scaffold55_242
+scaffold55_243
+scaffold55_244
+scaffold55_245	K03555
+scaffold55_246
+scaffold55_247
+scaffold55_248	K12132
+scaffold55_249
+scaffold55_250
+scaffold55_251	K03701
+scaffold55_252
+scaffold55_253
+scaffold55_254
+scaffold55_255	K02460
+scaffold55_256	K02459
+scaffold55_257
+scaffold55_258
+scaffold55_259	K02456
+scaffold55_260	K02456
+scaffold55_261	K02455
+scaffold55_262	K02454
+scaffold55_263	K02453
+scaffold55_264	K02452
+scaffold55_265	K07713
+scaffold55_266	K01768
+scaffold55_267	K12132
+scaffold56_1	K06447
+scaffold56_2
+scaffold56_3
+scaffold56_4
+scaffold56_5	K07456
+scaffold56_6
+scaffold56_7
+scaffold56_8
+scaffold56_9
+scaffold56_10
+scaffold56_11
+scaffold56_12
+scaffold56_13
+scaffold56_14
+scaffold56_15
+scaffold56_16	K00389
+scaffold56_17
+scaffold56_18
+scaffold56_19
+scaffold56_20
+scaffold56_21
+scaffold56_22
+scaffold56_23
+scaffold56_24	K03321
+scaffold56_25
+scaffold56_26	K03098
+scaffold56_27
+scaffold56_28
+scaffold56_29
+scaffold56_30
+scaffold56_31	K06876
+scaffold56_32
+scaffold56_33
+scaffold56_34
+scaffold56_35
+scaffold56_36	K23139
+scaffold56_37
+scaffold56_38
+scaffold56_39
+scaffold56_40	K12132
+scaffold56_41
+scaffold56_42
+scaffold56_43
+scaffold56_44	K06889
+scaffold56_45	K12132
+scaffold56_46
+scaffold56_47
+scaffold56_48	K04079
+scaffold56_49
+scaffold56_50	K09862
+scaffold56_51	K07107
+scaffold56_52
+scaffold56_53
+scaffold56_54
+scaffold56_55
+scaffold56_56	K08023
+scaffold56_57
+scaffold56_58
+scaffold56_59	K03885
+scaffold56_60	K00525
+scaffold56_61
+scaffold56_62	K00931
+scaffold56_63
+scaffold56_64
+scaffold56_65	K06204
+scaffold56_66	K02662
+scaffold56_67	K02663
+scaffold56_68	K02664
+scaffold56_69	K02665
+scaffold56_70	K02666
+scaffold56_71
+scaffold56_72	K01897
+scaffold56_73	K04568
+scaffold56_74
+scaffold56_75	K04566
+scaffold56_76
+scaffold56_77
+scaffold56_78
+scaffold57_1
+scaffold57_2
+scaffold57_3	K02314
+scaffold57_4
+scaffold57_5
+scaffold57_6	K00548
+scaffold57_7	K07400
+scaffold57_8	K03317
+scaffold57_9	K03783
+scaffold57_10	K01489
+scaffold57_11	K12132
+scaffold57_12	K00520
+scaffold57_13
+scaffold57_14
+scaffold57_15	K03797
+scaffold57_16	K05516
+scaffold57_17
+scaffold57_18	K03524
+scaffold57_19	K00767
+scaffold57_20
+scaffold57_21
+scaffold57_22
+scaffold57_23	K01843
+scaffold57_24
+scaffold57_25
+scaffold57_26
+scaffold57_27
+scaffold57_28
+scaffold57_29
+scaffold58_1	K01465
+scaffold58_2
+scaffold58_3	K01619
+scaffold58_4	K00128
+scaffold58_5
+scaffold58_6
+scaffold58_7
+scaffold58_8
+scaffold58_9
+scaffold58_10	K09117
+scaffold58_11
+scaffold58_12
+scaffold58_13
+scaffold58_14	K08967
+scaffold58_15
+scaffold58_16
+scaffold58_17	K06969
+scaffold58_18
+scaffold58_19	K07052
+scaffold58_20
+scaffold58_21
+scaffold58_22	K20074
+scaffold58_23
+scaffold58_24
+scaffold58_25
+scaffold58_26
+scaffold58_27
+scaffold58_28
+scaffold58_29	K20074
+scaffold58_30	K13628
+scaffold58_31
+scaffold58_32	K02335
+scaffold58_33	K03564
+scaffold59_1
+scaffold59_2	K05808
+scaffold59_3	K03092
+scaffold59_4
+scaffold59_5
+scaffold59_6
+scaffold59_7
+scaffold59_8
+scaffold59_9
+scaffold59_10	K03924
+scaffold59_11
+scaffold59_12
+scaffold59_13
+scaffold59_14
+scaffold59_15
+scaffold59_16
+scaffold59_17	K12132
+scaffold59_18
+scaffold59_19
+scaffold59_20	K03722
+scaffold59_21
+scaffold59_22	K02342
+scaffold59_23
+scaffold59_24	K03695
+scaffold59_25
+scaffold59_26
+scaffold59_27
+scaffold59_28
+scaffold59_29
+scaffold59_30
+scaffold59_31	K00575
+scaffold59_32	K03408
+scaffold59_33
+scaffold59_34	K03407
+scaffold59_35	K03412
+scaffold59_36
+scaffold59_37
+scaffold59_38
+scaffold59_39
+scaffold59_40
+scaffold59_41	K07071
+scaffold59_42
+scaffold59_43
+scaffold59_44
+scaffold59_45	K03564
+scaffold59_46
+scaffold59_47
+scaffold59_48
+scaffold59_49	K01265
+scaffold59_50
+scaffold59_51
+scaffold59_52	K01886
+scaffold59_53
+scaffold59_54
+scaffold60_1
+scaffold60_2
+scaffold60_3
+scaffold60_4
+scaffold60_5
+scaffold60_6
+scaffold60_7
+scaffold60_8
+scaffold60_9
+scaffold60_10
+scaffold60_11	K04771
+scaffold60_12
+scaffold60_13	K02044
+scaffold60_14	K02041
+scaffold60_15	K02042
+scaffold60_16	K02042
+scaffold60_17
+scaffold60_18
+scaffold60_19	K05595
+scaffold60_20
+scaffold60_21
+scaffold60_22
+scaffold60_23
+scaffold60_24
+scaffold60_25	K00797
+scaffold60_26
+scaffold60_27
+scaffold60_28
+scaffold60_29
+scaffold60_30
+scaffold60_31
+scaffold60_32
+scaffold60_33
+scaffold60_34
+scaffold60_35
+scaffold60_36	K06877
+scaffold60_37
+scaffold60_38
+scaffold60_39
+scaffold60_40
+scaffold60_41
+scaffold60_42
+scaffold60_43
+scaffold60_44
+scaffold60_45
+scaffold60_46
+scaffold60_47
+scaffold60_48
+scaffold60_49
+scaffold60_50
+scaffold60_51
+scaffold60_52	K03924
+scaffold60_53
+scaffold60_54
+scaffold60_55
+scaffold60_56
+scaffold60_57
+scaffold60_58
+scaffold60_59
+scaffold60_60
+scaffold60_61	K22319
+scaffold60_62
+scaffold60_63
+scaffold60_64
+scaffold60_65	K03088
+scaffold60_66
+scaffold60_67
+scaffold60_68	K07233
+scaffold60_69
+scaffold60_70
+scaffold60_71
+scaffold60_72	K01533
+scaffold60_73
+scaffold60_74
+scaffold60_75
+scaffold60_76
+scaffold60_77
+scaffold60_78
+scaffold60_79
+scaffold60_80
+scaffold60_81
+scaffold60_82
+scaffold60_83
+scaffold60_84
+scaffold60_85
+scaffold60_86
+scaffold60_87
+scaffold60_88
+scaffold60_89	K06153
+scaffold60_90
+scaffold60_91
+scaffold60_92	K13821
+scaffold60_93
+scaffold60_94
+scaffold60_95
+scaffold60_96
+scaffold60_97	K04771
+scaffold60_98
+scaffold60_99	K07566
+scaffold60_100
+scaffold60_101	K02909
+scaffold60_102
+scaffold60_103	K03801
+scaffold60_104	K00790
+scaffold60_105	K06885
+scaffold60_106
+scaffold60_107
+scaffold60_108
+scaffold60_109
+scaffold60_110
+scaffold60_111
+scaffold60_112
+scaffold60_113	K13481
+scaffold60_114	K13482
+scaffold60_115	K07402
+scaffold60_116
+scaffold60_117
+scaffold60_118	K22491
+scaffold60_119	K07393
+scaffold60_120
+scaffold60_121
+scaffold60_122
+scaffold60_123
+scaffold60_124	K07391
+scaffold60_125	K12132
+scaffold60_126
+scaffold60_127
+scaffold60_128	K00500
+scaffold60_129
+scaffold60_130
+scaffold60_131
+scaffold60_132
+scaffold60_133
+scaffold60_134
+scaffold60_135	K00626
+scaffold60_136
+scaffold60_137	K00275
+scaffold60_138	K06891
+scaffold60_139	K03694
+scaffold60_140
+scaffold61_1	K02343
+scaffold61_2
+scaffold61_3
+scaffold61_4
+scaffold61_5
+scaffold61_6
+scaffold61_7
+scaffold61_8	K09121
+scaffold61_9	K06898
+scaffold61_10	K06864
+scaffold61_11
+scaffold61_12
+scaffold61_13
+scaffold61_14
+scaffold61_15
+scaffold61_16
+scaffold61_17
+scaffold61_18	K01448
+scaffold61_19	K00989
+scaffold61_20	K02446
+scaffold61_21
+scaffold61_22	K06942
+scaffold61_23
+scaffold61_24
+scaffold61_25	K10217
+scaffold61_26	K15067
+scaffold61_27
+scaffold61_28
+scaffold61_29	K01610
+scaffold61_30
+scaffold61_31
+scaffold61_32
+scaffold61_33
+scaffold61_34
+scaffold61_35
+scaffold61_36
+scaffold61_37	K02653
+scaffold61_38	K00058
+scaffold61_39	K01848
+scaffold61_40
+scaffold61_41	K01961
+scaffold61_42
+scaffold61_43	K00096
+scaffold61_44
+scaffold61_45
+scaffold61_46	K01681
+scaffold61_47
+scaffold61_48
+scaffold61_49
+scaffold61_50
+scaffold61_51
+scaffold61_52
+scaffold61_53	K01958
+scaffold61_54	K10907
+scaffold61_55
+scaffold61_56
+scaffold61_57	K17103
+scaffold61_58
+scaffold61_59	K01692
+scaffold61_60	K00097
+scaffold61_61	K03771
+scaffold61_62	K03769
+scaffold61_63	K03723
+scaffold61_64
+scaffold61_65	K02651
+scaffold61_66
+scaffold61_67	K02278
+scaffold61_68	K03153
+scaffold61_69
+scaffold61_70	K03089
+scaffold61_71	K03101
+scaffold61_72	K01870
+scaffold61_73	K00941
+scaffold61_74
+scaffold61_75
+scaffold61_76
+scaffold61_77
+C835_1
+C875_1
+C907_1
+C937_1	K02005
+C943_1	K02003
+C943_2
+C951_1
+C951_2
+C957_1
+C959_1
+C965_1
+C965_2	K07483
+C965_3
+C991_1
+C991_2
+C991_3
+C997_1
+C997_2	K12132
+C1001_1
+C1001_2	K09022
+C1001_3	K07261
+C1005_1
+C1005_2	K00799
+C1005_3
+C1009_1	K02003
+C1009_2	K02004
+C1009_3
+C1021_1
+C1021_2
+C1035_1
+C1035_2
+C1035_3
+C1035_4
+C1035_5	K12297
+C1035_6
+C1041_1
+C1041_2
+C1041_3
+C1073_1
+C1073_2	K00975
+C1073_3
+C1073_4
+C1073_5	K03593
+C1081_1
+C1081_2	K00817
+C1081_3	K07263
+C1081_4
+C1083_1	K12132
+C1083_2	K03977
+C1083_3	K03595
+C1083_4
+C1083_5
+C1085_1	K12132
+C1085_2
+C1085_3	K01251
+C1085_4
+C1085_5
+C1085_6
+C1091_1
+C1091_2	K22116
+C1091_3
+C1093_1
+C1093_2	K02356
+C1093_3
+C1093_4
+C1093_5
+C1095_1
+C1095_2
+C1095_3
+C1095_4
+C1095_5
+C1095_6
+C1095_7
+C1095_8
+C1095_9
+C1095_10
+C1097_1
+C1097_2	K00942
+C1097_3
+C1097_4
+C1097_5
+C1109_1
+C1109_2
+C1109_3
+C1113_1
+C1113_2
+C1113_3
+C1113_4
+C1113_5
+C1113_6	K12132
+C1125_1
+C1125_2
+C1125_3	K01069
+C1125_4
+C1125_5
+C1125_6
+C1125_7
+C1127_1	K00800
+C1127_2
+C1127_3	K16264
+C1127_4
+C1127_5
+C1127_6
+C1127_7
+C1131_1
+C1131_2
+C1131_3
+C1131_4	K03565
+C1131_5
+C1131_6
+C1131_7
+C1131_8
+C1131_9
+C1131_10	K12132
+C1139_1	K03321
+C1139_2	K06886
+C1139_3	K03381
+C1139_4	K03781
+C1139_5	K09858
+C1139_6
+C1139_7	K00799
+C1139_8	K11927
+C1159_1
+C1159_2
+C1159_3
+C1159_4
+C1159_5
+C1159_6	K03101
+C1159_7
+C1159_8
+C1159_9
+C1165_1
+C1165_2
+C1165_3
+C1165_4
+C1165_5
+C1165_6
+C1165_7	K00662
+C1165_8
+C1169_1
+C1169_2
+C1169_3	K02558
+C1169_4
+C1169_5
+C1169_6
+C1169_7	K06076
+C1169_8
+C1169_9
+C1169_10
+C1169_11
+C1173_1	K12132
+C1173_2
+C1173_3
+C1173_4	K12132
+C1173_5	K12132
+C1173_6
+C1179_1	K12132
+C1179_2	K00673
+C1179_3
+C1179_4
+C1179_5
+C1179_6
+C1179_7	K03631
+C1179_8	K12942
+C1179_9
+C1179_10
+C1187_1
+C1187_2
+C1187_3
+C1187_4	K03088
+C1187_5	K02405
+C1187_6
+C1187_7
+C1187_8
+C1187_9
+C1187_10	K01883
+C1187_11	K02652
+C1189_1
+C1189_2	K03113
+C1189_3
+C1189_4
+C1189_5	K00031
+C1189_6
+C1189_7	K09836
+C1189_8	K10027
+C1189_9	K02291
+C1189_10	K09844
+C1189_11	K09845
+C1189_12	K00769
+C1189_13
+C1189_14
+C1195_1	K12132
+C1195_2
+C1195_3	K12132
+C1195_4	K02970
+C1195_5
+C1195_6
+C1195_7
+C1195_8
+C1195_9
+C1195_10
+C1195_11	K00526
+C1195_12	K18979
+C1195_13	K12132
+C1203_1
+C1203_2
+C1203_3	K06207
+C1203_4
+C1203_5	K07090
+C1203_6	K05366
+C1203_7
+C1203_8	K03924
+C1203_9
+C1203_10
+C1203_11
+C1205_1
+C1205_2
+C1205_3
+C1205_4
+C1205_5
+C1205_6
+C1205_7
+C1205_8
+C1205_9
+C1205_10	K19271
+C1205_11	K01783
+C1205_12	K03500
+C1205_13	K00604
+C1205_14	K01462
+C1205_15
+C1205_16
+C1205_17
+C1205_18	K12132
+C1207_1
+C1207_2
+C1207_3
+C1207_4
+C1207_5
+C1207_6
+C1207_7
+C1207_8
+C1215_1
+C1215_2	K06204
+C1215_3	K05592
+C1215_4
+C1215_5	K15034
+C1215_6	K09768
+C1215_7	K03830
+C1215_8
+C1215_9
+C1215_10
+C1215_11
+C1215_12
+C1215_13
+C1215_14	K09695
+C1215_15	K09694
+C1215_16
+C1219_1
+C1219_2
+C1219_3
+C1219_4
+C1219_5
+C1219_6	K06889
+C1219_7
+C1219_8
+C1219_9	K00261
+C1219_10
+C1219_11
+C1219_12
+C1219_13
+C1219_14
+C1219_15
+C1229_1
+C1229_2	K00762
+C1229_3
+C1229_4
+C1229_5
+C1229_6	K03230
+C1229_7
+C1229_8	K12132
+C1229_9	K03086
+C1229_10
+C1229_11	K04764
+C1229_12	K01890
+C1229_13	K01889
+C1229_14	K02887
+C1229_15	K02916
+C1229_16	K02520
+C1229_17
+C1229_18	K05592
+C1265_1
+C1265_2	K06976
+C1265_3
+C1265_4
+C1265_5
+C1265_6	K00459
+C1265_7	K00627
+C1265_8	K00162
+C1265_9	K00161
+C1265_10
+C1265_11
+C1265_12
+C1265_13	K11645
+C1265_14	K00826
+C1265_15	K00982
+C1265_16
+C1265_17	K00059
+C1265_18
+C1265_19
+C1265_20
+C1265_21
+C1265_22	K03711
+C1265_23
+C1265_24
+C1265_25
+C1273_1
+C1273_2	K01613
+C1273_3
+C1273_4
+C1273_5	K06076
+C1273_6
+C1273_7
+C1273_8
+C1273_9
+C1273_10
+C1273_11
+C1273_12
+C1273_13	K12339
+C1273_14	K03636
+C1273_15	K01738
+C1273_16
+C1273_17
+C1273_18	K03769
+C1273_19	K12132
+C1273_20	K12132
+C1273_21	K04077
+C1273_22	K04078
+C1273_23
+C1275_1
+C1275_2
+C1275_3
+C1275_4
+C1275_5
+C1275_6
+C1275_7
+C1275_8
+C1275_9
+C1275_10	K01887
+C1275_11
+C1275_12
+C1275_13
+C1275_14	K02195
+C1275_15	K02283
+C1275_16
+C1275_17
+C1275_18	K02197
+C1275_19	K02198
+C1275_20
+C1275_21
+C1275_22	K02193
+C1275_23	K02194
+C1275_24
+C1275_25
+C1275_26
+C1287_1
+C1287_2
+C1287_3
+C1287_4	K02906
+C1287_5
+C1287_6
+C1287_7
+C1287_8
+C1287_9	K01951
+C1287_10
+C1287_11
+C1287_12
+C1287_13	K15635
+C1287_14	K01066
+C1287_15	K20656
+C1287_16	K07058
+C1287_17
+C1287_18
+C1287_19
+C1293_1
+C1293_2
+C1293_3
+C1293_4
+C1293_5
+C1293_6
+C1293_7	K01081
+C1293_8	K00507
+C1293_9	K03584
+C1293_10
+C1293_11
+C1293_12
+C1293_13
+C1293_14
+C1293_15	K12132
+C1293_16
+C1293_17
+C1293_18	K04127
+C1293_19	K01892
+C1293_20	K07102
+C1293_21
+C1293_22
+C1293_23
+C1295_1
+C1295_2	K01866
+C1295_3	K18682
+C1295_4	K01934
+C1295_5	K09888
+C1295_6
+C1295_7
+C1295_8
+C1295_9	K07277
+C1295_10	K09800
+C1295_11
+C1295_12
+C1295_13	K02342
+C1295_14
+C1295_15	K03775
+C1295_16
+C1295_17
+C1295_18
+C1295_19	K01754
+C1299_1	K00938
+C1299_2	K00240
+C1299_3	K00239
+C1299_4	K00241
+C1299_5
+C1299_6	K12526
+C1299_7
+C1299_8	K00263
+C1299_9
+C1299_10	K07175
+C1299_11
+C1299_12
+C1299_13	K03559
+C1299_14	K03561
+C1299_15
+C1299_16
+C1299_17
+C1299_18
+C1299_19
+C1299_20
+C1299_21
+C1299_22
+C1301_1	K12132
+C1301_2
+C1301_3
+C1301_4	K07259
+C1301_5
+C1301_6	K04043
+C1301_7
+C1301_8
+C1301_9
+C1301_10
+C1301_11	K01640
+C1301_12	K13787
+C1301_13	K00453
+C1301_14
+C1301_15
+C1301_16
+C1301_17
+C1301_18	K01937
+C1313_1
+C1313_2	K01990
+C1313_3
+C1313_4	K01990
+C1313_5	K01992
+C1313_6
+C1313_7
+C1313_8
+C1313_9	K07234
+C1313_10	K00368
+C1313_11	K07152
+C1313_12
+C1313_13
+C1313_14
+C1313_15	K02003
+C1313_16
+C1313_17
+C1313_18
+C1313_19
+C1313_20
+C1313_21
+C1313_22
+C1313_23	K11753
+C1313_24
+C1313_25	K05366
+C1313_26
+C1313_27
+C1313_28	K15778
+C1313_29
+C1313_30
+C1315_1
+C1315_2	K00981
+C1315_3	K11749
+C1315_4	K14742
+C1315_5	K12132
+C1315_6
+C1315_7
+C1315_8	K03655
+C1315_9	K04066
+C1315_10	K00662
+C1315_11	K03453
+C1315_12
+C1315_13
+C1315_14	K00963
+C1315_15
+C1315_16	K00254
+C1315_17	K06415
+C1315_18	K09786
+C1315_19	K07180
+C1315_20	K10773
+C1315_21	K05606
+C1315_22
+C1315_23
+C1315_24	K02838
+C1315_25	K09903
+C1315_26	K02357
+C1315_27	K02967
+C1315_28
+C1315_29
+C1315_30	K06131
+C1315_31	K01735
+C1317_1	K03696
+C1317_2
+C1317_3	K00969
+C1317_4
+C1317_5
+C1317_6	K03496
+C1317_7	K15777
+C1317_8
+C1317_9
+C1317_10
+C1317_11
+C1317_12
+C1317_13
+C1317_14
+C1317_15
+C1317_16	K04043
+C1317_17
+C1317_18	K00821
+C1317_19	K03667
+C1317_20	K01419
+C1317_21	K03733
+C1317_22	K00951
+C1317_23
+C1317_24
+C1317_25
+C1317_26
+C1325_1
+C1325_2
+C1325_3
+C1325_4	K21903
+C1325_5
+C1325_6	K15725
+C1325_7	K15727
+C1325_8	K15726
+C1325_9	K16264
+C1325_10
+C1325_11
+C1325_12	K19591
+C1325_13
+C1325_14
+C1325_15
+C1325_16	K17686
+C1325_17	K21600
+C1325_18
+C1325_19
+C1325_20	K15372
+C1325_21	K00140
+C1325_22	K01464
+C1325_23	K17723
+C1325_24	K17722
+C1325_25	K03457
+C1325_26
+C1325_27	K01061
+C1325_28	K01575
+C1325_29
+C1325_30
+C1325_31
+C1325_32	K03183
+C1325_33	K00946
+C1325_34
+C1325_35
+C1325_36
+C1325_37	K03686
+C1345_1
+C1345_2
+C1345_3
+C1345_4
+C1345_5	K06178
+C1345_6
+C1345_7	K03183
+C1345_8	K02477
+C1345_9	K02478
+C1345_10
+C1345_11
+C1345_12	K03088
+C1345_13
+C1345_14	K01839
+C1345_15
+C1345_16
+C1345_17
+C1345_18
+C1345_19
+C1345_20	K07502
+C1345_21	K03583
+C1345_22	K03582
+C1345_23	K03581
+C1345_24
+C1345_25	K06218
+C1345_26
+C1345_27	K00243
+C1345_28
+C1345_29
+C1345_30	K21498
+C1345_31	K07334
+C1345_32	K21498
+C1345_33
+C1345_34
+C1345_35
+C1345_36
+C1345_37	K07043
+C1345_38
+C1345_39	K01153
+C1345_40	K01154
+C1345_41	K03427
+C1363_1
+C1363_2
+C1363_3
+C1363_4
+C1363_5
+C1363_6
+C1363_7
+C1363_8
+C1363_9
+C1363_10
+C1363_11
+C1363_12
+C1363_13	K06006
+C1363_14
+C1363_15	K03088
+C1363_16
+C1363_17
+C1363_18
+C1363_19
+C1363_20
+C1363_21	K02470
+C1363_22
+C1363_23
+C1363_24	K02469
+C1363_25	K12132
+C1363_26
+C1363_27	K03118
+C1363_28
+C1363_29
+C1363_30
+C1363_31	K01438
+C1363_32	K01262
+C1363_33
+C1363_34
+C1363_35	K09861
+C1363_36
+C1363_37	K02945
+C1363_38	K01867
+C1363_39	K06969
+C1363_40	K05564
+C1363_41	K05563
+C1363_42	K05562
+C1363_43	K05561
+C1363_44	K05560
+C1363_45	K05559
+C1363_46
+C1363_47	K01897
+C1363_48
+C1363_49	K05844
+C1363_50	K06987
+C1363_51	K01069
+C1363_52
+C1363_53	K06934
+C1365_1
+C1365_2	K00784
+C1365_3	K03797
+C1365_4	K12132
+C1365_5
+C1365_6
+C1365_7
+C1365_8
+C1365_9
+C1365_10
+C1365_11
+C1365_12
+C1365_13
+C1365_14	K01468
+C1365_15	K01712
+C1365_16
+C1365_17
+C1365_18
+C1365_19	K03621
+C1365_20
+C1365_21
+C1365_22
+C1365_23
+C1365_24
+C1365_25	K07003
+C1365_26
+C1365_27
+C1365_28	K00943
+C1365_29
+C1365_30
+C1379_1
+C1379_2	K07798
+C1379_3	K07787
+C1379_4	K01823
+C1379_5	K12132
+C1379_6
+C1379_7	K12132
+C1379_8
+C1379_9
+C1379_10
+C1379_11
+C1379_12
+C1379_13	K00600
+C1379_14
+C1379_15	K04043
+C1379_16
+C1379_17	K03424
+C1379_18	K22132
+C1379_19
+C1379_20	K03596
+C1379_21	K03100
+C1379_22	K00609
+C1379_23	K01956
+C1379_24	K20074
+C1379_25
+C1379_26
+C1379_27	K01689
+C1379_28	K02836
+C1379_29	K09808
+C1379_30	K09810
+C1379_31	K07277
+C1379_32	K06142
+C1379_33
+C1379_34	K00876
+C1379_35	K12132
+C1379_36
+C1379_37
+C1379_38	K01953
+C1379_39
+C1379_40
+C1379_41	K03529
+C1379_42	K03110
+C1379_43
+C1379_44
+C1379_45
+C1379_46
+C1383_1
+C1383_2	K01849
+C1383_3
+C1383_4	K01715
+C1383_5	K00074
+C1383_6	K12132
+C1383_7
+C1383_8	K00974
+C1383_9
+C1383_10
+C1383_11	K05820
+C1383_12
+C1383_13	K01338
+C1383_14	K03624
+C1383_15	K01955
+C1383_16	K03310
+C1383_17
+C1383_18
+C1383_19	K17713
+C1383_20	K03439
+C1383_21
+C1383_22
+C1383_23
+C1383_24
+C1383_25
+C1383_26
+C1383_27	K05786
+C1383_28
+C1383_29
+C1383_30	K06287
+C1383_31	K06997
+C1383_32	K00286
+C1383_33	K04074
+C1383_34
+C1383_35
+C1383_36	K11707
+C1383_37	K11710
+C1383_38	K11708
+C1383_39	K11709
+C1383_40	K03709
+C1383_41
+C1383_42	K01491
+C1383_43	K00605
+C1383_44	K02437
+C1383_45	K00282
+C1383_46	K01810
+C1383_47
+C1383_48	K00873
+C1383_49
+C1383_50
+C1383_51
+C1383_52
+C1383_53
+C1383_54
+C1383_55	K09986
+C1383_56
+C1383_57
+C1383_58
+C1383_59
+C1391_1	K03579
+C1391_2
+C1391_3
+C1391_4
+C1391_5	K02454
+C1391_6
+C1391_7
+C1391_8	K02035
+C1391_9
+C1391_10
+C1391_11	K02337
+C1391_12	K03553
+C1391_13	K02669
+C1391_14
+C1391_15
+C1391_16	K07000
+C1391_17
+C1391_18	K03727
+C1391_19	K04771
+C1391_20
+C1391_21
+C1391_22
+C1391_23
+C1391_24
+C1391_25
+C1391_26
+C1391_27
+C1391_28
+C1391_29	K07305
+C1391_30	K08968
+C1391_31	K01273
+C1391_32
+C1391_33
+C1391_34
+C1391_35
+C1391_36	K18011
+C1391_37
+C1391_38
+C1391_39
+C1391_40	K03075
+C1391_41	K00674
+C1391_42	K10907
+C1391_43
+C1391_44
+C1391_45	K06180
+C1391_46
+C1391_47
+C1391_48
+C1391_49
+C1391_50
+C1391_51
+C1391_52
+C1391_53
+C1391_54	K07636
+C1391_55	K07657
+C1391_56	K00763
+C1391_57
+C1391_58	K01493
+C1391_59
+C1391_60
+C1391_61
+C1391_62
+C1391_63
+C1391_64
+C1391_65
+C1391_66
+C1395_1
+C1395_2	K03602
+C1395_3
+C1395_4
+C1395_5
+C1395_6	K08974
+C1395_7
+C1395_8
+C1395_9
+C1395_10
+C1395_11
+C1395_12	K09005
+C1395_13
+C1395_14
+C1395_15
+C1395_16	K03088
+C1395_17	K03686
+C1395_18
+C1395_19
+C1395_20	K12132
+C1395_21
+C1395_22	K00338
+C1395_23	K00337
+C1395_24	K00336
+C1395_25	K00333
+C1395_26	K00332
+C1395_27	K00331
+C1395_28	K00330
+C1395_29	K01356
+C1395_30
+C1395_31	K03572
+C1395_32	K00791
+C1395_33	K00817
+C1395_34	K00945
+C1395_35
+C1395_36
+C1395_37
+C1395_38	K02945
+C1395_39
+C1395_40
+C1395_41	K01758
+C1395_42	K09800
+C1395_43
+C1395_44	K12132
+C1395_45
+C1395_46	K07051
+C1395_47
+C1395_48	K02528
+C1395_49
+C1395_50
+C1395_51
+C1395_52
+C1395_53
+C1395_54	K14645
+C1395_55
+C1395_56
+C1395_57
+C1395_58
+C1395_59
+C1395_60	K09158
+C1395_61
+C1395_62	K12132
+C1395_63
+C1395_64	K01069
+C1395_65
+C1395_66
+C1395_67	K02066
+C1395_68	K02067
+C1395_69
+C1395_70	K12132
+C1399_1
+C1399_2
+C1399_3
+C1399_4	K01972
+C1399_5
+C1399_6	K09014
+C1399_7	K09013
+C1399_8	K09015
+C1399_9	K11717
+C1399_10	K04488
+C1399_11
+C1399_12
+C1399_13	K11942
+C1399_14	K15738
+C1399_15
+C1399_16
+C1399_17	K00573
+C1399_18	K01104
+C1399_19
+C1399_20
+C1399_21	K14058
+C1399_22
+C1399_23
+C1399_24
+C1399_25
+C1399_26
+C1399_27	K03562
+C1399_28	K03560
+C1399_29
+C1399_30	K03641
+C1399_31	K03640
+C1399_32
+C1399_33
+C1399_34	K06169
+C1399_35	K04773
+C1399_36
+C1399_37
+C1399_38
+C1399_39
+C1399_40	K06889
+C1399_41
+C1399_42	K00029
+C1399_43
+C1399_44
+C1399_45
+C1399_46	K03704
+C1399_47
+C1399_48	K03704
+C1399_49
+C1399_50
+C1399_51
+C1399_52
+C1399_53	K07019
+C1399_54	K03628
+C1399_55
+C1399_56
+C1399_57
+C1399_58
+C1399_59
+C1399_60	K12132
+C1399_61	K07137
+C1399_62
+C1399_63
+C1399_64
+C1399_65
+C1399_66	K03687
+C1399_67
+C1399_68
+C1399_69	K07027
+C1399_70	K03705
+C1399_71	K03687
+C1399_72	K04043
+C1399_73	K03686
+C1403_1	K12132
+C1403_2
+C1403_3
+C1403_4
+C1403_5
+C1403_6
+C1403_7	K00606
+C1403_8	K01918
+C1403_9
+C1403_10	K13770
+C1403_11	K03521
+C1403_12	K03522
+C1403_13
+C1403_14
+C1403_15
+C1403_16
+C1403_17	K07736
+C1403_18
+C1403_19
+C1403_20	K06173
+C1403_21
+C1403_22
+C1403_23	K00133
+C1403_24	K01878
+C1403_25	K01879
+C1403_26	K06178
+C1403_27
+C1403_28
+C1403_29
+C1403_30
+C1403_31
+C1403_32	K06076
+C1403_33
+C1403_34	K00627
+C1403_35
+C1403_36	K01266
+C1403_37	K01921
+C1403_38
+C1403_39	K01885
+C1403_40	K00135
+C1403_41	K07074
+C1403_42	K09919
+C1403_43
+C1403_44
+C1403_45	K04750
+C1403_46
+C1403_47	K03088
+C1403_48
+C1403_49
+C1403_50
+C1403_51
+C1403_52	K15977
+C1403_53
+C1403_54
+C1403_55
+C1403_56	K00459
+C1403_57
+C1403_58
+C1403_59	K10805
+C1403_60
+C1403_61	K06973
+C1403_62
+C1403_63
+C1403_64
+C1403_65	K03060
+C1403_66	K02493
+C1403_67
+C1403_68
+C1403_69
+C1403_70	K01784
+C1403_71
+C1403_72
+C1403_73	K17103
+C1403_74
+C1403_75
+C1403_76
+C1403_77
+C1403_78
+C1403_79
+C1403_80
+C1403_81
+C1403_82
+C1403_83	K14652
+C1403_84	K01782
+C1403_85	K00632
+C1403_86	K00486
+C1403_87	K01556
+C1403_88
+C1403_89	K03392
+C1403_90	K00452
+C1403_91
+C1403_92
+C1403_93
+C1403_94
+C1403_95
+C1403_96	K00615
+C1403_97
+C1403_98	K06168
+C1403_99	K00789
+C1403_100	K02013
+C1403_101	K02015
+C1403_102	K02016
+C1403_103
+C1403_104	K03665
+C1403_105

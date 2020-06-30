@@ -1,0 +1,3859 @@
+B210_scaffold1_1
+B210_scaffold1_2
+B210_scaffold1_3
+B210_scaffold1_4	K01055
+B210_scaffold1_5
+B210_scaffold1_6
+B210_scaffold1_7	K02939
+B210_scaffold1_8	K02990
+B210_scaffold1_9
+B210_scaffold1_10	K01056
+B210_scaffold1_11	K02897
+B210_scaffold1_12
+B210_scaffold1_13
+B210_scaffold1_14
+B210_scaffold1_15
+B210_scaffold1_16
+B210_scaffold1_17
+B210_scaffold1_18
+B210_scaffold1_19
+B210_scaffold1_20	K12410
+B210_scaffold1_21
+B210_scaffold1_22
+B210_scaffold1_23
+B210_scaffold1_24	K03704
+B210_scaffold1_25
+B210_scaffold1_26
+B210_scaffold1_27
+B210_scaffold1_28
+B210_scaffold1_29
+B210_scaffold1_30
+B210_scaffold1_31
+B210_scaffold1_32
+B210_scaffold1_33
+B210_scaffold1_34	K06950
+B210_scaffold1_35
+B210_scaffold1_36
+B210_scaffold1_37
+B210_scaffold1_38
+B210_scaffold1_39	K07566
+B210_scaffold1_40	K13049
+B210_scaffold1_41	K01142
+B210_scaffold1_42
+B210_scaffold1_43	K01724
+B210_scaffold1_44
+B210_scaffold1_45
+B210_scaffold1_46
+B210_scaffold1_47
+B210_scaffold1_48	K11381
+B210_scaffold1_49	K06975
+B210_scaffold1_50
+B210_scaffold1_51
+B210_scaffold1_52
+B210_scaffold1_53	K01869
+B210_scaffold1_54
+B210_scaffold1_55
+B210_scaffold1_56
+B210_scaffold1_57
+B210_scaffold1_58	K07040
+B210_scaffold1_59	K02911
+B210_scaffold1_60	K01808
+B210_scaffold1_61	K07738
+B210_scaffold1_62	K11752
+B210_scaffold1_63	K00793
+B210_scaffold1_64	K14652
+B210_scaffold1_65	K00794
+B210_scaffold1_66	K03625
+B210_scaffold1_67
+B210_scaffold1_68
+B210_scaffold1_69
+B210_scaffold1_70
+B210_scaffold1_71
+B210_scaffold1_72
+B210_scaffold1_73
+B210_scaffold1_74
+B210_scaffold1_75
+B210_scaffold1_76	K02556
+B210_scaffold1_77	K02557
+B210_scaffold1_78
+B210_scaffold1_79
+B210_scaffold1_80
+B210_scaffold1_81
+B210_scaffold1_82	K10914
+B210_scaffold1_83	K11731
+B210_scaffold1_84	K00283
+B210_scaffold1_85	K03496
+B210_scaffold1_86
+B210_scaffold1_87	K01809
+B210_scaffold1_88
+B210_scaffold1_89	K01919
+B210_scaffold1_90
+B210_scaffold1_91	K00329
+B210_scaffold1_91	K00356
+B210_scaffold1_92	K08309
+B210_scaffold1_93	K00773
+B210_scaffold1_94
+B210_scaffold1_95	K12132
+B210_scaffold1_96
+B210_scaffold1_97	K06976
+B210_scaffold1_98
+B210_scaffold1_99
+B210_scaffold1_100
+B210_scaffold1_101	K00459
+B210_scaffold1_102	K00627
+B210_scaffold1_103	K00162
+B210_scaffold1_104	K00161
+B210_scaffold1_105
+B210_scaffold1_106
+B210_scaffold1_107
+B210_scaffold1_108	K11645
+B210_scaffold1_109	K00826
+B210_scaffold1_110	K00982
+B210_scaffold1_111
+B210_scaffold1_112	K00059
+B210_scaffold1_113
+B210_scaffold1_114
+B210_scaffold1_115
+B210_scaffold1_116
+B210_scaffold1_117	K03711
+B210_scaffold1_118
+B210_scaffold1_119
+B210_scaffold1_120	K12132
+B210_scaffold1_121
+B210_scaffold1_122	K12132
+B210_scaffold1_123	K02970
+B210_scaffold1_124
+B210_scaffold1_125
+B210_scaffold1_126
+B210_scaffold1_127
+B210_scaffold1_128
+B210_scaffold1_129
+B210_scaffold1_130	K18979
+B210_scaffold1_131	K12132
+B210_scaffold1_132	K01990
+B210_scaffold1_133
+B210_scaffold1_134	K01990
+B210_scaffold1_135	K01992
+B210_scaffold1_136
+B210_scaffold1_137
+B210_scaffold1_138	K07234
+B210_scaffold1_139
+B210_scaffold1_140
+B210_scaffold1_141
+B210_scaffold1_142
+B210_scaffold1_143
+B210_scaffold1_144	K02003
+B210_scaffold1_145
+B210_scaffold1_146
+B210_scaffold1_147
+B210_scaffold1_148
+B210_scaffold1_149
+B210_scaffold1_150
+B210_scaffold1_151
+B210_scaffold1_152
+B210_scaffold1_153
+B210_scaffold1_154	K11753
+B210_scaffold1_155
+B210_scaffold1_156	K05366
+B210_scaffold1_157
+B210_scaffold1_158
+B210_scaffold1_159	K15778
+B210_scaffold1_160
+B210_scaffold1_161
+B210_scaffold1_162
+B210_scaffold1_163
+B210_scaffold1_164
+B210_scaffold1_165
+B210_scaffold1_166
+B210_scaffold1_167
+B210_scaffold1_168
+B210_scaffold1_169
+B210_scaffold1_170	K01887
+B210_scaffold1_171
+B210_scaffold1_172
+B210_scaffold1_173
+B210_scaffold1_174	K02195
+B210_scaffold1_175	K02283
+B210_scaffold1_176
+B210_scaffold1_177
+B210_scaffold1_178	K02197
+B210_scaffold1_179	K02198
+B210_scaffold1_180
+B210_scaffold1_181
+B210_scaffold1_182	K02193
+B210_scaffold1_183	K02194
+B210_scaffold1_184
+B210_scaffold1_185
+B210_scaffold1_186
+B210_scaffold1_187	K12511
+B210_scaffold1_188	K12510
+B210_scaffold1_189	K02283
+B210_scaffold1_190	K02280
+B210_scaffold1_191	K02279
+B210_scaffold1_192	K00091
+B210_scaffold1_193	K07023
+B210_scaffold1_194	K00457
+B210_scaffold1_195	K02044
+B210_scaffold1_196	K02042
+B210_scaffold1_197
+B210_scaffold1_198	K00091
+B210_scaffold1_199
+B210_scaffold1_200
+B210_scaffold1_201	K03215
+B210_scaffold1_202	K12132
+B210_scaffold1_203
+B210_scaffold1_204
+B210_scaffold1_205	K10742
+B210_scaffold1_206
+B210_scaffold1_207
+B210_scaffold1_208
+B210_scaffold1_209	K03594
+B210_scaffold1_210
+B210_scaffold1_211	K03744
+B210_scaffold1_212	K00925
+B210_scaffold1_213
+B210_scaffold1_214
+B210_scaffold1_215
+B210_scaffold1_216	K03453
+B210_scaffold1_217
+B210_scaffold1_218
+B210_scaffold1_219
+B210_scaffold1_220
+B210_scaffold1_221
+B210_scaffold1_222
+B210_scaffold1_223
+B210_scaffold1_224
+B210_scaffold1_225
+B210_scaffold1_226
+B210_scaffold1_227
+B210_scaffold1_228
+B210_scaffold1_229
+B210_scaffold1_230	K01493
+B210_scaffold1_231
+B210_scaffold1_232	K00763
+B210_scaffold1_233	K07657
+B210_scaffold1_234	K07636
+B210_scaffold1_235
+B210_scaffold1_236
+B210_scaffold1_237
+B210_scaffold1_238
+B210_scaffold1_239
+B210_scaffold1_240
+B210_scaffold1_241
+B210_scaffold1_242
+B210_scaffold1_243
+B210_scaffold1_244	K06180
+B210_scaffold1_245
+B210_scaffold1_246
+B210_scaffold1_247	K00674
+B210_scaffold1_248	K03075
+B210_scaffold1_249
+B210_scaffold1_250
+B210_scaffold1_251
+B210_scaffold1_252	K18011
+B210_scaffold1_253
+B210_scaffold1_254
+B210_scaffold1_255
+B210_scaffold1_256
+B210_scaffold1_257	K01273
+B210_scaffold1_258	K08968
+B210_scaffold1_259	K07305
+B210_scaffold1_260
+B210_scaffold1_261
+B210_scaffold1_262
+B210_scaffold1_263
+B210_scaffold1_264
+B210_scaffold1_265
+B210_scaffold1_266	K12132
+B210_scaffold1_267
+B210_scaffold1_268
+B210_scaffold1_269	K04771
+B210_scaffold1_270	K03727
+B210_scaffold1_271
+B210_scaffold1_272	K07000
+B210_scaffold1_273
+B210_scaffold1_274
+B210_scaffold1_275	K02669
+B210_scaffold1_276	K03553
+B210_scaffold1_277	K02337
+B210_scaffold1_278
+B210_scaffold1_279
+B210_scaffold1_280	K02035
+B210_scaffold1_281
+B210_scaffold1_282
+B210_scaffold1_283	K02454
+B210_scaffold1_284
+B210_scaffold1_285
+B210_scaffold1_286
+B210_scaffold1_287	K03579
+B210_scaffold1_288	K04087
+B210_scaffold1_289	K04088
+B210_scaffold1_290
+B210_scaffold1_291	K10914
+B210_scaffold1_292
+B210_scaffold1_293
+B210_scaffold1_294	K02412
+B210_scaffold1_295
+B210_scaffold1_296
+B210_scaffold1_297	K03222
+B210_scaffold1_298
+B210_scaffold1_299	K12132
+B210_scaffold1_300	K03742
+B210_scaffold1_301	K01975
+B210_scaffold1_302
+B210_scaffold1_303
+B210_scaffold1_304	K02110
+B210_scaffold1_305	K02108
+B210_scaffold1_306
+B210_scaffold1_307
+B210_scaffold1_308	K02469
+B210_scaffold1_309	K03088
+B210_scaffold1_310
+B210_scaffold1_311
+B210_scaffold1_312	K02654
+B210_scaffold1_313
+B210_scaffold1_314	K07714
+B210_scaffold1_315
+B210_scaffold1_316
+B210_scaffold1_317
+B210_scaffold1_318	K01873
+B210_scaffold1_319
+B210_scaffold1_320	K12132
+B210_scaffold1_321	K05844
+B210_scaffold1_322
+B210_scaffold1_323	K08972
+B210_scaffold1_324	K10843
+B210_scaffold1_325	K07098
+B210_scaffold1_326
+B210_scaffold1_327
+B210_scaffold1_328	K01937
+B210_scaffold1_329
+B210_scaffold1_330
+B210_scaffold1_331
+B210_scaffold1_332
+B210_scaffold1_333	K00453
+B210_scaffold1_334	K13787
+B210_scaffold1_335	K01640
+B210_scaffold1_336
+B210_scaffold1_337
+B210_scaffold1_338
+B210_scaffold1_339
+B210_scaffold1_340	K04043
+B210_scaffold1_341
+B210_scaffold1_342	K07259
+B210_scaffold1_343
+B210_scaffold1_344
+B210_scaffold1_345	K12132
+B210_scaffold1_346
+B210_scaffold1_347	K00721
+B210_scaffold1_348
+B210_scaffold1_349
+B210_scaffold1_350
+B210_scaffold1_351	K03412
+B210_scaffold1_352	K00575
+B210_scaffold1_353
+B210_scaffold1_354
+B210_scaffold1_355
+B210_scaffold1_356	K06204
+B210_scaffold1_357
+B210_scaffold1_358	K03657
+B210_scaffold1_359	K00030
+B210_scaffold1_360
+B210_scaffold1_361
+B210_scaffold1_362
+B210_scaffold1_363
+B210_scaffold1_364
+B210_scaffold1_365
+B210_scaffold1_366
+B210_scaffold1_367	K20860
+B210_scaffold1_368
+B210_scaffold1_369
+B210_scaffold1_370
+B210_scaffold1_371
+B210_scaffold1_372
+B210_scaffold1_373
+B210_scaffold1_374
+B210_scaffold1_375
+B210_scaffold1_376
+B210_scaffold1_377	K01991
+B210_scaffold1_378
+B210_scaffold1_379
+B210_scaffold1_380
+B210_scaffold1_381
+B210_scaffold1_382
+B210_scaffold1_383
+B210_scaffold1_384
+B210_scaffold1_385
+B210_scaffold1_386
+B210_scaffold1_387
+B210_scaffold1_388
+B210_scaffold1_389	K00797
+B210_scaffold1_390	K01611
+B210_scaffold1_391	K02347
+B210_scaffold1_392	K11065
+B210_scaffold1_393
+B210_scaffold1_394
+B210_scaffold1_395
+B210_scaffold1_396
+B210_scaffold1_397
+B210_scaffold1_398
+B210_scaffold1_399
+B210_scaffold1_400
+B210_scaffold1_401
+B210_scaffold1_402
+B210_scaffold1_403
+B210_scaffold1_404	K01077
+B210_scaffold1_405
+B210_scaffold1_406	K02879
+B210_scaffold1_407	K03040
+B210_scaffold1_408	K02948
+B210_scaffold1_409	K02952
+B210_scaffold1_410	K02919
+B210_scaffold1_411	K02518
+B210_scaffold1_412	K00939
+B210_scaffold1_413	K03076
+B210_scaffold1_414	K02876
+B210_scaffold1_415	K02907
+B210_scaffold1_416	K02988
+B210_scaffold1_417	K02881
+B210_scaffold1_418	K02933
+B210_scaffold1_419	K02994
+B210_scaffold1_420	K02954
+B210_scaffold1_421	K02931
+B210_scaffold1_422	K02895
+B210_scaffold1_423	K02874
+B210_scaffold1_424	K02961
+B210_scaffold1_425	K02904
+B210_scaffold1_426	K02878
+B210_scaffold1_427	K02982
+B210_scaffold1_428	K02890
+B210_scaffold1_429	K02965
+B210_scaffold1_430	K02886
+B210_scaffold1_431	K02892
+B210_scaffold1_432	K02926
+B210_scaffold1_433	K02946
+B210_scaffold1_434	K02355
+B210_scaffold1_435	K02992
+B210_scaffold1_436	K02950
+B210_scaffold1_437
+B210_scaffold1_438
+B210_scaffold1_439
+B210_scaffold1_440
+B210_scaffold1_441
+B210_scaffold1_442	K01953
+B210_scaffold1_443
+B210_scaffold1_444
+B210_scaffold1_445	K00648
+B210_scaffold1_446
+B210_scaffold1_447
+B210_scaffold1_448
+B210_scaffold1_449
+B210_scaffold1_450
+B210_scaffold1_451
+B210_scaffold1_452
+B210_scaffold1_453
+B210_scaffold1_454
+B210_scaffold1_455
+B210_scaffold1_456
+B210_scaffold1_457
+B210_scaffold1_458
+B210_scaffold1_459
+B210_scaffold1_460
+B210_scaffold1_461
+B210_scaffold1_462
+B210_scaffold1_463
+B210_scaffold1_464
+B210_scaffold1_465
+B210_scaffold1_466
+B210_scaffold1_467
+B210_scaffold1_468
+B210_scaffold1_469
+B210_scaffold1_470
+B210_scaffold1_471
+B210_scaffold1_472
+B210_scaffold1_473
+B210_scaffold1_474
+B210_scaffold1_475
+B210_scaffold1_476
+B210_scaffold1_477
+B210_scaffold1_478
+B210_scaffold1_479	K06180
+B210_scaffold1_480
+B210_scaffold1_481	K03216
+B210_scaffold1_482	K07010
+B210_scaffold1_483	K07394
+B210_scaffold1_484
+B210_scaffold1_485	K00077
+B210_scaffold1_486	K06180
+B210_scaffold1_487
+B210_scaffold1_488	K01893
+B210_scaffold1_489	K02259
+B210_scaffold1_490
+B210_scaffold1_491	K05539
+B210_scaffold1_492	K00253
+B210_scaffold1_493	K11259
+B210_scaffold1_494
+B210_scaffold1_495
+B210_scaffold1_496	K06949
+B210_scaffold1_497
+B210_scaffold1_498
+B210_scaffold1_499
+B210_scaffold1_500	K06203
+B210_scaffold1_501
+B210_scaffold1_502
+B210_scaffold1_503
+B210_scaffold1_504	K03824
+B210_scaffold1_505
+B210_scaffold1_506	K01673
+B210_scaffold1_507
+B210_scaffold1_508
+B210_scaffold1_509
+B210_scaffold1_510
+B210_scaffold1_511
+B210_scaffold1_512	K02017
+B210_scaffold1_513	K02018
+B210_scaffold1_514	K02020
+B210_scaffold1_515
+B210_scaffold1_516	K07755
+B210_scaffold1_517
+B210_scaffold1_518
+B210_scaffold1_519
+B210_scaffold1_520
+B210_scaffold1_521
+B210_scaffold1_522
+B210_scaffold1_523
+B210_scaffold1_524	K00799
+B210_scaffold1_525
+B210_scaffold1_526
+B210_scaffold1_527
+B210_scaffold1_528	K11209
+B210_scaffold1_529
+B210_scaffold1_530	K01008
+B210_scaffold1_531	K06917
+B210_scaffold1_532
+B210_scaffold1_533
+B210_scaffold1_534
+B210_scaffold1_535
+B210_scaffold1_536
+B210_scaffold1_537	K06997
+B210_scaffold1_538
+B210_scaffold1_539	K03782
+B210_scaffold1_540	K04761
+B210_scaffold1_541	K13953
+B210_scaffold1_542
+B210_scaffold1_543
+B210_scaffold1_544
+B210_scaffold1_545
+B210_scaffold1_546
+B210_scaffold1_547	K00076
+B210_scaffold1_548
+B210_scaffold1_549
+B210_scaffold1_550
+B210_scaffold1_551
+B210_scaffold1_552
+B210_scaffold1_553
+B210_scaffold1_554
+B210_scaffold1_555
+B210_scaffold1_556
+B210_scaffold1_557	K00525
+B210_scaffold1_558	K00526
+B210_scaffold1_559	K15256
+B210_scaffold1_560
+B210_scaffold1_561
+B210_scaffold1_562
+B210_scaffold1_563
+B210_scaffold1_564
+B210_scaffold1_565
+B210_scaffold1_566
+B210_scaffold1_567	K18939
+B210_scaffold1_568	K03741
+B210_scaffold1_569	K03325
+B210_scaffold1_570
+B210_scaffold1_571	K18236
+B210_scaffold1_572
+B210_scaffold1_573
+B210_scaffold1_574
+B210_scaffold1_575
+B210_scaffold1_576
+B210_scaffold1_577
+B210_scaffold1_578	K09966
+B210_scaffold1_579
+B210_scaffold1_580	K15372
+B210_scaffold1_581	K00140
+B210_scaffold1_582	K01464
+B210_scaffold1_583	K17723
+B210_scaffold1_584	K17722
+B210_scaffold1_585
+B210_scaffold1_586
+B210_scaffold1_587
+B210_scaffold1_588
+B210_scaffold1_589
+B210_scaffold1_590	K00946
+B210_scaffold1_591
+B210_scaffold1_592
+B210_scaffold1_593
+B210_scaffold1_594	K03686
+B210_scaffold1_595	K04043
+B210_scaffold1_596	K03687
+B210_scaffold1_597	K03705
+B210_scaffold1_598	K07027
+B210_scaffold1_599
+B210_scaffold1_600
+B210_scaffold1_601	K03687
+B210_scaffold1_602
+B210_scaffold1_603
+B210_scaffold1_604
+B210_scaffold1_605
+B210_scaffold1_606	K07137
+B210_scaffold1_607	K12132
+B210_scaffold1_608
+B210_scaffold1_609
+B210_scaffold1_610
+B210_scaffold1_611
+B210_scaffold1_612
+B210_scaffold1_613	K03628
+B210_scaffold1_614	K07019
+B210_scaffold1_615
+B210_scaffold1_616
+B210_scaffold1_617
+B210_scaffold1_618
+B210_scaffold1_619	K03704
+B210_scaffold1_620
+B210_scaffold1_621	K03704
+B210_scaffold1_622
+B210_scaffold1_623
+B210_scaffold1_624
+B210_scaffold1_625	K00029
+B210_scaffold1_626
+B210_scaffold1_627	K06889
+B210_scaffold1_628
+B210_scaffold1_629
+B210_scaffold1_630
+B210_scaffold1_631	K04773
+B210_scaffold1_632	K06169
+B210_scaffold1_633
+B210_scaffold1_634
+B210_scaffold1_635	K03640
+B210_scaffold1_636	K03641
+B210_scaffold1_637
+B210_scaffold1_638	K03560
+B210_scaffold1_639	K03562
+B210_scaffold1_640
+B210_scaffold1_641
+B210_scaffold1_642
+B210_scaffold1_643
+B210_scaffold1_644
+B210_scaffold1_645	K14058
+B210_scaffold1_646
+B210_scaffold1_647
+B210_scaffold1_648	K01104
+B210_scaffold1_649	K00573
+B210_scaffold1_650
+B210_scaffold1_651
+B210_scaffold1_652	K15738
+B210_scaffold1_653	K11942
+B210_scaffold1_654
+B210_scaffold1_655
+B210_scaffold1_656	K04488
+B210_scaffold1_657	K11717
+B210_scaffold1_658	K09015
+B210_scaffold1_659	K09013
+B210_scaffold1_660	K09014
+B210_scaffold1_661
+B210_scaffold1_662	K01972
+B210_scaffold1_663
+B210_scaffold1_664
+B210_scaffold1_665	K12132
+B210_scaffold1_666	K03977
+B210_scaffold1_667	K03595
+B210_scaffold1_668
+B210_scaffold1_669
+B210_scaffold1_670	K01990
+B210_scaffold1_671
+B210_scaffold1_672
+B210_scaffold1_673
+B210_scaffold1_674
+B210_scaffold1_675	K01872
+B210_scaffold1_676	K12132
+B210_scaffold1_677
+B210_scaffold1_678
+B210_scaffold1_679	K06941
+B210_scaffold1_680	K00940
+B210_scaffold1_681	K01902
+B210_scaffold1_682	K01903
+B210_scaffold1_683
+B210_scaffold1_684	K01876
+B210_scaffold1_685	K02035
+B210_scaffold1_686	K02033
+B210_scaffold1_687	K02034
+B210_scaffold1_688	K02031
+B210_scaffold1_689	K10823
+B210_scaffold1_690	K02283
+B210_scaffold1_691
+B210_scaffold1_692	K07323
+B210_scaffold1_693
+B210_scaffold1_694	K04773
+B210_scaffold1_695
+B210_scaffold1_696	K05568
+B210_scaffold1_697
+B210_scaffold1_698	K05567
+B210_scaffold1_699
+B210_scaffold1_700
+B210_scaffold1_701	K05571
+B210_scaffold1_702	K05570
+B210_scaffold1_703	K05569
+B210_scaffold1_704
+B210_scaffold1_705
+B210_scaffold1_706
+B210_scaffold1_707	K07661
+B210_scaffold1_708	K01424
+B210_scaffold1_709
+B210_scaffold1_710
+B210_scaffold1_711
+B210_scaffold1_712	K06911
+B210_scaffold1_713	K07444
+B210_scaffold1_714
+B210_scaffold1_715
+B210_scaffold1_716
+B210_scaffold1_717	K03496
+B210_scaffold1_718	K03497
+B210_scaffold1_719
+B210_scaffold1_720	K15977
+B210_scaffold1_721
+B210_scaffold1_722	K21552
+B210_scaffold1_723	K07095
+B210_scaffold1_724
+B210_scaffold1_725
+B210_scaffold1_726
+B210_scaffold1_727	K02355
+B210_scaffold1_728
+B210_scaffold1_729	K03466
+B210_scaffold1_730	K14058
+B210_scaffold1_731
+B210_scaffold1_732	K00343
+B210_scaffold1_733	K00342
+B210_scaffold1_734	K00341
+B210_scaffold1_735	K00340
+B210_scaffold1_736	K00339
+B210_scaffold1_737	K00335
+B210_scaffold1_738
+B210_scaffold1_739
+B210_scaffold1_740
+B210_scaffold1_741
+B210_scaffold1_742
+B210_scaffold1_743
+B210_scaffold1_744	K00262
+B210_scaffold1_745
+B210_scaffold1_746	K04751
+B210_scaffold1_747	K01915
+B210_scaffold1_748
+B210_scaffold1_749	K00384
+B210_scaffold1_750	K06959
+B210_scaffold1_751
+B210_scaffold1_752	K03177
+B210_scaffold1_753	K06881
+B210_scaffold1_754	K02834
+B210_scaffold1_755	K02519
+B210_scaffold1_756
+B210_scaffold1_757
+B210_scaffold1_758	K02600
+B210_scaffold1_759	K09748
+B210_scaffold1_760	K11206
+B210_scaffold1_761
+B210_scaffold1_762	K02492
+B210_scaffold1_763	K01749
+B210_scaffold1_764
+B210_scaffold1_765	K01599
+B210_scaffold1_766	K00231
+B210_scaffold1_767	K01698
+B210_scaffold1_768	K01772
+B210_scaffold1_769	K01845
+B210_scaffold1_770	K06975
+B210_scaffold1_771	K00573
+B210_scaffold1_772
+B210_scaffold1_773
+B210_scaffold1_774
+B210_scaffold1_775
+B210_scaffold1_776
+B210_scaffold1_777	K07386
+B210_scaffold1_778	K07090
+B210_scaffold1_779
+B210_scaffold1_780
+B210_scaffold1_781	K06911
+B210_scaffold1_782	K11741
+B210_scaffold1_783
+B210_scaffold1_784
+B210_scaffold1_785
+B210_scaffold1_786
+B210_scaffold1_787
+B210_scaffold1_788
+B210_scaffold1_789
+B210_scaffold1_790
+B210_scaffold1_791
+B210_scaffold1_792
+B210_scaffold1_793
+B210_scaffold1_794
+B210_scaffold1_795
+B210_scaffold1_796
+B210_scaffold1_797	K03575
+B210_scaffold1_798
+B210_scaffold1_799
+B210_scaffold1_800	K06188
+B210_scaffold1_801
+B210_scaffold1_802
+B210_scaffold1_803
+B210_scaffold1_804
+B210_scaffold1_805
+B210_scaffold1_806
+B210_scaffold1_807
+B210_scaffold1_808
+B210_scaffold1_809
+B210_scaffold1_810
+B210_scaffold1_811	K09744
+B210_scaffold1_812
+B210_scaffold1_813	K12132
+B210_scaffold1_814
+B210_scaffold1_815	K02558
+B210_scaffold1_816
+B210_scaffold1_817
+B210_scaffold1_818
+B210_scaffold1_819	K06076
+B210_scaffold1_820
+B210_scaffold1_821
+B210_scaffold1_822
+B210_scaffold1_823
+B210_scaffold1_824	K00762
+B210_scaffold1_825
+B210_scaffold1_826
+B210_scaffold1_827
+B210_scaffold1_828	K03230
+B210_scaffold1_829
+B210_scaffold1_830	K12132
+B210_scaffold1_831	K03086
+B210_scaffold1_832
+B210_scaffold1_833	K04764
+B210_scaffold1_834
+B210_scaffold1_835	K01890
+B210_scaffold1_836	K01889
+B210_scaffold1_837	K02887
+B210_scaffold1_838	K02916
+B210_scaffold1_839	K02520
+B210_scaffold1_840
+B210_scaffold1_841	K05592
+B210_scaffold1_842
+B210_scaffold1_843
+B210_scaffold1_844	K01613
+B210_scaffold1_845
+B210_scaffold1_846
+B210_scaffold1_847	K06076
+B210_scaffold1_848
+B210_scaffold1_849
+B210_scaffold1_850
+B210_scaffold1_851
+B210_scaffold1_852
+B210_scaffold1_853
+B210_scaffold1_854
+B210_scaffold1_855	K12339
+B210_scaffold1_856	K03636
+B210_scaffold1_857	K01738
+B210_scaffold1_858
+B210_scaffold1_859
+B210_scaffold1_860	K03769
+B210_scaffold1_861	K12132
+B210_scaffold1_862	K12132
+B210_scaffold1_863	K04077
+B210_scaffold1_864	K04078
+B210_scaffold1_865	K00147
+B210_scaffold1_866	K09710
+B210_scaffold1_867	K00783
+B210_scaffold1_868
+B210_scaffold1_869
+B210_scaffold1_870
+B210_scaffold1_871	K00948
+B210_scaffold1_872	K03789
+B210_scaffold1_873	K03978
+B210_scaffold1_874
+B210_scaffold1_875
+B210_scaffold1_876
+B210_scaffold1_877
+B210_scaffold1_878	K00951
+B210_scaffold1_879	K03733
+B210_scaffold1_880	K01419
+B210_scaffold1_881	K03667
+B210_scaffold1_882	K00821
+B210_scaffold1_883
+B210_scaffold1_884	K04043
+B210_scaffold1_885
+B210_scaffold1_886
+B210_scaffold1_887
+B210_scaffold1_888
+B210_scaffold1_889
+B210_scaffold1_890
+B210_scaffold1_891
+B210_scaffold1_892
+B210_scaffold1_893	K15777
+B210_scaffold1_894	K03496
+B210_scaffold1_895
+B210_scaffold1_896
+B210_scaffold1_897	K00969
+B210_scaffold1_898
+B210_scaffold1_899	K03696
+B210_scaffold1_900	K09022
+B210_scaffold1_901
+B210_scaffold1_902
+B210_scaffold1_903	K12132
+B210_scaffold1_904	K00942
+B210_scaffold1_905
+B210_scaffold1_906	K03116
+B210_scaffold1_907	K03685
+B210_scaffold1_908	K00566
+B210_scaffold1_909	K04487
+B210_scaffold1_910
+B210_scaffold1_911
+B210_scaffold1_912
+B210_scaffold1_913
+B210_scaffold1_914
+B210_scaffold1_915
+B210_scaffold1_916
+B210_scaffold1_917
+B210_scaffold1_918
+B210_scaffold1_919
+B210_scaffold1_920
+B210_scaffold1_921	K06199
+B210_scaffold1_922	K06199
+B210_scaffold1_923
+B210_scaffold1_924
+B210_scaffold1_925
+B210_scaffold1_926
+B210_scaffold1_927	K02348
+B210_scaffold1_928	K01800
+B210_scaffold1_929	K16171
+B210_scaffold1_930
+B210_scaffold1_931
+B210_scaffold1_932	K04771
+B210_scaffold1_933	K02341
+B210_scaffold1_934
+B210_scaffold1_935	K01874
+B210_scaffold1_936
+B210_scaffold1_937	K03424
+B210_scaffold1_938
+B210_scaffold1_939
+B210_scaffold1_940	K01990
+B210_scaffold1_941	K01992
+B210_scaffold1_942
+B210_scaffold1_943
+B210_scaffold1_944
+B210_scaffold2_1	K03925
+B210_scaffold2_2	K03438
+B210_scaffold2_3
+B210_scaffold2_4	K03587
+B210_scaffold2_5	K01928
+B210_scaffold2_6	K01929
+B210_scaffold2_7	K01000
+B210_scaffold2_8	K03588
+B210_scaffold2_9	K02563
+B210_scaffold2_10	K00075
+B210_scaffold2_11	K01921
+B210_scaffold2_12	K03589
+B210_scaffold2_13	K03590
+B210_scaffold2_14	K03531
+B210_scaffold2_15	K15396
+B210_scaffold2_16
+B210_scaffold2_17
+B210_scaffold2_18	K02956
+B210_scaffold2_19	K00962
+B210_scaffold2_20
+B210_scaffold2_21
+B210_scaffold2_22
+B210_scaffold2_23	K04084
+B210_scaffold2_24
+B210_scaffold2_25	K04043
+B210_scaffold2_26
+B210_scaffold2_27
+B210_scaffold2_28	K03770
+B210_scaffold2_29	K03569
+B210_scaffold2_30	K03570
+B210_scaffold2_31
+B210_scaffold2_32	K05515
+B210_scaffold2_33	K05837
+B210_scaffold2_34
+B210_scaffold2_35
+B210_scaffold2_36	K00363
+B210_scaffold2_37
+B210_scaffold2_38
+B210_scaffold2_39
+B210_scaffold2_40	K07113
+B210_scaffold2_41	K00616
+B210_scaffold2_42	K01875
+B210_scaffold2_43	K07003
+B210_scaffold2_44	K07447
+B210_scaffold2_45	K07082
+B210_scaffold2_46
+B210_scaffold2_47
+B210_scaffold2_48
+B210_scaffold2_49	K08309
+B210_scaffold2_50
+B210_scaffold2_51
+B210_scaffold2_52
+B210_scaffold2_53	K20074
+B210_scaffold2_54	K04096
+B210_scaffold2_55
+B210_scaffold2_56
+B210_scaffold2_57	K03767
+B210_scaffold2_58
+B210_scaffold2_59
+B210_scaffold2_60
+B210_scaffold2_61
+B210_scaffold2_62
+B210_scaffold2_63	K07588
+B210_scaffold2_64
+B210_scaffold2_65	K01849
+B210_scaffold2_66
+B210_scaffold2_67	K01715
+B210_scaffold2_68	K00074
+B210_scaffold2_69	K12132
+B210_scaffold2_70
+B210_scaffold2_71	K00974
+B210_scaffold2_72
+B210_scaffold2_73
+B210_scaffold2_74	K05820
+B210_scaffold2_75
+B210_scaffold2_76	K01338
+B210_scaffold2_77	K03624
+B210_scaffold2_78	K01955
+B210_scaffold2_79	K03310
+B210_scaffold2_80
+B210_scaffold2_81
+B210_scaffold2_82	K17713
+B210_scaffold2_83	K03439
+B210_scaffold2_84
+B210_scaffold2_85
+B210_scaffold2_86
+B210_scaffold2_87
+B210_scaffold2_88
+B210_scaffold2_89
+B210_scaffold2_90	K05786
+B210_scaffold2_91
+B210_scaffold2_92
+B210_scaffold2_93	K06287
+B210_scaffold2_94	K06997
+B210_scaffold2_95	K00286
+B210_scaffold2_96	K04074
+B210_scaffold2_97
+B210_scaffold2_98
+B210_scaffold2_99	K11707
+B210_scaffold2_100	K11710
+B210_scaffold2_101	K11708
+B210_scaffold2_102	K11709
+B210_scaffold2_103	K03709
+B210_scaffold2_104	K01491
+B210_scaffold2_105	K00605
+B210_scaffold2_106	K02437
+B210_scaffold2_107	K00282
+B210_scaffold2_108	K01810
+B210_scaffold2_109
+B210_scaffold2_110	K00873
+B210_scaffold2_111
+B210_scaffold2_112
+B210_scaffold2_113
+B210_scaffold2_114	K20326
+B210_scaffold2_115
+B210_scaffold2_116
+B210_scaffold2_117	K09986
+B210_scaffold2_118
+B210_scaffold2_119
+B210_scaffold2_120
+B210_scaffold2_121
+B210_scaffold2_122
+B210_scaffold2_123	K01897
+B210_scaffold2_124
+B210_scaffold2_125	K01778
+B210_scaffold2_126
+B210_scaffold2_127
+B210_scaffold2_128	K00857
+B210_scaffold2_129	K00760
+B210_scaffold2_130
+B210_scaffold2_131
+B210_scaffold2_132
+B210_scaffold2_133	K12132
+B210_scaffold2_134	K06925
+B210_scaffold2_135
+B210_scaffold2_136	K07052
+B210_scaffold2_137
+B210_scaffold2_138
+B210_scaffold2_139
+B210_scaffold2_140
+B210_scaffold2_141
+B210_scaffold2_142
+B210_scaffold2_143	K06217
+B210_scaffold2_144
+B210_scaffold2_145
+B210_scaffold2_146	K04765
+B210_scaffold2_147
+B210_scaffold2_148
+B210_scaffold2_149
+B210_scaffold2_150	K01924
+B210_scaffold2_151	K01925
+B210_scaffold2_152
+B210_scaffold2_153	K01961
+B210_scaffold2_154	K00384
+B210_scaffold2_155	K01495
+B210_scaffold2_156	K03551
+B210_scaffold2_157	K03550
+B210_scaffold2_158	K01159
+B210_scaffold2_159	K01104
+B210_scaffold2_160	K05396
+B210_scaffold2_161
+B210_scaffold2_162	K12132
+B210_scaffold2_163
+B210_scaffold2_164	K03969
+B210_scaffold2_165	K00966
+B210_scaffold2_166	K03546
+B210_scaffold2_167	K03547
+B210_scaffold2_168
+B210_scaffold2_169	K03969
+B210_scaffold2_170	K03698
+B210_scaffold2_171	K12132
+B210_scaffold2_172	K12132
+B210_scaffold2_173
+B210_scaffold2_174
+B210_scaffold2_175	K01784
+B210_scaffold2_176
+B210_scaffold2_177
+B210_scaffold2_178
+B210_scaffold2_179
+B210_scaffold2_180
+B210_scaffold2_181	K06158
+B210_scaffold2_182
+B210_scaffold2_183
+B210_scaffold2_184
+B210_scaffold2_185
+B210_scaffold2_186
+B210_scaffold2_187
+B210_scaffold2_188	K07568
+B210_scaffold2_189	K00773
+B210_scaffold2_190	K03210
+B210_scaffold2_191	K03072
+B210_scaffold2_192	K03074
+B210_scaffold2_193	K07462
+B210_scaffold2_194
+B210_scaffold2_195
+B210_scaffold2_196
+B210_scaffold2_197
+B210_scaffold2_198
+B210_scaffold2_199	K07098
+B210_scaffold2_200	K14445
+B210_scaffold2_201
+B210_scaffold2_202	K07226
+B210_scaffold2_203	K06872
+B210_scaffold2_204	K06872
+B210_scaffold2_205	K01661
+B210_scaffold2_206	K02552
+B210_scaffold2_207	K02551
+B210_scaffold2_208	K02548
+B210_scaffold2_209
+B210_scaffold2_210	K01911
+B210_scaffold2_211	K03856
+B210_scaffold2_212	K08680
+B210_scaffold2_213
+B210_scaffold2_214	K00537
+B210_scaffold2_215
+B210_scaffold2_216	K06193
+B210_scaffold2_217
+B210_scaffold2_218	K01507
+B210_scaffold2_219
+B210_scaffold2_220
+B210_scaffold2_221
+B210_scaffold2_222
+B210_scaffold2_223
+B210_scaffold2_224
+B210_scaffold2_225
+B210_scaffold2_226	K00826
+B210_scaffold2_227	K01665
+B210_scaffold2_228
+B210_scaffold2_229
+B210_scaffold2_230
+B210_scaffold2_231
+B210_scaffold2_232	K07037
+B210_scaffold2_233	K07042
+B210_scaffold2_234	K02315
+B210_scaffold2_235	K03495
+B210_scaffold2_236	K03657
+B210_scaffold2_237
+B210_scaffold2_238
+B210_scaffold2_239
+B210_scaffold2_240
+B210_scaffold2_241	K03701
+B210_scaffold2_242
+B210_scaffold2_243	K10823
+B210_scaffold2_244	K15583
+B210_scaffold2_245	K15582
+B210_scaffold2_246	K15581
+B210_scaffold2_247	K15580
+B210_scaffold2_248	K07263
+B210_scaffold2_249
+B210_scaffold2_250
+B210_scaffold2_251
+B210_scaffold2_252	K01784
+B210_scaffold2_253	K16703
+B210_scaffold2_254
+B210_scaffold2_255	K14161
+B210_scaffold2_256	K14162
+B210_scaffold2_257
+B210_scaffold2_258
+B210_scaffold2_259
+B210_scaffold2_260
+B210_scaffold2_261	K11754
+B210_scaffold2_262
+B210_scaffold2_263	K09931
+B210_scaffold2_264
+B210_scaffold2_265
+B210_scaffold2_266
+B210_scaffold2_267	K03559
+B210_scaffold2_268	K03561
+B210_scaffold2_269
+B210_scaffold2_270	K06890
+B210_scaffold2_271
+B210_scaffold2_272
+B210_scaffold2_273
+B210_scaffold2_274
+B210_scaffold2_275
+B210_scaffold2_276
+B210_scaffold2_277
+B210_scaffold2_278	K00965
+B210_scaffold2_279	K00703
+B210_scaffold2_280	K01966
+B210_scaffold2_281	K01647
+B210_scaffold2_282
+B210_scaffold2_283
+B210_scaffold2_284	K00995
+B210_scaffold2_285
+B210_scaffold2_286	K03924
+B210_scaffold2_287
+B210_scaffold2_288
+B210_scaffold2_289
+B210_scaffold2_290
+B210_scaffold2_291
+B210_scaffold2_292	K03110
+B210_scaffold2_293	K03529
+B210_scaffold2_294
+B210_scaffold2_295
+B210_scaffold2_296	K01953
+B210_scaffold2_297
+B210_scaffold2_298
+B210_scaffold2_299	K12132
+B210_scaffold2_300	K00876
+B210_scaffold2_301
+B210_scaffold2_302	K06142
+B210_scaffold2_303	K07277
+B210_scaffold2_304	K09810
+B210_scaffold2_305	K09808
+B210_scaffold2_306	K02836
+B210_scaffold2_307	K01689
+B210_scaffold2_308
+B210_scaffold2_309
+B210_scaffold2_310	K20074
+B210_scaffold2_311	K01956
+B210_scaffold2_312	K00609
+B210_scaffold2_313	K03100
+B210_scaffold2_314	K03596
+B210_scaffold2_315
+B210_scaffold2_316	K22132
+B210_scaffold2_317	K03424
+B210_scaffold2_318
+B210_scaffold2_319	K04043
+B210_scaffold2_320
+B210_scaffold2_321	K00600
+B210_scaffold2_322
+B210_scaffold2_323
+B210_scaffold2_324
+B210_scaffold2_325
+B210_scaffold2_326
+B210_scaffold2_327	K12132
+B210_scaffold2_328
+B210_scaffold2_329	K12132
+B210_scaffold2_330	K01823
+B210_scaffold2_331	K07787
+B210_scaffold2_332	K07798
+B210_scaffold2_333
+B210_scaffold2_334
+B210_scaffold2_335
+B210_scaffold2_336	K07058
+B210_scaffold2_337	K20656
+B210_scaffold2_338
+B210_scaffold2_339	K15635
+B210_scaffold2_340
+B210_scaffold2_341
+B210_scaffold2_342
+B210_scaffold2_343	K01951
+B210_scaffold2_344	K00088
+B210_scaffold2_345
+B210_scaffold2_346
+B210_scaffold2_347
+B210_scaffold2_348
+B210_scaffold2_349
+B210_scaffold2_350	K02906
+B210_scaffold2_351
+B210_scaffold2_352
+B210_scaffold2_353
+B210_scaffold2_354	K02065
+B210_scaffold2_355	K02066
+B210_scaffold2_356	K02066
+B210_scaffold2_357
+B210_scaffold2_358	K02065
+B210_scaffold2_359	K02067
+B210_scaffold2_360
+B210_scaffold2_361	K03100
+B210_scaffold2_362	K18889
+B210_scaffold2_363	K18890
+B210_scaffold2_364	K06213
+B210_scaffold2_365
+B210_scaffold2_366
+B210_scaffold2_367
+B210_scaffold2_368
+B210_scaffold2_369
+B210_scaffold2_370
+B210_scaffold2_371
+B210_scaffold2_372	K07497
+B210_scaffold2_373	K00799
+B210_scaffold2_374
+B210_scaffold2_375	K22317
+B210_scaffold2_376	K22318
+B210_scaffold2_377	K22319
+B210_scaffold2_378	K22320
+B210_scaffold2_379	K00631
+B210_scaffold2_380
+B210_scaffold2_381
+B210_scaffold2_382	K02503
+B210_scaffold2_383	K12405
+B210_scaffold2_384
+B210_scaffold2_385	K00820
+B210_scaffold2_386
+B210_scaffold2_387
+B210_scaffold2_388	K02316
+B210_scaffold2_389	K03086
+B210_scaffold2_390
+B210_scaffold2_391
+B210_scaffold2_392	K01304
+B210_scaffold2_393	K01999
+B210_scaffold2_394	K01999
+B210_scaffold2_395
+B210_scaffold2_396
+B210_scaffold2_397
+B210_scaffold2_398
+B210_scaffold2_399	K16091
+B210_scaffold2_400
+B210_scaffold2_401
+B210_scaffold2_402	K01881
+B210_scaffold2_403	K01591
+B210_scaffold2_404	K03218
+B210_scaffold2_405	K02358
+B210_scaffold2_406	K03073
+B210_scaffold2_407	K02601
+B210_scaffold2_408	K02867
+B210_scaffold2_409	K02863
+B210_scaffold2_410
+B210_scaffold2_411	K02864
+B210_scaffold2_412	K02935
+B210_scaffold2_413
+B210_scaffold2_414
+B210_scaffold2_415	K03088
+B210_scaffold2_416
+B210_scaffold2_417
+B210_scaffold2_418
+B210_scaffold2_419
+B210_scaffold2_420	K08309
+B210_scaffold2_421	K00705
+B210_scaffold2_422
+B210_scaffold2_423
+B210_scaffold2_424
+B210_scaffold2_425
+B210_scaffold2_426	K00943
+B210_scaffold2_427
+B210_scaffold2_428
+B210_scaffold2_429	K07003
+B210_scaffold2_430
+B210_scaffold2_431
+B210_scaffold2_432
+B210_scaffold2_433	K03621
+B210_scaffold2_434
+B210_scaffold2_435
+B210_scaffold2_436
+B210_scaffold2_437	K01712
+B210_scaffold2_438	K01468
+B210_scaffold2_439
+B210_scaffold2_440
+B210_scaffold2_441
+B210_scaffold2_442
+B210_scaffold2_443
+B210_scaffold2_444
+B210_scaffold2_445
+B210_scaffold2_446	K01966
+B210_scaffold2_447
+B210_scaffold2_448	K12132
+B210_scaffold2_449	K03797
+B210_scaffold2_450	K00784
+B210_scaffold2_451	K03564
+B210_scaffold2_452	K02335
+B210_scaffold2_453
+B210_scaffold2_454	K13628
+B210_scaffold2_455
+B210_scaffold2_456
+B210_scaffold2_457
+B210_scaffold2_458
+B210_scaffold2_459
+B210_scaffold2_460
+B210_scaffold2_461	K20074
+B210_scaffold2_462
+B210_scaffold2_463
+B210_scaffold2_464	K07052
+B210_scaffold2_465	K06969
+B210_scaffold2_466
+B210_scaffold2_467
+B210_scaffold2_468	K08967
+B210_scaffold2_469
+B210_scaffold2_470
+B210_scaffold2_471
+B210_scaffold2_472	K09117
+B210_scaffold2_473
+B210_scaffold2_474
+B210_scaffold2_475
+B210_scaffold2_476
+B210_scaffold2_477
+B210_scaffold2_478	K00128
+B210_scaffold2_479	K01619
+B210_scaffold2_480
+B210_scaffold2_481	K01465
+B210_scaffold2_482
+B210_scaffold2_483	K04042
+B210_scaffold2_484	K01488
+B210_scaffold2_485
+B210_scaffold2_486
+B210_scaffold2_487
+B210_scaffold2_488
+B210_scaffold2_489
+B210_scaffold2_490
+B210_scaffold2_491
+B210_scaffold2_492
+B210_scaffold2_493	K12132
+B210_scaffold2_494	K13288
+B210_scaffold2_495	K12132
+B210_scaffold2_496
+B210_scaffold2_497
+B210_scaffold2_498
+B210_scaffold2_499
+B210_scaffold2_500
+B210_scaffold2_501
+B210_scaffold2_502	K02835
+B210_scaffold2_503	K03628
+B210_scaffold2_504
+B210_scaffold2_505	K08301
+B210_scaffold2_506	K00864
+B210_scaffold2_507	K12132
+B210_scaffold2_508
+B210_scaffold2_509
+B210_scaffold2_510
+B210_scaffold2_511
+B210_scaffold2_512
+B210_scaffold2_513
+B210_scaffold2_514	K07112
+B210_scaffold2_515	K07112
+B210_scaffold2_516
+B210_scaffold2_517
+B210_scaffold2_518
+B210_scaffold2_519
+B210_scaffold2_520
+B210_scaffold2_521
+B210_scaffold2_522
+B210_scaffold2_523
+B210_scaffold2_524	K08963
+B210_scaffold2_525	K02434
+B210_scaffold2_526	K02433
+B210_scaffold2_527	K02435
+B210_scaffold2_528
+B210_scaffold2_529
+B210_scaffold2_530
+B210_scaffold2_531
+B210_scaffold2_532	K03817
+B210_scaffold2_533	K05979
+B210_scaffold2_534
+B210_scaffold2_535
+B210_scaffold2_536
+B210_scaffold3_1	K00662
+B210_scaffold3_2	K04066
+B210_scaffold3_3	K03655
+B210_scaffold3_4
+B210_scaffold3_5
+B210_scaffold3_6	K12132
+B210_scaffold3_7	K14742
+B210_scaffold3_8	K11749
+B210_scaffold3_9	K00981
+B210_scaffold3_10
+B210_scaffold3_11	K00963
+B210_scaffold3_12
+B210_scaffold3_13	K17686
+B210_scaffold3_14	K13292
+B210_scaffold3_15	K01736
+B210_scaffold3_16
+B210_scaffold3_17
+B210_scaffold3_18	K04485
+B210_scaffold3_19
+B210_scaffold3_20	K15012
+B210_scaffold3_21	K15011
+B210_scaffold3_22
+B210_scaffold3_23
+B210_scaffold3_24
+B210_scaffold3_25	K12132
+B210_scaffold3_26
+B210_scaffold3_27
+B210_scaffold3_28
+B210_scaffold3_29	K03750
+B210_scaffold3_30
+B210_scaffold3_31
+B210_scaffold3_32	K09808
+B210_scaffold3_33	K12132
+B210_scaffold3_34
+B210_scaffold3_35
+B210_scaffold3_36	K03696
+B210_scaffold3_37
+B210_scaffold3_38
+B210_scaffold3_39	K03642
+B210_scaffold3_40
+B210_scaffold3_41
+B210_scaffold3_42
+B210_scaffold3_43	K01990
+B210_scaffold3_44
+B210_scaffold3_45
+B210_scaffold3_46
+B210_scaffold3_47	K02667
+B210_scaffold3_48	K02668
+B210_scaffold3_49	K02653
+B210_scaffold3_50	K02669
+B210_scaffold3_51	K02652
+B210_scaffold3_52	K01990
+B210_scaffold3_53	K01992
+B210_scaffold3_54	K06178
+B210_scaffold3_55	K06024
+B210_scaffold3_56	K05896
+B210_scaffold3_57	K04763
+B210_scaffold3_58	K00990
+B210_scaffold3_59	K06176
+B210_scaffold3_60
+B210_scaffold3_61
+B210_scaffold3_62	K00928
+B210_scaffold3_63
+B210_scaffold3_64	K12132
+B210_scaffold3_65	K00681
+B210_scaffold3_66	K07220
+B210_scaffold3_67	K03306
+B210_scaffold3_68
+B210_scaffold3_69
+B210_scaffold3_70
+B210_scaffold3_71
+B210_scaffold3_72
+B210_scaffold3_73	K03711
+B210_scaffold3_74	K03593
+B210_scaffold3_75
+B210_scaffold3_76
+B210_scaffold3_77	K00975
+B210_scaffold3_78	K12132
+B210_scaffold3_79	K01768
+B210_scaffold3_80	K07713
+B210_scaffold3_81	K02452
+B210_scaffold3_82	K02453
+B210_scaffold3_83	K02454
+B210_scaffold3_84	K02455
+B210_scaffold3_85	K02456
+B210_scaffold3_86
+B210_scaffold3_87
+B210_scaffold3_88	K02459
+B210_scaffold3_89	K02460
+B210_scaffold3_90
+B210_scaffold3_91
+B210_scaffold3_92
+B210_scaffold3_93	K03701
+B210_scaffold3_94
+B210_scaffold3_95
+B210_scaffold3_96	K12132
+B210_scaffold3_97
+B210_scaffold3_98
+B210_scaffold3_99	K03555
+B210_scaffold3_100
+B210_scaffold3_101
+B210_scaffold3_102
+B210_scaffold3_103
+B210_scaffold3_104
+B210_scaffold3_105
+B210_scaffold3_106
+B210_scaffold3_107
+B210_scaffold3_108
+B210_scaffold3_109
+B210_scaffold3_110	K02200
+B210_scaffold3_111	K02945
+B210_scaffold3_112
+B210_scaffold3_113
+B210_scaffold3_114
+B210_scaffold3_115
+B210_scaffold3_116
+B210_scaffold3_117
+B210_scaffold3_118	K01951
+B210_scaffold3_119
+B210_scaffold3_120
+B210_scaffold3_121
+B210_scaffold3_122
+B210_scaffold3_123	K12132
+B210_scaffold3_124	K07126
+B210_scaffold3_125
+B210_scaffold3_126	K03885
+B210_scaffold3_127	K01087
+B210_scaffold3_128
+B210_scaffold3_129	K21071
+B210_scaffold3_130	K07098
+B210_scaffold3_131	K04083
+B210_scaffold3_132	K08764
+B210_scaffold3_133
+B210_scaffold3_134
+B210_scaffold3_135
+B210_scaffold3_136
+B210_scaffold3_137
+B210_scaffold3_138
+B210_scaffold3_139
+B210_scaffold3_140
+B210_scaffold3_141	K03594
+B210_scaffold3_142
+B210_scaffold3_143
+B210_scaffold3_144
+B210_scaffold3_145
+B210_scaffold3_146
+B210_scaffold3_147
+B210_scaffold3_148
+B210_scaffold3_149
+B210_scaffold3_150
+B210_scaffold3_151
+B210_scaffold3_152
+B210_scaffold3_153
+B210_scaffold3_154
+B210_scaffold3_155	K02003
+B210_scaffold3_156
+B210_scaffold3_157
+B210_scaffold3_158
+B210_scaffold3_159	K01755
+B210_scaffold3_160	K00145
+B210_scaffold3_161
+B210_scaffold3_162	K22478
+B210_scaffold3_163
+B210_scaffold3_164	K01438
+B210_scaffold3_165	K01940
+B210_scaffold3_166	K09065
+B210_scaffold3_167	K20074
+B210_scaffold3_168	K00024
+B210_scaffold3_169	K03769
+B210_scaffold3_170	K03703
+B210_scaffold3_171
+B210_scaffold3_172
+B210_scaffold3_173
+B210_scaffold3_174
+B210_scaffold3_175	K01070
+B210_scaffold3_176	K00121
+B210_scaffold3_177	K23239
+B210_scaffold3_178	K00554
+B210_scaffold3_179	K02860
+B210_scaffold3_180	K06960
+B210_scaffold3_181	K02959
+B210_scaffold3_182	K07390
+B210_scaffold3_183
+B210_scaffold3_184	K07516
+B210_scaffold3_185	K00632
+B210_scaffold3_186	K03642
+B210_scaffold3_187
+B210_scaffold3_188
+B210_scaffold3_189
+B210_scaffold3_190	K01066
+B210_scaffold3_191	K01843
+B210_scaffold3_192
+B210_scaffold3_193	K02884
+B210_scaffold3_194
+B210_scaffold3_195	K03470
+B210_scaffold3_196	K07460
+B210_scaffold3_197
+B210_scaffold3_198
+B210_scaffold3_199
+B210_scaffold3_200
+B210_scaffold3_201
+B210_scaffold3_202
+B210_scaffold3_203
+B210_scaffold3_204
+B210_scaffold3_205
+B210_scaffold3_206
+B210_scaffold3_207
+B210_scaffold3_208	K07056
+B210_scaffold3_209
+B210_scaffold3_210
+B210_scaffold3_211
+B210_scaffold3_212
+B210_scaffold3_213	K12132
+B210_scaffold3_214
+B210_scaffold3_215	K03575
+B210_scaffold3_216	K06131
+B210_scaffold3_217	K03724
+B210_scaffold3_218
+B210_scaffold3_219
+B210_scaffold3_220
+B210_scaffold3_221
+B210_scaffold3_222	K00528
+B210_scaffold3_223
+B210_scaffold3_224
+B210_scaffold3_225
+B210_scaffold3_226
+B210_scaffold3_227
+B210_scaffold3_228	K00259
+B210_scaffold3_229	K03088
+B210_scaffold3_230
+B210_scaffold3_231
+B210_scaffold3_232
+B210_scaffold3_233	K00261
+B210_scaffold3_234	K01473
+B210_scaffold3_235	K01474
+B210_scaffold3_236
+B210_scaffold3_237	K12132
+B210_scaffold3_238	K03215
+B210_scaffold3_239
+B210_scaffold3_240
+B210_scaffold3_241
+B210_scaffold3_242	K00948
+B210_scaffold3_243	K09761
+B210_scaffold3_244	K02687
+B210_scaffold3_245	K00215
+B210_scaffold3_246	K01714
+B210_scaffold3_247	K03657
+B210_scaffold3_248
+B210_scaffold3_249
+B210_scaffold3_250
+B210_scaffold3_251
+B210_scaffold3_252	K00091
+B210_scaffold3_253	K01897
+B210_scaffold3_254
+B210_scaffold3_255
+B210_scaffold3_256	K02806
+B210_scaffold3_257	K03321
+B210_scaffold3_258	K01431
+B210_scaffold3_259
+B210_scaffold3_260
+B210_scaffold3_261
+B210_scaffold3_262
+B210_scaffold3_263	K09927
+B210_scaffold3_264
+B210_scaffold3_265
+B210_scaffold3_266
+B210_scaffold3_267
+B210_scaffold3_268
+B210_scaffold3_269	K07484
+B210_scaffold3_270
+B210_scaffold3_271
+B210_scaffold3_272	K00662
+B210_scaffold3_273
+B210_scaffold3_274
+B210_scaffold3_275	K00769
+B210_scaffold3_276	K09845
+B210_scaffold3_277	K09844
+B210_scaffold3_278	K02291
+B210_scaffold3_279	K10027
+B210_scaffold3_280	K09836
+B210_scaffold3_281
+B210_scaffold3_282	K00031
+B210_scaffold3_283
+B210_scaffold3_284
+B210_scaffold3_285	K03113
+B210_scaffold3_286
+B210_scaffold3_287
+B210_scaffold3_288	K06886
+B210_scaffold3_289	K03781
+B210_scaffold3_290	K09858
+B210_scaffold3_291
+B210_scaffold3_292	K00799
+B210_scaffold3_293	K11927
+B210_scaffold3_294	K07032
+B210_scaffold3_295
+B210_scaffold3_296
+B210_scaffold3_297
+B210_scaffold3_298
+B210_scaffold3_299	K00243
+B210_scaffold3_300
+B210_scaffold3_301
+B210_scaffold3_302
+B210_scaffold3_303
+B210_scaffold3_304
+B210_scaffold3_305
+B210_scaffold3_306
+B210_scaffold3_307
+B210_scaffold3_308	K09768
+B210_scaffold3_309	K03321
+B210_scaffold3_310	K15034
+B210_scaffold3_311
+B210_scaffold3_312	K05592
+B210_scaffold3_313	K06204
+B210_scaffold3_314
+B210_scaffold3_315
+B210_scaffold3_316
+B210_scaffold3_317
+B210_scaffold3_318
+B210_scaffold3_319
+B210_scaffold3_320	K03665
+B210_scaffold3_321	K03651
+B210_scaffold3_322
+B210_scaffold3_323
+B210_scaffold3_324
+B210_scaffold3_325
+B210_scaffold3_326
+B210_scaffold3_327
+B210_scaffold3_328
+B210_scaffold3_329
+B210_scaffold3_330
+B210_scaffold3_331
+B210_scaffold3_332
+B210_scaffold3_333
+B210_scaffold3_334
+B210_scaffold3_335
+B210_scaffold3_336
+B210_scaffold3_337
+B210_scaffold3_338
+B210_scaffold3_339
+B210_scaffold3_340
+B210_scaffold3_341
+B210_scaffold3_342
+B210_scaffold3_343
+B210_scaffold3_344
+B210_scaffold3_345
+B210_scaffold3_346
+B210_scaffold3_347
+B210_scaffold3_348	K02356
+B210_scaffold3_349
+B210_scaffold3_350
+B210_scaffold3_351
+B210_scaffold3_352
+B210_scaffold3_353	K01251
+B210_scaffold3_354	K12132
+B210_scaffold3_355
+B210_scaffold3_356
+B210_scaffold3_357
+B210_scaffold3_358	K02557
+B210_scaffold3_359
+B210_scaffold3_360
+B210_scaffold3_361	K13924
+B210_scaffold3_362
+B210_scaffold3_363
+B210_scaffold3_364
+B210_scaffold3_365
+B210_scaffold3_366	K02986
+B210_scaffold3_367
+B210_scaffold3_368
+B210_scaffold3_369	K03043
+B210_scaffold3_370	K03046
+B210_scaffold3_371
+B210_scaffold3_372	K09880
+B210_scaffold3_373
+B210_scaffold3_374
+B210_scaffold3_375
+B210_scaffold3_376	K01776
+B210_scaffold3_377
+B210_scaffold3_378
+B210_scaffold3_379
+B210_scaffold3_380
+B210_scaffold3_381	K22719
+B210_scaffold3_382
+B210_scaffold3_383
+B210_scaffold3_384
+B210_scaffold3_385	K21470
+B210_scaffold3_386
+B210_scaffold3_387
+B210_scaffold3_388	K03932
+B210_scaffold3_389	K11068
+B210_scaffold3_390
+B210_scaffold3_391
+B210_scaffold3_392
+B210_scaffold3_393
+B210_scaffold3_394	K01533
+B210_scaffold3_395
+B210_scaffold3_396
+B210_scaffold3_397	K00406
+B210_scaffold3_398
+B210_scaffold3_399	K15862
+B210_scaffold3_400	K09792
+B210_scaffold3_401	K00275
+B210_scaffold3_402	K03652
+B210_scaffold3_403
+B210_scaffold3_404
+B210_scaffold3_405	K07124
+B210_scaffold3_406
+B210_scaffold3_407
+B210_scaffold3_408
+B210_scaffold3_409
+B210_scaffold3_410
+B210_scaffold3_411
+B210_scaffold3_412	K01081
+B210_scaffold3_413	K00507
+B210_scaffold3_414	K03584
+B210_scaffold3_415
+B210_scaffold3_416
+B210_scaffold3_417
+B210_scaffold3_418
+B210_scaffold3_419
+B210_scaffold3_420
+B210_scaffold3_421
+B210_scaffold3_422
+B210_scaffold4_1
+B210_scaffold4_2
+B210_scaffold4_3
+B210_scaffold4_4
+B210_scaffold4_5
+B210_scaffold4_6
+B210_scaffold4_7	K02343
+B210_scaffold4_8
+B210_scaffold4_9
+B210_scaffold4_10
+B210_scaffold4_11
+B210_scaffold4_12
+B210_scaffold4_13
+B210_scaffold4_14	K09121
+B210_scaffold4_15	K06898
+B210_scaffold4_16	K06864
+B210_scaffold4_17
+B210_scaffold4_18
+B210_scaffold4_19
+B210_scaffold4_20
+B210_scaffold4_21
+B210_scaffold4_22
+B210_scaffold4_23	K01448
+B210_scaffold4_24	K00989
+B210_scaffold4_25	K02446
+B210_scaffold4_26
+B210_scaffold4_27	K06942
+B210_scaffold4_28
+B210_scaffold4_29
+B210_scaffold4_30	K10217
+B210_scaffold4_31	K15067
+B210_scaffold4_32
+B210_scaffold4_33
+B210_scaffold4_34	K01610
+B210_scaffold4_35
+B210_scaffold4_36
+B210_scaffold4_37
+B210_scaffold4_38
+B210_scaffold4_39
+B210_scaffold4_40
+B210_scaffold4_41
+B210_scaffold4_42	K02653
+B210_scaffold4_43	K00058
+B210_scaffold4_44	K01848
+B210_scaffold4_45
+B210_scaffold4_46	K01961
+B210_scaffold4_47
+B210_scaffold4_48	K00096
+B210_scaffold4_49
+B210_scaffold4_50
+B210_scaffold4_51	K03088
+B210_scaffold4_52
+B210_scaffold4_53	K01681
+B210_scaffold4_54
+B210_scaffold4_55
+B210_scaffold4_56
+B210_scaffold4_57
+B210_scaffold4_58
+B210_scaffold4_59
+B210_scaffold4_60	K01958
+B210_scaffold4_61	K10907
+B210_scaffold4_62
+B210_scaffold4_63
+B210_scaffold4_64	K17103
+B210_scaffold4_65
+B210_scaffold4_66	K00097
+B210_scaffold4_67	K03771
+B210_scaffold4_68	K03769
+B210_scaffold4_69	K03723
+B210_scaffold4_70
+B210_scaffold4_71
+B210_scaffold4_72	K02278
+B210_scaffold4_73	K03153
+B210_scaffold4_74
+B210_scaffold4_75	K03089
+B210_scaffold4_76	K03101
+B210_scaffold4_77	K01870
+B210_scaffold4_78	K00941
+B210_scaffold4_79
+B210_scaffold4_80
+B210_scaffold4_81
+B210_scaffold4_82	K12132
+B210_scaffold4_83	K00673
+B210_scaffold4_84
+B210_scaffold4_85
+B210_scaffold4_86
+B210_scaffold4_87
+B210_scaffold4_88	K03631
+B210_scaffold4_89	K12942
+B210_scaffold4_90
+B210_scaffold4_91
+B210_scaffold4_92	K07263
+B210_scaffold4_93	K00817
+B210_scaffold4_94
+B210_scaffold4_95
+B210_scaffold4_96	K02314
+B210_scaffold4_97
+B210_scaffold4_98
+B210_scaffold4_99	K00548
+B210_scaffold4_100	K07400
+B210_scaffold4_101	K03317
+B210_scaffold4_102	K03783
+B210_scaffold4_103	K01489
+B210_scaffold4_104	K12132
+B210_scaffold4_105	K00520
+B210_scaffold4_106
+B210_scaffold4_107
+B210_scaffold4_108
+B210_scaffold4_109
+B210_scaffold4_110	K03797
+B210_scaffold4_111	K05516
+B210_scaffold4_112
+B210_scaffold4_113	K03524
+B210_scaffold4_114	K00767
+B210_scaffold4_115
+B210_scaffold4_116
+B210_scaffold4_117
+B210_scaffold4_118	K01843
+B210_scaffold4_119
+B210_scaffold4_120
+B210_scaffold4_121
+B210_scaffold4_122
+B210_scaffold4_123
+B210_scaffold4_124	K12132
+B210_scaffold4_125
+B210_scaffold4_126
+B210_scaffold4_127
+B210_scaffold4_128
+B210_scaffold4_129
+B210_scaffold4_130	K00606
+B210_scaffold4_131	K01918
+B210_scaffold4_132
+B210_scaffold4_133	K13770
+B210_scaffold4_134	K03521
+B210_scaffold4_135	K03522
+B210_scaffold4_136
+B210_scaffold4_137
+B210_scaffold4_138
+B210_scaffold4_139
+B210_scaffold4_140	K07736
+B210_scaffold4_141
+B210_scaffold4_142
+B210_scaffold4_143	K06173
+B210_scaffold4_144
+B210_scaffold4_145
+B210_scaffold4_146	K00133
+B210_scaffold4_147	K01878
+B210_scaffold4_148	K01879
+B210_scaffold4_149	K06178
+B210_scaffold4_150
+B210_scaffold4_151
+B210_scaffold4_152	K06076
+B210_scaffold4_153	K00627
+B210_scaffold4_154
+B210_scaffold4_155	K01266
+B210_scaffold4_156	K01921
+B210_scaffold4_157
+B210_scaffold4_158	K01885
+B210_scaffold4_159	K00135
+B210_scaffold4_160	K07074
+B210_scaffold4_161	K09919
+B210_scaffold4_162
+B210_scaffold4_163
+B210_scaffold4_164
+B210_scaffold4_165
+B210_scaffold4_166	K04750
+B210_scaffold4_167
+B210_scaffold4_168	K03088
+B210_scaffold4_169
+B210_scaffold4_170
+B210_scaffold4_171	K15977
+B210_scaffold4_172
+B210_scaffold4_173
+B210_scaffold4_174
+B210_scaffold4_175	K00459
+B210_scaffold4_176
+B210_scaffold4_177
+B210_scaffold4_178	K10805
+B210_scaffold4_179
+B210_scaffold4_180	K06973
+B210_scaffold4_181
+B210_scaffold4_182
+B210_scaffold4_183
+B210_scaffold4_184	K03060
+B210_scaffold4_185	K02493
+B210_scaffold4_186
+B210_scaffold4_187
+B210_scaffold4_188
+B210_scaffold4_189	K01784
+B210_scaffold4_190
+B210_scaffold4_191
+B210_scaffold4_192	K17103
+B210_scaffold4_193
+B210_scaffold4_194
+B210_scaffold4_195
+B210_scaffold4_196
+B210_scaffold4_197
+B210_scaffold4_198
+B210_scaffold4_199
+B210_scaffold4_200
+B210_scaffold4_201
+B210_scaffold4_202	K14652
+B210_scaffold4_203	K01782
+B210_scaffold4_204	K00632
+B210_scaffold4_205	K00486
+B210_scaffold4_206	K01556
+B210_scaffold4_207
+B210_scaffold4_208	K03392
+B210_scaffold4_209	K00452
+B210_scaffold4_210
+B210_scaffold4_211
+B210_scaffold4_212
+B210_scaffold4_213
+B210_scaffold4_214
+B210_scaffold4_215	K00615
+B210_scaffold4_216
+B210_scaffold4_217	K06168
+B210_scaffold4_218	K00789
+B210_scaffold4_219	K02013
+B210_scaffold4_220	K02015
+B210_scaffold4_221	K02016
+B210_scaffold4_222
+B210_scaffold4_223	K03665
+B210_scaffold4_224
+B210_scaffold4_225
+B210_scaffold4_226
+B210_scaffold4_227
+B210_scaffold4_228	K06076
+B210_scaffold4_229
+B210_scaffold4_230	K07107
+B210_scaffold4_231	K09862
+B210_scaffold4_232
+B210_scaffold4_233	K04079
+B210_scaffold4_234
+B210_scaffold4_235
+B210_scaffold4_236	K12132
+B210_scaffold4_237	K07104
+B210_scaffold4_238
+B210_scaffold4_239
+B210_scaffold4_240	K12132
+B210_scaffold4_241
+B210_scaffold4_242
+B210_scaffold4_243
+B210_scaffold4_244
+B210_scaffold4_245
+B210_scaffold4_246
+B210_scaffold4_247	K03098
+B210_scaffold4_248
+B210_scaffold4_249
+B210_scaffold4_250
+B210_scaffold4_251
+B210_scaffold4_252
+B210_scaffold4_253
+B210_scaffold4_254
+B210_scaffold4_255
+B210_scaffold4_256
+B210_scaffold4_257
+B210_scaffold4_258
+B210_scaffold4_259
+B210_scaffold4_260
+B210_scaffold4_261
+B210_scaffold4_262	K07456
+B210_scaffold4_263
+B210_scaffold4_264
+B210_scaffold4_265
+B210_scaffold4_266
+B210_scaffold4_267	K06447
+B210_scaffold4_268
+B210_scaffold4_269	K05808
+B210_scaffold4_270	K03092
+B210_scaffold4_271
+B210_scaffold4_272
+B210_scaffold4_273
+B210_scaffold4_274
+B210_scaffold4_275
+B210_scaffold4_276
+B210_scaffold4_277	K03924
+B210_scaffold4_278
+B210_scaffold4_279
+B210_scaffold4_280
+B210_scaffold4_281
+B210_scaffold4_282
+B210_scaffold4_283
+B210_scaffold4_284	K12132
+B210_scaffold4_285
+B210_scaffold4_286
+B210_scaffold4_287	K03722
+B210_scaffold4_288
+B210_scaffold4_289	K02342
+B210_scaffold4_290
+B210_scaffold4_291	K03695
+B210_scaffold4_292
+B210_scaffold4_293
+B210_scaffold4_294	K03327
+B210_scaffold4_295
+B210_scaffold4_296
+B210_scaffold4_297
+B210_scaffold4_298
+B210_scaffold4_299
+B210_scaffold4_300
+B210_scaffold4_301	K07071
+B210_scaffold4_302
+B210_scaffold4_303
+B210_scaffold4_304
+B210_scaffold4_305	K03564
+B210_scaffold4_306
+B210_scaffold4_307
+B210_scaffold4_308
+B210_scaffold4_309
+B210_scaffold4_310	K01265
+B210_scaffold4_311
+B210_scaffold4_312
+B210_scaffold4_313	K01886
+B210_scaffold4_314
+B210_scaffold4_315
+B210_scaffold4_316
+B210_scaffold4_317
+B210_scaffold4_318
+B210_scaffold4_319
+B210_scaffold4_320	K00261
+B210_scaffold4_321
+B210_scaffold4_322
+B210_scaffold4_323	K06889
+B210_scaffold4_324
+B210_scaffold4_325
+B210_scaffold4_326
+B210_scaffold4_327
+B210_scaffold4_328
+B210_scaffold4_329	K11312
+B210_scaffold4_330
+B210_scaffold4_331
+B210_scaffold4_332
+B210_scaffold4_333
+B210_scaffold4_334
+B210_scaffold4_335
+B210_scaffold4_336
+B210_scaffold4_337
+B210_scaffold4_338
+B210_scaffold4_339	K10800
+B210_scaffold4_340
+B210_scaffold4_341
+B210_scaffold4_342
+B210_scaffold4_343
+B210_scaffold4_344
+B210_scaffold4_345	K03573
+B210_scaffold4_346
+B210_scaffold4_347	K01525
+B210_scaffold4_348	K01697
+B210_scaffold4_349
+B210_scaffold4_350
+B210_scaffold4_351
+B210_scaffold4_352
+B210_scaffold4_353	K05591
+B210_scaffold4_354	K02372
+B210_scaffold4_355	K00639
+B210_scaffold4_356
+B210_scaffold4_357
+B210_scaffold4_358	K00059
+B210_scaffold4_359
+B210_scaffold4_360
+B210_scaffold4_361	K02888
+B210_scaffold4_362	K02899
+B210_scaffold4_363	K03979
+B210_scaffold4_364
+B210_scaffold4_365
+B210_scaffold4_366
+B210_scaffold4_367
+B210_scaffold4_368
+B210_scaffold4_369
+B210_scaffold4_370
+B210_scaffold4_371	K03111
+B210_scaffold4_372
+B210_scaffold4_373
+B210_scaffold4_374
+B210_scaffold4_375	K00054
+B210_scaffold4_376
+B210_scaffold4_377
+B210_scaffold4_378
+B210_scaffold4_379	K00970
+B210_scaffold4_380
+B210_scaffold4_381
+B210_scaffold4_382
+B210_scaffold4_383
+B210_scaffold4_384
+B210_scaffold4_385
+B210_scaffold4_386
+B210_scaffold4_387
+B210_scaffold4_388
+B210_scaffold4_389
+B210_scaffold4_390	K00249
+B210_scaffold4_391
+B210_scaffold4_392	K17218
+B210_scaffold5_1
+B210_scaffold5_2
+B210_scaffold5_3	K22349
+B210_scaffold5_4
+B210_scaffold5_5
+B210_scaffold5_6
+B210_scaffold5_7
+B210_scaffold5_8
+B210_scaffold5_9
+B210_scaffold5_10	K03385
+B210_scaffold5_11	K15876
+B210_scaffold5_12
+B210_scaffold5_13
+B210_scaffold5_14
+B210_scaffold5_15	K06894
+B210_scaffold5_16
+B210_scaffold5_17
+B210_scaffold5_18
+B210_scaffold5_19	K01299
+B210_scaffold5_20
+B210_scaffold5_21
+B210_scaffold5_22
+B210_scaffold5_23	K01696
+B210_scaffold5_24	K01695
+B210_scaffold5_25	K05802
+B210_scaffold5_26
+B210_scaffold5_27
+B210_scaffold5_28
+B210_scaffold5_29
+B210_scaffold5_30	K07114
+B210_scaffold5_31	K07053
+B210_scaffold5_32	K02346
+B210_scaffold5_33
+B210_scaffold5_34
+B210_scaffold5_35
+B210_scaffold5_36
+B210_scaffold5_37
+B210_scaffold5_38
+B210_scaffold5_39	K01868
+B210_scaffold5_40
+B210_scaffold5_41
+B210_scaffold5_42	K03640
+B210_scaffold5_43
+B210_scaffold5_44
+B210_scaffold5_45
+B210_scaffold5_46	K01092
+B210_scaffold5_47
+B210_scaffold5_48	K01297
+B210_scaffold5_49
+B210_scaffold5_50
+B210_scaffold5_51
+B210_scaffold5_52
+B210_scaffold5_53	K00971
+B210_scaffold5_54
+B210_scaffold5_55	K03499
+B210_scaffold5_56	K03498
+B210_scaffold5_57	K12574
+B210_scaffold5_58
+B210_scaffold5_59
+B210_scaffold5_60	K07192
+B210_scaffold5_61	K07192
+B210_scaffold5_62
+B210_scaffold5_63	K07114
+B210_scaffold5_64	K07114
+B210_scaffold5_65
+B210_scaffold5_66
+B210_scaffold5_67	K03924
+B210_scaffold5_68	K03469
+B210_scaffold5_69
+B210_scaffold5_70	K09933
+B210_scaffold5_71
+B210_scaffold5_72
+B210_scaffold5_73
+B210_scaffold5_74
+B210_scaffold5_75
+B210_scaffold5_76	K02502
+B210_scaffold5_77	K00765
+B210_scaffold5_78
+B210_scaffold5_79
+B210_scaffold5_80
+B210_scaffold5_81
+B210_scaffold5_82
+B210_scaffold5_83	K07277
+B210_scaffold5_84	K12132
+B210_scaffold5_85	K12132
+B210_scaffold5_86
+B210_scaffold5_87
+B210_scaffold5_88
+B210_scaffold5_89
+B210_scaffold5_90
+B210_scaffold5_91	K03924
+B210_scaffold5_92
+B210_scaffold5_93
+B210_scaffold5_94
+B210_scaffold5_95
+B210_scaffold5_96
+B210_scaffold5_97	K03787
+B210_scaffold5_98	K00759
+B210_scaffold5_99
+B210_scaffold5_100	K14998
+B210_scaffold5_101
+B210_scaffold5_102	K02258
+B210_scaffold5_103	K02257
+B210_scaffold5_104
+B210_scaffold5_105	K02276
+B210_scaffold5_106	K02274
+B210_scaffold5_107	K02275
+B210_scaffold5_108
+B210_scaffold5_109
+B210_scaffold5_110
+B210_scaffold5_111
+B210_scaffold5_112	K00185
+B210_scaffold5_113	K00184
+B210_scaffold5_114
+B210_scaffold5_115
+B210_scaffold5_116
+B210_scaffold5_117
+B210_scaffold5_118	K03634
+B210_scaffold5_119
+B210_scaffold5_120	K06940
+B210_scaffold5_121
+B210_scaffold5_122
+B210_scaffold5_123	K17758
+B210_scaffold5_123	K17759
+B210_scaffold5_124	K03474
+B210_scaffold5_125	K03431
+B210_scaffold5_126
+B210_scaffold5_127	K18672
+B210_scaffold5_128	K00796
+B210_scaffold5_129	K03798
+B210_scaffold5_130	K04075
+B210_scaffold5_131
+B210_scaffold5_132
+B210_scaffold5_133	K03676
+B210_scaffold5_134	K04773
+B210_scaffold5_135	K03601
+B210_scaffold5_136	K03602
+B210_scaffold5_137
+B210_scaffold5_138
+B210_scaffold5_139
+B210_scaffold5_140	K08974
+B210_scaffold5_141
+B210_scaffold5_142
+B210_scaffold5_143
+B210_scaffold5_144
+B210_scaffold5_145
+B210_scaffold5_146	K09005
+B210_scaffold5_147
+B210_scaffold5_148
+B210_scaffold5_149
+B210_scaffold5_150	K03088
+B210_scaffold5_151	K03686
+B210_scaffold5_152
+B210_scaffold5_153
+B210_scaffold5_154	K12132
+B210_scaffold5_155
+B210_scaffold5_156	K00338
+B210_scaffold5_157	K00337
+B210_scaffold5_158	K00336
+B210_scaffold5_159	K00333
+B210_scaffold5_160	K00332
+B210_scaffold5_161	K00331
+B210_scaffold5_162	K00330
+B210_scaffold5_163	K01356
+B210_scaffold5_164
+B210_scaffold5_165	K03572
+B210_scaffold5_166	K00791
+B210_scaffold5_167	K00817
+B210_scaffold5_168	K00945
+B210_scaffold5_169
+B210_scaffold5_170
+B210_scaffold5_171
+B210_scaffold5_172	K02945
+B210_scaffold5_173	K01758
+B210_scaffold5_174	K09800
+B210_scaffold5_175
+B210_scaffold5_176	K12132
+B210_scaffold5_177
+B210_scaffold5_178	K07051
+B210_scaffold5_179
+B210_scaffold5_180	K02528
+B210_scaffold5_181
+B210_scaffold5_182
+B210_scaffold5_183
+B210_scaffold5_184
+B210_scaffold5_185
+B210_scaffold5_186	K14645
+B210_scaffold5_187
+B210_scaffold5_188
+B210_scaffold5_189
+B210_scaffold5_190
+B210_scaffold5_191	K06287
+B210_scaffold5_192	K09158
+B210_scaffold5_193
+B210_scaffold5_194	K12132
+B210_scaffold5_195
+B210_scaffold5_196
+B210_scaffold5_197	K01069
+B210_scaffold5_198
+B210_scaffold5_199
+B210_scaffold5_200	K02066
+B210_scaffold5_201	K02067
+B210_scaffold5_202
+B210_scaffold5_203	K12132
+B210_scaffold5_204
+B210_scaffold5_205	K06207
+B210_scaffold5_206
+B210_scaffold5_207	K07090
+B210_scaffold5_208	K05366
+B210_scaffold5_209
+B210_scaffold5_210	K03924
+B210_scaffold5_211
+B210_scaffold5_212
+B210_scaffold5_213
+B210_scaffold5_214	K03442
+B210_scaffold5_215
+B210_scaffold5_216	K04043
+B210_scaffold5_217
+B210_scaffold5_218
+B210_scaffold5_219	K02340
+B210_scaffold5_220
+B210_scaffold5_221	K02968
+B210_scaffold5_222
+B210_scaffold5_223	K03798
+B210_scaffold5_224
+B210_scaffold5_225
+B210_scaffold5_226	K07574
+B210_scaffold5_227
+B210_scaffold5_228
+B210_scaffold5_229	K00858
+B210_scaffold5_230
+B210_scaffold5_231
+B210_scaffold5_232
+B210_scaffold5_233
+B210_scaffold5_234	K07443
+B210_scaffold5_235
+B210_scaffold5_236	K01885
+B210_scaffold5_237	K12132
+B210_scaffold5_238
+B210_scaffold5_239
+B210_scaffold5_240
+B210_scaffold5_241
+B210_scaffold5_242
+B210_scaffold5_243	K03525
+B210_scaffold5_244	K02033
+B210_scaffold5_245	K02034
+B210_scaffold5_246	K01207
+B210_scaffold5_247	K00788
+B210_scaffold5_248	K03644
+B210_scaffold5_249
+B210_scaffold5_250
+B210_scaffold5_251	K08964
+B210_scaffold5_252
+B210_scaffold5_253	K03386
+B210_scaffold5_254	K04756
+B210_scaffold5_255	K00772
+B210_scaffold5_256
+B210_scaffold5_257
+B210_scaffold5_258	K07478
+B210_scaffold5_259
+B210_scaffold5_260
+B210_scaffold5_261
+B210_scaffold5_262
+B210_scaffold5_263
+B210_scaffold5_264	K13687
+B210_scaffold5_265
+B210_scaffold5_266
+B210_scaffold5_267
+B210_scaffold5_268
+B210_scaffold5_269
+B210_scaffold5_270
+B210_scaffold5_271	K10773
+B210_scaffold5_272
+B210_scaffold5_273	K01679
+B210_scaffold5_274	K00684
+B210_scaffold5_275
+B210_scaffold5_276	K00869
+B210_scaffold5_277	K01597
+B210_scaffold5_278	K03695
+B210_scaffold5_279
+B210_scaffold5_280
+B210_scaffold5_281	K12132
+B210_scaffold5_282
+B210_scaffold5_283
+B210_scaffold5_284
+B210_scaffold5_285
+B210_scaffold5_286
+B210_scaffold5_287	K00761
+B210_scaffold5_288
+B210_scaffold5_289
+B210_scaffold5_290
+B210_scaffold5_291
+B210_scaffold5_292
+B210_scaffold5_293
+B210_scaffold5_294
+B210_scaffold5_295
+B210_scaffold5_296
+B210_scaffold5_297	K04771
+B210_scaffold5_298	K02044
+B210_scaffold5_299	K02041
+B210_scaffold5_300	K02042
+B210_scaffold5_301	K02042
+B210_scaffold5_302
+B210_scaffold5_303
+B210_scaffold5_304	K05595
+B210_scaffold5_305
+B210_scaffold5_306
+B210_scaffold5_307
+B210_scaffold5_308	K00797
+B210_scaffold5_309
+B210_scaffold5_310
+B210_scaffold5_311
+B210_scaffold5_312
+B210_scaffold5_313
+B210_scaffold5_314
+B210_scaffold5_315
+B210_scaffold5_316
+B210_scaffold5_317	K00799
+B210_scaffold5_318	K08316
+B210_scaffold5_319	K00954
+B210_scaffold5_320	K00812
+B210_scaffold5_321
+B210_scaffold5_322
+B210_scaffold5_323	K00631
+B210_scaffold5_324
+B210_scaffold5_325	K13075
+B210_scaffold5_326
+B210_scaffold5_327
+B210_scaffold5_328
+B210_scaffold5_329
+B210_scaffold5_330
+B210_scaffold5_331
+B210_scaffold5_332
+B210_scaffold5_333
+B210_scaffold5_334
+B210_scaffold5_335	K03088
+B210_scaffold5_336	K02405
+B210_scaffold5_337
+B210_scaffold5_338
+B210_scaffold5_339
+B210_scaffold5_340	K01883
+B210_scaffold5_341
+B210_scaffold6_1	K06878
+B210_scaffold6_2	K07001
+B210_scaffold6_3
+B210_scaffold6_4
+B210_scaffold6_5
+B210_scaffold6_6
+B210_scaffold6_7
+B210_scaffold6_8
+B210_scaffold6_9
+B210_scaffold6_10	K14414
+B210_scaffold6_11	K01974
+B210_scaffold6_12	K14415
+B210_scaffold6_13
+B210_scaffold6_14
+B210_scaffold6_15	K06911
+B210_scaffold6_16	K11717
+B210_scaffold6_17
+B210_scaffold6_18
+B210_scaffold6_19	K16264
+B210_scaffold6_20	K06180
+B210_scaffold6_21
+B210_scaffold6_22
+B210_scaffold6_23
+B210_scaffold6_24	K02338
+B210_scaffold6_25	K03629
+B210_scaffold6_26	K03215
+B210_scaffold6_27
+B210_scaffold6_28	K03639
+B210_scaffold6_29	K21142
+B210_scaffold6_30
+B210_scaffold6_31	K01844
+B210_scaffold6_32
+B210_scaffold6_33
+B210_scaffold6_34
+B210_scaffold6_35
+B210_scaffold6_36	K07301
+B210_scaffold6_37	K01950
+B210_scaffold6_38
+B210_scaffold6_39
+B210_scaffold6_40
+B210_scaffold6_41
+B210_scaffold6_42
+B210_scaffold6_43	K01745
+B210_scaffold6_44
+B210_scaffold6_45
+B210_scaffold6_46
+B210_scaffold6_47
+B210_scaffold6_48
+B210_scaffold6_49	K06980
+B210_scaffold6_50	K00806
+B210_scaffold6_51	K00941
+B210_scaffold6_52	K01775
+B210_scaffold6_53	K02520
+B210_scaffold6_54
+B210_scaffold6_55	K03413
+B210_scaffold6_56
+B210_scaffold6_57	K02401
+B210_scaffold6_58	K02421
+B210_scaffold6_59	K02420
+B210_scaffold6_60	K03226
+B210_scaffold6_61
+B210_scaffold6_62
+B210_scaffold6_63
+B210_scaffold6_64
+B210_scaffold6_65
+B210_scaffold6_66
+B210_scaffold6_67
+B210_scaffold6_68
+B210_scaffold6_69
+B210_scaffold6_70
+B210_scaffold6_71
+B210_scaffold6_72	K00451
+B210_scaffold6_73
+B210_scaffold6_74
+B210_scaffold6_75
+B210_scaffold6_76
+B210_scaffold6_77
+B210_scaffold6_78
+B210_scaffold6_79	K02428
+B210_scaffold6_80	K00057
+B210_scaffold6_81
+B210_scaffold6_82
+B210_scaffold6_83
+B210_scaffold6_84
+B210_scaffold6_85
+B210_scaffold6_86
+B210_scaffold6_87
+B210_scaffold6_88
+B210_scaffold6_89	K02470
+B210_scaffold6_90
+B210_scaffold6_91
+B210_scaffold6_92
+B210_scaffold6_93
+B210_scaffold6_94	K03501
+B210_scaffold6_95	K03696
+B210_scaffold6_96
+B210_scaffold6_97	K01480
+B210_scaffold6_98
+B210_scaffold6_99	K09933
+B210_scaffold6_100
+B210_scaffold6_101	K00134
+B210_scaffold6_102	K00927
+B210_scaffold6_103	K01803
+B210_scaffold6_104
+B210_scaffold6_105	K16087
+B210_scaffold6_106
+B210_scaffold6_107
+B210_scaffold6_108	K15726
+B210_scaffold6_109	K15727
+B210_scaffold6_110	K15725
+B210_scaffold6_111
+B210_scaffold6_112
+B210_scaffold6_113
+B210_scaffold6_114
+B210_scaffold6_115
+B210_scaffold6_116	K03671
+B210_scaffold6_117
+B210_scaffold6_118	K01897
+B210_scaffold6_119
+B210_scaffold6_120	K07560
+B210_scaffold6_121
+B210_scaffold6_122
+B210_scaffold6_123	K03650
+B210_scaffold6_124
+B210_scaffold6_125	K03217
+B210_scaffold6_126	K08998
+B210_scaffold6_127	K03536
+B210_scaffold6_128	K02914
+B210_scaffold6_129	K02313
+B210_scaffold6_130	K07735
+B210_scaffold6_131	K03545
+B210_scaffold6_132	K01358
+B210_scaffold6_133	K03544
+B210_scaffold6_134	K01338
+B210_scaffold6_135
+B210_scaffold6_136
+B210_scaffold6_137
+B210_scaffold6_138	K03498
+B210_scaffold6_139	K03499
+B210_scaffold6_140
+B210_scaffold6_141
+B210_scaffold6_142
+B210_scaffold6_143	K00284
+B210_scaffold6_144
+B210_scaffold6_145
+B210_scaffold6_146
+B210_scaffold6_147
+B210_scaffold6_148
+B210_scaffold6_149	K01069
+B210_scaffold6_150
+B210_scaffold6_151	K12132
+B210_scaffold6_152
+B210_scaffold6_153	K07114
+B210_scaffold6_154
+B210_scaffold6_155	K07114
+B210_scaffold6_156
+B210_scaffold6_157
+B210_scaffold6_158
+B210_scaffold6_159
+B210_scaffold6_160
+B210_scaffold6_161
+B210_scaffold6_162
+B210_scaffold6_163
+B210_scaffold6_164
+B210_scaffold6_165
+B210_scaffold6_166	K03565
+B210_scaffold6_167
+B210_scaffold6_168
+B210_scaffold6_169
+B210_scaffold6_170	K07305
+B210_scaffold6_171
+B210_scaffold6_172
+B210_scaffold6_173
+B210_scaffold6_174	K00872
+B210_scaffold6_175	K06147
+B210_scaffold6_176
+B210_scaffold6_177
+B210_scaffold6_178
+B210_scaffold6_179
+B210_scaffold6_180
+B210_scaffold6_181
+B210_scaffold6_182
+B210_scaffold6_183	K07012
+B210_scaffold6_184	K19136
+B210_scaffold6_185	K19131
+B210_scaffold6_186	K19132
+B210_scaffold6_187	K15342
+B210_scaffold6_188	K09951
+B210_scaffold6_189
+B210_scaffold6_190
+B210_scaffold7_1	K12132
+B210_scaffold7_2	K12132
+B210_scaffold7_3
+B210_scaffold7_4
+B210_scaffold7_5
+B210_scaffold7_6
+B210_scaffold7_7	K12297
+B210_scaffold7_8
+B210_scaffold7_9
+B210_scaffold7_10
+B210_scaffold7_11
+B210_scaffold7_12	K06178
+B210_scaffold7_13
+B210_scaffold7_14	K03183
+B210_scaffold7_15	K02477
+B210_scaffold7_16	K02478
+B210_scaffold7_17
+B210_scaffold7_18
+B210_scaffold7_19	K03088
+B210_scaffold7_20
+B210_scaffold7_21	K01839
+B210_scaffold7_22
+B210_scaffold7_23	K07502
+B210_scaffold7_24	K03583
+B210_scaffold7_25	K03582
+B210_scaffold7_26	K03581
+B210_scaffold7_27
+B210_scaffold7_28
+B210_scaffold7_29
+B210_scaffold7_30
+B210_scaffold7_31
+B210_scaffold7_32
+B210_scaffold7_33
+B210_scaffold7_34
+B210_scaffold7_35
+B210_scaffold7_36	K07334
+B210_scaffold7_37	K21498
+B210_scaffold7_38
+B210_scaffold7_39
+B210_scaffold7_40
+B210_scaffold7_41
+B210_scaffold7_42	K07043
+B210_scaffold7_43
+B210_scaffold7_44
+B210_scaffold7_45	K07043
+B210_scaffold7_46	K01153
+B210_scaffold7_47	K01154
+B210_scaffold7_48	K03427
+B210_scaffold7_49
+B210_scaffold7_50
+B210_scaffold7_51
+B210_scaffold7_52
+B210_scaffold7_53
+B210_scaffold7_54
+B210_scaffold7_55
+B210_scaffold7_56
+B210_scaffold7_57
+B210_scaffold7_58	K03707
+B210_scaffold7_59
+B210_scaffold7_60
+B210_scaffold7_61
+B210_scaffold7_62
+B210_scaffold7_63
+B210_scaffold7_64	K00425
+B210_scaffold7_65	K00426
+B210_scaffold7_66
+B210_scaffold7_67
+B210_scaffold7_68
+B210_scaffold7_69
+B210_scaffold7_70
+B210_scaffold7_71
+B210_scaffold7_72
+B210_scaffold7_73
+B210_scaffold7_74
+B210_scaffold7_75	K00228
+B210_scaffold7_76
+B210_scaffold7_77
+B210_scaffold7_78	K03088
+B210_scaffold7_79
+B210_scaffold7_80
+B210_scaffold7_81	K03775
+B210_scaffold7_82
+B210_scaffold7_83	K00950
+B210_scaffold7_84	K03702
+B210_scaffold7_85
+B210_scaffold7_86
+B210_scaffold7_87
+B210_scaffold7_88
+B210_scaffold7_89
+B210_scaffold7_90
+B210_scaffold7_91
+B210_scaffold7_92
+B210_scaffold7_93
+B210_scaffold7_94
+B210_scaffold7_95
+B210_scaffold7_96	K03885
+B210_scaffold7_97	K00525
+B210_scaffold7_98
+B210_scaffold7_99	K00931
+B210_scaffold7_100
+B210_scaffold7_101
+B210_scaffold7_102	K06204
+B210_scaffold7_103	K02662
+B210_scaffold7_104	K02663
+B210_scaffold7_105	K02664
+B210_scaffold7_106
+B210_scaffold7_107	K02666
+B210_scaffold7_108
+B210_scaffold7_109
+B210_scaffold7_110
+B210_scaffold7_111	K04566
+B210_scaffold7_112	K04568
+B210_scaffold7_113	K01897
+B210_scaffold7_114
+B210_scaffold7_115
+B210_scaffold7_116
+B210_scaffold7_117
+B210_scaffold7_118
+B210_scaffold7_119
+B210_scaffold7_120
+B210_scaffold7_121	K12132
+B210_scaffold7_122
+B210_scaffold7_123
+B210_scaffold7_124
+B210_scaffold7_125
+B210_scaffold7_126
+B210_scaffold7_127
+B210_scaffold7_128
+B210_scaffold7_129	K03561
+B210_scaffold7_130	K03559
+B210_scaffold7_131
+B210_scaffold7_132
+B210_scaffold7_133	K07175
+B210_scaffold7_134
+B210_scaffold7_135	K00263
+B210_scaffold7_136
+B210_scaffold7_137	K12526
+B210_scaffold7_138
+B210_scaffold7_139	K00241
+B210_scaffold7_140	K00239
+B210_scaffold7_141	K00240
+B210_scaffold7_142	K00938
+B210_scaffold7_143	K03694
+B210_scaffold7_144	K06891
+B210_scaffold7_145	K00275
+B210_scaffold7_146
+B210_scaffold7_147	K00626
+B210_scaffold7_148
+B210_scaffold7_149
+B210_scaffold7_150
+B210_scaffold7_151
+B210_scaffold7_152
+B210_scaffold7_153
+B210_scaffold7_154	K00500
+B210_scaffold7_155
+B210_scaffold7_156
+B210_scaffold7_157	K12132
+B210_scaffold7_158	K07391
+B210_scaffold7_159	K07393
+B210_scaffold7_160
+B210_scaffold7_161	K22491
+B210_scaffold7_162	K07402
+B210_scaffold7_163	K13482
+B210_scaffold7_164	K13481
+B210_scaffold7_165
+B210_scaffold7_166
+B210_scaffold7_167	K15725
+B210_scaffold7_168
+B210_scaffold7_169
+B210_scaffold8_1
+B210_scaffold8_2
+B210_scaffold8_3
+B210_scaffold8_4
+B210_scaffold8_5
+B210_scaffold8_6
+B210_scaffold8_7
+B210_scaffold8_8	K19134
+B210_scaffold8_9
+B210_scaffold8_10
+B210_scaffold8_11
+B210_scaffold8_12
+B210_scaffold8_13
+B210_scaffold8_14
+B210_scaffold8_15
+B210_scaffold8_16
+B210_scaffold8_17	K04487
+B210_scaffold8_18	K03918
+B210_scaffold8_19	K15726
+B210_scaffold8_20	K15727
+B210_scaffold8_21	K15725
+B210_scaffold8_22
+B210_scaffold8_23
+B210_scaffold8_24
+B210_scaffold8_25
+B210_scaffold8_26
+B210_scaffold8_27
+B210_scaffold8_28
+B210_scaffold8_29
+B210_scaffold8_30
+B210_scaffold8_31	K07154
+B210_scaffold8_32
+B210_scaffold8_33
+B210_scaffold8_34	K07038
+B210_scaffold8_35	K06911
+B210_scaffold8_36	K22579
+B210_scaffold8_37	K03926
+B210_scaffold8_38
+B210_scaffold8_39	K18398
+B210_scaffold8_40	K06442
+B210_scaffold8_41	K21470
+B210_scaffold8_42
+B210_scaffold8_43
+B210_scaffold8_44	K16053
+B210_scaffold8_45
+B210_scaffold8_46
+B210_scaffold8_47
+B210_scaffold8_48
+B210_scaffold8_49
+B210_scaffold8_50
+B210_scaffold8_51
+B210_scaffold8_52
+B210_scaffold8_53
+B210_scaffold8_54
+B210_scaffold8_55
+B210_scaffold8_56	K00111
+B210_scaffold8_57	K01953
+B210_scaffold8_58
+B210_scaffold8_59
+B210_scaffold8_60	K05304
+B210_scaffold8_61	K07257
+B210_scaffold8_62
+B210_scaffold8_63
+B210_scaffold8_64	K09816
+B210_scaffold8_65	K09817
+B210_scaffold8_66	K02077
+B210_scaffold8_67
+B210_scaffold8_68
+B210_scaffold8_69	K00798
+B210_scaffold8_70
+B210_scaffold8_71	K00688
+B210_scaffold8_72
+B210_scaffold8_73
+B210_scaffold8_74
+B210_scaffold8_75
+B210_scaffold8_76
+B210_scaffold8_77
+B210_scaffold8_78
+B210_scaffold8_79
+B210_scaffold8_80	K03707
+B210_scaffold8_81
+B210_scaffold8_82
+B210_scaffold8_83
+B210_scaffold8_84
+B210_scaffold8_85
+B210_scaffold8_86
+B210_scaffold8_87
+B210_scaffold8_88	K00662
+B210_scaffold8_89
+B210_scaffold8_90	K02069
+B210_scaffold8_91	K02068
+B210_scaffold8_92
+B210_scaffold8_93
+B210_scaffold8_94
+B210_scaffold8_95
+B210_scaffold8_96
+B210_scaffold8_97
+B210_scaffold8_98
+B210_scaffold8_99
+B210_scaffold8_100
+B210_scaffold8_101
+B210_scaffold8_102
+B210_scaffold8_103
+B210_scaffold8_104
+B210_scaffold8_105
+B210_scaffold8_106
+B210_scaffold8_107	K03088
+B210_scaffold8_108
+B210_scaffold8_109
+B210_scaffold8_110
+B210_scaffold8_111
+B210_scaffold8_112	K02470
+B210_scaffold8_113
+B210_scaffold8_114
+B210_scaffold8_115	K02469
+B210_scaffold8_116	K12132
+B210_scaffold8_117
+B210_scaffold8_118	K03118
+B210_scaffold8_119
+B210_scaffold8_120
+B210_scaffold8_121
+B210_scaffold8_122	K01438
+B210_scaffold8_123	K01262
+B210_scaffold8_124
+B210_scaffold8_125
+B210_scaffold8_126	K09861
+B210_scaffold8_127	K02945
+B210_scaffold8_128	K01867
+B210_scaffold8_129	K06969
+B210_scaffold8_130	K05564
+B210_scaffold8_131	K05563
+B210_scaffold8_132	K05562
+B210_scaffold8_133	K05561
+B210_scaffold8_134	K05560
+B210_scaffold8_135	K05559
+B210_scaffold8_136
+B210_scaffold8_137	K01897
+B210_scaffold8_138
+B210_scaffold8_139	K05844
+B210_scaffold8_140	K06987
+B210_scaffold8_141	K01069
+B210_scaffold8_142
+B210_scaffold8_143
+B210_scaffold8_144
+B210_scaffold8_145	K13038
+B210_scaffold8_146
+B210_scaffold8_147
+B210_scaffold8_148	K21929
+B210_scaffold8_149	K18012
+B210_scaffold8_150	K03544
+B210_scaffold8_151
+B210_scaffold8_152
+B210_scaffold8_153
+B210_scaffold9_1	K01754
+B210_scaffold9_2
+B210_scaffold9_3
+B210_scaffold9_4	K03775
+B210_scaffold9_5
+B210_scaffold9_6
+B210_scaffold9_7
+B210_scaffold9_8	K09800
+B210_scaffold9_9	K07277
+B210_scaffold9_10
+B210_scaffold9_11
+B210_scaffold9_12
+B210_scaffold9_13	K01782
+B210_scaffold9_14
+B210_scaffold9_15	K23139
+B210_scaffold9_16
+B210_scaffold9_17
+B210_scaffold9_18
+B210_scaffold9_19	K09888
+B210_scaffold9_20	K01934
+B210_scaffold9_21	K18682
+B210_scaffold9_22	K01866
+B210_scaffold9_23
+B210_scaffold9_24
+B210_scaffold9_25	K01737
+B210_scaffold9_26	K00547
+B210_scaffold9_26	K00297
+B210_scaffold9_27	K01738
+B210_scaffold9_28	K00640
+B210_scaffold9_29
+B210_scaffold9_30
+B210_scaffold9_31
+B210_scaffold9_32
+B210_scaffold9_33
+B210_scaffold9_34
+B210_scaffold9_35
+B210_scaffold9_36
+B210_scaffold9_37
+B210_scaffold9_38
+B210_scaffold9_39
+B210_scaffold9_40
+B210_scaffold9_41
+B210_scaffold9_42
+B210_scaffold9_43
+B210_scaffold9_44
+B210_scaffold9_45
+B210_scaffold9_46
+B210_scaffold9_47	K05807
+B210_scaffold9_48	K02996
+B210_scaffold9_49	K02871
+B210_scaffold9_50
+B210_scaffold9_51
+B210_scaffold9_52
+B210_scaffold9_53
+B210_scaffold9_54	K03106
+B210_scaffold9_55
+B210_scaffold9_56
+B210_scaffold9_57	K03664
+B210_scaffold9_58
+B210_scaffold9_59
+B210_scaffold9_60	K03687
+B210_scaffold9_61
+B210_scaffold9_62
+B210_scaffold9_63	K03427
+B210_scaffold9_64
+B210_scaffold9_65
+B210_scaffold9_66
+B210_scaffold9_67
+B210_scaffold9_68
+B210_scaffold9_69	K01533
+B210_scaffold9_70
+B210_scaffold9_71
+B210_scaffold9_72	K03088
+B210_scaffold9_73
+B210_scaffold9_74
+B210_scaffold9_75
+B210_scaffold9_76
+B210_scaffold9_77
+B210_scaffold9_78
+B210_scaffold9_79
+B210_scaffold9_80	K01358
+B210_scaffold9_81	K06877
+B210_scaffold9_82	K03831
+B210_scaffold9_83
+B210_scaffold9_84
+B210_scaffold9_85	K02469
+B210_scaffold9_86
+B210_scaffold9_87
+B210_scaffold9_88	K03408
+B210_scaffold9_89
+B210_scaffold9_90	K03406
+B210_scaffold9_91	K03407
+B210_scaffold9_92
+B210_scaffold9_93	K01633
+B210_scaffold9_94	K03070
+B210_scaffold9_95	K02238
+B210_scaffold9_96
+B210_scaffold9_97
+B210_scaffold9_98
+B210_scaffold9_99	K02168
+B210_scaffold9_100
+B210_scaffold9_101
+B210_scaffold9_102
+B210_scaffold9_103
+B210_scaffold9_104
+B210_scaffold9_105
+B210_scaffold9_106	K00432
+B210_scaffold9_107
+B210_scaffold9_108
+B210_scaffold9_109
+B210_scaffold9_110
+B210_scaffold9_111	K07090
+B210_scaffold9_112
+B210_scaffold9_113	K05343
+B210_scaffold9_114
+B210_scaffold9_115
+B210_scaffold9_116
+B210_scaffold9_117
+B210_scaffold9_118	K00697
+B210_scaffold9_119
+B210_scaffold9_120
+B210_scaffold9_121
+B210_scaffold9_122
+B210_scaffold9_123
+B210_scaffold10_1
+B210_scaffold10_2	K07304
+B210_scaffold10_3
+B210_scaffold10_4
+B210_scaffold10_5
+B210_scaffold10_6
+B210_scaffold10_7	K06076
+B210_scaffold10_8
+B210_scaffold10_9
+B210_scaffold10_10
+B210_scaffold10_11
+B210_scaffold10_12	K04564
+B210_scaffold10_13
+B210_scaffold10_14
+B210_scaffold10_15
+B210_scaffold10_16	K07337
+B210_scaffold10_17	K09859
+B210_scaffold10_18
+B210_scaffold10_19
+B210_scaffold10_20
+B210_scaffold10_21
+B210_scaffold10_22
+B210_scaffold10_23
+B210_scaffold10_24
+B210_scaffold10_25
+B210_scaffold10_26
+B210_scaffold10_27
+B210_scaffold10_28
+B210_scaffold10_29
+B210_scaffold10_30
+B210_scaffold10_31
+B210_scaffold10_32
+B210_scaffold10_33
+B210_scaffold10_34	K11068
+B210_scaffold10_35
+B210_scaffold10_36
+B210_scaffold10_37
+B210_scaffold10_38
+B210_scaffold10_39	K01524
+B210_scaffold10_40	K07304
+B210_scaffold10_41	K03215
+B210_scaffold10_42	K03688
+B210_scaffold10_43
+B210_scaffold10_44	K03832
+B210_scaffold10_45	K03559
+B210_scaffold10_46	K03561
+B210_scaffold10_47	K01011
+B210_scaffold10_48	K01011
+B210_scaffold10_49
+B210_scaffold10_50
+B210_scaffold10_51
+B210_scaffold10_52
+B210_scaffold10_53
+B210_scaffold10_54
+B210_scaffold10_55	K01409
+B210_scaffold10_56
+B210_scaffold10_57
+B210_scaffold10_58	K03116
+B210_scaffold10_59
+B210_scaffold10_60
+B210_scaffold10_61
+B210_scaffold10_62
+B210_scaffold10_63
+B210_scaffold10_64	K02837
+B210_scaffold10_65	K00057
+B210_scaffold10_66
+B210_scaffold10_67	K10914
+B210_scaffold10_68
+B210_scaffold10_69	K00287
+B210_scaffold10_70	K00560
+B210_scaffold10_71
+B210_scaffold10_72	K01759
+B210_scaffold10_73
+B210_scaffold10_74
+B210_scaffold10_75	K09165
+B210_scaffold10_76	K01669
+B210_scaffold10_77	K07071
+B210_scaffold10_78
+B210_scaffold10_79
+B210_scaffold10_80
+B210_scaffold10_81
+B210_scaffold10_82
+B210_scaffold10_83	K01955
+B210_scaffold10_84
+B210_scaffold10_85	K00067
+B210_scaffold10_86	K07232
+B210_scaffold10_87
+B210_scaffold10_88
+B210_scaffold10_89	K07164
+B210_scaffold10_90
+B210_scaffold10_91	K00756
+B210_scaffold10_92	K13993
+B210_scaffold10_93
+B210_scaffold10_94
+B210_scaffold10_95
+B210_scaffold10_96
+B210_scaffold10_97
+B210_scaffold10_98
+B210_scaffold10_99
+B210_scaffold10_100	K13020
+B210_scaffold10_101	K13018
+B210_scaffold10_102
+B210_scaffold10_103
+B210_scaffold10_104	K16554
+B210_scaffold10_105
+B210_scaffold10_106
+B210_scaffold10_107	K00012
+B210_scaffold10_108	K02474
+B210_scaffold10_109	K08679
+B210_scaffold10_110
+B210_scaffold10_111
+B210_scaffold10_112	K01790
+B210_scaffold10_113	K00973
+B210_scaffold10_114	K01710
+B210_scaffold10_115
+B210_scaffold10_116
+B210_scaffold10_117
+B210_scaffold10_118
+B210_scaffold10_119
+B210_scaffold10_120
+B210_scaffold11_1
+B210_scaffold11_2
+B210_scaffold11_3
+B210_scaffold11_4	K06902
+B210_scaffold11_5
+B210_scaffold11_6
+B210_scaffold11_7
+B210_scaffold11_8	K01006
+B210_scaffold11_9	K06133
+B210_scaffold11_10	K03089
+B210_scaffold11_11
+B210_scaffold11_12	K07713
+B210_scaffold11_13	K00382
+B210_scaffold11_14
+B210_scaffold11_15
+B210_scaffold11_16	K00467
+B210_scaffold11_17
+B210_scaffold11_18	K02016
+B210_scaffold11_19
+B210_scaffold11_20
+B210_scaffold11_21
+B210_scaffold11_22
+B210_scaffold11_23	K16089
+B210_scaffold11_24	K02016
+B210_scaffold11_25	K02015
+B210_scaffold11_26	K02013
+B210_scaffold11_27	K07225
+B210_scaffold11_28	K00230
+B210_scaffold11_29	K00382
+B210_scaffold11_30	K00658
+B210_scaffold11_31	K03671
+B210_scaffold11_32
+B210_scaffold11_33	K03168
+B210_scaffold11_34
+B210_scaffold11_35	K03654
+B210_scaffold11_36
+B210_scaffold11_37
+B210_scaffold11_38	K09747
+B210_scaffold11_39	K06187
+B210_scaffold11_40
+B210_scaffold11_41	K06883
+B210_scaffold11_42
+B210_scaffold11_43	K07456
+B210_scaffold11_44	K03563
+B210_scaffold11_45
+B210_scaffold11_46	K16149
+B210_scaffold11_47
+B210_scaffold11_48
+B210_scaffold11_49	K01634
+B210_scaffold11_50
+B210_scaffold11_51
+B210_scaffold11_52
+B210_scaffold11_53
+B210_scaffold11_54
+B210_scaffold11_55
+B210_scaffold11_56
+B210_scaffold11_57
+B210_scaffold11_58
+B210_scaffold11_59
+B210_scaffold11_60
+B210_scaffold11_61
+B210_scaffold11_62
+B210_scaffold11_63	K13587
+B210_scaffold11_64
+B210_scaffold11_65
+B210_scaffold11_66	K08602
+B210_scaffold11_67
+B210_scaffold11_68
+B210_scaffold11_69
+B210_scaffold11_70	K03581
+B210_scaffold11_71
+B210_scaffold11_72
+B210_scaffold11_73
+B210_scaffold11_74
+B210_scaffold11_75	K08676
+B210_scaffold11_76
+B210_scaffold11_77	K03752
+B210_scaffold11_78	K01638
+B210_scaffold11_79	K01637
+B210_scaffold11_80
+B210_scaffold11_81
+B210_scaffold11_82
+B210_scaffold11_83
+B210_scaffold11_84
+B210_scaffold11_85
+B210_scaffold11_86	K01534
+B210_scaffold11_87
+B210_scaffold11_88
+B210_scaffold11_89
+B210_scaffold11_90	K00803
+B210_scaffold11_91
+B210_scaffold11_92	K06969
+B210_scaffold11_93
+B210_scaffold11_94
+B210_scaffold11_95	K06958
+B210_scaffold11_96	K20074
+B210_scaffold11_97
+B210_scaffold11_98	K12132
+B210_scaffold11_99
+B210_scaffold11_100	K02963
+B210_scaffold11_101	K02913
+B210_scaffold11_102
+B210_scaffold11_103
+B210_scaffold12_1
+B210_scaffold12_2
+B210_scaffold12_3	K02902
+B210_scaffold12_4
+B210_scaffold12_5	K05788
+B210_scaffold12_6	K10026
+B210_scaffold12_7
+B210_scaffold12_8
+B210_scaffold12_9
+B210_scaffold12_10	K12132
+B210_scaffold12_11	K03980
+B210_scaffold12_12	K03154
+B210_scaffold12_13	K03149
+B210_scaffold12_14	K00788
+B210_scaffold12_15
+B210_scaffold12_16
+B210_scaffold12_17	K03530
+B210_scaffold12_18	K18013
+B210_scaffold12_19	K18014
+B210_scaffold12_20
+B210_scaffold12_21
+B210_scaffold12_22
+B210_scaffold12_23
+B210_scaffold12_24
+B210_scaffold12_25	K16052
+B210_scaffold12_26
+B210_scaffold12_27	K12132
+B210_scaffold12_28
+B210_scaffold12_29
+B210_scaffold12_30
+B210_scaffold12_31
+B210_scaffold12_32
+B210_scaffold12_33	K06886
+B210_scaffold12_34	K00382
+B210_scaffold12_35	K00658
+B210_scaffold12_36	K00164
+B210_scaffold12_37	K02109
+B210_scaffold12_38	K02109
+B210_scaffold12_39	K02113
+B210_scaffold12_40	K02111
+B210_scaffold12_41	K02115
+B210_scaffold12_42	K02112
+B210_scaffold12_43	K02114
+B210_scaffold12_44
+B210_scaffold12_45
+B210_scaffold12_46
+B210_scaffold12_47
+B210_scaffold12_48
+B210_scaffold12_49
+B210_scaffold12_50
+B210_scaffold12_51
+B210_scaffold12_52
+B210_scaffold12_53	K01434
+B210_scaffold12_54	K03089
+B210_scaffold12_55
+B210_scaffold12_56
+B210_scaffold12_57	K02379
+B210_scaffold12_58
+B210_scaffold12_59
+B210_scaffold12_60
+B210_scaffold12_61
+B210_scaffold12_62
+B210_scaffold12_63
+B210_scaffold12_64
+B210_scaffold12_65
+B210_scaffold12_66	K09989
+B210_scaffold12_67
+B210_scaffold12_68
+B210_scaffold12_69
+B210_scaffold12_70
+B210_scaffold12_71	K01990
+B210_scaffold12_72	K01992
+B210_scaffold12_73
+B210_scaffold12_74	K01920
+B210_scaffold12_75	K04565
+B210_scaffold12_76
+B210_scaffold12_77
+B210_scaffold12_78
+B210_scaffold12_79
+B210_scaffold12_80
+B210_scaffold12_81	K12132
+B210_scaffold12_82
+B210_scaffold12_83	K01147
+B210_scaffold12_84	K01029
+B210_scaffold12_85	K01028
+B210_scaffold12_86
+B210_scaffold12_87
+B210_scaffold12_88
+B210_scaffold12_89
+B210_scaffold12_90
+B210_scaffold12_91
+B210_scaffold12_92	K07497
+B210_scaffold12_93	K07484
+B210_scaffold12_94
+B210_scaffold12_95
+B210_scaffold12_96
+B210_scaffold13_1	K03453
+B210_scaffold13_2
+B210_scaffold13_3
+B210_scaffold13_4	K00963
+B210_scaffold13_5
+B210_scaffold13_6	K00254
+B210_scaffold13_7	K06415
+B210_scaffold13_8	K09786
+B210_scaffold13_9	K07180
+B210_scaffold13_10	K10773
+B210_scaffold13_11	K05606
+B210_scaffold13_12
+B210_scaffold13_13
+B210_scaffold13_14	K02838
+B210_scaffold13_15	K09903
+B210_scaffold13_16	K02357
+B210_scaffold13_17	K02967
+B210_scaffold13_18
+B210_scaffold13_19
+B210_scaffold13_20	K06131
+B210_scaffold13_21	K13830
+B210_scaffold13_22
+B210_scaffold13_23
+B210_scaffold13_24	K07261
+B210_scaffold13_25
+B210_scaffold13_26	K12132
+B210_scaffold13_27
+B210_scaffold13_28	K07074
+B210_scaffold13_29
+B210_scaffold13_30	K01462
+B210_scaffold13_31	K00604
+B210_scaffold13_32	K03500
+B210_scaffold13_33	K01783
+B210_scaffold13_34	K19271
+B210_scaffold13_35
+B210_scaffold13_36
+B210_scaffold13_37
+B210_scaffold13_38
+B210_scaffold13_39
+B210_scaffold13_40
+B210_scaffold13_41
+B210_scaffold13_42	K06147
+B210_scaffold13_43
+B210_scaffold13_44
+B210_scaffold13_45
+B210_scaffold13_46	K03406
+B210_scaffold13_47
+B210_scaffold13_48
+B210_scaffold13_49
+B210_scaffold13_50	K07257
+B210_scaffold13_51
+B210_scaffold13_52	K09705
+B210_scaffold13_53	K09705
+B210_scaffold13_54
+B210_scaffold13_55
+B210_scaffold13_56
+B210_scaffold13_57
+B210_scaffold13_58
+B210_scaffold13_59
+B210_scaffold13_60
+B210_scaffold13_61
+B210_scaffold13_62
+B210_scaffold13_63
+B210_scaffold13_64
+B210_scaffold14_1
+B210_scaffold14_2
+B210_scaffold14_3
+B210_scaffold14_4
+B210_scaffold14_5
+B210_scaffold14_6
+B210_scaffold14_7
+B210_scaffold14_8
+B210_scaffold14_9
+B210_scaffold14_10
+B210_scaffold14_11
+B210_scaffold14_12
+B210_scaffold14_13
+B210_scaffold14_14
+B210_scaffold14_15	K01354
+B210_scaffold14_16
+B210_scaffold14_17
+B210_scaffold14_18	K12132
+B210_scaffold14_19
+B210_scaffold14_20
+B210_scaffold14_21	K00002
+B210_scaffold14_22
+B210_scaffold14_23
+B210_scaffold14_24
+B210_scaffold14_25
+B210_scaffold14_26
+B210_scaffold14_27
+B210_scaffold14_28
+B210_scaffold14_29
+B210_scaffold14_30
+B210_scaffold14_31
+B210_scaffold14_32
+B210_scaffold14_33
+B210_scaffold14_34	K01586
+B210_scaffold14_35	K00845
+B210_scaffold14_36
+B210_scaffold14_37	K03767
+B210_scaffold14_38
+B210_scaffold14_39	K00937
+B210_scaffold14_40
+B210_scaffold14_41
+B210_scaffold14_42	K17218
+B210_scaffold14_43
+B210_scaffold15_1
+B210_scaffold15_2	K07722
+B210_scaffold15_3
+B210_scaffold15_4
+B210_scaffold15_5
+B210_scaffold15_6	K01735
+B210_scaffold15_7
+B210_scaffold15_8
+B210_scaffold15_9
+B210_scaffold15_10	K15336
+B210_scaffold15_11
+B210_scaffold15_12
+B210_scaffold15_13
+B210_scaffold15_14
+B210_scaffold15_15
+B210_scaffold15_16
+B210_scaffold15_17
+B210_scaffold15_18
+B210_scaffold15_19
+B210_scaffold15_20
+B210_scaffold15_21
+B210_scaffold15_22	K07448
+B210_scaffold15_23
+B210_scaffold15_24
+B210_scaffold15_25
+B210_scaffold15_26
+B210_scaffold15_27
+B210_scaffold15_28
+B210_scaffold15_29
+B210_scaffold15_30
+B210_scaffold15_31
+B210_scaffold15_32
+B210_scaffold15_33
+B210_scaffold15_34	K16710
+B210_scaffold15_35
+B210_scaffold15_36
+B210_scaffold15_37	K14441
+B210_scaffold15_38
+B210_scaffold15_39
+B210_scaffold15_40
+B210_scaffold15_41
+B210_scaffold16_1
+B210_scaffold16_2
+B210_scaffold16_3
+B210_scaffold16_4
+B210_scaffold16_5
+B210_scaffold16_6
+B210_scaffold16_7
+B210_scaffold16_8
+B210_scaffold16_9
+B210_scaffold16_10
+B210_scaffold16_11
+B210_scaffold16_12
+B210_scaffold16_13	K06153
+B210_scaffold16_14
+B210_scaffold16_15
+B210_scaffold16_16	K13821
+B210_scaffold16_17
+B210_scaffold16_18
+B210_scaffold16_19
+B210_scaffold16_20
+B210_scaffold16_21	K04771
+B210_scaffold16_22
+B210_scaffold16_23	K07566
+B210_scaffold16_24
+B210_scaffold16_25	K02909
+B210_scaffold16_26
+B210_scaffold16_27	K03801
+B210_scaffold16_28	K00790
+B210_scaffold16_29	K06885
+B210_scaffold16_30
+B210_scaffold17_1
+B210_scaffold17_2
+B210_scaffold17_3
+B210_scaffold17_4
+B210_scaffold17_5
+B210_scaffold17_6
+B210_scaffold17_7
+B210_scaffold17_8	K10563
+B210_scaffold17_9
+B210_scaffold17_10	K01895
+B210_scaffold17_11
+B210_scaffold17_12
+B210_scaffold17_13
+B210_scaffold17_14
+B210_scaffold17_15
+B210_scaffold17_16
+B210_scaffold17_17	K08309
+B210_scaffold17_18
+B210_scaffold17_19
+B210_scaffold17_20	K07102
+B210_scaffold17_21	K01892
+B210_scaffold17_22	K04127
+B210_scaffold17_23
+B210_scaffold17_24
+B210_scaffold17_25	K12132
+B210_scaffold17_26
+B210_scaffold17_27
+B210_scaffold18_1
+B210_scaffold18_2
+B210_scaffold18_3
+B210_scaffold18_4
+B210_scaffold18_5
+B210_scaffold18_6
+B210_scaffold18_7	K03303
+B210_scaffold18_8	K03778
+B210_scaffold18_9	K13652
+B210_scaffold18_10
+B210_scaffold18_11
+B210_scaffold18_12
+B210_scaffold18_13
+B210_scaffold18_14	K01617
+B210_scaffold18_15	K01666
+B210_scaffold18_16	K04073
+B210_scaffold18_17	K02554
+B210_scaffold18_18
+B210_scaffold18_19
+B210_scaffold18_20
+B210_scaffold18_21
+B210_scaffold18_22
+B210_scaffold18_23
+B210_scaffold18_24
+B210_scaffold18_25	K00428
+B210_scaffold18_26
+B210_scaffold18_27
+B210_scaffold18_28
+B210_scaffold18_29
+B210_scaffold18_30
+B210_scaffold19_1
+B210_scaffold19_2	K17218
+B210_scaffold19_3
+B210_scaffold19_4
+B210_scaffold19_5
+B210_scaffold19_6	K00799
+B210_scaffold19_7
+B210_scaffold19_8
+B210_scaffold19_9	K17218
+B210_scaffold20_1
+B210_scaffold20_2
+B210_scaffold20_3	K07497
+B210_scaffold21_1
+B210_scaffold21_2
+B210_scaffold22_1
+B210_scaffold22_2
+B210_scaffold23_1
+B210_scaffold23_2
+B210_scaffold24_1
+B210_scaffold24_2
+B210_scaffold24_3
+B210_scaffold24_4
+B210_scaffold25_1
+B210_scaffold25_2
+B210_scaffold25_3
+B210_scaffold26_1
+B210_scaffold26_2
+B210_scaffold26_3
+B210_scaffold26_4
+B210_scaffold26_5
+B210_scaffold26_6
+B210_scaffold29_1

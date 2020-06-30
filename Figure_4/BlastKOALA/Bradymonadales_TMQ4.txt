@@ -1,0 +1,4265 @@
+T4_scaffold1_1
+T4_scaffold1_2
+T4_scaffold1_3	K07098
+T4_scaffold1_4	K10843
+T4_scaffold1_5	K08972
+T4_scaffold1_6
+T4_scaffold1_7	K05844
+T4_scaffold1_8	K12132
+T4_scaffold1_9
+T4_scaffold1_10	K01873
+T4_scaffold1_11
+T4_scaffold1_12
+T4_scaffold1_13
+T4_scaffold1_14	K07714
+T4_scaffold1_15
+T4_scaffold1_16	K02654
+T4_scaffold1_17
+T4_scaffold1_18
+T4_scaffold1_19	K03088
+T4_scaffold1_20	K02469
+T4_scaffold1_21
+T4_scaffold1_22
+T4_scaffold1_23	K02108
+T4_scaffold1_24	K02110
+T4_scaffold1_25
+T4_scaffold1_26
+T4_scaffold1_27	K01975
+T4_scaffold1_28	K03742
+T4_scaffold1_29	K12132
+T4_scaffold1_30
+T4_scaffold1_31	K03222
+T4_scaffold1_32
+T4_scaffold1_33
+T4_scaffold1_34	K03224
+T4_scaffold1_35
+T4_scaffold1_36
+T4_scaffold1_37
+T4_scaffold1_38
+T4_scaffold1_39	K04088
+T4_scaffold1_40	K04087
+T4_scaffold1_41	K03579
+T4_scaffold1_42
+T4_scaffold1_43
+T4_scaffold1_44
+T4_scaffold1_45	K02454
+T4_scaffold1_46
+T4_scaffold1_47
+T4_scaffold1_48	K02035
+T4_scaffold1_49
+T4_scaffold1_50
+T4_scaffold1_51
+T4_scaffold1_52	K02337
+T4_scaffold1_53	K03553
+T4_scaffold1_54	K02669
+T4_scaffold1_55
+T4_scaffold1_56
+T4_scaffold1_57	K07000
+T4_scaffold1_58
+T4_scaffold1_59	K03727
+T4_scaffold1_60	K04771
+T4_scaffold1_61
+T4_scaffold1_62
+T4_scaffold1_63
+T4_scaffold1_64
+T4_scaffold1_65
+T4_scaffold1_66
+T4_scaffold1_67
+T4_scaffold1_68
+T4_scaffold1_69
+T4_scaffold1_70	K07305
+T4_scaffold1_71	K08968
+T4_scaffold1_72	K01273
+T4_scaffold1_73
+T4_scaffold1_74
+T4_scaffold1_75
+T4_scaffold1_76
+T4_scaffold1_77	K18011
+T4_scaffold1_78
+T4_scaffold1_79
+T4_scaffold1_80
+T4_scaffold1_81	K03075
+T4_scaffold1_82	K00674
+T4_scaffold1_83	K10907
+T4_scaffold1_84
+T4_scaffold1_85
+T4_scaffold1_86	K06180
+T4_scaffold1_87
+T4_scaffold1_88
+T4_scaffold1_89
+T4_scaffold1_90
+T4_scaffold1_91
+T4_scaffold1_92
+T4_scaffold1_93
+T4_scaffold1_94
+T4_scaffold1_95	K07636
+T4_scaffold1_96	K07657
+T4_scaffold1_97	K00763
+T4_scaffold1_98
+T4_scaffold1_99	K01493
+T4_scaffold1_100
+T4_scaffold1_101
+T4_scaffold1_102
+T4_scaffold1_103
+T4_scaffold1_104
+T4_scaffold1_105
+T4_scaffold1_106
+T4_scaffold1_107
+T4_scaffold1_108
+T4_scaffold1_109
+T4_scaffold1_110
+T4_scaffold1_111
+T4_scaffold1_112	K03453
+T4_scaffold1_113
+T4_scaffold1_114
+T4_scaffold1_115
+T4_scaffold1_116	K00925
+T4_scaffold1_117
+T4_scaffold1_118
+T4_scaffold1_119	K03744
+T4_scaffold1_120
+T4_scaffold1_121	K03594
+T4_scaffold1_122
+T4_scaffold1_123
+T4_scaffold1_124
+T4_scaffold1_125	K10742
+T4_scaffold1_126
+T4_scaffold1_127
+T4_scaffold1_128	K12132
+T4_scaffold1_129	K03215
+T4_scaffold1_130
+T4_scaffold1_131
+T4_scaffold1_132
+T4_scaffold1_133	K00091
+T4_scaffold1_134
+T4_scaffold1_135	K02042
+T4_scaffold1_136	K02044
+T4_scaffold1_137	K00457
+T4_scaffold1_138	K07023
+T4_scaffold1_139	K00091
+T4_scaffold1_140	K02279
+T4_scaffold1_141	K02280
+T4_scaffold1_142	K02283
+T4_scaffold1_143	K12510
+T4_scaffold1_144	K12511
+T4_scaffold1_145
+T4_scaffold1_146
+T4_scaffold1_147
+T4_scaffold1_148	K02194
+T4_scaffold1_149	K02193
+T4_scaffold1_150
+T4_scaffold1_151
+T4_scaffold1_152	K02198
+T4_scaffold1_153	K02197
+T4_scaffold1_154
+T4_scaffold1_155
+T4_scaffold1_156	K02283
+T4_scaffold1_157	K02195
+T4_scaffold1_158
+T4_scaffold1_159
+T4_scaffold1_160
+T4_scaffold1_161	K01887
+T4_scaffold1_162
+T4_scaffold1_163
+T4_scaffold1_164
+T4_scaffold1_165
+T4_scaffold1_166
+T4_scaffold1_167
+T4_scaffold1_168
+T4_scaffold1_169
+T4_scaffold1_170
+T4_scaffold1_171
+T4_scaffold1_172	K15778
+T4_scaffold1_173
+T4_scaffold1_174
+T4_scaffold1_175	K05366
+T4_scaffold1_176
+T4_scaffold1_177	K11753
+T4_scaffold1_178
+T4_scaffold1_179
+T4_scaffold1_180
+T4_scaffold1_181
+T4_scaffold1_182
+T4_scaffold1_183
+T4_scaffold1_184
+T4_scaffold1_185	K02003
+T4_scaffold1_186
+T4_scaffold1_187
+T4_scaffold1_188
+T4_scaffold1_189
+T4_scaffold1_190
+T4_scaffold1_191
+T4_scaffold1_192
+T4_scaffold1_193	K07152
+T4_scaffold1_194	K00368
+T4_scaffold1_195	K07234
+T4_scaffold1_196
+T4_scaffold1_197
+T4_scaffold1_198
+T4_scaffold1_199	K01992
+T4_scaffold1_200	K01990
+T4_scaffold1_201
+T4_scaffold1_202	K01990
+T4_scaffold1_203	K12132
+T4_scaffold1_204	K18979
+T4_scaffold1_205	K00526
+T4_scaffold1_206
+T4_scaffold1_207
+T4_scaffold1_208
+T4_scaffold1_209
+T4_scaffold1_210
+T4_scaffold1_211
+T4_scaffold1_212	K02970
+T4_scaffold1_213	K12132
+T4_scaffold1_214
+T4_scaffold1_215	K12132
+T4_scaffold1_216
+T4_scaffold1_217
+T4_scaffold1_218	K03711
+T4_scaffold1_219
+T4_scaffold1_220
+T4_scaffold1_221
+T4_scaffold1_222
+T4_scaffold1_223	K00059
+T4_scaffold1_224
+T4_scaffold1_225	K00982
+T4_scaffold1_226	K00826
+T4_scaffold1_227	K11645
+T4_scaffold1_228
+T4_scaffold1_229
+T4_scaffold1_230
+T4_scaffold1_231	K00161
+T4_scaffold1_232	K00162
+T4_scaffold1_233	K00627
+T4_scaffold1_234	K00459
+T4_scaffold1_235
+T4_scaffold1_236
+T4_scaffold1_237
+T4_scaffold1_238	K06976
+T4_scaffold1_239
+T4_scaffold1_240	K12132
+T4_scaffold1_241
+T4_scaffold1_242	K07301
+T4_scaffold1_243	K00773
+T4_scaffold1_244	K08309
+T4_scaffold1_245
+T4_scaffold1_246
+T4_scaffold1_247	K01919
+T4_scaffold1_248
+T4_scaffold1_249	K01809
+T4_scaffold1_250
+T4_scaffold1_251	K03496
+T4_scaffold1_252	K00283
+T4_scaffold1_253	K11731
+T4_scaffold1_254	K10914
+T4_scaffold1_255
+T4_scaffold1_256
+T4_scaffold1_257
+T4_scaffold1_258
+T4_scaffold1_259
+T4_scaffold1_260	K02557
+T4_scaffold1_261	K02556
+T4_scaffold1_262
+T4_scaffold1_263
+T4_scaffold1_264
+T4_scaffold1_265
+T4_scaffold1_266
+T4_scaffold1_267
+T4_scaffold1_268
+T4_scaffold1_269
+T4_scaffold1_270
+T4_scaffold1_271	K03625
+T4_scaffold1_272	K00794
+T4_scaffold1_273	K14652
+T4_scaffold1_274	K00793
+T4_scaffold1_275	K11752
+T4_scaffold1_276	K07738
+T4_scaffold1_277	K01808
+T4_scaffold1_278	K02911
+T4_scaffold1_279	K07040
+T4_scaffold1_280
+T4_scaffold1_281
+T4_scaffold1_282
+T4_scaffold1_283
+T4_scaffold1_284	K01869
+T4_scaffold1_285
+T4_scaffold1_286
+T4_scaffold1_287
+T4_scaffold1_288
+T4_scaffold1_289	K15725
+T4_scaffold1_290
+T4_scaffold1_291
+T4_scaffold1_292
+T4_scaffold1_293
+T4_scaffold1_294	K15738
+T4_scaffold1_295	K06975
+T4_scaffold1_296	K11381
+T4_scaffold1_297
+T4_scaffold1_298
+T4_scaffold1_299
+T4_scaffold1_300
+T4_scaffold1_301
+T4_scaffold1_302
+T4_scaffold1_303
+T4_scaffold1_304
+T4_scaffold1_305	K01724
+T4_scaffold1_306
+T4_scaffold1_307	K01142
+T4_scaffold1_308	K13049
+T4_scaffold1_309	K07566
+T4_scaffold1_310
+T4_scaffold1_311
+T4_scaffold1_312
+T4_scaffold1_313
+T4_scaffold1_314	K06950
+T4_scaffold1_315
+T4_scaffold1_316
+T4_scaffold1_317
+T4_scaffold1_318
+T4_scaffold1_319
+T4_scaffold1_320
+T4_scaffold1_321
+T4_scaffold1_322
+T4_scaffold1_323
+T4_scaffold1_324	K03704
+T4_scaffold1_325
+T4_scaffold1_326
+T4_scaffold1_327
+T4_scaffold1_328
+T4_scaffold1_329	K12410
+T4_scaffold1_330
+T4_scaffold1_331
+T4_scaffold1_332
+T4_scaffold1_333
+T4_scaffold1_334
+T4_scaffold1_335
+T4_scaffold1_336
+T4_scaffold1_337	K02897
+T4_scaffold1_338	K01056
+T4_scaffold1_339
+T4_scaffold1_340	K02990
+T4_scaffold1_341	K02939
+T4_scaffold1_342
+T4_scaffold1_343
+T4_scaffold1_344	K01055
+T4_scaffold1_345
+T4_scaffold1_346
+T4_scaffold1_347
+T4_scaffold1_348
+T4_scaffold1_349
+T4_scaffold1_350
+T4_scaffold1_351	K01992
+T4_scaffold1_352	K01990
+T4_scaffold1_353
+T4_scaffold1_354
+T4_scaffold1_355	K03424
+T4_scaffold1_356
+T4_scaffold1_357	K01874
+T4_scaffold1_358
+T4_scaffold1_359	K02341
+T4_scaffold1_360	K04771
+T4_scaffold1_361
+T4_scaffold1_362
+T4_scaffold1_363	K16171
+T4_scaffold1_364	K01800
+T4_scaffold1_365	K02348
+T4_scaffold1_366
+T4_scaffold1_367	K06199
+T4_scaffold1_368	K06199
+T4_scaffold1_369
+T4_scaffold1_370
+T4_scaffold1_371
+T4_scaffold1_372
+T4_scaffold1_373
+T4_scaffold1_374
+T4_scaffold1_375
+T4_scaffold1_376
+T4_scaffold1_377
+T4_scaffold1_378
+T4_scaffold1_379
+T4_scaffold1_380
+T4_scaffold1_381
+T4_scaffold1_382	K04487
+T4_scaffold1_383	K00566
+T4_scaffold1_384	K03685
+T4_scaffold1_385	K03116
+T4_scaffold1_386
+T4_scaffold1_387	K00942
+T4_scaffold1_388
+T4_scaffold1_389
+T4_scaffold1_390
+T4_scaffold1_391	K09022
+T4_scaffold1_392	K03696
+T4_scaffold1_393
+T4_scaffold1_394	K00969
+T4_scaffold1_395
+T4_scaffold1_396
+T4_scaffold1_397	K03496
+T4_scaffold1_398	K15777
+T4_scaffold1_399
+T4_scaffold1_400
+T4_scaffold1_401
+T4_scaffold1_402
+T4_scaffold1_403
+T4_scaffold1_404
+T4_scaffold1_405
+T4_scaffold1_406
+T4_scaffold1_407	K04043
+T4_scaffold1_408
+T4_scaffold1_409	K00821
+T4_scaffold1_410	K03667
+T4_scaffold1_411	K01419
+T4_scaffold1_412	K03733
+T4_scaffold1_413	K00951
+T4_scaffold1_414	K18831
+T4_scaffold1_415	K19166
+T4_scaffold1_416
+T4_scaffold1_417
+T4_scaffold1_418
+T4_scaffold1_419
+T4_scaffold1_420	K03978
+T4_scaffold1_421	K03789
+T4_scaffold1_422	K00948
+T4_scaffold1_423
+T4_scaffold1_424
+T4_scaffold1_425
+T4_scaffold1_426	K00783
+T4_scaffold1_427	K09710
+T4_scaffold1_428	K00147
+T4_scaffold1_429	K04078
+T4_scaffold1_430	K04077
+T4_scaffold1_431	K12132
+T4_scaffold1_432	K12132
+T4_scaffold1_433	K03769
+T4_scaffold1_434
+T4_scaffold1_435
+T4_scaffold1_436	K01738
+T4_scaffold1_437	K03636
+T4_scaffold1_438	K12339
+T4_scaffold1_439
+T4_scaffold1_440
+T4_scaffold1_441
+T4_scaffold1_442
+T4_scaffold1_443
+T4_scaffold1_444
+T4_scaffold1_445
+T4_scaffold1_446	K06076
+T4_scaffold1_447
+T4_scaffold1_448
+T4_scaffold1_449	K01613
+T4_scaffold1_450
+T4_scaffold1_451
+T4_scaffold1_452	K05592
+T4_scaffold1_453
+T4_scaffold1_454	K02520
+T4_scaffold1_455	K02916
+T4_scaffold1_456	K02887
+T4_scaffold1_457	K01889
+T4_scaffold1_458	K01890
+T4_scaffold1_459	K04764
+T4_scaffold1_460
+T4_scaffold1_461	K03086
+T4_scaffold1_462	K12132
+T4_scaffold1_463
+T4_scaffold1_464	K03230
+T4_scaffold1_465
+T4_scaffold1_466
+T4_scaffold1_467
+T4_scaffold1_468
+T4_scaffold1_469	K00762
+T4_scaffold1_470
+T4_scaffold1_471
+T4_scaffold1_472
+T4_scaffold1_473
+T4_scaffold1_474
+T4_scaffold1_475	K06076
+T4_scaffold1_476
+T4_scaffold1_477
+T4_scaffold1_478
+T4_scaffold1_479	K02558
+T4_scaffold1_480
+T4_scaffold1_481	K12132
+T4_scaffold1_482
+T4_scaffold1_483	K09744
+T4_scaffold1_484
+T4_scaffold1_485
+T4_scaffold1_486
+T4_scaffold1_487
+T4_scaffold1_488
+T4_scaffold1_489
+T4_scaffold1_490
+T4_scaffold1_491
+T4_scaffold1_492
+T4_scaffold1_493
+T4_scaffold1_494
+T4_scaffold1_495	K03575
+T4_scaffold1_496	K00558
+T4_scaffold1_497
+T4_scaffold1_498
+T4_scaffold1_499
+T4_scaffold1_500
+T4_scaffold1_501
+T4_scaffold1_502
+T4_scaffold1_503
+T4_scaffold1_504
+T4_scaffold1_505
+T4_scaffold1_506
+T4_scaffold1_507	K10716
+T4_scaffold1_508
+T4_scaffold1_509
+T4_scaffold1_510	K14445
+T4_scaffold1_511
+T4_scaffold1_512
+T4_scaffold1_513
+T4_scaffold1_514
+T4_scaffold1_515	K06911
+T4_scaffold1_516
+T4_scaffold1_517
+T4_scaffold1_518	K07090
+T4_scaffold1_519	K07386
+T4_scaffold1_520
+T4_scaffold1_521
+T4_scaffold1_522
+T4_scaffold1_523	K00573
+T4_scaffold1_524	K06975
+T4_scaffold1_525	K01845
+T4_scaffold1_526	K01772
+T4_scaffold1_527	K01698
+T4_scaffold1_528	K00231
+T4_scaffold1_529	K01599
+T4_scaffold1_530
+T4_scaffold1_531	K01749
+T4_scaffold1_532	K02492
+T4_scaffold1_533
+T4_scaffold1_534	K11206
+T4_scaffold1_535	K09748
+T4_scaffold1_536	K02600
+T4_scaffold1_537	K07742
+T4_scaffold1_538	K02519
+T4_scaffold1_539	K02834
+T4_scaffold1_540	K06881
+T4_scaffold1_541	K03177
+T4_scaffold1_542
+T4_scaffold1_543	K06959
+T4_scaffold1_544	K00384
+T4_scaffold1_545
+T4_scaffold1_546	K01915
+T4_scaffold1_547	K04751
+T4_scaffold1_548
+T4_scaffold1_549	K00262
+T4_scaffold1_550
+T4_scaffold1_551
+T4_scaffold1_552
+T4_scaffold1_553
+T4_scaffold1_554
+T4_scaffold1_555
+T4_scaffold1_556	K00335
+T4_scaffold1_557	K00339
+T4_scaffold1_558	K00340
+T4_scaffold1_559	K00341
+T4_scaffold1_560	K00342
+T4_scaffold1_561	K00343
+T4_scaffold1_562
+T4_scaffold1_563	K14058
+T4_scaffold1_564	K03466
+T4_scaffold1_565	K02355
+T4_scaffold1_566	K19784
+T4_scaffold1_567
+T4_scaffold1_568
+T4_scaffold1_569	K07095
+T4_scaffold1_570	K21552
+T4_scaffold1_571
+T4_scaffold1_572	K15977
+T4_scaffold1_573	K01604
+T4_scaffold1_574
+T4_scaffold1_575	K03497
+T4_scaffold1_576	K03496
+T4_scaffold1_577
+T4_scaffold1_578
+T4_scaffold1_579	K07444
+T4_scaffold1_580	K06911
+T4_scaffold1_581
+T4_scaffold1_582	K01424
+T4_scaffold1_583	K07661
+T4_scaffold1_584
+T4_scaffold1_585
+T4_scaffold1_586
+T4_scaffold1_587	K05569
+T4_scaffold1_588	K05570
+T4_scaffold1_589	K05571
+T4_scaffold1_590
+T4_scaffold1_591
+T4_scaffold1_592	K05567
+T4_scaffold1_593
+T4_scaffold1_594	K05568
+T4_scaffold1_595
+T4_scaffold1_596	K04773
+T4_scaffold1_597
+T4_scaffold1_598	K07323
+T4_scaffold1_599
+T4_scaffold1_600	K02283
+T4_scaffold1_601	K10823
+T4_scaffold1_602	K02031
+T4_scaffold1_603	K02034
+T4_scaffold1_604	K02033
+T4_scaffold1_605	K02035
+T4_scaffold1_606	K01876
+T4_scaffold1_607
+T4_scaffold1_608	K01903
+T4_scaffold1_609	K01902
+T4_scaffold1_610	K00940
+T4_scaffold1_611	K06941
+T4_scaffold1_612
+T4_scaffold1_613
+T4_scaffold1_614	K12132
+T4_scaffold1_615	K01872
+T4_scaffold1_616
+T4_scaffold1_617
+T4_scaffold1_618
+T4_scaffold1_619
+T4_scaffold1_620	K01990
+T4_scaffold1_621
+T4_scaffold1_622
+T4_scaffold1_623	K03595
+T4_scaffold1_624	K03977
+T4_scaffold1_625	K12132
+T4_scaffold1_626
+T4_scaffold1_627
+T4_scaffold1_628	K01972
+T4_scaffold1_629
+T4_scaffold1_630	K09014
+T4_scaffold1_631	K09013
+T4_scaffold1_632	K09015
+T4_scaffold1_633	K11717
+T4_scaffold1_634	K04488
+T4_scaffold1_635
+T4_scaffold1_636	K11942
+T4_scaffold1_637	K15738
+T4_scaffold1_638
+T4_scaffold1_639
+T4_scaffold1_640	K00573
+T4_scaffold1_641	K01104
+T4_scaffold1_642
+T4_scaffold1_643
+T4_scaffold1_644	K14058
+T4_scaffold1_645
+T4_scaffold1_646
+T4_scaffold1_647
+T4_scaffold1_648
+T4_scaffold1_649
+T4_scaffold1_650	K03562
+T4_scaffold1_651	K03560
+T4_scaffold1_652
+T4_scaffold1_653	K03641
+T4_scaffold1_654	K03640
+T4_scaffold1_655
+T4_scaffold1_656
+T4_scaffold1_657	K06169
+T4_scaffold1_658	K04773
+T4_scaffold1_659
+T4_scaffold1_660
+T4_scaffold1_661
+T4_scaffold1_662
+T4_scaffold1_663	K06889
+T4_scaffold1_664
+T4_scaffold1_665	K00029
+T4_scaffold1_666
+T4_scaffold1_667
+T4_scaffold1_668
+T4_scaffold1_669	K03704
+T4_scaffold1_670
+T4_scaffold1_671	K03704
+T4_scaffold1_672
+T4_scaffold1_673
+T4_scaffold1_674
+T4_scaffold1_675
+T4_scaffold1_676	K07019
+T4_scaffold1_677	K03628
+T4_scaffold1_678
+T4_scaffold1_679
+T4_scaffold1_680
+T4_scaffold1_681
+T4_scaffold1_682
+T4_scaffold1_683	K12132
+T4_scaffold1_684	K07137
+T4_scaffold1_685
+T4_scaffold1_686
+T4_scaffold1_687
+T4_scaffold1_688
+T4_scaffold1_689	K03687
+T4_scaffold1_690
+T4_scaffold1_691
+T4_scaffold1_692	K07027
+T4_scaffold1_693	K03705
+T4_scaffold1_694	K03687
+T4_scaffold1_695	K04043
+T4_scaffold1_696	K03686
+T4_scaffold1_697
+T4_scaffold1_698
+T4_scaffold1_699
+T4_scaffold1_700	K00946
+T4_scaffold1_701
+T4_scaffold1_702
+T4_scaffold1_703
+T4_scaffold1_704
+T4_scaffold1_705	K01575
+T4_scaffold1_706	K01061
+T4_scaffold1_707
+T4_scaffold1_708	K03457
+T4_scaffold1_709	K17722
+T4_scaffold1_710	K17723
+T4_scaffold1_711	K01464
+T4_scaffold1_712	K00140
+T4_scaffold1_713	K15372
+T4_scaffold1_714
+T4_scaffold1_715	K00666
+T4_scaffold1_716	K21600
+T4_scaffold1_717	K17686
+T4_scaffold1_718
+T4_scaffold1_719
+T4_scaffold1_720
+T4_scaffold1_721	K19591
+T4_scaffold1_722
+T4_scaffold1_723
+T4_scaffold1_724	K16264
+T4_scaffold1_725	K15726
+T4_scaffold1_726	K15727
+T4_scaffold1_727	K15725
+T4_scaffold1_728
+T4_scaffold1_729	K21903
+T4_scaffold1_730
+T4_scaffold1_731
+T4_scaffold1_732
+T4_scaffold1_733
+T4_scaffold1_734
+T4_scaffold1_735
+T4_scaffold2_1	K01754
+T4_scaffold2_2
+T4_scaffold2_3
+T4_scaffold2_4
+T4_scaffold2_5	K03775
+T4_scaffold2_6
+T4_scaffold2_7	K02342
+T4_scaffold2_8
+T4_scaffold2_9
+T4_scaffold2_10	K09800
+T4_scaffold2_11	K07277
+T4_scaffold2_12
+T4_scaffold2_13
+T4_scaffold2_14
+T4_scaffold2_15	K09888
+T4_scaffold2_16	K01934
+T4_scaffold2_17	K18682
+T4_scaffold2_18	K01866
+T4_scaffold2_19
+T4_scaffold2_20
+T4_scaffold2_21	K01737
+T4_scaffold2_22	K00547
+T4_scaffold2_22	K00297
+T4_scaffold2_23	K01738
+T4_scaffold2_24	K00640
+T4_scaffold2_25
+T4_scaffold2_26
+T4_scaffold2_27
+T4_scaffold2_28
+T4_scaffold2_29
+T4_scaffold2_30
+T4_scaffold2_31
+T4_scaffold2_32
+T4_scaffold2_33
+T4_scaffold2_34
+T4_scaffold2_35
+T4_scaffold2_36
+T4_scaffold2_37
+T4_scaffold2_38
+T4_scaffold2_39
+T4_scaffold2_40
+T4_scaffold2_41
+T4_scaffold2_42
+T4_scaffold2_43	K05807
+T4_scaffold2_44	K02996
+T4_scaffold2_45	K02871
+T4_scaffold2_46
+T4_scaffold2_47
+T4_scaffold2_48
+T4_scaffold2_49
+T4_scaffold2_50	K03106
+T4_scaffold2_51
+T4_scaffold2_52
+T4_scaffold2_53	K03664
+T4_scaffold2_54
+T4_scaffold2_55
+T4_scaffold2_56
+T4_scaffold2_57	K03687
+T4_scaffold2_58
+T4_scaffold2_59
+T4_scaffold2_60
+T4_scaffold2_61
+T4_scaffold2_62
+T4_scaffold2_63	K01153
+T4_scaffold2_64
+T4_scaffold2_65
+T4_scaffold2_66
+T4_scaffold2_67
+T4_scaffold2_68	K09705
+T4_scaffold2_69
+T4_scaffold2_70	K07257
+T4_scaffold2_71
+T4_scaffold2_72
+T4_scaffold2_73
+T4_scaffold2_74	K03406
+T4_scaffold2_75
+T4_scaffold2_76
+T4_scaffold2_77
+T4_scaffold2_78	K06147
+T4_scaffold2_79
+T4_scaffold2_80
+T4_scaffold2_81
+T4_scaffold2_82
+T4_scaffold2_83
+T4_scaffold2_84
+T4_scaffold2_85
+T4_scaffold2_86
+T4_scaffold2_87
+T4_scaffold2_88	K19271
+T4_scaffold2_89	K01783
+T4_scaffold2_90	K03500
+T4_scaffold2_91	K00604
+T4_scaffold2_92	K01462
+T4_scaffold2_93
+T4_scaffold2_94	K07074
+T4_scaffold2_95
+T4_scaffold2_96	K12132
+T4_scaffold2_97
+T4_scaffold2_98	K07261
+T4_scaffold2_99
+T4_scaffold2_100	K16264
+T4_scaffold2_101
+T4_scaffold2_102	K13830
+T4_scaffold2_103	K06131
+T4_scaffold2_104
+T4_scaffold2_105
+T4_scaffold2_106	K02967
+T4_scaffold2_107	K02357
+T4_scaffold2_108	K09903
+T4_scaffold2_109	K02838
+T4_scaffold2_110
+T4_scaffold2_111
+T4_scaffold2_112	K05606
+T4_scaffold2_113	K10773
+T4_scaffold2_114	K07180
+T4_scaffold2_115	K09786
+T4_scaffold2_116	K06415
+T4_scaffold2_117	K00254
+T4_scaffold2_118
+T4_scaffold2_119	K00963
+T4_scaffold2_120
+T4_scaffold2_121
+T4_scaffold2_122	K03453
+T4_scaffold2_123	K00662
+T4_scaffold2_124	K04066
+T4_scaffold2_125	K03655
+T4_scaffold2_126
+T4_scaffold2_127
+T4_scaffold2_128	K12132
+T4_scaffold2_129	K14742
+T4_scaffold2_130	K11749
+T4_scaffold2_131	K00981
+T4_scaffold2_132
+T4_scaffold2_133
+T4_scaffold2_134	K00963
+T4_scaffold2_135
+T4_scaffold2_136	K17686
+T4_scaffold2_137	K13292
+T4_scaffold2_138	K01736
+T4_scaffold2_139
+T4_scaffold2_140
+T4_scaffold2_141	K04485
+T4_scaffold2_142
+T4_scaffold2_143	K15012
+T4_scaffold2_144	K15011
+T4_scaffold2_145
+T4_scaffold2_146
+T4_scaffold2_147
+T4_scaffold2_148	K12132
+T4_scaffold2_149
+T4_scaffold2_150
+T4_scaffold2_151
+T4_scaffold2_152	K03750
+T4_scaffold2_153
+T4_scaffold2_154
+T4_scaffold2_155	K09808
+T4_scaffold2_156	K12132
+T4_scaffold2_157
+T4_scaffold2_158
+T4_scaffold2_159	K03696
+T4_scaffold2_160
+T4_scaffold2_161
+T4_scaffold2_162	K03642
+T4_scaffold2_163
+T4_scaffold2_164
+T4_scaffold2_165
+T4_scaffold2_166	K01990
+T4_scaffold2_167
+T4_scaffold2_168
+T4_scaffold2_169
+T4_scaffold2_170	K02667
+T4_scaffold2_171	K02668
+T4_scaffold2_172	K02653
+T4_scaffold2_173	K02669
+T4_scaffold2_174	K02652
+T4_scaffold2_175	K01990
+T4_scaffold2_176	K01992
+T4_scaffold2_177	K06178
+T4_scaffold2_178	K06024
+T4_scaffold2_179	K05896
+T4_scaffold2_180	K04763
+T4_scaffold2_181	K00990
+T4_scaffold2_182	K06176
+T4_scaffold2_183
+T4_scaffold2_184
+T4_scaffold2_185	K00928
+T4_scaffold2_186
+T4_scaffold2_187	K12132
+T4_scaffold2_188	K00681
+T4_scaffold2_189	K07220
+T4_scaffold2_190	K03306
+T4_scaffold2_191
+T4_scaffold2_192
+T4_scaffold2_193
+T4_scaffold2_194
+T4_scaffold2_195
+T4_scaffold2_196	K03711
+T4_scaffold2_197	K03593
+T4_scaffold2_198
+T4_scaffold2_199
+T4_scaffold2_200	K00975
+T4_scaffold2_201	K12132
+T4_scaffold2_202	K01768
+T4_scaffold2_203	K07713
+T4_scaffold2_204	K02452
+T4_scaffold2_205	K02453
+T4_scaffold2_206	K02454
+T4_scaffold2_207	K02455
+T4_scaffold2_208	K02456
+T4_scaffold2_209	K02456
+T4_scaffold2_210
+T4_scaffold2_211
+T4_scaffold2_212	K02459
+T4_scaffold2_213	K02460
+T4_scaffold2_214
+T4_scaffold2_215
+T4_scaffold2_216
+T4_scaffold2_217	K03701
+T4_scaffold2_218
+T4_scaffold2_219
+T4_scaffold2_220	K12132
+T4_scaffold2_221
+T4_scaffold2_222
+T4_scaffold2_223	K03555
+T4_scaffold2_224
+T4_scaffold2_225
+T4_scaffold2_226
+T4_scaffold2_227
+T4_scaffold2_228
+T4_scaffold2_229
+T4_scaffold2_230
+T4_scaffold2_231
+T4_scaffold2_232
+T4_scaffold2_233
+T4_scaffold2_234
+T4_scaffold2_235	K02200
+T4_scaffold2_236	K02945
+T4_scaffold2_237
+T4_scaffold2_238
+T4_scaffold2_239
+T4_scaffold2_240	K00232
+T4_scaffold2_241
+T4_scaffold2_242
+T4_scaffold2_243
+T4_scaffold2_244	K01951
+T4_scaffold2_245
+T4_scaffold2_246
+T4_scaffold2_247
+T4_scaffold2_248
+T4_scaffold2_249
+T4_scaffold2_250	K12132
+T4_scaffold2_251	K07126
+T4_scaffold2_252
+T4_scaffold2_253	K03885
+T4_scaffold2_254	K01087
+T4_scaffold2_255	K01438
+T4_scaffold2_256
+T4_scaffold2_257	K21071
+T4_scaffold2_258	K07098
+T4_scaffold2_259	K04083
+T4_scaffold2_260	K08764
+T4_scaffold2_261
+T4_scaffold2_262
+T4_scaffold2_263
+T4_scaffold2_264
+T4_scaffold2_265
+T4_scaffold2_266
+T4_scaffold2_267
+T4_scaffold2_268
+T4_scaffold2_269	K03594
+T4_scaffold2_270
+T4_scaffold2_271
+T4_scaffold2_272
+T4_scaffold2_273
+T4_scaffold2_274
+T4_scaffold2_275
+T4_scaffold2_276
+T4_scaffold2_277
+T4_scaffold2_278
+T4_scaffold2_279
+T4_scaffold2_280
+T4_scaffold2_281
+T4_scaffold2_282
+T4_scaffold2_283
+T4_scaffold2_284	K02003
+T4_scaffold2_285
+T4_scaffold2_286
+T4_scaffold2_287	K01755
+T4_scaffold2_288	K00145
+T4_scaffold2_289	K22478
+T4_scaffold2_290	K11741
+T4_scaffold2_291
+T4_scaffold2_292	K01438
+T4_scaffold2_293	K01940
+T4_scaffold2_294	K09065
+T4_scaffold2_295	K20074
+T4_scaffold2_296	K00024
+T4_scaffold2_297
+T4_scaffold2_298	K03769
+T4_scaffold2_299	K03703
+T4_scaffold2_300
+T4_scaffold2_301
+T4_scaffold2_302
+T4_scaffold2_303
+T4_scaffold2_304	K01070
+T4_scaffold2_305	K00121
+T4_scaffold2_306	K23239
+T4_scaffold2_307	K00554
+T4_scaffold2_308	K02860
+T4_scaffold2_309	K06960
+T4_scaffold2_310	K02959
+T4_scaffold2_311	K07390
+T4_scaffold2_312
+T4_scaffold2_313	K07516
+T4_scaffold2_314	K00632
+T4_scaffold2_315	K03642
+T4_scaffold2_316
+T4_scaffold2_317
+T4_scaffold2_318
+T4_scaffold2_319	K01066
+T4_scaffold2_320	K01843
+T4_scaffold2_321
+T4_scaffold2_322	K02884
+T4_scaffold2_323
+T4_scaffold2_324	K03470
+T4_scaffold2_325	K07460
+T4_scaffold2_326
+T4_scaffold2_327
+T4_scaffold2_328
+T4_scaffold2_329
+T4_scaffold2_330
+T4_scaffold2_331
+T4_scaffold2_332
+T4_scaffold2_333
+T4_scaffold2_334
+T4_scaffold2_335
+T4_scaffold2_336	K07056
+T4_scaffold2_337
+T4_scaffold2_338
+T4_scaffold2_339
+T4_scaffold2_340
+T4_scaffold2_341
+T4_scaffold2_342	K12132
+T4_scaffold2_343
+T4_scaffold2_344	K03575
+T4_scaffold2_345	K06131
+T4_scaffold2_346	K03724
+T4_scaffold2_347
+T4_scaffold2_348
+T4_scaffold2_349
+T4_scaffold2_350
+T4_scaffold2_351	K00528
+T4_scaffold2_352
+T4_scaffold2_353
+T4_scaffold2_354
+T4_scaffold2_355
+T4_scaffold2_356
+T4_scaffold2_357	K00259
+T4_scaffold2_358	K03088
+T4_scaffold2_359
+T4_scaffold2_360
+T4_scaffold2_361
+T4_scaffold2_362
+T4_scaffold2_363	K00261
+T4_scaffold2_364	K01473
+T4_scaffold2_365	K01474
+T4_scaffold2_366
+T4_scaffold2_367	K12132
+T4_scaffold2_368	K03215
+T4_scaffold2_369
+T4_scaffold2_370
+T4_scaffold2_371
+T4_scaffold2_372	K00948
+T4_scaffold2_373	K09761
+T4_scaffold2_374	K02687
+T4_scaffold2_375
+T4_scaffold2_376	K00215
+T4_scaffold2_377	K01714
+T4_scaffold2_378	K03657
+T4_scaffold2_379
+T4_scaffold2_380
+T4_scaffold2_381
+T4_scaffold2_382
+T4_scaffold2_383	K00091
+T4_scaffold2_384	K01897
+T4_scaffold2_385
+T4_scaffold2_386
+T4_scaffold2_387	K02806
+T4_scaffold2_388	K03321
+T4_scaffold2_389	K01431
+T4_scaffold2_390
+T4_scaffold2_391	K09927
+T4_scaffold2_392	K01673
+T4_scaffold2_393
+T4_scaffold2_394
+T4_scaffold2_395
+T4_scaffold2_396	K00135
+T4_scaffold2_397
+T4_scaffold2_398
+T4_scaffold2_399
+T4_scaffold2_400
+T4_scaffold2_401
+T4_scaffold2_402
+T4_scaffold2_403
+T4_scaffold2_404	K01153
+T4_scaffold2_405
+T4_scaffold2_406	K01154
+T4_scaffold2_407	K03427
+T4_scaffold2_408
+T4_scaffold2_409
+T4_scaffold2_410
+T4_scaffold2_411
+T4_scaffold2_412
+T4_scaffold2_413
+T4_scaffold2_414	K03781
+T4_scaffold2_415
+T4_scaffold2_416
+T4_scaffold2_417	K03385
+T4_scaffold2_418	K15876
+T4_scaffold2_419
+T4_scaffold2_420
+T4_scaffold2_421
+T4_scaffold2_422	K06894
+T4_scaffold2_423
+T4_scaffold2_424
+T4_scaffold2_425
+T4_scaffold2_426
+T4_scaffold2_427	K01299
+T4_scaffold2_428
+T4_scaffold2_429
+T4_scaffold2_430
+T4_scaffold2_431	K01696
+T4_scaffold2_432	K01695
+T4_scaffold2_433	K05802
+T4_scaffold2_434
+T4_scaffold2_435
+T4_scaffold2_436
+T4_scaffold2_437
+T4_scaffold2_438	K07114
+T4_scaffold2_439	K07053
+T4_scaffold2_440	K02346
+T4_scaffold2_441
+T4_scaffold2_442	K07497
+T4_scaffold2_443
+T4_scaffold2_444
+T4_scaffold2_445
+T4_scaffold2_446
+T4_scaffold2_447
+T4_scaffold2_448	K07497
+T4_scaffold2_449
+T4_scaffold2_450
+T4_scaffold2_451
+T4_scaffold2_452
+T4_scaffold2_453
+T4_scaffold2_454	K11991
+T4_scaffold2_455
+T4_scaffold2_456
+T4_scaffold2_457	K01868
+T4_scaffold2_458
+T4_scaffold2_459
+T4_scaffold2_460
+T4_scaffold2_461	K03640
+T4_scaffold2_462
+T4_scaffold2_463
+T4_scaffold2_464
+T4_scaffold2_465	K01092
+T4_scaffold2_466
+T4_scaffold2_467	K01297
+T4_scaffold2_468
+T4_scaffold2_469
+T4_scaffold2_470
+T4_scaffold2_471	K00971
+T4_scaffold2_472
+T4_scaffold2_473	K03499
+T4_scaffold2_474	K03498
+T4_scaffold2_475	K12574
+T4_scaffold2_476
+T4_scaffold2_477
+T4_scaffold2_478	K07192
+T4_scaffold2_479	K07192
+T4_scaffold2_480
+T4_scaffold2_481	K07114
+T4_scaffold2_482	K07114
+T4_scaffold2_483
+T4_scaffold2_484
+T4_scaffold2_485	K03924
+T4_scaffold2_486	K03469
+T4_scaffold2_487
+T4_scaffold2_488	K02502
+T4_scaffold2_489	K00765
+T4_scaffold2_490
+T4_scaffold2_491
+T4_scaffold2_492
+T4_scaffold2_493
+T4_scaffold2_494
+T4_scaffold2_495	K07277
+T4_scaffold2_496	K12132
+T4_scaffold2_497	K12132
+T4_scaffold2_498
+T4_scaffold2_499
+T4_scaffold2_500
+T4_scaffold2_501
+T4_scaffold2_502
+T4_scaffold2_503	K03924
+T4_scaffold2_504
+T4_scaffold2_505
+T4_scaffold2_506
+T4_scaffold2_507
+T4_scaffold2_508
+T4_scaffold2_509	K03787
+T4_scaffold2_510	K00759
+T4_scaffold2_511
+T4_scaffold2_512	K14998
+T4_scaffold2_513
+T4_scaffold2_514	K02258
+T4_scaffold2_515	K02257
+T4_scaffold2_516
+T4_scaffold2_517	K02276
+T4_scaffold2_518	K02274
+T4_scaffold2_519	K02275
+T4_scaffold2_520
+T4_scaffold2_521
+T4_scaffold2_522
+T4_scaffold2_523
+T4_scaffold2_524	K00185
+T4_scaffold2_525	K00184
+T4_scaffold2_526
+T4_scaffold2_527
+T4_scaffold2_528
+T4_scaffold2_529
+T4_scaffold2_530	K03634
+T4_scaffold2_531
+T4_scaffold2_532	K06940
+T4_scaffold2_533
+T4_scaffold2_534
+T4_scaffold2_535
+T4_scaffold2_536	K17758
+T4_scaffold2_536	K17759
+T4_scaffold2_537	K03474
+T4_scaffold2_538	K03431
+T4_scaffold2_539
+T4_scaffold2_540	K18672
+T4_scaffold2_541	K00796
+T4_scaffold2_542	K03798
+T4_scaffold2_543	K04075
+T4_scaffold2_544
+T4_scaffold2_545
+T4_scaffold2_546
+T4_scaffold2_547	K03676
+T4_scaffold2_548	K04773
+T4_scaffold2_549
+T4_scaffold2_550	K03601
+T4_scaffold2_551	K03602
+T4_scaffold2_552
+T4_scaffold2_553
+T4_scaffold2_554
+T4_scaffold2_555	K08974
+T4_scaffold2_556
+T4_scaffold2_557
+T4_scaffold2_558
+T4_scaffold2_559
+T4_scaffold2_560
+T4_scaffold2_561	K09005
+T4_scaffold2_562
+T4_scaffold2_563
+T4_scaffold2_564
+T4_scaffold2_565	K03088
+T4_scaffold2_566	K03686
+T4_scaffold2_567
+T4_scaffold2_568
+T4_scaffold2_569	K12132
+T4_scaffold2_570
+T4_scaffold2_571	K00338
+T4_scaffold2_572	K00337
+T4_scaffold2_573	K00336
+T4_scaffold2_574	K00333
+T4_scaffold2_575	K00332
+T4_scaffold2_576	K00331
+T4_scaffold2_577	K00330
+T4_scaffold2_578	K01356
+T4_scaffold2_579
+T4_scaffold2_580	K03572
+T4_scaffold2_581	K00791
+T4_scaffold2_582	K00817
+T4_scaffold2_583	K00945
+T4_scaffold2_584
+T4_scaffold2_585
+T4_scaffold2_586
+T4_scaffold2_587	K02945
+T4_scaffold2_588
+T4_scaffold2_589
+T4_scaffold2_590	K01758
+T4_scaffold2_591	K09800
+T4_scaffold2_592
+T4_scaffold2_593	K12132
+T4_scaffold2_594
+T4_scaffold2_595	K07051
+T4_scaffold2_596
+T4_scaffold2_597	K02528
+T4_scaffold2_598
+T4_scaffold2_599
+T4_scaffold2_600
+T4_scaffold2_601
+T4_scaffold2_602
+T4_scaffold2_603	K14645
+T4_scaffold2_604
+T4_scaffold2_605
+T4_scaffold2_606
+T4_scaffold2_607
+T4_scaffold2_608
+T4_scaffold2_609	K09158
+T4_scaffold2_610
+T4_scaffold2_611	K12132
+T4_scaffold2_612
+T4_scaffold2_613	K01069
+T4_scaffold2_614
+T4_scaffold2_615
+T4_scaffold2_616	K02066
+T4_scaffold2_617	K02067
+T4_scaffold2_618
+T4_scaffold2_619	K12132
+T4_scaffold2_620
+T4_scaffold2_621	K06207
+T4_scaffold2_622
+T4_scaffold2_623	K07090
+T4_scaffold2_624	K05366
+T4_scaffold2_625
+T4_scaffold2_626	K03924
+T4_scaffold2_627
+T4_scaffold2_628
+T4_scaffold2_629
+T4_scaffold2_630	K03442
+T4_scaffold2_631
+T4_scaffold2_632	K04043
+T4_scaffold2_633
+T4_scaffold2_634
+T4_scaffold2_635	K02340
+T4_scaffold2_636
+T4_scaffold2_637	K02968
+T4_scaffold2_638
+T4_scaffold2_639	K03798
+T4_scaffold2_640
+T4_scaffold2_641
+T4_scaffold2_642
+T4_scaffold2_643	K07574
+T4_scaffold2_644
+T4_scaffold2_645
+T4_scaffold2_646	K00858
+T4_scaffold2_647
+T4_scaffold2_648
+T4_scaffold2_649
+T4_scaffold2_650
+T4_scaffold2_651	K07443
+T4_scaffold2_652
+T4_scaffold2_653	K01885
+T4_scaffold2_654
+T4_scaffold3_1
+T4_scaffold3_2
+T4_scaffold3_3	K00012
+T4_scaffold3_4
+T4_scaffold3_5	K03325
+T4_scaffold3_6	K03741
+T4_scaffold3_7
+T4_scaffold3_8	K18939
+T4_scaffold3_9
+T4_scaffold3_10
+T4_scaffold3_11
+T4_scaffold3_12
+T4_scaffold3_13
+T4_scaffold3_14
+T4_scaffold3_15
+T4_scaffold3_16
+T4_scaffold3_17
+T4_scaffold3_18
+T4_scaffold3_19	K06886
+T4_scaffold3_20
+T4_scaffold3_21
+T4_scaffold3_22
+T4_scaffold3_23	K05520
+T4_scaffold3_24
+T4_scaffold3_25
+T4_scaffold3_26
+T4_scaffold3_27	K01697
+T4_scaffold3_28	K04487
+T4_scaffold3_29
+T4_scaffold3_30
+T4_scaffold3_31	K03919
+T4_scaffold3_32
+T4_scaffold3_33
+T4_scaffold3_34
+T4_scaffold3_35
+T4_scaffold3_36	K06917
+T4_scaffold3_37	K01008
+T4_scaffold3_38
+T4_scaffold3_39
+T4_scaffold3_40	K11209
+T4_scaffold3_41
+T4_scaffold3_42
+T4_scaffold3_43	K00799
+T4_scaffold3_44
+T4_scaffold3_45
+T4_scaffold3_46	K03932
+T4_scaffold3_47	K00663
+T4_scaffold3_48
+T4_scaffold3_49
+T4_scaffold3_50
+T4_scaffold3_51	K06872
+T4_scaffold3_52	K06872
+T4_scaffold3_53	K06872
+T4_scaffold3_54
+T4_scaffold3_55
+T4_scaffold3_56
+T4_scaffold3_57	K07755
+T4_scaffold3_58
+T4_scaffold3_59	K02020
+T4_scaffold3_60	K02018
+T4_scaffold3_61	K02017
+T4_scaffold3_62
+T4_scaffold3_63
+T4_scaffold3_64
+T4_scaffold3_65	K01673
+T4_scaffold3_66
+T4_scaffold3_67
+T4_scaffold3_68
+T4_scaffold3_69
+T4_scaffold3_70	K06203
+T4_scaffold3_71
+T4_scaffold3_72
+T4_scaffold3_73
+T4_scaffold3_74	K06949
+T4_scaffold3_75
+T4_scaffold3_76	K11259
+T4_scaffold3_77	K00253
+T4_scaffold3_78	K05539
+T4_scaffold3_79
+T4_scaffold3_80
+T4_scaffold3_81	K02259
+T4_scaffold3_82	K01893
+T4_scaffold3_83
+T4_scaffold3_84	K06180
+T4_scaffold3_85	K00077
+T4_scaffold3_86
+T4_scaffold3_87
+T4_scaffold3_88	K07394
+T4_scaffold3_89	K07010
+T4_scaffold3_90	K03216
+T4_scaffold3_91
+T4_scaffold3_92	K06180
+T4_scaffold3_93
+T4_scaffold3_94
+T4_scaffold3_95
+T4_scaffold3_96
+T4_scaffold3_97
+T4_scaffold3_98
+T4_scaffold3_99
+T4_scaffold3_100
+T4_scaffold3_101
+T4_scaffold3_102	K03925
+T4_scaffold3_103	K03438
+T4_scaffold3_104
+T4_scaffold3_105	K03587
+T4_scaffold3_106	K01928
+T4_scaffold3_107	K01929
+T4_scaffold3_108	K01000
+T4_scaffold3_109	K03588
+T4_scaffold3_110	K02563
+T4_scaffold3_111	K00075
+T4_scaffold3_112	K01921
+T4_scaffold3_113	K03589
+T4_scaffold3_114	K03590
+T4_scaffold3_115	K03531
+T4_scaffold3_116	K15396
+T4_scaffold3_117
+T4_scaffold3_118
+T4_scaffold3_119	K02956
+T4_scaffold3_120	K00962
+T4_scaffold3_121
+T4_scaffold3_122
+T4_scaffold3_123
+T4_scaffold3_124	K04084
+T4_scaffold3_125
+T4_scaffold3_126	K04043
+T4_scaffold3_127
+T4_scaffold3_128	K03770
+T4_scaffold3_129	K03569
+T4_scaffold3_130	K03570
+T4_scaffold3_131
+T4_scaffold3_132	K05515
+T4_scaffold3_133	K05837
+T4_scaffold3_134
+T4_scaffold3_135
+T4_scaffold3_136	K00363
+T4_scaffold3_137
+T4_scaffold3_138
+T4_scaffold3_139
+T4_scaffold3_140	K07113
+T4_scaffold3_141	K00616
+T4_scaffold3_142	K01875
+T4_scaffold3_143	K07003
+T4_scaffold3_144	K07447
+T4_scaffold3_145	K07082
+T4_scaffold3_146
+T4_scaffold3_147
+T4_scaffold3_148
+T4_scaffold3_149	K08309
+T4_scaffold3_150
+T4_scaffold3_151
+T4_scaffold3_152
+T4_scaffold3_153	K20074
+T4_scaffold3_154	K04096
+T4_scaffold3_155
+T4_scaffold3_156
+T4_scaffold3_157	K03767
+T4_scaffold3_158
+T4_scaffold3_159
+T4_scaffold3_160
+T4_scaffold3_161
+T4_scaffold3_162	K07588
+T4_scaffold3_163
+T4_scaffold3_164	K01849
+T4_scaffold3_165
+T4_scaffold3_166	K01715
+T4_scaffold3_167	K00074
+T4_scaffold3_168	K12132
+T4_scaffold3_169
+T4_scaffold3_170	K00974
+T4_scaffold3_171
+T4_scaffold3_172
+T4_scaffold3_173	K05820
+T4_scaffold3_174
+T4_scaffold3_175	K01338
+T4_scaffold3_176	K03624
+T4_scaffold3_177	K01955
+T4_scaffold3_178	K03310
+T4_scaffold3_179
+T4_scaffold3_180
+T4_scaffold3_181	K17713
+T4_scaffold3_182	K03439
+T4_scaffold3_183
+T4_scaffold3_184
+T4_scaffold3_185
+T4_scaffold3_186
+T4_scaffold3_187
+T4_scaffold3_188
+T4_scaffold3_189	K05786
+T4_scaffold3_190
+T4_scaffold3_191
+T4_scaffold3_192	K06287
+T4_scaffold3_193	K06997
+T4_scaffold3_194	K00286
+T4_scaffold3_195	K04074
+T4_scaffold3_196
+T4_scaffold3_197
+T4_scaffold3_198	K11707
+T4_scaffold3_199	K11710
+T4_scaffold3_200	K11708
+T4_scaffold3_201	K11709
+T4_scaffold3_202	K03709
+T4_scaffold3_203
+T4_scaffold3_204	K01491
+T4_scaffold3_205	K00605
+T4_scaffold3_206	K02437
+T4_scaffold3_207	K00282
+T4_scaffold3_208	K01810
+T4_scaffold3_209
+T4_scaffold3_210	K00873
+T4_scaffold3_211
+T4_scaffold3_212
+T4_scaffold3_213
+T4_scaffold3_214
+T4_scaffold3_215
+T4_scaffold3_216
+T4_scaffold3_217	K09986
+T4_scaffold3_218
+T4_scaffold3_219
+T4_scaffold3_220
+T4_scaffold3_221
+T4_scaffold3_222
+T4_scaffold3_223	K01897
+T4_scaffold3_224
+T4_scaffold3_225	K01778
+T4_scaffold3_226
+T4_scaffold3_227
+T4_scaffold3_228	K00857
+T4_scaffold3_229	K00760
+T4_scaffold3_230
+T4_scaffold3_231
+T4_scaffold3_232
+T4_scaffold3_233	K12132
+T4_scaffold3_234	K06925
+T4_scaffold3_235
+T4_scaffold3_236	K07052
+T4_scaffold3_237
+T4_scaffold3_238
+T4_scaffold3_239
+T4_scaffold3_240
+T4_scaffold3_241
+T4_scaffold3_242
+T4_scaffold3_243
+T4_scaffold3_244
+T4_scaffold3_245	K12132
+T4_scaffold3_246
+T4_scaffold3_247
+T4_scaffold3_248	K06217
+T4_scaffold3_249
+T4_scaffold3_250
+T4_scaffold3_251	K04765
+T4_scaffold3_252
+T4_scaffold3_253
+T4_scaffold3_254
+T4_scaffold3_255	K01924
+T4_scaffold3_256	K01925
+T4_scaffold3_257
+T4_scaffold3_258	K01961
+T4_scaffold3_259	K00384
+T4_scaffold3_260	K01495
+T4_scaffold3_261	K03551
+T4_scaffold3_262	K03550
+T4_scaffold3_263	K01159
+T4_scaffold3_264	K01104
+T4_scaffold3_265	K05396
+T4_scaffold3_266
+T4_scaffold3_267	K12132
+T4_scaffold3_268
+T4_scaffold3_269	K03969
+T4_scaffold3_270	K00966
+T4_scaffold3_271
+T4_scaffold3_272	K03546
+T4_scaffold3_273	K03547
+T4_scaffold3_274
+T4_scaffold3_275	K03969
+T4_scaffold3_276	K03698
+T4_scaffold3_277	K12132
+T4_scaffold3_278	K12132
+T4_scaffold3_279
+T4_scaffold3_280	K01784
+T4_scaffold3_281
+T4_scaffold3_282
+T4_scaffold3_283
+T4_scaffold3_284
+T4_scaffold3_285
+T4_scaffold3_286	K06158
+T4_scaffold3_287
+T4_scaffold3_288
+T4_scaffold3_289
+T4_scaffold3_290
+T4_scaffold3_291
+T4_scaffold3_292
+T4_scaffold3_293
+T4_scaffold3_294	K07568
+T4_scaffold3_295	K00773
+T4_scaffold3_296	K03210
+T4_scaffold3_297	K03072
+T4_scaffold3_298	K03074
+T4_scaffold3_299	K07462
+T4_scaffold3_300
+T4_scaffold3_301
+T4_scaffold3_302
+T4_scaffold3_303
+T4_scaffold3_304
+T4_scaffold3_305
+T4_scaffold3_306	K07154
+T4_scaffold3_307	K07154
+T4_scaffold3_308
+T4_scaffold3_309	K06197
+T4_scaffold3_310	K07098
+T4_scaffold3_311
+T4_scaffold3_312
+T4_scaffold3_313
+T4_scaffold3_314
+T4_scaffold3_315
+T4_scaffold3_316	K07226
+T4_scaffold3_317
+T4_scaffold3_318	K06872
+T4_scaffold3_319	K01661
+T4_scaffold3_320	K02552
+T4_scaffold3_321	K02551
+T4_scaffold3_322	K02548
+T4_scaffold3_323
+T4_scaffold3_324	K01911
+T4_scaffold3_325	K03856
+T4_scaffold3_326	K08680
+T4_scaffold3_327
+T4_scaffold3_328
+T4_scaffold3_329
+T4_scaffold3_330
+T4_scaffold3_331	K00537
+T4_scaffold3_332
+T4_scaffold3_333
+T4_scaffold3_334	K01507
+T4_scaffold3_335
+T4_scaffold3_336
+T4_scaffold3_337
+T4_scaffold3_338
+T4_scaffold3_339
+T4_scaffold3_340
+T4_scaffold3_341	K01658
+T4_scaffold3_342	K00826
+T4_scaffold3_343	K01665
+T4_scaffold3_344
+T4_scaffold3_345
+T4_scaffold3_346
+T4_scaffold3_347
+T4_scaffold3_348	K07037
+T4_scaffold3_349	K07042
+T4_scaffold3_350	K02315
+T4_scaffold3_351	K03495
+T4_scaffold3_352	K03657
+T4_scaffold3_353
+T4_scaffold3_354
+T4_scaffold3_355
+T4_scaffold3_356
+T4_scaffold3_357
+T4_scaffold3_358
+T4_scaffold3_359	K03701
+T4_scaffold3_360
+T4_scaffold3_361	K10823
+T4_scaffold3_362	K15583
+T4_scaffold3_363	K15582
+T4_scaffold3_364	K15581
+T4_scaffold3_365	K15580
+T4_scaffold3_366
+T4_scaffold3_367	K07263
+T4_scaffold3_368
+T4_scaffold3_369
+T4_scaffold3_370
+T4_scaffold3_371	K01784
+T4_scaffold3_372	K16703
+T4_scaffold3_373	K03553
+T4_scaffold3_374	K14161
+T4_scaffold3_375	K14162
+T4_scaffold3_376
+T4_scaffold3_377
+T4_scaffold3_378
+T4_scaffold3_379
+T4_scaffold3_380	K11754
+T4_scaffold3_381
+T4_scaffold3_382	K09931
+T4_scaffold3_383
+T4_scaffold3_384
+T4_scaffold3_385
+T4_scaffold3_386	K03559
+T4_scaffold3_387	K03561
+T4_scaffold3_388
+T4_scaffold3_389	K06890
+T4_scaffold3_390
+T4_scaffold3_391
+T4_scaffold3_392
+T4_scaffold3_393
+T4_scaffold3_394
+T4_scaffold3_395
+T4_scaffold3_396
+T4_scaffold3_397	K00965
+T4_scaffold3_398	K00703
+T4_scaffold3_399	K01966
+T4_scaffold3_400	K01647
+T4_scaffold3_401
+T4_scaffold3_402
+T4_scaffold3_403	K00995
+T4_scaffold3_404
+T4_scaffold3_405	K03924
+T4_scaffold3_406
+T4_scaffold3_407
+T4_scaffold3_408
+T4_scaffold3_409
+T4_scaffold3_410
+T4_scaffold3_411	K03110
+T4_scaffold3_412	K03529
+T4_scaffold3_413
+T4_scaffold3_414
+T4_scaffold3_415	K01953
+T4_scaffold3_416
+T4_scaffold3_417
+T4_scaffold3_418	K12132
+T4_scaffold3_419	K00876
+T4_scaffold3_420
+T4_scaffold3_421	K06142
+T4_scaffold3_422	K07277
+T4_scaffold3_423	K09810
+T4_scaffold3_424	K09808
+T4_scaffold3_425	K02836
+T4_scaffold3_426	K01689
+T4_scaffold3_427
+T4_scaffold3_428
+T4_scaffold3_429	K20074
+T4_scaffold3_430	K01956
+T4_scaffold3_431	K00609
+T4_scaffold3_432	K03100
+T4_scaffold3_433	K03596
+T4_scaffold3_434
+T4_scaffold3_435	K22132
+T4_scaffold3_436	K03424
+T4_scaffold3_437
+T4_scaffold3_438	K04043
+T4_scaffold3_439
+T4_scaffold3_440	K00600
+T4_scaffold3_441
+T4_scaffold3_442
+T4_scaffold3_443
+T4_scaffold3_444
+T4_scaffold3_445
+T4_scaffold3_446	K12132
+T4_scaffold3_447
+T4_scaffold3_448	K12132
+T4_scaffold3_449	K01823
+T4_scaffold3_450	K07787
+T4_scaffold3_451	K07798
+T4_scaffold3_452
+T4_scaffold3_453
+T4_scaffold3_454
+T4_scaffold3_455	K07058
+T4_scaffold3_456	K20656
+T4_scaffold3_457	K01066
+T4_scaffold3_458	K15635
+T4_scaffold3_459
+T4_scaffold3_460
+T4_scaffold3_461
+T4_scaffold3_462	K01951
+T4_scaffold3_463
+T4_scaffold3_464
+T4_scaffold3_465
+T4_scaffold3_466
+T4_scaffold3_467
+T4_scaffold3_468	K02906
+T4_scaffold3_469
+T4_scaffold3_470
+T4_scaffold3_471
+T4_scaffold3_472	K02065
+T4_scaffold3_473	K02066
+T4_scaffold3_474	K02066
+T4_scaffold3_475
+T4_scaffold3_476	K02065
+T4_scaffold3_477	K02067
+T4_scaffold4_1
+T4_scaffold4_2
+T4_scaffold4_3
+T4_scaffold4_4
+T4_scaffold4_5	K04771
+T4_scaffold4_6	K02044
+T4_scaffold4_7	K02041
+T4_scaffold4_8	K02042
+T4_scaffold4_9	K02042
+T4_scaffold4_10
+T4_scaffold4_11
+T4_scaffold4_12	K05595
+T4_scaffold4_13
+T4_scaffold4_14
+T4_scaffold4_15
+T4_scaffold4_16
+T4_scaffold4_17
+T4_scaffold4_18	K00797
+T4_scaffold4_19
+T4_scaffold4_20
+T4_scaffold4_21
+T4_scaffold4_22
+T4_scaffold4_23
+T4_scaffold4_24
+T4_scaffold4_25
+T4_scaffold4_26
+T4_scaffold4_27
+T4_scaffold4_28
+T4_scaffold4_29
+T4_scaffold4_30
+T4_scaffold4_31
+T4_scaffold4_32	K07075
+T4_scaffold4_33
+T4_scaffold4_34
+T4_scaffold4_35	K03724
+T4_scaffold4_36
+T4_scaffold4_37
+T4_scaffold4_38
+T4_scaffold4_39
+T4_scaffold4_40
+T4_scaffold4_41
+T4_scaffold4_42
+T4_scaffold4_43
+T4_scaffold4_44
+T4_scaffold4_45
+T4_scaffold4_46
+T4_scaffold4_47
+T4_scaffold4_48
+T4_scaffold4_49
+T4_scaffold4_50
+T4_scaffold4_51	K22319
+T4_scaffold4_52
+T4_scaffold4_53
+T4_scaffold4_54	K07213
+T4_scaffold4_55	K03088
+T4_scaffold4_56
+T4_scaffold4_57
+T4_scaffold4_58	K07233
+T4_scaffold4_59
+T4_scaffold4_60
+T4_scaffold4_61
+T4_scaffold4_62	K01533
+T4_scaffold4_63
+T4_scaffold4_64
+T4_scaffold4_65
+T4_scaffold4_66
+T4_scaffold4_67
+T4_scaffold4_68
+T4_scaffold4_69
+T4_scaffold4_70
+T4_scaffold4_71
+T4_scaffold4_72
+T4_scaffold4_73
+T4_scaffold4_74
+T4_scaffold4_75	K06153
+T4_scaffold4_76
+T4_scaffold4_77
+T4_scaffold4_78	K13821
+T4_scaffold4_79
+T4_scaffold4_80
+T4_scaffold4_81
+T4_scaffold4_82
+T4_scaffold4_83	K04771
+T4_scaffold4_84
+T4_scaffold4_85	K07566
+T4_scaffold4_86
+T4_scaffold4_87	K02909
+T4_scaffold4_88
+T4_scaffold4_89	K03801
+T4_scaffold4_90	K00790
+T4_scaffold4_91	K06885
+T4_scaffold4_92
+T4_scaffold4_93
+T4_scaffold4_94
+T4_scaffold4_95
+T4_scaffold4_96
+T4_scaffold4_97	K13481
+T4_scaffold4_98	K13482
+T4_scaffold4_99	K07402
+T4_scaffold4_100
+T4_scaffold4_101
+T4_scaffold4_102	K22491
+T4_scaffold4_103	K07393
+T4_scaffold4_104
+T4_scaffold4_105
+T4_scaffold4_106
+T4_scaffold4_107
+T4_scaffold4_108	K07391
+T4_scaffold4_109	K12132
+T4_scaffold4_110
+T4_scaffold4_111
+T4_scaffold4_112	K00500
+T4_scaffold4_113
+T4_scaffold4_114
+T4_scaffold4_115
+T4_scaffold4_116
+T4_scaffold4_117
+T4_scaffold4_118
+T4_scaffold4_119	K00626
+T4_scaffold4_120
+T4_scaffold4_121	K00275
+T4_scaffold4_122	K06891
+T4_scaffold4_123	K03694
+T4_scaffold4_124	K00938
+T4_scaffold4_125	K00240
+T4_scaffold4_126	K00239
+T4_scaffold4_127	K00241
+T4_scaffold4_128
+T4_scaffold4_129	K12526
+T4_scaffold4_130
+T4_scaffold4_131	K00263
+T4_scaffold4_132
+T4_scaffold4_133	K07175
+T4_scaffold4_134
+T4_scaffold4_135
+T4_scaffold4_136	K03559
+T4_scaffold4_137
+T4_scaffold4_138	K03561
+T4_scaffold4_139
+T4_scaffold4_140
+T4_scaffold4_141
+T4_scaffold4_142
+T4_scaffold4_143
+T4_scaffold4_144
+T4_scaffold4_145
+T4_scaffold4_146	K12132
+T4_scaffold4_147
+T4_scaffold4_148
+T4_scaffold4_149
+T4_scaffold4_150
+T4_scaffold4_151
+T4_scaffold4_152
+T4_scaffold4_153
+T4_scaffold4_154	K04566
+T4_scaffold4_155	K04568
+T4_scaffold4_156	K01897
+T4_scaffold4_157
+T4_scaffold4_158	K02666
+T4_scaffold4_159	K02665
+T4_scaffold4_160	K02664
+T4_scaffold4_161	K02663
+T4_scaffold4_162	K02662
+T4_scaffold4_163	K06204
+T4_scaffold4_164
+T4_scaffold4_165
+T4_scaffold4_166	K00931
+T4_scaffold4_167
+T4_scaffold4_168	K00525
+T4_scaffold4_169	K03885
+T4_scaffold4_170
+T4_scaffold4_171
+T4_scaffold4_172	K08023
+T4_scaffold4_173
+T4_scaffold4_174
+T4_scaffold4_175
+T4_scaffold4_176
+T4_scaffold4_177	K07107
+T4_scaffold4_178	K09862
+T4_scaffold4_179
+T4_scaffold4_180	K04079
+T4_scaffold4_181
+T4_scaffold4_182
+T4_scaffold4_183	K12132
+T4_scaffold4_184	K06889
+T4_scaffold4_185
+T4_scaffold4_186
+T4_scaffold4_187
+T4_scaffold4_188
+T4_scaffold4_189
+T4_scaffold4_190
+T4_scaffold4_191
+T4_scaffold4_192
+T4_scaffold4_193
+T4_scaffold4_194
+T4_scaffold4_195	K07322
+T4_scaffold4_196
+T4_scaffold4_197
+T4_scaffold4_198	K12132
+T4_scaffold4_199
+T4_scaffold4_200
+T4_scaffold4_201
+T4_scaffold4_202	K23139
+T4_scaffold4_203
+T4_scaffold4_204
+T4_scaffold4_205
+T4_scaffold4_206
+T4_scaffold4_207
+T4_scaffold4_208
+T4_scaffold4_209
+T4_scaffold4_210
+T4_scaffold4_211	K03098
+T4_scaffold4_212
+T4_scaffold4_213	K03321
+T4_scaffold4_214
+T4_scaffold4_215
+T4_scaffold4_216
+T4_scaffold4_217
+T4_scaffold4_218
+T4_scaffold4_219
+T4_scaffold4_220
+T4_scaffold4_221
+T4_scaffold4_222	K00389
+T4_scaffold4_223
+T4_scaffold4_224
+T4_scaffold4_225
+T4_scaffold4_226
+T4_scaffold4_227
+T4_scaffold4_228
+T4_scaffold4_229
+T4_scaffold4_230
+T4_scaffold4_231
+T4_scaffold4_232
+T4_scaffold4_233	K07456
+T4_scaffold4_234
+T4_scaffold4_235
+T4_scaffold4_236
+T4_scaffold4_237
+T4_scaffold4_238	K06447
+T4_scaffold4_239
+T4_scaffold4_240	K05808
+T4_scaffold4_241	K03092
+T4_scaffold4_242
+T4_scaffold4_243
+T4_scaffold4_244
+T4_scaffold4_245
+T4_scaffold4_246
+T4_scaffold4_247
+T4_scaffold4_248	K03924
+T4_scaffold4_249
+T4_scaffold4_250
+T4_scaffold4_251
+T4_scaffold4_252
+T4_scaffold4_253
+T4_scaffold4_254
+T4_scaffold4_255	K12132
+T4_scaffold4_256
+T4_scaffold4_257
+T4_scaffold4_258	K03722
+T4_scaffold4_259
+T4_scaffold4_260	K02342
+T4_scaffold4_261
+T4_scaffold4_262	K03695
+T4_scaffold4_263
+T4_scaffold4_264	K03327
+T4_scaffold4_265
+T4_scaffold4_266
+T4_scaffold4_267	K00575
+T4_scaffold4_268	K03408
+T4_scaffold4_269
+T4_scaffold4_270	K03407
+T4_scaffold4_271	K03412
+T4_scaffold4_272
+T4_scaffold4_273
+T4_scaffold4_274
+T4_scaffold4_275
+T4_scaffold4_276	K07071
+T4_scaffold4_277
+T4_scaffold4_278
+T4_scaffold4_279
+T4_scaffold4_280	K03564
+T4_scaffold4_281
+T4_scaffold4_282
+T4_scaffold4_283
+T4_scaffold4_284	K01265
+T4_scaffold4_285
+T4_scaffold4_286
+T4_scaffold4_287	K01886
+T4_scaffold4_288
+T4_scaffold4_289
+T4_scaffold4_290
+T4_scaffold4_291
+T4_scaffold4_292
+T4_scaffold4_293
+T4_scaffold4_294
+T4_scaffold4_295	K00261
+T4_scaffold4_296
+T4_scaffold4_297	K06889
+T4_scaffold4_298
+T4_scaffold4_299
+T4_scaffold4_300
+T4_scaffold4_301
+T4_scaffold4_302
+T4_scaffold4_303
+T4_scaffold4_304
+T4_scaffold4_305	K10800
+T4_scaffold4_306
+T4_scaffold4_307
+T4_scaffold4_308
+T4_scaffold4_309
+T4_scaffold4_310
+T4_scaffold4_311	K03573
+T4_scaffold4_312
+T4_scaffold4_313	K01525
+T4_scaffold4_314	K01697
+T4_scaffold4_315
+T4_scaffold4_316
+T4_scaffold4_317
+T4_scaffold4_318
+T4_scaffold4_319
+T4_scaffold4_320
+T4_scaffold4_321	K05591
+T4_scaffold4_322
+T4_scaffold4_323	K02372
+T4_scaffold4_324	K00639
+T4_scaffold4_325
+T4_scaffold4_326
+T4_scaffold4_327	K00059
+T4_scaffold4_328
+T4_scaffold4_329
+T4_scaffold4_330	K02888
+T4_scaffold4_331	K02899
+T4_scaffold4_332	K03979
+T4_scaffold4_333
+T4_scaffold4_334
+T4_scaffold4_335
+T4_scaffold4_336
+T4_scaffold4_337
+T4_scaffold4_338
+T4_scaffold4_339
+T4_scaffold4_340	K03111
+T4_scaffold4_341
+T4_scaffold4_342
+T4_scaffold4_343
+T4_scaffold4_344	K00054
+T4_scaffold4_345
+T4_scaffold4_346
+T4_scaffold4_347
+T4_scaffold4_348	K00970
+T4_scaffold4_349
+T4_scaffold4_350
+T4_scaffold4_351
+T4_scaffold4_352
+T4_scaffold4_353	K00249
+T4_scaffold4_354
+T4_scaffold4_355	K17218
+T4_scaffold4_356
+T4_scaffold4_357
+T4_scaffold4_358
+T4_scaffold4_359	K00799
+T4_scaffold4_360
+T4_scaffold4_361
+T4_scaffold4_362
+T4_scaffold4_363
+T4_scaffold4_364
+T4_scaffold4_365
+T4_scaffold4_366
+T4_scaffold4_367
+T4_scaffold4_368	K00937
+T4_scaffold4_369
+T4_scaffold4_370	K03767
+T4_scaffold4_371
+T4_scaffold4_372	K00845
+T4_scaffold4_373	K01586
+T4_scaffold4_374
+T4_scaffold4_375
+T4_scaffold4_376
+T4_scaffold4_377
+T4_scaffold4_378
+T4_scaffold4_379
+T4_scaffold4_380
+T4_scaffold4_381
+T4_scaffold4_382	K11312
+T4_scaffold4_383
+T4_scaffold4_384	K22116
+T4_scaffold4_385
+T4_scaffold4_386
+T4_scaffold4_387
+T4_scaffold4_388	K01932
+T4_scaffold4_389
+T4_scaffold4_390	K01537
+T4_scaffold4_391
+T4_scaffold4_392
+T4_scaffold4_393
+T4_scaffold4_394
+T4_scaffold4_395
+T4_scaffold4_396
+T4_scaffold4_397
+T4_scaffold4_398
+T4_scaffold4_399
+T4_scaffold4_400
+T4_scaffold4_401
+T4_scaffold4_402
+T4_scaffold4_403
+T4_scaffold4_404
+T4_scaffold4_405	K00002
+T4_scaffold4_406
+T4_scaffold4_407
+T4_scaffold4_408	K12132
+T4_scaffold4_409
+T4_scaffold4_410	K01354
+T4_scaffold4_411
+T4_scaffold4_412
+T4_scaffold4_413
+T4_scaffold4_414
+T4_scaffold4_415
+T4_scaffold4_416
+T4_scaffold4_417
+T4_scaffold4_418
+T4_scaffold4_419
+T4_scaffold4_420
+T4_scaffold5_1
+T4_scaffold5_2
+T4_scaffold5_3
+T4_scaffold5_4
+T4_scaffold5_5	K03584
+T4_scaffold5_6	K00507
+T4_scaffold5_7	K01081
+T4_scaffold5_8
+T4_scaffold5_9
+T4_scaffold5_10
+T4_scaffold5_11
+T4_scaffold5_12
+T4_scaffold5_13
+T4_scaffold5_14
+T4_scaffold5_15	K07124
+T4_scaffold5_16
+T4_scaffold5_17
+T4_scaffold5_18	K03652
+T4_scaffold5_19	K00275
+T4_scaffold5_20	K09792
+T4_scaffold5_21	K15862
+T4_scaffold5_22
+T4_scaffold5_23	K00406
+T4_scaffold5_24
+T4_scaffold5_25
+T4_scaffold5_26	K01533
+T4_scaffold5_27
+T4_scaffold5_28
+T4_scaffold5_29
+T4_scaffold5_30
+T4_scaffold5_31	K11068
+T4_scaffold5_32	K03932
+T4_scaffold5_33
+T4_scaffold5_34
+T4_scaffold5_35	K21470
+T4_scaffold5_36
+T4_scaffold5_37
+T4_scaffold5_38
+T4_scaffold5_39	K22719
+T4_scaffold5_40
+T4_scaffold5_41
+T4_scaffold5_42
+T4_scaffold5_43
+T4_scaffold5_44	K01776
+T4_scaffold5_45
+T4_scaffold5_46
+T4_scaffold5_47
+T4_scaffold5_48
+T4_scaffold5_49
+T4_scaffold5_50	K03046
+T4_scaffold5_51	K03043
+T4_scaffold5_52
+T4_scaffold5_53
+T4_scaffold5_54	K02986
+T4_scaffold5_55
+T4_scaffold5_56
+T4_scaffold5_57
+T4_scaffold5_58
+T4_scaffold5_59	K13924
+T4_scaffold5_60
+T4_scaffold5_61
+T4_scaffold5_62	K02557
+T4_scaffold5_63
+T4_scaffold5_64
+T4_scaffold5_65
+T4_scaffold5_66	K12132
+T4_scaffold5_67
+T4_scaffold5_68	K01251
+T4_scaffold5_69
+T4_scaffold5_70
+T4_scaffold5_71
+T4_scaffold5_72
+T4_scaffold5_73
+T4_scaffold5_74	K02356
+T4_scaffold5_75
+T4_scaffold5_76
+T4_scaffold5_77
+T4_scaffold5_78
+T4_scaffold5_79
+T4_scaffold5_80
+T4_scaffold5_81	K03665
+T4_scaffold5_82
+T4_scaffold5_83
+T4_scaffold5_84
+T4_scaffold5_85
+T4_scaffold5_86
+T4_scaffold5_87
+T4_scaffold5_88
+T4_scaffold5_89	K06204
+T4_scaffold5_90	K05592
+T4_scaffold5_91
+T4_scaffold5_92	K15034
+T4_scaffold5_93	K09768
+T4_scaffold5_94
+T4_scaffold5_95
+T4_scaffold5_96
+T4_scaffold5_97
+T4_scaffold5_98	K11909
+T4_scaffold5_99
+T4_scaffold5_100	K09695
+T4_scaffold5_101	K09694
+T4_scaffold5_102
+T4_scaffold5_103
+T4_scaffold5_104	K11927
+T4_scaffold5_105	K00799
+T4_scaffold5_106
+T4_scaffold5_107	K09858
+T4_scaffold5_108
+T4_scaffold5_109	K03781
+T4_scaffold5_110	K03381
+T4_scaffold5_111	K06886
+T4_scaffold5_112	K03321
+T4_scaffold5_113	K03113
+T4_scaffold5_114
+T4_scaffold5_115
+T4_scaffold5_116	K00031
+T4_scaffold5_117
+T4_scaffold5_118	K09836
+T4_scaffold5_119	K10027
+T4_scaffold5_120	K02291
+T4_scaffold5_121	K09844
+T4_scaffold5_122	K09845
+T4_scaffold5_123	K00769
+T4_scaffold5_124
+T4_scaffold5_125
+T4_scaffold5_126	K00662
+T4_scaffold5_127
+T4_scaffold5_128
+T4_scaffold5_129
+T4_scaffold5_130
+T4_scaffold5_131
+T4_scaffold5_132
+T4_scaffold5_133
+T4_scaffold5_134	K05979
+T4_scaffold5_135	K03817
+T4_scaffold5_136
+T4_scaffold5_137
+T4_scaffold5_138
+T4_scaffold5_139
+T4_scaffold5_140
+T4_scaffold5_141
+T4_scaffold5_142
+T4_scaffold5_143	K02433
+T4_scaffold5_144	K02434
+T4_scaffold5_145	K08963
+T4_scaffold5_146
+T4_scaffold5_147
+T4_scaffold5_148
+T4_scaffold5_149
+T4_scaffold5_150
+T4_scaffold5_151
+T4_scaffold5_152
+T4_scaffold5_153
+T4_scaffold5_154
+T4_scaffold5_155	K01524
+T4_scaffold5_156
+T4_scaffold5_157	K03215
+T4_scaffold5_158	K03688
+T4_scaffold5_159
+T4_scaffold5_160	K03832
+T4_scaffold5_161	K03559
+T4_scaffold5_162	K03561
+T4_scaffold5_163	K01011
+T4_scaffold5_164	K01011
+T4_scaffold5_165
+T4_scaffold5_166
+T4_scaffold5_167
+T4_scaffold5_168
+T4_scaffold5_169
+T4_scaffold5_170
+T4_scaffold5_171	K01409
+T4_scaffold5_172
+T4_scaffold5_173
+T4_scaffold5_174
+T4_scaffold5_175
+T4_scaffold5_176
+T4_scaffold5_177
+T4_scaffold5_178
+T4_scaffold5_179	K04084
+T4_scaffold5_180
+T4_scaffold5_181
+T4_scaffold5_182	K02837
+T4_scaffold5_183	K00057
+T4_scaffold5_184
+T4_scaffold5_185	K10914
+T4_scaffold5_186
+T4_scaffold5_187	K00287
+T4_scaffold5_188	K00560
+T4_scaffold5_189
+T4_scaffold5_190	K01759
+T4_scaffold5_191
+T4_scaffold5_192
+T4_scaffold5_193	K09165
+T4_scaffold5_194	K01669
+T4_scaffold5_195	K07071
+T4_scaffold5_196
+T4_scaffold5_197
+T4_scaffold5_198
+T4_scaffold5_199
+T4_scaffold5_200
+T4_scaffold5_201	K01955
+T4_scaffold5_202
+T4_scaffold5_203	K00067
+T4_scaffold5_204
+T4_scaffold5_205	K07232
+T4_scaffold5_206
+T4_scaffold5_207
+T4_scaffold5_208	K07164
+T4_scaffold5_209
+T4_scaffold5_210	K00756
+T4_scaffold5_211	K13993
+T4_scaffold5_212
+T4_scaffold5_213
+T4_scaffold5_214
+T4_scaffold5_215
+T4_scaffold5_216
+T4_scaffold5_217
+T4_scaffold5_218
+T4_scaffold5_219	K13020
+T4_scaffold5_220	K13018
+T4_scaffold5_221
+T4_scaffold5_222	K16554
+T4_scaffold5_223
+T4_scaffold5_224
+T4_scaffold5_225	K00012
+T4_scaffold5_226	K02474
+T4_scaffold5_227	K08679
+T4_scaffold5_228
+T4_scaffold5_229
+T4_scaffold5_230	K01790
+T4_scaffold5_231	K00973
+T4_scaffold5_232	K01710
+T4_scaffold5_233
+T4_scaffold5_234
+T4_scaffold5_235
+T4_scaffold5_236
+T4_scaffold5_237
+T4_scaffold5_238
+T4_scaffold5_239
+T4_scaffold5_240
+T4_scaffold5_241	K00688
+T4_scaffold5_242
+T4_scaffold5_243	K00798
+T4_scaffold5_244
+T4_scaffold5_245	K02014
+T4_scaffold5_246	K02077
+T4_scaffold5_247	K09817
+T4_scaffold5_248	K09816
+T4_scaffold5_249
+T4_scaffold5_250
+T4_scaffold5_251
+T4_scaffold5_252
+T4_scaffold5_253
+T4_scaffold5_254
+T4_scaffold5_255
+T4_scaffold5_256
+T4_scaffold5_257
+T4_scaffold5_258
+T4_scaffold5_259	K03782
+T4_scaffold5_260	K04761
+T4_scaffold5_261	K07257
+T4_scaffold5_262	K05304
+T4_scaffold5_263
+T4_scaffold5_264
+T4_scaffold5_265	K01953
+T4_scaffold5_266	K00111
+T4_scaffold5_267
+T4_scaffold5_268
+T4_scaffold5_269
+T4_scaffold5_270
+T4_scaffold5_271
+T4_scaffold5_272
+T4_scaffold5_273
+T4_scaffold5_274
+T4_scaffold5_275
+T4_scaffold5_276
+T4_scaffold5_277
+T4_scaffold5_278	K16053
+T4_scaffold5_279
+T4_scaffold5_280
+T4_scaffold5_281
+T4_scaffold5_282	K06442
+T4_scaffold5_283	K18398
+T4_scaffold5_284
+T4_scaffold5_285	K03926
+T4_scaffold5_286	K22579
+T4_scaffold5_287	K06911
+T4_scaffold5_288	K07038
+T4_scaffold5_289
+T4_scaffold5_290
+T4_scaffold5_291
+T4_scaffold5_292
+T4_scaffold5_293
+T4_scaffold5_294
+T4_scaffold5_295
+T4_scaffold5_296
+T4_scaffold5_297
+T4_scaffold5_298	K07154
+T4_scaffold5_299
+T4_scaffold5_300
+T4_scaffold5_301
+T4_scaffold5_302
+T4_scaffold5_303
+T4_scaffold5_304
+T4_scaffold5_305
+T4_scaffold5_306
+T4_scaffold5_307
+T4_scaffold5_308
+T4_scaffold5_309
+T4_scaffold5_310
+T4_scaffold6_1
+T4_scaffold6_2	K01468
+T4_scaffold6_3
+T4_scaffold6_4
+T4_scaffold6_5
+T4_scaffold6_6
+T4_scaffold6_7
+T4_scaffold6_8
+T4_scaffold6_9
+T4_scaffold6_10
+T4_scaffold6_11
+T4_scaffold6_12
+T4_scaffold6_13	K12132
+T4_scaffold6_14
+T4_scaffold6_15	K03797
+T4_scaffold6_16	K00784
+T4_scaffold6_17	K03564
+T4_scaffold6_18	K02335
+T4_scaffold6_19
+T4_scaffold6_20	K13628
+T4_scaffold6_21	K20074
+T4_scaffold6_22
+T4_scaffold6_23
+T4_scaffold6_24
+T4_scaffold6_25
+T4_scaffold6_26
+T4_scaffold6_27
+T4_scaffold6_28	K20074
+T4_scaffold6_29
+T4_scaffold6_30
+T4_scaffold6_31	K07052
+T4_scaffold6_32	K06969
+T4_scaffold6_33
+T4_scaffold6_34
+T4_scaffold6_35
+T4_scaffold6_36	K08967
+T4_scaffold6_37
+T4_scaffold6_38
+T4_scaffold6_39
+T4_scaffold6_40	K09117
+T4_scaffold6_41
+T4_scaffold6_42
+T4_scaffold6_43
+T4_scaffold6_44
+T4_scaffold6_45
+T4_scaffold6_46	K00128
+T4_scaffold6_47	K01619
+T4_scaffold6_48
+T4_scaffold6_49	K01465
+T4_scaffold6_50
+T4_scaffold6_51	K04042
+T4_scaffold6_52	K01488
+T4_scaffold6_53
+T4_scaffold6_54
+T4_scaffold6_55
+T4_scaffold6_56
+T4_scaffold6_57
+T4_scaffold6_58
+T4_scaffold6_59
+T4_scaffold6_60
+T4_scaffold6_61
+T4_scaffold6_62
+T4_scaffold6_63	K12132
+T4_scaffold6_64	K13288
+T4_scaffold6_65	K12132
+T4_scaffold6_66
+T4_scaffold6_67
+T4_scaffold6_68
+T4_scaffold6_69
+T4_scaffold6_70
+T4_scaffold6_71
+T4_scaffold6_72	K02835
+T4_scaffold6_73	K03628
+T4_scaffold6_74	K08301
+T4_scaffold6_75	K00864
+T4_scaffold6_76	K12132
+T4_scaffold6_77
+T4_scaffold6_78
+T4_scaffold6_79
+T4_scaffold6_80
+T4_scaffold6_81
+T4_scaffold6_82
+T4_scaffold6_83
+T4_scaffold6_84
+T4_scaffold6_85	K07112
+T4_scaffold6_86	K07112
+T4_scaffold6_87
+T4_scaffold6_88
+T4_scaffold6_89
+T4_scaffold6_90
+T4_scaffold6_91
+T4_scaffold6_92
+T4_scaffold6_93
+T4_scaffold6_94
+T4_scaffold6_95
+T4_scaffold6_96
+T4_scaffold6_97	K11068
+T4_scaffold6_98
+T4_scaffold6_99
+T4_scaffold6_100
+T4_scaffold6_101
+T4_scaffold6_102
+T4_scaffold6_103
+T4_scaffold6_104
+T4_scaffold6_105
+T4_scaffold6_106
+T4_scaffold6_107	K12132
+T4_scaffold6_108
+T4_scaffold6_109
+T4_scaffold6_110
+T4_scaffold6_111
+T4_scaffold6_112
+T4_scaffold6_113
+T4_scaffold6_114
+T4_scaffold6_115
+T4_scaffold6_116
+T4_scaffold6_117
+T4_scaffold6_118
+T4_scaffold6_119	K09859
+T4_scaffold6_120	K07337
+T4_scaffold6_121
+T4_scaffold6_122
+T4_scaffold6_123
+T4_scaffold6_124
+T4_scaffold6_125	K04564
+T4_scaffold6_126
+T4_scaffold6_127
+T4_scaffold6_128
+T4_scaffold6_129
+T4_scaffold6_130	K06076
+T4_scaffold6_131
+T4_scaffold6_132
+T4_scaffold6_133
+T4_scaffold6_134
+T4_scaffold6_135
+T4_scaffold6_136	K07304
+T4_scaffold6_137
+T4_scaffold6_138
+T4_scaffold6_139
+T4_scaffold6_140
+T4_scaffold6_141
+T4_scaffold6_142
+T4_scaffold6_143	K06902
+T4_scaffold6_144
+T4_scaffold6_145
+T4_scaffold6_146
+T4_scaffold6_147	K01006
+T4_scaffold6_148	K06133
+T4_scaffold6_149	K03089
+T4_scaffold6_150
+T4_scaffold6_151	K07713
+T4_scaffold6_152	K04767
+T4_scaffold6_153	K00382
+T4_scaffold6_154	K00799
+T4_scaffold6_155
+T4_scaffold6_156
+T4_scaffold6_157
+T4_scaffold6_158	K00467
+T4_scaffold6_159
+T4_scaffold6_160	K02016
+T4_scaffold6_161
+T4_scaffold6_162
+T4_scaffold6_163
+T4_scaffold6_164	K16089
+T4_scaffold6_165
+T4_scaffold6_166	K02016
+T4_scaffold6_167	K02015
+T4_scaffold6_168	K02013
+T4_scaffold6_169	K07225
+T4_scaffold6_170	K06193
+T4_scaffold6_171
+T4_scaffold6_172
+T4_scaffold6_173	K00382
+T4_scaffold6_174	K00658
+T4_scaffold6_175	K03671
+T4_scaffold6_176
+T4_scaffold6_177	K03168
+T4_scaffold6_178
+T4_scaffold6_179	K03654
+T4_scaffold6_180
+T4_scaffold6_181
+T4_scaffold6_182	K09747
+T4_scaffold6_183	K06187
+T4_scaffold6_184
+T4_scaffold6_185	K06883
+T4_scaffold6_186
+T4_scaffold6_187	K07456
+T4_scaffold6_188	K03563
+T4_scaffold6_189
+T4_scaffold6_190	K16149
+T4_scaffold6_191
+T4_scaffold6_192
+T4_scaffold6_193	K01634
+T4_scaffold6_194
+T4_scaffold6_195
+T4_scaffold6_196
+T4_scaffold6_197
+T4_scaffold6_198
+T4_scaffold6_199
+T4_scaffold6_200
+T4_scaffold6_201
+T4_scaffold6_202
+T4_scaffold7_1	K02469
+T4_scaffold7_2
+T4_scaffold7_3
+T4_scaffold7_4	K03831
+T4_scaffold7_5	K06877
+T4_scaffold7_6	K01358
+T4_scaffold7_7
+T4_scaffold7_8
+T4_scaffold7_9
+T4_scaffold7_10
+T4_scaffold7_11	K06076
+T4_scaffold7_12
+T4_scaffold7_13
+T4_scaffold7_14
+T4_scaffold7_15
+T4_scaffold7_16	K03665
+T4_scaffold7_17
+T4_scaffold7_18	K02016
+T4_scaffold7_19	K02015
+T4_scaffold7_20	K02013
+T4_scaffold7_21	K00789
+T4_scaffold7_22	K06168
+T4_scaffold7_23
+T4_scaffold7_24	K00615
+T4_scaffold7_25
+T4_scaffold7_26
+T4_scaffold7_27
+T4_scaffold7_28
+T4_scaffold7_29
+T4_scaffold7_30	K00452
+T4_scaffold7_31	K03392
+T4_scaffold7_32
+T4_scaffold7_33	K01556
+T4_scaffold7_34	K00486
+T4_scaffold7_35	K00632
+T4_scaffold7_36	K01782
+T4_scaffold7_37	K14652
+T4_scaffold7_38
+T4_scaffold7_39
+T4_scaffold7_40
+T4_scaffold7_41
+T4_scaffold7_42
+T4_scaffold7_43
+T4_scaffold7_44
+T4_scaffold7_45
+T4_scaffold7_46
+T4_scaffold7_47	K17103
+T4_scaffold7_48
+T4_scaffold7_49
+T4_scaffold7_50	K01784
+T4_scaffold7_51
+T4_scaffold7_52
+T4_scaffold7_53
+T4_scaffold7_54	K02493
+T4_scaffold7_55	K03060
+T4_scaffold7_56
+T4_scaffold7_57
+T4_scaffold7_58
+T4_scaffold7_59	K06973
+T4_scaffold7_60
+T4_scaffold7_61	K10805
+T4_scaffold7_62
+T4_scaffold7_63
+T4_scaffold7_64	K00459
+T4_scaffold7_65
+T4_scaffold7_66
+T4_scaffold7_67
+T4_scaffold7_68	K15977
+T4_scaffold7_69
+T4_scaffold7_70
+T4_scaffold7_71
+T4_scaffold7_72
+T4_scaffold7_73	K03088
+T4_scaffold7_74
+T4_scaffold7_75	K04750
+T4_scaffold7_76
+T4_scaffold7_77
+T4_scaffold7_78
+T4_scaffold7_79	K09919
+T4_scaffold7_80	K07074
+T4_scaffold7_81	K00135
+T4_scaffold7_82	K01885
+T4_scaffold7_83
+T4_scaffold7_84	K01921
+T4_scaffold7_85	K01266
+T4_scaffold7_86
+T4_scaffold7_87	K00627
+T4_scaffold7_88
+T4_scaffold7_89	K06076
+T4_scaffold7_90
+T4_scaffold7_91
+T4_scaffold7_92
+T4_scaffold7_93	K06178
+T4_scaffold7_94	K01879
+T4_scaffold7_95	K01878
+T4_scaffold7_96	K00133
+T4_scaffold7_97
+T4_scaffold7_98
+T4_scaffold7_99	K06173
+T4_scaffold7_100
+T4_scaffold7_101
+T4_scaffold7_102	K07736
+T4_scaffold7_103
+T4_scaffold7_104
+T4_scaffold7_105
+T4_scaffold7_106
+T4_scaffold7_107	K03522
+T4_scaffold7_108	K03521
+T4_scaffold7_109	K13770
+T4_scaffold7_110
+T4_scaffold7_111	K01918
+T4_scaffold7_112	K00606
+T4_scaffold7_113
+T4_scaffold7_114
+T4_scaffold7_115
+T4_scaffold7_116
+T4_scaffold7_117
+T4_scaffold7_118	K12132
+T4_scaffold7_119
+T4_scaffold7_120
+T4_scaffold7_121
+T4_scaffold7_122
+T4_scaffold7_123
+T4_scaffold7_124	K01843
+T4_scaffold7_125
+T4_scaffold7_126
+T4_scaffold7_127
+T4_scaffold7_128	K00767
+T4_scaffold7_129	K03524
+T4_scaffold7_130
+T4_scaffold7_131	K05516
+T4_scaffold7_132	K03797
+T4_scaffold7_133
+T4_scaffold7_134
+T4_scaffold7_135	K00520
+T4_scaffold7_136	K12132
+T4_scaffold7_137	K01489
+T4_scaffold7_138	K03783
+T4_scaffold7_139	K03317
+T4_scaffold7_140	K07400
+T4_scaffold7_141	K00548
+T4_scaffold7_142
+T4_scaffold7_143
+T4_scaffold7_144	K02314
+T4_scaffold7_145
+T4_scaffold7_146
+T4_scaffold7_147	K00817
+T4_scaffold7_148	K07263
+T4_scaffold7_149
+T4_scaffold7_150
+T4_scaffold7_151	K12942
+T4_scaffold7_152	K03631
+T4_scaffold7_153
+T4_scaffold7_154
+T4_scaffold7_155
+T4_scaffold7_156
+T4_scaffold7_157	K00673
+T4_scaffold7_158	K12132
+T4_scaffold7_159
+T4_scaffold7_160
+T4_scaffold7_161
+T4_scaffold7_162	K00941
+T4_scaffold7_163	K01870
+T4_scaffold7_164	K03101
+T4_scaffold7_165	K03089
+T4_scaffold7_166
+T4_scaffold7_167	K03153
+T4_scaffold7_168	K02278
+T4_scaffold7_169
+T4_scaffold7_170	K02651
+T4_scaffold7_171
+T4_scaffold7_172	K03723
+T4_scaffold7_173	K03769
+T4_scaffold7_174	K03771
+T4_scaffold7_175	K00097
+T4_scaffold7_176	K01692
+T4_scaffold7_177
+T4_scaffold7_178	K17103
+T4_scaffold7_179
+T4_scaffold7_180
+T4_scaffold7_181	K10907
+T4_scaffold7_182	K01958
+T4_scaffold7_183
+T4_scaffold7_184
+T4_scaffold7_185
+T4_scaffold7_186
+T4_scaffold7_187
+T4_scaffold7_188
+T4_scaffold7_189	K01681
+T4_scaffold7_190
+T4_scaffold7_191
+T4_scaffold7_192	K00096
+T4_scaffold7_193
+T4_scaffold7_194	K01961
+T4_scaffold7_195
+T4_scaffold7_196	K01848
+T4_scaffold7_197	K00058
+T4_scaffold7_198	K02653
+T4_scaffold7_199
+T4_scaffold7_200
+T4_scaffold7_201
+T4_scaffold7_202
+T4_scaffold7_203
+T4_scaffold7_204
+T4_scaffold7_205
+T4_scaffold7_206	K01610
+T4_scaffold7_207
+T4_scaffold7_208
+T4_scaffold7_209	K15067
+T4_scaffold7_210	K10217
+T4_scaffold7_211
+T4_scaffold7_212
+T4_scaffold7_213	K06942
+T4_scaffold7_214
+T4_scaffold7_215	K02446
+T4_scaffold7_216	K00989
+T4_scaffold7_217	K01448
+T4_scaffold7_218
+T4_scaffold7_219
+T4_scaffold7_220
+T4_scaffold8_1
+T4_scaffold8_2
+T4_scaffold8_3
+T4_scaffold8_4
+T4_scaffold8_5	K02470
+T4_scaffold8_6
+T4_scaffold8_7
+T4_scaffold8_8	K02469
+T4_scaffold8_9	K12132
+T4_scaffold8_10
+T4_scaffold8_11	K03118
+T4_scaffold8_12
+T4_scaffold8_13
+T4_scaffold8_14
+T4_scaffold8_15	K01438
+T4_scaffold8_16	K01262
+T4_scaffold8_17
+T4_scaffold8_18
+T4_scaffold8_19	K09861
+T4_scaffold8_20
+T4_scaffold8_21	K02945
+T4_scaffold8_22	K01867
+T4_scaffold8_23	K06969
+T4_scaffold8_24	K05564
+T4_scaffold8_25	K05563
+T4_scaffold8_26	K05562
+T4_scaffold8_27	K05561
+T4_scaffold8_28	K05560
+T4_scaffold8_29	K05559
+T4_scaffold8_30
+T4_scaffold8_31	K01897
+T4_scaffold8_32
+T4_scaffold8_33	K05844
+T4_scaffold8_34	K06987
+T4_scaffold8_35	K01069
+T4_scaffold8_36
+T4_scaffold8_37
+T4_scaffold8_38
+T4_scaffold8_39	K13038
+T4_scaffold8_40	K21929
+T4_scaffold8_41	K18012
+T4_scaffold8_42	K03544
+T4_scaffold8_43
+T4_scaffold8_44
+T4_scaffold8_45
+T4_scaffold8_46
+T4_scaffold8_47
+T4_scaffold8_48
+T4_scaffold8_49
+T4_scaffold8_50	K14441
+T4_scaffold8_51
+T4_scaffold8_52
+T4_scaffold8_53
+T4_scaffold8_54
+T4_scaffold8_55
+T4_scaffold8_56	K01434
+T4_scaffold8_57
+T4_scaffold8_58	K03089
+T4_scaffold8_59
+T4_scaffold8_60
+T4_scaffold8_61	K02379
+T4_scaffold8_62
+T4_scaffold8_63
+T4_scaffold8_64
+T4_scaffold8_65
+T4_scaffold8_66
+T4_scaffold8_67
+T4_scaffold8_68
+T4_scaffold8_69
+T4_scaffold8_70	K09989
+T4_scaffold8_71
+T4_scaffold8_72
+T4_scaffold8_73
+T4_scaffold8_74
+T4_scaffold8_75
+T4_scaffold8_76	K01990
+T4_scaffold8_77	K01992
+T4_scaffold8_78
+T4_scaffold8_79
+T4_scaffold8_80	K01920
+T4_scaffold8_81	K04565
+T4_scaffold8_82
+T4_scaffold8_83
+T4_scaffold8_84
+T4_scaffold8_85
+T4_scaffold8_86
+T4_scaffold8_87	K12132
+T4_scaffold8_88
+T4_scaffold8_89	K01147
+T4_scaffold8_90	K01029
+T4_scaffold8_91	K01028
+T4_scaffold8_92
+T4_scaffold8_93
+T4_scaffold8_94
+T4_scaffold8_95
+T4_scaffold8_96
+T4_scaffold8_97
+T4_scaffold8_98
+T4_scaffold8_99	K00428
+T4_scaffold8_100
+T4_scaffold8_101
+T4_scaffold8_102
+T4_scaffold8_103
+T4_scaffold8_104
+T4_scaffold8_105
+T4_scaffold8_106
+T4_scaffold8_107	K02554
+T4_scaffold8_108	K04073
+T4_scaffold8_109	K01666
+T4_scaffold8_110	K01617
+T4_scaffold8_111
+T4_scaffold8_112	K00981
+T4_scaffold8_113	K10255
+T4_scaffold8_114
+T4_scaffold8_115
+T4_scaffold8_116
+T4_scaffold8_117	K13652
+T4_scaffold8_118
+T4_scaffold8_119
+T4_scaffold8_120
+T4_scaffold8_121
+T4_scaffold8_122	K03303
+T4_scaffold8_123	K03324
+T4_scaffold8_124
+T4_scaffold8_125
+T4_scaffold8_126
+T4_scaffold8_127
+T4_scaffold8_128
+T4_scaffold8_129
+T4_scaffold8_130
+T4_scaffold8_131
+T4_scaffold8_132
+T4_scaffold8_133
+T4_scaffold8_134
+T4_scaffold8_135
+T4_scaffold8_136	K10778
+T4_scaffold8_137
+T4_scaffold8_138
+T4_scaffold8_139
+T4_scaffold8_140	K00697
+T4_scaffold8_141
+T4_scaffold8_142
+T4_scaffold8_143
+T4_scaffold8_144
+T4_scaffold8_145	K05343
+T4_scaffold8_146
+T4_scaffold8_147	K07090
+T4_scaffold8_148
+T4_scaffold8_149
+T4_scaffold8_150	K00432
+T4_scaffold8_151
+T4_scaffold8_152
+T4_scaffold8_153
+T4_scaffold8_154	K03517
+T4_scaffold8_155	K00278
+T4_scaffold8_156
+T4_scaffold8_157	K02495
+T4_scaffold8_158	K02238
+T4_scaffold8_159	K03070
+T4_scaffold8_160	K01633
+T4_scaffold8_161
+T4_scaffold8_162	K03407
+T4_scaffold8_163	K03406
+T4_scaffold8_164
+T4_scaffold8_165	K03408
+T4_scaffold8_166
+T4_scaffold8_167
+T4_scaffold9_1	K01937
+T4_scaffold9_2
+T4_scaffold9_3
+T4_scaffold9_4
+T4_scaffold9_5
+T4_scaffold9_6	K00453
+T4_scaffold9_7	K13787
+T4_scaffold9_8	K01640
+T4_scaffold9_9
+T4_scaffold9_10
+T4_scaffold9_11
+T4_scaffold9_12
+T4_scaffold9_13	K04043
+T4_scaffold9_14
+T4_scaffold9_15	K07259
+T4_scaffold9_16
+T4_scaffold9_17
+T4_scaffold9_18	K12132
+T4_scaffold9_19
+T4_scaffold9_20	K00721
+T4_scaffold9_21
+T4_scaffold9_22
+T4_scaffold9_23
+T4_scaffold9_24	K03412
+T4_scaffold9_25	K00575
+T4_scaffold9_26
+T4_scaffold9_27
+T4_scaffold9_28
+T4_scaffold9_29	K06204
+T4_scaffold9_30
+T4_scaffold9_31	K03657
+T4_scaffold9_32	K00030
+T4_scaffold9_33
+T4_scaffold9_34
+T4_scaffold9_35
+T4_scaffold9_36
+T4_scaffold9_37
+T4_scaffold9_38
+T4_scaffold9_39
+T4_scaffold9_40	K15725
+T4_scaffold9_41	K15727
+T4_scaffold9_42	K15726
+T4_scaffold9_43	K01534
+T4_scaffold9_44
+T4_scaffold9_45	K04739
+T4_scaffold9_46	K20860
+T4_scaffold9_47
+T4_scaffold9_48
+T4_scaffold9_49
+T4_scaffold9_50
+T4_scaffold9_51
+T4_scaffold9_52
+T4_scaffold9_53
+T4_scaffold9_54
+T4_scaffold9_55
+T4_scaffold9_56	K01991
+T4_scaffold9_57
+T4_scaffold9_58
+T4_scaffold9_59
+T4_scaffold9_60
+T4_scaffold9_61
+T4_scaffold9_62
+T4_scaffold9_63
+T4_scaffold9_64	K09667
+T4_scaffold9_65
+T4_scaffold9_66
+T4_scaffold9_67
+T4_scaffold9_68	K00797
+T4_scaffold9_69	K01611
+T4_scaffold9_70	K02347
+T4_scaffold9_71	K11065
+T4_scaffold9_72
+T4_scaffold9_73
+T4_scaffold9_74
+T4_scaffold9_75
+T4_scaffold9_76
+T4_scaffold9_77
+T4_scaffold9_78
+T4_scaffold9_79
+T4_scaffold9_80
+T4_scaffold9_81
+T4_scaffold9_82
+T4_scaffold9_83	K01077
+T4_scaffold9_84
+T4_scaffold9_85	K02879
+T4_scaffold9_86	K03040
+T4_scaffold9_87	K02948
+T4_scaffold9_88	K02952
+T4_scaffold9_89	K02919
+T4_scaffold9_90	K02518
+T4_scaffold9_91	K00939
+T4_scaffold9_92	K03076
+T4_scaffold9_93	K02876
+T4_scaffold9_94	K02907
+T4_scaffold9_95	K02988
+T4_scaffold9_96	K02881
+T4_scaffold9_97	K02933
+T4_scaffold9_98	K02994
+T4_scaffold9_99	K02931
+T4_scaffold9_100	K02895
+T4_scaffold9_101	K02874
+T4_scaffold9_102	K02961
+T4_scaffold9_103	K02904
+T4_scaffold9_104	K02878
+T4_scaffold9_105	K02982
+T4_scaffold9_106	K02890
+T4_scaffold9_107	K02965
+T4_scaffold9_108	K02886
+T4_scaffold9_109	K02892
+T4_scaffold9_110	K02926
+T4_scaffold9_111	K02946
+T4_scaffold9_112	K02355
+T4_scaffold9_113	K02992
+T4_scaffold9_114	K02950
+T4_scaffold9_115
+T4_scaffold9_116
+T4_scaffold9_117
+T4_scaffold9_118
+T4_scaffold9_119
+T4_scaffold9_120
+T4_scaffold9_121
+T4_scaffold9_122
+T4_scaffold9_123	K00648
+T4_scaffold9_124
+T4_scaffold9_125
+T4_scaffold9_126
+T4_scaffold9_127
+T4_scaffold9_128
+T4_scaffold9_129
+T4_scaffold9_130
+T4_scaffold9_131
+T4_scaffold9_132
+T4_scaffold9_133
+T4_scaffold9_134
+T4_scaffold9_135
+T4_scaffold9_136
+T4_scaffold9_137
+T4_scaffold9_138
+T4_scaffold9_139
+T4_scaffold9_140
+T4_scaffold9_141
+T4_scaffold9_142
+T4_scaffold9_143
+T4_scaffold9_144
+T4_scaffold9_145
+T4_scaffold9_146
+T4_scaffold9_147
+T4_scaffold9_148
+T4_scaffold9_149
+T4_scaffold9_150
+T4_scaffold9_151
+T4_scaffold9_152
+T4_scaffold9_153
+T4_scaffold9_154	K02343
+T4_scaffold9_155
+T4_scaffold9_156
+T4_scaffold9_157
+T4_scaffold9_158
+T4_scaffold9_159
+T4_scaffold9_160
+T4_scaffold9_161	K09121
+T4_scaffold9_162	K06898
+T4_scaffold9_163	K06864
+T4_scaffold9_164
+T4_scaffold9_165
+T4_scaffold9_166
+T4_scaffold10_1
+T4_scaffold10_2
+T4_scaffold10_3	K03088
+T4_scaffold10_4
+T4_scaffold10_5	K01839
+T4_scaffold10_6
+T4_scaffold10_7	K07502
+T4_scaffold10_8	K03583
+T4_scaffold10_9	K03582
+T4_scaffold10_10	K03581
+T4_scaffold10_11
+T4_scaffold10_12
+T4_scaffold10_13	K00243
+T4_scaffold10_14
+T4_scaffold10_15
+T4_scaffold10_16
+T4_scaffold10_17
+T4_scaffold10_18	K21498
+T4_scaffold10_19
+T4_scaffold10_20
+T4_scaffold10_21
+T4_scaffold10_22
+T4_scaffold10_23	K07217
+T4_scaffold10_24
+T4_scaffold10_25	K18236
+T4_scaffold10_26
+T4_scaffold10_27
+T4_scaffold10_28
+T4_scaffold10_29
+T4_scaffold10_30
+T4_scaffold10_31
+T4_scaffold10_32
+T4_scaffold10_33
+T4_scaffold10_34
+T4_scaffold10_35
+T4_scaffold10_36
+T4_scaffold10_37
+T4_scaffold10_38
+T4_scaffold10_39
+T4_scaffold10_40
+T4_scaffold10_41
+T4_scaffold10_42
+T4_scaffold10_43
+T4_scaffold10_44
+T4_scaffold10_45
+T4_scaffold10_46
+T4_scaffold10_47
+T4_scaffold10_48
+T4_scaffold10_49
+T4_scaffold10_50
+T4_scaffold10_51
+T4_scaffold10_52
+T4_scaffold10_53
+T4_scaffold10_54
+T4_scaffold10_55
+T4_scaffold10_56
+T4_scaffold10_57
+T4_scaffold10_58
+T4_scaffold10_59
+T4_scaffold10_60
+T4_scaffold10_61
+T4_scaffold10_62
+T4_scaffold10_63
+T4_scaffold10_64
+T4_scaffold10_65
+T4_scaffold10_66
+T4_scaffold10_67
+T4_scaffold10_68
+T4_scaffold10_69
+T4_scaffold10_70
+T4_scaffold10_71
+T4_scaffold10_72
+T4_scaffold10_73
+T4_scaffold10_74
+T4_scaffold10_75
+T4_scaffold10_76	K09781
+T4_scaffold10_77
+T4_scaffold10_78	K01153
+T4_scaffold10_79	K01154
+T4_scaffold10_80	K03427
+T4_scaffold10_81
+T4_scaffold10_82
+T4_scaffold10_83	K16091
+T4_scaffold10_84
+T4_scaffold10_85
+T4_scaffold10_86
+T4_scaffold10_87
+T4_scaffold10_88
+T4_scaffold10_89
+T4_scaffold10_90
+T4_scaffold10_91
+T4_scaffold10_92
+T4_scaffold10_93
+T4_scaffold10_94
+T4_scaffold10_95	K00228
+T4_scaffold10_96
+T4_scaffold10_97
+T4_scaffold10_98	K03088
+T4_scaffold10_99
+T4_scaffold10_100
+T4_scaffold10_101	K03775
+T4_scaffold10_102
+T4_scaffold10_103	K00950
+T4_scaffold10_104	K03702
+T4_scaffold10_105
+T4_scaffold10_106
+T4_scaffold10_107
+T4_scaffold10_108
+T4_scaffold10_109
+T4_scaffold10_110
+T4_scaffold10_111	K02652
+T4_scaffold10_112	K01883
+T4_scaffold10_113
+T4_scaffold10_114
+T4_scaffold10_115
+T4_scaffold10_116
+T4_scaffold10_117	K02405
+T4_scaffold10_118	K03088
+T4_scaffold10_119
+T4_scaffold10_120
+T4_scaffold10_121
+T4_scaffold10_122
+T4_scaffold10_123
+T4_scaffold10_124
+T4_scaffold10_125
+T4_scaffold10_126
+T4_scaffold10_127
+T4_scaffold10_128
+T4_scaffold10_129
+T4_scaffold10_130	K00631
+T4_scaffold10_131
+T4_scaffold10_132
+T4_scaffold10_133	K00812
+T4_scaffold10_134	K00954
+T4_scaffold10_135	K08316
+T4_scaffold11_1
+T4_scaffold11_2
+T4_scaffold11_3
+T4_scaffold11_4
+T4_scaffold11_5
+T4_scaffold11_6
+T4_scaffold11_7
+T4_scaffold11_8
+T4_scaffold11_9	K08602
+T4_scaffold11_10
+T4_scaffold11_11
+T4_scaffold11_12
+T4_scaffold11_13	K03581
+T4_scaffold11_14
+T4_scaffold11_15
+T4_scaffold11_16
+T4_scaffold11_17
+T4_scaffold11_18	K08676
+T4_scaffold11_19
+T4_scaffold11_20	K03752
+T4_scaffold11_21	K01638
+T4_scaffold11_22	K01637
+T4_scaffold11_23
+T4_scaffold11_24
+T4_scaffold11_25
+T4_scaffold11_26
+T4_scaffold11_27
+T4_scaffold11_28
+T4_scaffold11_29
+T4_scaffold11_30	K01534
+T4_scaffold11_31
+T4_scaffold11_32
+T4_scaffold11_33
+T4_scaffold11_34	K00803
+T4_scaffold11_35
+T4_scaffold11_36	K06969
+T4_scaffold11_37
+T4_scaffold11_38
+T4_scaffold11_39	K06958
+T4_scaffold11_40	K20074
+T4_scaffold11_41
+T4_scaffold11_42	K12132
+T4_scaffold11_43
+T4_scaffold11_44	K02963
+T4_scaffold11_45	K02913
+T4_scaffold11_46
+T4_scaffold11_47
+T4_scaffold11_48
+T4_scaffold11_49
+T4_scaffold11_50	K02902
+T4_scaffold11_51
+T4_scaffold11_52
+T4_scaffold11_53	K05788
+T4_scaffold11_54	K10026
+T4_scaffold11_55
+T4_scaffold11_56
+T4_scaffold11_57
+T4_scaffold11_58	K12132
+T4_scaffold11_59	K03980
+T4_scaffold11_60	K03154
+T4_scaffold11_61	K03149
+T4_scaffold11_62	K00788
+T4_scaffold11_63
+T4_scaffold11_64
+T4_scaffold11_65	K03530
+T4_scaffold11_66	K18013
+T4_scaffold11_67	K18014
+T4_scaffold11_68
+T4_scaffold11_69
+T4_scaffold11_70
+T4_scaffold11_71
+T4_scaffold11_72
+T4_scaffold11_73
+T4_scaffold11_74
+T4_scaffold11_75
+T4_scaffold11_76	K16052
+T4_scaffold11_77
+T4_scaffold11_78	K12132
+T4_scaffold11_79
+T4_scaffold11_80
+T4_scaffold11_81
+T4_scaffold11_82
+T4_scaffold11_83
+T4_scaffold11_84	K06886
+T4_scaffold11_85	K00382
+T4_scaffold11_86	K00658
+T4_scaffold11_87	K00164
+T4_scaffold11_88	K02109
+T4_scaffold11_89	K02109
+T4_scaffold11_90	K02113
+T4_scaffold11_91	K02111
+T4_scaffold11_92	K02115
+T4_scaffold11_93	K02112
+T4_scaffold11_94	K02114
+T4_scaffold11_95
+T4_scaffold11_96
+T4_scaffold11_97
+T4_scaffold11_98
+T4_scaffold11_99
+T4_scaffold11_100
+T4_scaffold11_101
+T4_scaffold11_102
+T4_scaffold11_103
+T4_scaffold11_104
+T4_scaffold11_105	K18138
+T4_scaffold11_106	K18138
+T4_scaffold11_107	K18138
+T4_scaffold11_108	K03585
+T4_scaffold11_109
+T4_scaffold11_110	K16710
+T4_scaffold11_111
+T4_scaffold11_112
+T4_scaffold12_1
+T4_scaffold12_2
+T4_scaffold12_3
+T4_scaffold12_4	K02338
+T4_scaffold12_5	K03629
+T4_scaffold12_6	K03215
+T4_scaffold12_7
+T4_scaffold12_8	K03639
+T4_scaffold12_9	K21142
+T4_scaffold12_10
+T4_scaffold12_11	K01844
+T4_scaffold12_12
+T4_scaffold12_13
+T4_scaffold12_14
+T4_scaffold12_15
+T4_scaffold12_16	K07301
+T4_scaffold12_17	K01950
+T4_scaffold12_18
+T4_scaffold12_19
+T4_scaffold12_20
+T4_scaffold12_21
+T4_scaffold12_22
+T4_scaffold12_23	K01745
+T4_scaffold12_24
+T4_scaffold12_25
+T4_scaffold12_26
+T4_scaffold12_27
+T4_scaffold12_28
+T4_scaffold12_29	K06980
+T4_scaffold12_30	K00806
+T4_scaffold12_31	K00941
+T4_scaffold12_32	K01775
+T4_scaffold12_33	K02520
+T4_scaffold12_34
+T4_scaffold12_35	K03413
+T4_scaffold12_36
+T4_scaffold12_37	K02401
+T4_scaffold12_38	K02421
+T4_scaffold12_39	K02420
+T4_scaffold12_40	K03226
+T4_scaffold12_41
+T4_scaffold12_42
+T4_scaffold12_43
+T4_scaffold12_44
+T4_scaffold12_45
+T4_scaffold12_46
+T4_scaffold12_47
+T4_scaffold12_48
+T4_scaffold12_49
+T4_scaffold12_50
+T4_scaffold12_51
+T4_scaffold12_52	K01953
+T4_scaffold12_53
+T4_scaffold12_54
+T4_scaffold12_55
+T4_scaffold12_56
+T4_scaffold12_57
+T4_scaffold12_58
+T4_scaffold12_59
+T4_scaffold12_60
+T4_scaffold12_61	K01953
+T4_scaffold12_62
+T4_scaffold12_63
+T4_scaffold12_64
+T4_scaffold12_65
+T4_scaffold12_66
+T4_scaffold12_67
+T4_scaffold12_68
+T4_scaffold12_69
+T4_scaffold12_70
+T4_scaffold12_71	K07001
+T4_scaffold12_72	K06878
+T4_scaffold12_73
+T4_scaffold12_74
+T4_scaffold12_75	K00799
+T4_scaffold12_76	K02005
+T4_scaffold12_77	K02003
+T4_scaffold12_78	K02004
+T4_scaffold12_79
+T4_scaffold13_1
+T4_scaffold13_2
+T4_scaffold13_3
+T4_scaffold13_4	K00057
+T4_scaffold13_5	K02428
+T4_scaffold13_6
+T4_scaffold13_7
+T4_scaffold13_8
+T4_scaffold13_9
+T4_scaffold13_10
+T4_scaffold13_11
+T4_scaffold13_12
+T4_scaffold13_13
+T4_scaffold13_14
+T4_scaffold13_15	K00451
+T4_scaffold13_16
+T4_scaffold13_17
+T4_scaffold13_18
+T4_scaffold13_19
+T4_scaffold13_20
+T4_scaffold13_21
+T4_scaffold13_22	K10943
+T4_scaffold13_23	K14414
+T4_scaffold13_24	K01974
+T4_scaffold13_25	K14415
+T4_scaffold13_26
+T4_scaffold13_27
+T4_scaffold13_28	K00230
+T4_scaffold13_29
+T4_scaffold13_30
+T4_scaffold13_31
+T4_scaffold13_32	K06911
+T4_scaffold13_33
+T4_scaffold13_34
+T4_scaffold13_35
+T4_scaffold13_36
+T4_scaffold13_37	K11717
+T4_scaffold13_38
+T4_scaffold13_39
+T4_scaffold13_40
+T4_scaffold13_41	K06180
+T4_scaffold13_42
+T4_scaffold13_43
+T4_scaffold13_44
+T4_scaffold13_45
+T4_scaffold13_46	K03671
+T4_scaffold13_47
+T4_scaffold13_48	K01897
+T4_scaffold13_49
+T4_scaffold13_50	K07560
+T4_scaffold13_51
+T4_scaffold13_52
+T4_scaffold13_53	K03650
+T4_scaffold13_54
+T4_scaffold13_55	K03217
+T4_scaffold13_56	K08998
+T4_scaffold13_57	K03536
+T4_scaffold13_58	K02914
+T4_scaffold13_59	K02313
+T4_scaffold13_60
+T4_scaffold13_61	K07735
+T4_scaffold13_62	K03545
+T4_scaffold13_63	K01358
+T4_scaffold13_64	K03544
+T4_scaffold13_65	K01338
+T4_scaffold13_66
+T4_scaffold13_67
+T4_scaffold13_68
+T4_scaffold13_69	K12132
+T4_scaffold13_70	K03498
+T4_scaffold13_71	K03499
+T4_scaffold13_72
+T4_scaffold13_73
+T4_scaffold14_1
+T4_scaffold14_2
+T4_scaffold14_3
+T4_scaffold14_4
+T4_scaffold14_5
+T4_scaffold14_6	K18828
+T4_scaffold14_7
+T4_scaffold14_8
+T4_scaffold14_9	K07448
+T4_scaffold14_10
+T4_scaffold14_11	K01156
+T4_scaffold14_12	K07316
+T4_scaffold14_13
+T4_scaffold14_14
+T4_scaffold14_15
+T4_scaffold14_16
+T4_scaffold14_17
+T4_scaffold14_18
+T4_scaffold14_19	K07448
+T4_scaffold14_20
+T4_scaffold14_21
+T4_scaffold14_22
+T4_scaffold14_23
+T4_scaffold14_24
+T4_scaffold14_25
+T4_scaffold14_26
+T4_scaffold14_27
+T4_scaffold14_28
+T4_scaffold14_29
+T4_scaffold14_30
+T4_scaffold14_31	K11153
+T4_scaffold14_32
+T4_scaffold14_33
+T4_scaffold14_34	K07104
+T4_scaffold14_35
+T4_scaffold14_36
+T4_scaffold14_37
+T4_scaffold14_38
+T4_scaffold14_39
+T4_scaffold14_40
+T4_scaffold14_41	K01745
+T4_scaffold14_42
+T4_scaffold14_43	K12132
+T4_scaffold14_44
+T4_scaffold14_45
+T4_scaffold14_46
+T4_scaffold14_47	K15336
+T4_scaffold14_48
+T4_scaffold14_49
+T4_scaffold14_50
+T4_scaffold14_51
+T4_scaffold14_52	K01735
+T4_scaffold14_53
+T4_scaffold14_54
+T4_scaffold14_55
+T4_scaffold14_56
+T4_scaffold14_57	K07722
+T4_scaffold14_58
+T4_scaffold14_59
+T4_scaffold14_60
+T4_scaffold14_61
+T4_scaffold14_62
+T4_scaffold14_63
+T4_scaffold14_64
+T4_scaffold14_65
+T4_scaffold15_1
+T4_scaffold15_2	K22317
+T4_scaffold15_3	K22318
+T4_scaffold15_4	K22319
+T4_scaffold15_5	K22320
+T4_scaffold15_6	K00631
+T4_scaffold15_7
+T4_scaffold15_8
+T4_scaffold15_9
+T4_scaffold15_10
+T4_scaffold15_11
+T4_scaffold15_12
+T4_scaffold15_13	K02503
+T4_scaffold15_14
+T4_scaffold15_15
+T4_scaffold15_16
+T4_scaffold15_17	K00820
+T4_scaffold15_18
+T4_scaffold15_19
+T4_scaffold15_20
+T4_scaffold15_21	K02316
+T4_scaffold15_22	K03086
+T4_scaffold15_23
+T4_scaffold15_24
+T4_scaffold15_25	K01304
+T4_scaffold15_26	K01999
+T4_scaffold15_27	K01999
+T4_scaffold15_28
+T4_scaffold15_29
+T4_scaffold15_30
+T4_scaffold15_31
+T4_scaffold15_32
+T4_scaffold15_33
+T4_scaffold15_34	K01881
+T4_scaffold15_35	K01591
+T4_scaffold15_36	K03218
+T4_scaffold15_37	K02358
+T4_scaffold15_38	K03073
+T4_scaffold15_39	K02601
+T4_scaffold15_40	K02867
+T4_scaffold15_41	K02863
+T4_scaffold15_42	K02864
+T4_scaffold15_43	K02935
+T4_scaffold15_44
+T4_scaffold15_45
+T4_scaffold15_46	K03088
+T4_scaffold15_47
+T4_scaffold15_48
+T4_scaffold15_49
+T4_scaffold15_50	K08309
+T4_scaffold15_51	K00705
+T4_scaffold15_52
+T4_scaffold15_53
+T4_scaffold15_54
+T4_scaffold15_55
+T4_scaffold15_56
+T4_scaffold15_57
+T4_scaffold15_58	K00943
+T4_scaffold15_59
+T4_scaffold15_60
+T4_scaffold15_61	K07003
+T4_scaffold15_62
+T4_scaffold15_63
+T4_scaffold15_64
+T4_scaffold15_65	K03621
+T4_scaffold15_66
+T4_scaffold15_67
+T4_scaffold15_68
+T4_scaffold15_69	K01712
+T4_scaffold15_70
+T4_scaffold16_1
+T4_scaffold16_2
+T4_scaffold16_3
+T4_scaffold16_4
+T4_scaffold16_5
+T4_scaffold16_6
+T4_scaffold16_7
+T4_scaffold16_8
+T4_scaffold16_9
+T4_scaffold16_10	K00284
+T4_scaffold16_11
+T4_scaffold16_12
+T4_scaffold16_13
+T4_scaffold16_14
+T4_scaffold16_15
+T4_scaffold16_16
+T4_scaffold16_17	K01069
+T4_scaffold16_18
+T4_scaffold16_19	K12132
+T4_scaffold16_20
+T4_scaffold16_21	K07114
+T4_scaffold16_22
+T4_scaffold16_23	K07114
+T4_scaffold16_24
+T4_scaffold16_25
+T4_scaffold16_26
+T4_scaffold16_27
+T4_scaffold16_28	K12132
+T4_scaffold16_29
+T4_scaffold16_30
+T4_scaffold16_31
+T4_scaffold16_32
+T4_scaffold16_33
+T4_scaffold16_34
+T4_scaffold16_35	K03565
+T4_scaffold16_36
+T4_scaffold16_37
+T4_scaffold16_38
+T4_scaffold16_39
+T4_scaffold16_40	K07305
+T4_scaffold16_41
+T4_scaffold16_42
+T4_scaffold16_43
+T4_scaffold16_44	K00872
+T4_scaffold16_45	K06147
+T4_scaffold16_46
+T4_scaffold16_47
+T4_scaffold16_48
+T4_scaffold16_49
+T4_scaffold16_50
+T4_scaffold16_51
+T4_scaffold16_52	K19132
+T4_scaffold16_53
+T4_scaffold16_54
+T4_scaffold16_55
+T4_scaffold16_56
+T4_scaffold16_57	K07061
+T4_scaffold16_58	K19076
+T4_scaffold16_59	K09127
+T4_scaffold16_60	K09000
+T4_scaffold16_61	K19141
+T4_scaffold16_62	K19142
+T4_scaffold16_63
+T4_scaffold16_64
+T4_scaffold16_65
+T4_scaffold17_1	K12132
+T4_scaffold17_2
+T4_scaffold17_3
+T4_scaffold17_4
+T4_scaffold17_5
+T4_scaffold17_6
+T4_scaffold17_7	K03525
+T4_scaffold17_8	K02033
+T4_scaffold17_9	K02034
+T4_scaffold17_10	K01207
+T4_scaffold17_11	K00788
+T4_scaffold17_12	K03644
+T4_scaffold17_13
+T4_scaffold17_14
+T4_scaffold17_15
+T4_scaffold17_16	K08964
+T4_scaffold17_17
+T4_scaffold17_18	K03386
+T4_scaffold17_19	K04756
+T4_scaffold17_20	K00772
+T4_scaffold17_21
+T4_scaffold17_22
+T4_scaffold17_23	K07478
+T4_scaffold17_24
+T4_scaffold17_25
+T4_scaffold17_26
+T4_scaffold17_27
+T4_scaffold17_28
+T4_scaffold17_29
+T4_scaffold17_30
+T4_scaffold17_31
+T4_scaffold17_32	K10773
+T4_scaffold17_33
+T4_scaffold17_34	K01679
+T4_scaffold17_35	K00684
+T4_scaffold17_36
+T4_scaffold17_37	K00869
+T4_scaffold17_38	K01597
+T4_scaffold17_39	K03695
+T4_scaffold17_40
+T4_scaffold17_41
+T4_scaffold17_42	K12132
+T4_scaffold17_43
+T4_scaffold17_44
+T4_scaffold17_45
+T4_scaffold17_46
+T4_scaffold17_47
+T4_scaffold17_48	K00761
+T4_scaffold17_49
+T4_scaffold17_50
+T4_scaffold17_51
+T4_scaffold17_52
+T4_scaffold17_53
+T4_scaffold17_54
+T4_scaffold17_55
+T4_scaffold18_1	K01895
+T4_scaffold18_2
+T4_scaffold18_3	K10563
+T4_scaffold18_4
+T4_scaffold18_5
+T4_scaffold18_6
+T4_scaffold18_7
+T4_scaffold18_8
+T4_scaffold18_9
+T4_scaffold18_10
+T4_scaffold18_11
+T4_scaffold18_12
+T4_scaffold18_13
+T4_scaffold18_14
+T4_scaffold18_15
+T4_scaffold18_16
+T4_scaffold18_17
+T4_scaffold18_18
+T4_scaffold18_19
+T4_scaffold18_20
+T4_scaffold18_21
+T4_scaffold18_22
+T4_scaffold18_23	K00426
+T4_scaffold18_24	K00425
+T4_scaffold18_25
+T4_scaffold18_26	K03707
+T4_scaffold18_27
+T4_scaffold18_28
+T4_scaffold18_29
+T4_scaffold18_30
+T4_scaffold18_31
+T4_scaffold18_32
+T4_scaffold18_33
+T4_scaffold18_34
+T4_scaffold18_35	K00662
+T4_scaffold18_36
+T4_scaffold18_37
+T4_scaffold19_1
+T4_scaffold19_2
+T4_scaffold19_3
+T4_scaffold19_4
+T4_scaffold19_5	K02470
+T4_scaffold19_6
+T4_scaffold19_7
+T4_scaffold19_8
+T4_scaffold19_9
+T4_scaffold19_10	K03501
+T4_scaffold19_11	K03696
+T4_scaffold19_12
+T4_scaffold19_13	K01480
+T4_scaffold19_14
+T4_scaffold19_15	K09933
+T4_scaffold19_16
+T4_scaffold19_17	K00134
+T4_scaffold19_18	K00927
+T4_scaffold19_19	K01803
+T4_scaffold19_20
+T4_scaffold19_21
+T4_scaffold19_22
+T4_scaffold19_23	K03101
+T4_scaffold19_24
+T4_scaffold19_25
+T4_scaffold19_26
+T4_scaffold19_27	K15725
+T4_scaffold19_28	K15727
+T4_scaffold19_29	K15726
+T4_scaffold20_1	K02478
+T4_scaffold20_2	K02477
+T4_scaffold20_3	K03183
+T4_scaffold20_4
+T4_scaffold20_5	K06178
+T4_scaffold20_6
+T4_scaffold20_7
+T4_scaffold20_8
+T4_scaffold20_9
+T4_scaffold20_10	K12297
+T4_scaffold20_11
+T4_scaffold20_12
+T4_scaffold20_13
+T4_scaffold20_14	K12132
+T4_scaffold20_15
+T4_scaffold20_16
+T4_scaffold20_17	K12132
+T4_scaffold20_18	K12132
+T4_scaffold21_1	K02069
+T4_scaffold21_2	K02068
+T4_scaffold21_3
+T4_scaffold21_4
+T4_scaffold21_5
+T4_scaffold21_6
+T4_scaffold21_7
+T4_scaffold21_8
+T4_scaffold21_9
+T4_scaffold21_10
+T4_scaffold21_11
+T4_scaffold21_12
+T4_scaffold21_13
+T4_scaffold21_14
+T4_scaffold21_15
+T4_scaffold21_16
+T4_scaffold21_17
+T4_scaffold21_18
+T4_scaffold21_19
+T4_scaffold21_20
+T4_scaffold21_21	K03088
+T4_scaffold21_22
+T4_scaffold21_23
+T4_scaffold22_1
+T4_scaffold22_2
+T4_scaffold22_3	K12132
+T4_scaffold22_4
+T4_scaffold22_5
+T4_scaffold22_6	K04127
+T4_scaffold22_7	K01892
+T4_scaffold22_8	K07102
+T4_scaffold22_9
+T4_scaffold22_10
+T4_scaffold22_11	K08309
+T4_scaffold22_12
+T4_scaffold22_13
+T4_scaffold22_14
+T4_scaffold22_15
+T4_scaffold22_16
+T4_scaffold22_17
+T4_scaffold23_1	K09922
+T4_scaffold23_2
+T4_scaffold23_3
+T4_scaffold23_4
+T4_scaffold23_5
+T4_scaffold23_6
+T4_scaffold23_7
+T4_scaffold23_8	K06213
+T4_scaffold23_9
+T4_scaffold23_10	K18890
+T4_scaffold23_11	K18889
+T4_scaffold23_12	K03100
+T4_scaffold23_13
+T4_scaffold25_1
+T4_scaffold25_2
+T4_scaffold26_1
+T4_scaffold26_2
+T4_scaffold27_1
+T4_scaffold27_2
+T4_scaffold28_1
+T4_scaffold28_2
+T4_scaffold29_1
+T4_scaffold30_1
+T4_scaffold30_2
+T4_scaffold31_1
+T4_scaffold31_2
+T4_scaffold31_3
+T4_scaffold32_1
+T4_scaffold32_2
+T4_scaffold32_3
+T4_scaffold32_4
+T4_scaffold34_1
+T4_scaffold37_1
+T4_scaffold38_1
+T4_scaffold39_1
+T4_scaffold43_1
+T4_scaffold44_1
+T4_scaffold45_1
+T4_scaffold47_1
+T4_scaffold50_1
+T4_scaffold51_1
+T4_scaffold52_1
+T4_scaffold57_1
+T4_scaffold58_1
+T4_scaffold59_1
+T4_scaffold59_2
+T4_scaffold60_1
+T4_scaffold66_1
+T4_scaffold68_1
+T4_scaffold70_1
+T4_scaffold70_2
+T4_scaffold71_1	K02706
+T4_scaffold72_1
+T4_scaffold73_1
+T4_scaffold73_2
+T4_scaffold79_1
+T4_scaffold81_1
+T4_scaffold82_1
+T4_scaffold84_1
+T4_scaffold85_1
+T4_scaffold88_1
+T4_scaffold90_1	K07798
+T4_scaffold91_1
+T4_scaffold91_2
+T4_scaffold92_1
+T4_scaffold93_1	K03545
+T4_scaffold94_1
+T4_scaffold94_2
+T4_scaffold95_1
+T4_scaffold98_1
+T4_scaffold98_2	K03594
+T4_scaffold99_1
+T4_scaffold101_1	K03046
+T4_scaffold103_1
+T4_scaffold104_1
+T4_scaffold105_1	K07089
+T4_scaffold106_1
+T4_scaffold108_1	K00773
+T4_scaffold109_1	K03574
+T4_scaffold110_1
+T4_scaffold110_2
+T4_scaffold111_1
+T4_scaffold113_1
+T4_scaffold116_1	K00024
+T4_scaffold118_1
+T4_scaffold119_1
+T4_scaffold120_1	K00605
+T4_scaffold122_1
+T4_scaffold123_1
+T4_scaffold124_1
+T4_scaffold126_1	K02946
+T4_scaffold127_1
+T4_scaffold128_1
+T4_scaffold129_1
+T4_scaffold132_1
+T4_scaffold134_1
+T4_scaffold134_2
+T4_scaffold135_1	K23269
+T4_scaffold135_2
+T4_scaffold136_1
+T4_scaffold137_1	K00525
+T4_scaffold139_1
+T4_scaffold140_1	K15371
+T4_scaffold141_1
+T4_scaffold142_1
+T4_scaffold143_1
+T4_scaffold145_1
+T4_scaffold145_2
+T4_scaffold146_1
+T4_scaffold147_1
+T4_scaffold149_1	K15012
+T4_scaffold151_1
+T4_scaffold154_1
+T4_scaffold155_1
+T4_scaffold156_1
+T4_scaffold157_1	K20902
+T4_scaffold158_1	K01239
+T4_scaffold159_1
+T4_scaffold161_1
+T4_scaffold162_1
+T4_scaffold166_1
+T4_scaffold167_1	K01992
+T4_scaffold168_1
+T4_scaffold168_2
+T4_scaffold170_1
+T4_scaffold172_1
+T4_scaffold175_1
+T4_scaffold176_1
+T4_scaffold177_1
+T4_scaffold177_2
+T4_scaffold178_1
+T4_scaffold179_1
+T4_scaffold180_1	K00951
+T4_scaffold182_1	K03687

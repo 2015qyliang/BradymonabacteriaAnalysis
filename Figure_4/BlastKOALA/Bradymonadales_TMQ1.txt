@@ -1,0 +1,4090 @@
+Scaffold1_1
+Scaffold1_2
+Scaffold1_3
+Scaffold1_4
+Scaffold1_5	K07098
+Scaffold1_6	K10843
+Scaffold1_7	K08972
+Scaffold1_8
+Scaffold1_9	K05844
+Scaffold1_10	K12132
+Scaffold1_11
+Scaffold1_12	K01873
+Scaffold1_13
+Scaffold1_14
+Scaffold1_15
+Scaffold1_16	K07714
+Scaffold1_17
+Scaffold1_18	K02654
+Scaffold1_19
+Scaffold1_20
+Scaffold1_21	K03088
+Scaffold1_22	K02469
+Scaffold1_23
+Scaffold1_24
+Scaffold1_25	K02108
+Scaffold1_26	K02110
+Scaffold1_27
+Scaffold1_28
+Scaffold1_29	K01975
+Scaffold1_30	K03742
+Scaffold1_31	K12132
+Scaffold1_32
+Scaffold1_33	K03222
+Scaffold1_34
+Scaffold1_35
+Scaffold1_36	K03224
+Scaffold1_37
+Scaffold1_38
+Scaffold1_39
+Scaffold1_40
+Scaffold1_41	K04088
+Scaffold1_42	K04087
+Scaffold1_43	K03579
+Scaffold1_44
+Scaffold1_45
+Scaffold1_46
+Scaffold1_47	K02454
+Scaffold1_48
+Scaffold1_49
+Scaffold1_50	K02035
+Scaffold1_51
+Scaffold1_52
+Scaffold1_53	K02337
+Scaffold1_54	K03553
+Scaffold1_55	K02669
+Scaffold1_56
+Scaffold1_57
+Scaffold1_58	K07000
+Scaffold1_59
+Scaffold1_60	K03727
+Scaffold1_61	K04771
+Scaffold1_62
+Scaffold1_63
+Scaffold1_64
+Scaffold1_65	K07126
+Scaffold1_66
+Scaffold1_67
+Scaffold1_68
+Scaffold1_69
+Scaffold1_70	K07305
+Scaffold1_71	K08968
+Scaffold1_72	K01273
+Scaffold1_73
+Scaffold1_74
+Scaffold1_75
+Scaffold1_76
+Scaffold1_77	K18011
+Scaffold1_78
+Scaffold1_79
+Scaffold1_80
+Scaffold1_81	K03075
+Scaffold1_82	K00674
+Scaffold1_83	K10907
+Scaffold1_84
+Scaffold1_85	K06180
+Scaffold1_86
+Scaffold1_87
+Scaffold1_88
+Scaffold1_89
+Scaffold1_90
+Scaffold1_91
+Scaffold1_92
+Scaffold1_93
+Scaffold1_94
+Scaffold1_95	K07636
+Scaffold1_96	K07657
+Scaffold1_97	K00763
+Scaffold1_98
+Scaffold1_99	K01493
+Scaffold1_100
+Scaffold1_101
+Scaffold1_102
+Scaffold1_103
+Scaffold1_104
+Scaffold1_105
+Scaffold1_106
+Scaffold1_107
+Scaffold1_108
+Scaffold1_109
+Scaffold1_110
+Scaffold1_111
+Scaffold1_112	K03453
+Scaffold1_113
+Scaffold1_114
+Scaffold1_115
+Scaffold1_116	K00925
+Scaffold1_117
+Scaffold1_118
+Scaffold1_119
+Scaffold1_120	K03744
+Scaffold1_121
+Scaffold1_122	K03594
+Scaffold1_123
+Scaffold1_124
+Scaffold1_125
+Scaffold1_126	K10742
+Scaffold1_127
+Scaffold1_128
+Scaffold1_129	K12132
+Scaffold1_130	K03215
+Scaffold1_131
+Scaffold1_132
+Scaffold1_133	K00091
+Scaffold1_134
+Scaffold1_135	K02042
+Scaffold1_136	K02044
+Scaffold1_137	K00457
+Scaffold1_138	K07023
+Scaffold1_139	K00091
+Scaffold1_140	K02279
+Scaffold1_141	K02280
+Scaffold1_142	K02283
+Scaffold1_143	K12510
+Scaffold1_144	K12511
+Scaffold1_145
+Scaffold1_146
+Scaffold1_147
+Scaffold1_148	K02194
+Scaffold1_149	K02193
+Scaffold1_150
+Scaffold1_151
+Scaffold1_152	K02198
+Scaffold1_153	K02197
+Scaffold1_154
+Scaffold1_155
+Scaffold1_156	K02283
+Scaffold1_157	K02195
+Scaffold1_158
+Scaffold1_159
+Scaffold1_160
+Scaffold1_161	K01887
+Scaffold1_162
+Scaffold1_163
+Scaffold1_164
+Scaffold1_165
+Scaffold1_166
+Scaffold1_167
+Scaffold1_168
+Scaffold1_169
+Scaffold1_170
+Scaffold1_171
+Scaffold1_172	K15778
+Scaffold1_173
+Scaffold1_174
+Scaffold1_175	K05366
+Scaffold1_176
+Scaffold1_177	K11753
+Scaffold1_178
+Scaffold1_179
+Scaffold1_180
+Scaffold1_181
+Scaffold1_182
+Scaffold1_183
+Scaffold1_184	K02003
+Scaffold1_185
+Scaffold1_186
+Scaffold1_187
+Scaffold1_188
+Scaffold1_189	K07152
+Scaffold1_190	K00368
+Scaffold1_191	K07234
+Scaffold1_192
+Scaffold1_193
+Scaffold1_194
+Scaffold1_195	K01992
+Scaffold1_196	K01990
+Scaffold1_197
+Scaffold1_198	K01990
+Scaffold1_199	K12132
+Scaffold1_200	K18979
+Scaffold1_201	K00526
+Scaffold1_202
+Scaffold1_203
+Scaffold1_204
+Scaffold1_205
+Scaffold1_206
+Scaffold1_207
+Scaffold1_208	K02970
+Scaffold1_209	K12132
+Scaffold1_210
+Scaffold1_211	K12132
+Scaffold1_212
+Scaffold1_213
+Scaffold1_214	K03711
+Scaffold1_215
+Scaffold1_216
+Scaffold1_217
+Scaffold1_218
+Scaffold1_219	K00059
+Scaffold1_220
+Scaffold1_221	K00982
+Scaffold1_222	K00826
+Scaffold1_223	K11645
+Scaffold1_224
+Scaffold1_225
+Scaffold1_226
+Scaffold1_227	K00161
+Scaffold1_228	K00162
+Scaffold1_229	K00627
+Scaffold1_230	K00459
+Scaffold1_231
+Scaffold1_232
+Scaffold1_233
+Scaffold1_234	K06976
+Scaffold1_235
+Scaffold1_236	K12132
+Scaffold1_237
+Scaffold1_238	K07301
+Scaffold1_239	K00773
+Scaffold1_240	K08309
+Scaffold1_241
+Scaffold1_242
+Scaffold1_243	K01919
+Scaffold1_244
+Scaffold1_245	K01809
+Scaffold1_246
+Scaffold1_247	K03496
+Scaffold1_248	K00283
+Scaffold1_249	K11731
+Scaffold1_250	K10914
+Scaffold1_251
+Scaffold1_252
+Scaffold1_253
+Scaffold1_254
+Scaffold1_255
+Scaffold1_256	K02557
+Scaffold1_257	K02556
+Scaffold1_258
+Scaffold1_259
+Scaffold1_260
+Scaffold1_261
+Scaffold1_262
+Scaffold1_263
+Scaffold1_264
+Scaffold1_265
+Scaffold1_266
+Scaffold1_267	K03625
+Scaffold1_268	K00794
+Scaffold1_269	K14652
+Scaffold1_270	K00793
+Scaffold1_271	K11752
+Scaffold1_272	K07738
+Scaffold1_273	K01808
+Scaffold1_274	K02911
+Scaffold1_275	K07040
+Scaffold1_276
+Scaffold1_277
+Scaffold1_278
+Scaffold1_279
+Scaffold1_280	K01869
+Scaffold1_281
+Scaffold1_282
+Scaffold1_283
+Scaffold1_284
+Scaffold1_285
+Scaffold1_286	K15738
+Scaffold1_287	K06975
+Scaffold1_288	K11381
+Scaffold1_289
+Scaffold1_290	K15256
+Scaffold1_291
+Scaffold1_292
+Scaffold1_293
+Scaffold1_294
+Scaffold1_295
+Scaffold1_296
+Scaffold1_297	K01724
+Scaffold1_298
+Scaffold1_299	K01142
+Scaffold1_300	K13049
+Scaffold1_301	K07566
+Scaffold1_302
+Scaffold1_303
+Scaffold1_304
+Scaffold1_305
+Scaffold1_306	K06950
+Scaffold1_307
+Scaffold1_308
+Scaffold1_309
+Scaffold1_310
+Scaffold1_311
+Scaffold1_312
+Scaffold1_313
+Scaffold1_314
+Scaffold1_315
+Scaffold1_316
+Scaffold1_317	K03704
+Scaffold1_318
+Scaffold1_319
+Scaffold1_320
+Scaffold1_321
+Scaffold1_322	K12410
+Scaffold1_323
+Scaffold1_324
+Scaffold1_325
+Scaffold1_326
+Scaffold1_327
+Scaffold1_328
+Scaffold1_329
+Scaffold1_330	K02897
+Scaffold1_331	K01056
+Scaffold1_332
+Scaffold1_333	K02990
+Scaffold1_334	K02939
+Scaffold1_335
+Scaffold1_336
+Scaffold1_337
+Scaffold1_338
+Scaffold1_339
+Scaffold1_340
+Scaffold1_341
+Scaffold1_342
+Scaffold1_343
+Scaffold1_344
+Scaffold1_345	K01992
+Scaffold1_346	K01990
+Scaffold1_347
+Scaffold1_348
+Scaffold1_349	K03424
+Scaffold1_350
+Scaffold1_351	K01874
+Scaffold1_352
+Scaffold1_353	K02341
+Scaffold1_354	K04771
+Scaffold1_355
+Scaffold1_356
+Scaffold1_357	K16171
+Scaffold1_358	K01800
+Scaffold1_359	K02348
+Scaffold1_360
+Scaffold1_361	K06199
+Scaffold1_362	K06199
+Scaffold1_363
+Scaffold1_364
+Scaffold1_365
+Scaffold1_366
+Scaffold1_367
+Scaffold1_368
+Scaffold1_369
+Scaffold1_370
+Scaffold1_371
+Scaffold1_372
+Scaffold1_373
+Scaffold1_374
+Scaffold1_375
+Scaffold1_376
+Scaffold1_377	K04487
+Scaffold1_378	K00566
+Scaffold1_379	K03685
+Scaffold1_380	K03116
+Scaffold1_381
+Scaffold1_382	K00942
+Scaffold1_383
+Scaffold1_384
+Scaffold1_385
+Scaffold1_386	K09022
+Scaffold1_387	K03696
+Scaffold1_388
+Scaffold1_389	K00969
+Scaffold1_390
+Scaffold1_391
+Scaffold1_392	K03496
+Scaffold1_393	K15777
+Scaffold1_394
+Scaffold1_395
+Scaffold1_396
+Scaffold1_397
+Scaffold1_398
+Scaffold1_399
+Scaffold1_400
+Scaffold1_401
+Scaffold1_402	K04043
+Scaffold1_403
+Scaffold1_404	K00821
+Scaffold1_405	K03667
+Scaffold1_406	K01419
+Scaffold1_407	K03733
+Scaffold1_408	K00951
+Scaffold1_409
+Scaffold1_410
+Scaffold1_411
+Scaffold1_412
+Scaffold1_413	K03978
+Scaffold1_414	K03789
+Scaffold1_415	K00948
+Scaffold1_416
+Scaffold1_417
+Scaffold1_418
+Scaffold1_419	K00783
+Scaffold1_420	K09710
+Scaffold1_421	K00147
+Scaffold1_422	K04078
+Scaffold1_423	K04077
+Scaffold1_424	K12132
+Scaffold1_425	K12132
+Scaffold1_426	K03769
+Scaffold1_427
+Scaffold1_428
+Scaffold1_429	K01738
+Scaffold1_430	K03636
+Scaffold1_431	K12339
+Scaffold1_432
+Scaffold1_433
+Scaffold1_434
+Scaffold1_435
+Scaffold1_436
+Scaffold1_437
+Scaffold1_438
+Scaffold1_439	K06076
+Scaffold1_440
+Scaffold1_441
+Scaffold1_442	K01613
+Scaffold1_443
+Scaffold1_444
+Scaffold1_445	K05592
+Scaffold1_446
+Scaffold1_447	K02520
+Scaffold1_448	K02916
+Scaffold1_449	K02887
+Scaffold1_450	K01889
+Scaffold1_451	K01890
+Scaffold1_452	K04764
+Scaffold1_453
+Scaffold1_454	K03086
+Scaffold1_455	K12132
+Scaffold1_456
+Scaffold1_457	K03230
+Scaffold1_458
+Scaffold1_459
+Scaffold1_460
+Scaffold1_461	K00762
+Scaffold1_462
+Scaffold1_463
+Scaffold1_464
+Scaffold1_465
+Scaffold1_466	K06076
+Scaffold1_467
+Scaffold1_468
+Scaffold1_469
+Scaffold1_470	K02558
+Scaffold1_471
+Scaffold1_472	K12132
+Scaffold1_473
+Scaffold1_474	K09744
+Scaffold1_475
+Scaffold1_476
+Scaffold1_477
+Scaffold1_478
+Scaffold1_479
+Scaffold1_480
+Scaffold1_481
+Scaffold1_482
+Scaffold1_483
+Scaffold1_484
+Scaffold1_485	K06188
+Scaffold1_486
+Scaffold1_487
+Scaffold1_488
+Scaffold1_489
+Scaffold1_490
+Scaffold1_491
+Scaffold1_492
+Scaffold1_493
+Scaffold1_494
+Scaffold1_495
+Scaffold1_496
+Scaffold1_497
+Scaffold1_498
+Scaffold1_499
+Scaffold1_500	K14445
+Scaffold1_501
+Scaffold1_502
+Scaffold1_503
+Scaffold1_504
+Scaffold1_505
+Scaffold1_506
+Scaffold1_507
+Scaffold1_508	K06911
+Scaffold1_509
+Scaffold1_510	K07090
+Scaffold1_511	K07386
+Scaffold1_512
+Scaffold1_513
+Scaffold1_514
+Scaffold1_515
+Scaffold1_516	K00573
+Scaffold1_517	K06975
+Scaffold1_518	K01845
+Scaffold1_519	K01772
+Scaffold1_520	K01698
+Scaffold1_521	K00231
+Scaffold1_522	K01599
+Scaffold1_523
+Scaffold1_524	K01749
+Scaffold1_525	K02492
+Scaffold1_526
+Scaffold1_527	K11206
+Scaffold1_528	K09748
+Scaffold1_529	K02600
+Scaffold1_530	K07742
+Scaffold1_531	K02519
+Scaffold1_532	K02834
+Scaffold1_533	K06881
+Scaffold1_534	K03177
+Scaffold1_535
+Scaffold1_536	K06959
+Scaffold1_537	K00384
+Scaffold1_538
+Scaffold1_539	K01915
+Scaffold1_540	K04751
+Scaffold1_541
+Scaffold1_542	K00262
+Scaffold1_543
+Scaffold1_544
+Scaffold1_545
+Scaffold1_546
+Scaffold1_547
+Scaffold1_548	K00334
+Scaffold1_549	K00335
+Scaffold1_550	K00339
+Scaffold1_551	K00340
+Scaffold1_552	K00341
+Scaffold1_553	K00342
+Scaffold1_554	K00343
+Scaffold1_555
+Scaffold1_556	K14058
+Scaffold1_557	K03466
+Scaffold1_558	K02355
+Scaffold1_559	K19784
+Scaffold1_560
+Scaffold1_561
+Scaffold1_562	K07095
+Scaffold1_563	K21552
+Scaffold1_564
+Scaffold1_565	K15977
+Scaffold1_566
+Scaffold1_567	K01604
+Scaffold1_568
+Scaffold1_569	K03497
+Scaffold1_570	K03496
+Scaffold1_571
+Scaffold1_572
+Scaffold1_573
+Scaffold1_574	K07444
+Scaffold1_575	K06911
+Scaffold1_576
+Scaffold1_577	K01424
+Scaffold1_578	K07661
+Scaffold1_579
+Scaffold1_580
+Scaffold1_581
+Scaffold1_582	K05569
+Scaffold1_583	K05570
+Scaffold1_584	K05571
+Scaffold1_585
+Scaffold1_586
+Scaffold1_587	K05567
+Scaffold1_588
+Scaffold1_589	K05568
+Scaffold1_590
+Scaffold1_591	K04773
+Scaffold1_592
+Scaffold1_593	K07323
+Scaffold1_594
+Scaffold1_595	K02283
+Scaffold1_596	K10823
+Scaffold1_597	K02031
+Scaffold1_598	K02034
+Scaffold1_599	K02033
+Scaffold1_600	K02035
+Scaffold1_601	K01876
+Scaffold1_602
+Scaffold1_603	K01903
+Scaffold1_604	K01902
+Scaffold1_605	K00940
+Scaffold1_606	K06941
+Scaffold1_607
+Scaffold1_608
+Scaffold1_609	K12132
+Scaffold1_610	K01872
+Scaffold1_611
+Scaffold1_612
+Scaffold1_613
+Scaffold1_614
+Scaffold1_615	K01990
+Scaffold1_616
+Scaffold1_617
+Scaffold1_618	K03595
+Scaffold1_619	K03977
+Scaffold1_620	K12132
+Scaffold1_621
+Scaffold1_622
+Scaffold1_623	K01972
+Scaffold1_624
+Scaffold1_625	K09014
+Scaffold1_626	K09013
+Scaffold1_627	K09015
+Scaffold1_628	K11717
+Scaffold1_629	K04488
+Scaffold1_630
+Scaffold1_631	K11942
+Scaffold1_632	K15738
+Scaffold1_633
+Scaffold1_634
+Scaffold1_635	K00573
+Scaffold1_636	K01104
+Scaffold1_637
+Scaffold1_638
+Scaffold1_639	K14058
+Scaffold1_640
+Scaffold1_641
+Scaffold1_642
+Scaffold1_643
+Scaffold1_644
+Scaffold1_645	K03562
+Scaffold1_646	K03560
+Scaffold1_647
+Scaffold1_648	K03641
+Scaffold1_649	K03640
+Scaffold1_650
+Scaffold1_651
+Scaffold1_652	K06169
+Scaffold1_653	K04773
+Scaffold1_654
+Scaffold1_655
+Scaffold1_656
+Scaffold1_657
+Scaffold1_658	K06889
+Scaffold1_659
+Scaffold1_660	K00029
+Scaffold1_661
+Scaffold1_662
+Scaffold1_663
+Scaffold1_664
+Scaffold1_665	K03704
+Scaffold1_666
+Scaffold1_667	K03704
+Scaffold1_668
+Scaffold1_669
+Scaffold1_670
+Scaffold1_671
+Scaffold1_672	K07019
+Scaffold1_673	K03628
+Scaffold1_674
+Scaffold1_675
+Scaffold1_676
+Scaffold1_677
+Scaffold1_678
+Scaffold1_679	K12132
+Scaffold1_680	K07137
+Scaffold1_681
+Scaffold1_682
+Scaffold1_683
+Scaffold1_684
+Scaffold1_685	K03687
+Scaffold1_686
+Scaffold1_687
+Scaffold1_688	K07027
+Scaffold1_689	K03705
+Scaffold1_690	K03687
+Scaffold1_691	K04043
+Scaffold1_692	K03686
+Scaffold1_693
+Scaffold1_694
+Scaffold1_695
+Scaffold1_696	K00946
+Scaffold1_697
+Scaffold1_698
+Scaffold1_699
+Scaffold1_700
+Scaffold1_701	K01575
+Scaffold1_702	K01061
+Scaffold1_703
+Scaffold1_704	K03457
+Scaffold1_705	K17722
+Scaffold1_706	K17723
+Scaffold1_707	K01464
+Scaffold1_708	K00140
+Scaffold1_709	K15372
+Scaffold1_710
+Scaffold1_711	K00666
+Scaffold1_712
+Scaffold1_713
+Scaffold1_714
+Scaffold1_715
+Scaffold1_716
+Scaffold1_717
+Scaffold1_718
+Scaffold1_719	K18939
+Scaffold1_720
+Scaffold1_721	K09117
+Scaffold1_722
+Scaffold1_723
+Scaffold1_724
+Scaffold1_725
+Scaffold1_726
+Scaffold1_727
+Scaffold1_728	K14347
+Scaffold1_729
+Scaffold1_730	K06886
+Scaffold1_731
+Scaffold1_732
+Scaffold1_733
+Scaffold1_734
+Scaffold1_735
+Scaffold1_736
+Scaffold1_737	K03919
+Scaffold1_738
+Scaffold1_739
+Scaffold1_740	K06917
+Scaffold1_741	K01008
+Scaffold1_742
+Scaffold1_743	K11209
+Scaffold1_744
+Scaffold1_745	K00799
+Scaffold1_746
+Scaffold1_747
+Scaffold1_748	K03932
+Scaffold1_749
+Scaffold1_750
+Scaffold1_751
+Scaffold1_752
+Scaffold1_753
+Scaffold1_754	K06872
+Scaffold1_755
+Scaffold1_756
+Scaffold1_757
+Scaffold1_758	K07755
+Scaffold1_759
+Scaffold1_760	K02020
+Scaffold1_761	K02018
+Scaffold1_762	K02017
+Scaffold1_763
+Scaffold1_764
+Scaffold1_765
+Scaffold1_766
+Scaffold1_767	K01673
+Scaffold1_768
+Scaffold1_769
+Scaffold1_770
+Scaffold1_771
+Scaffold1_772	K06203
+Scaffold1_773
+Scaffold1_774
+Scaffold1_775
+Scaffold1_776	K06949
+Scaffold1_777
+Scaffold1_778	K11259
+Scaffold1_779	K00253
+Scaffold1_780	K05539
+Scaffold1_781
+Scaffold1_782
+Scaffold1_783	K02259
+Scaffold1_784	K01893
+Scaffold1_785
+Scaffold1_786	K06180
+Scaffold1_787	K00077
+Scaffold1_788	K06179
+Scaffold1_789
+Scaffold1_790	K07394
+Scaffold1_791	K07010
+Scaffold1_792	K03216
+Scaffold1_793
+Scaffold1_794	K06180
+Scaffold1_795
+Scaffold1_796
+Scaffold1_797
+Scaffold1_798
+Scaffold1_799
+Scaffold1_800
+Scaffold1_801
+Scaffold1_802
+Scaffold1_803
+Scaffold1_804
+Scaffold1_805
+Scaffold1_806
+Scaffold1_807
+Scaffold1_808	K03925
+Scaffold1_809	K03438
+Scaffold1_810
+Scaffold1_811	K03587
+Scaffold1_812	K01928
+Scaffold1_813	K01929
+Scaffold1_814	K01000
+Scaffold1_815	K03588
+Scaffold1_816	K02563
+Scaffold1_817	K00075
+Scaffold1_818	K01921
+Scaffold1_819	K03589
+Scaffold1_820	K03590
+Scaffold1_821	K03531
+Scaffold1_822	K15396
+Scaffold1_823
+Scaffold1_824
+Scaffold1_825	K02956
+Scaffold1_826	K00962
+Scaffold1_827
+Scaffold1_828
+Scaffold1_829
+Scaffold1_830	K04084
+Scaffold1_831
+Scaffold1_832	K04043
+Scaffold1_833
+Scaffold1_834	K03770
+Scaffold1_835	K03569
+Scaffold1_836	K03570
+Scaffold1_837
+Scaffold1_838	K05515
+Scaffold1_839	K05837
+Scaffold1_840	K02031
+Scaffold1_840	K02032
+Scaffold1_841
+Scaffold1_842	K00363
+Scaffold1_843
+Scaffold1_844
+Scaffold1_845
+Scaffold1_846	K07113
+Scaffold1_847	K00616
+Scaffold1_848	K01875
+Scaffold1_849	K07003
+Scaffold1_850	K07447
+Scaffold1_851	K07082
+Scaffold1_852
+Scaffold1_853
+Scaffold1_854
+Scaffold1_855	K08309
+Scaffold1_856
+Scaffold1_857
+Scaffold1_858
+Scaffold1_859	K20074
+Scaffold1_860	K04096
+Scaffold1_861
+Scaffold1_862
+Scaffold1_863	K03767
+Scaffold1_864
+Scaffold1_865
+Scaffold1_866
+Scaffold1_867
+Scaffold1_868	K07588
+Scaffold1_869
+Scaffold1_870	K01849
+Scaffold1_871
+Scaffold1_872	K01715
+Scaffold1_873	K00074
+Scaffold1_874	K12132
+Scaffold1_875
+Scaffold1_876	K00974
+Scaffold1_877
+Scaffold1_878
+Scaffold1_879	K05820
+Scaffold1_880
+Scaffold1_881	K01338
+Scaffold1_882	K03624
+Scaffold1_883
+Scaffold1_884	K01955
+Scaffold1_885	K03310
+Scaffold1_886
+Scaffold1_887
+Scaffold1_888	K17713
+Scaffold1_889	K03439
+Scaffold1_890
+Scaffold1_891
+Scaffold1_892
+Scaffold1_893
+Scaffold1_894
+Scaffold1_895
+Scaffold1_896	K05786
+Scaffold1_897
+Scaffold1_898
+Scaffold1_899	K06287
+Scaffold1_900	K06997
+Scaffold1_901	K00286
+Scaffold1_902	K04074
+Scaffold1_903
+Scaffold1_904
+Scaffold1_905	K11707
+Scaffold1_906	K11710
+Scaffold1_907	K11708
+Scaffold1_908	K11709
+Scaffold1_909	K03709
+Scaffold1_910
+Scaffold1_911	K01491
+Scaffold1_912	K00605
+Scaffold1_913	K02437
+Scaffold1_914	K00282
+Scaffold1_915	K01810
+Scaffold1_916
+Scaffold1_917	K00873
+Scaffold1_918
+Scaffold1_919
+Scaffold1_920
+Scaffold1_921
+Scaffold1_922
+Scaffold1_923
+Scaffold1_924	K09986
+Scaffold1_925
+Scaffold1_926
+Scaffold1_927
+Scaffold1_928
+Scaffold1_929
+Scaffold1_930	K01897
+Scaffold1_931
+Scaffold1_932	K01778
+Scaffold1_933
+Scaffold1_934
+Scaffold1_935	K00857
+Scaffold1_936	K00760
+Scaffold1_937
+Scaffold1_938
+Scaffold1_939
+Scaffold1_940	K12132
+Scaffold1_941	K06925
+Scaffold1_942
+Scaffold1_943	K07052
+Scaffold1_944
+Scaffold1_945
+Scaffold1_946
+Scaffold1_947
+Scaffold1_948
+Scaffold1_949
+Scaffold1_950
+Scaffold1_951
+Scaffold1_952	K12132
+Scaffold1_953
+Scaffold1_954
+Scaffold1_955	K06217
+Scaffold1_956
+Scaffold1_957
+Scaffold1_958	K04765
+Scaffold1_959
+Scaffold1_960
+Scaffold1_961
+Scaffold1_962	K01924
+Scaffold1_963	K01925
+Scaffold1_964
+Scaffold1_965	K01961
+Scaffold1_966	K00384
+Scaffold1_967	K01495
+Scaffold1_968	K03551
+Scaffold1_969	K03550
+Scaffold1_970	K01159
+Scaffold1_971	K01104
+Scaffold1_972	K05396
+Scaffold1_973
+Scaffold1_974	K12132
+Scaffold1_975
+Scaffold1_976	K03969
+Scaffold1_977	K00966
+Scaffold1_978	K03546
+Scaffold1_979	K03547
+Scaffold1_980
+Scaffold1_981	K03969
+Scaffold1_982	K03698
+Scaffold1_983	K12132
+Scaffold1_984	K12132
+Scaffold1_985
+Scaffold1_986	K01784
+Scaffold1_987
+Scaffold1_988
+Scaffold1_989
+Scaffold1_990
+Scaffold1_991
+Scaffold1_992	K06158
+Scaffold1_993
+Scaffold1_994
+Scaffold1_995
+Scaffold1_996
+Scaffold1_997
+Scaffold1_998
+Scaffold1_999	K07568
+Scaffold1_1000	K00773
+Scaffold1_1001	K03210
+Scaffold1_1002	K03072
+Scaffold1_1003	K03074
+Scaffold1_1004	K07462
+Scaffold1_1005
+Scaffold1_1006
+Scaffold1_1007
+Scaffold1_1008
+Scaffold1_1009
+Scaffold1_1010
+Scaffold1_1011
+Scaffold1_1012
+Scaffold1_1013
+Scaffold1_1014
+Scaffold1_1015	K07497
+Scaffold1_1016
+Scaffold1_1017
+Scaffold1_1018
+Scaffold1_1019	K06197
+Scaffold1_1020	K07098
+Scaffold1_1021	K07226
+Scaffold1_1022	K06872
+Scaffold1_1023	K01661
+Scaffold1_1024	K02552
+Scaffold1_1025	K02551
+Scaffold1_1026	K02548
+Scaffold1_1027
+Scaffold1_1028	K01911
+Scaffold1_1029	K03856
+Scaffold1_1030	K08680
+Scaffold1_1031
+Scaffold1_1032
+Scaffold1_1033
+Scaffold1_1034	K00537
+Scaffold1_1035
+Scaffold1_1036
+Scaffold1_1037	K01507
+Scaffold1_1038
+Scaffold1_1039
+Scaffold1_1040
+Scaffold1_1041
+Scaffold1_1042
+Scaffold1_1043
+Scaffold1_1044	K01658
+Scaffold1_1045	K00826
+Scaffold1_1046	K01665
+Scaffold1_1047
+Scaffold1_1048
+Scaffold1_1049
+Scaffold1_1050
+Scaffold1_1051	K07037
+Scaffold1_1052	K07042
+Scaffold1_1053	K02315
+Scaffold1_1054	K03495
+Scaffold1_1055
+Scaffold1_1056	K03657
+Scaffold1_1057
+Scaffold1_1058
+Scaffold1_1059
+Scaffold1_1060
+Scaffold1_1061	K03701
+Scaffold1_1062
+Scaffold1_1063	K10823
+Scaffold1_1064	K15583
+Scaffold1_1065	K15582
+Scaffold1_1066	K15581
+Scaffold1_1067	K15580
+Scaffold1_1068
+Scaffold1_1069	K07263
+Scaffold1_1070
+Scaffold1_1071
+Scaffold1_1072
+Scaffold1_1073	K01784
+Scaffold1_1074	K16703
+Scaffold1_1075
+Scaffold1_1076	K14161
+Scaffold1_1077	K14162
+Scaffold1_1078
+Scaffold1_1079
+Scaffold1_1080
+Scaffold1_1081
+Scaffold1_1082	K11754
+Scaffold1_1083
+Scaffold1_1084	K09931
+Scaffold1_1085
+Scaffold1_1086
+Scaffold1_1087
+Scaffold1_1088	K03559
+Scaffold1_1089	K03561
+Scaffold1_1090
+Scaffold1_1091	K06890
+Scaffold1_1092
+Scaffold1_1093
+Scaffold1_1094
+Scaffold1_1095
+Scaffold1_1096
+Scaffold1_1097
+Scaffold1_1098
+Scaffold1_1099	K00965
+Scaffold1_1100	K00703
+Scaffold1_1101	K01966
+Scaffold1_1102	K01647
+Scaffold1_1103
+Scaffold1_1104
+Scaffold1_1105	K00995
+Scaffold1_1106
+Scaffold1_1107	K03924
+Scaffold1_1108
+Scaffold1_1109
+Scaffold1_1110
+Scaffold1_1111
+Scaffold1_1112
+Scaffold1_1113	K03110
+Scaffold1_1114	K03529
+Scaffold1_1115
+Scaffold1_1116
+Scaffold1_1117	K01953
+Scaffold1_1118
+Scaffold1_1119
+Scaffold1_1120	K12132
+Scaffold1_1121	K00876
+Scaffold1_1122
+Scaffold1_1123	K06142
+Scaffold1_1124	K07277
+Scaffold1_1125	K09810
+Scaffold1_1126	K09808
+Scaffold1_1127	K02836
+Scaffold1_1128	K01689
+Scaffold1_1129
+Scaffold1_1130
+Scaffold1_1131	K20074
+Scaffold1_1132	K01956
+Scaffold1_1133	K00609
+Scaffold1_1134	K03100
+Scaffold1_1135	K03596
+Scaffold1_1136
+Scaffold1_1137	K22132
+Scaffold1_1138	K03424
+Scaffold1_1139
+Scaffold1_1140	K04043
+Scaffold1_1141
+Scaffold1_1142	K00600
+Scaffold1_1143
+Scaffold1_1144
+Scaffold1_1145
+Scaffold1_1146
+Scaffold1_1147
+Scaffold1_1148	K12132
+Scaffold1_1149
+Scaffold1_1150	K12132
+Scaffold1_1151	K01823
+Scaffold1_1152	K07787
+Scaffold1_1153	K07798
+Scaffold1_1154
+Scaffold1_1155
+Scaffold1_1156
+Scaffold1_1157	K07058
+Scaffold1_1158	K20656
+Scaffold1_1159	K15635
+Scaffold1_1160
+Scaffold1_1161
+Scaffold1_1162
+Scaffold1_1163
+Scaffold1_1164	K01951
+Scaffold1_1165
+Scaffold1_1166
+Scaffold1_1167
+Scaffold1_1168
+Scaffold1_1169	K02906
+Scaffold1_1170
+Scaffold1_1171
+Scaffold1_1172
+Scaffold1_1173	K02065
+Scaffold1_1174	K02066
+Scaffold1_1175	K02066
+Scaffold1_1176
+Scaffold1_1177	K02065
+Scaffold1_1178	K02067
+Scaffold1_1179
+Scaffold2_1	K01885
+Scaffold2_2
+Scaffold2_3	K07443
+Scaffold2_4
+Scaffold2_5
+Scaffold2_6
+Scaffold2_7
+Scaffold2_8	K00858
+Scaffold2_9
+Scaffold2_10
+Scaffold2_11	K07574
+Scaffold2_12
+Scaffold2_13
+Scaffold2_14
+Scaffold2_15	K03798
+Scaffold2_16
+Scaffold2_17	K02968
+Scaffold2_18
+Scaffold2_19	K02340
+Scaffold2_20
+Scaffold2_21
+Scaffold2_22	K04043
+Scaffold2_23
+Scaffold2_24	K03442
+Scaffold2_25
+Scaffold2_26
+Scaffold2_27
+Scaffold2_28	K03924
+Scaffold2_29
+Scaffold2_30	K05366
+Scaffold2_31
+Scaffold2_32
+Scaffold2_33	K06207
+Scaffold2_34
+Scaffold2_35	K12132
+Scaffold2_36
+Scaffold2_37	K02067
+Scaffold2_38	K02066
+Scaffold2_39
+Scaffold2_40
+Scaffold2_41	K01069
+Scaffold2_42
+Scaffold2_43
+Scaffold2_44	K12132
+Scaffold2_45
+Scaffold2_46	K09158
+Scaffold2_47
+Scaffold2_48
+Scaffold2_49
+Scaffold2_50
+Scaffold2_51
+Scaffold2_52	K14645
+Scaffold2_53
+Scaffold2_54
+Scaffold2_55
+Scaffold2_56
+Scaffold2_57
+Scaffold2_58	K02528
+Scaffold2_59
+Scaffold2_60	K07051
+Scaffold2_61
+Scaffold2_62	K12132
+Scaffold2_63
+Scaffold2_64	K09800
+Scaffold2_65	K01758
+Scaffold2_66	K02945
+Scaffold2_67
+Scaffold2_68
+Scaffold2_69
+Scaffold2_70	K00945
+Scaffold2_71	K00817
+Scaffold2_72	K00791
+Scaffold2_73	K03572
+Scaffold2_74
+Scaffold2_75	K01356
+Scaffold2_76	K00330
+Scaffold2_77	K00331
+Scaffold2_78	K00332
+Scaffold2_79	K00333
+Scaffold2_80	K00336
+Scaffold2_81	K00337
+Scaffold2_82	K00338
+Scaffold2_83
+Scaffold2_84	K12132
+Scaffold2_85
+Scaffold2_86
+Scaffold2_87	K03686
+Scaffold2_88	K03088
+Scaffold2_89
+Scaffold2_90
+Scaffold2_91
+Scaffold2_92	K09005
+Scaffold2_93
+Scaffold2_94
+Scaffold2_95
+Scaffold2_96
+Scaffold2_97
+Scaffold2_98
+Scaffold2_99	K08974
+Scaffold2_100
+Scaffold2_101
+Scaffold2_102
+Scaffold2_103	K03602
+Scaffold2_104	K03601
+Scaffold2_105
+Scaffold2_106	K04773
+Scaffold2_107	K03676
+Scaffold2_108
+Scaffold2_109
+Scaffold2_110	K04075
+Scaffold2_111	K03798
+Scaffold2_112	K00796
+Scaffold2_113	K18672
+Scaffold2_114
+Scaffold2_115	K03431
+Scaffold2_116	K03474
+Scaffold2_117	K17758
+Scaffold2_117	K17759
+Scaffold2_118
+Scaffold2_119
+Scaffold2_120
+Scaffold2_121	K06940
+Scaffold2_122
+Scaffold2_123	K03634
+Scaffold2_124
+Scaffold2_125
+Scaffold2_126
+Scaffold2_127	K00184
+Scaffold2_128	K00185
+Scaffold2_129
+Scaffold2_130
+Scaffold2_131
+Scaffold2_132
+Scaffold2_133	K02275
+Scaffold2_134	K02274
+Scaffold2_135	K02276
+Scaffold2_136
+Scaffold2_137	K02257
+Scaffold2_138	K02258
+Scaffold2_139
+Scaffold2_140
+Scaffold2_141
+Scaffold2_142	K00759
+Scaffold2_143	K03787
+Scaffold2_144
+Scaffold2_145
+Scaffold2_146
+Scaffold2_147
+Scaffold2_148
+Scaffold2_149	K03924
+Scaffold2_150
+Scaffold2_151
+Scaffold2_152
+Scaffold2_153
+Scaffold2_154
+Scaffold2_155	K12132
+Scaffold2_156	K12132
+Scaffold2_157	K07277
+Scaffold2_158
+Scaffold2_159
+Scaffold2_160
+Scaffold2_161
+Scaffold2_162
+Scaffold2_163	K00765
+Scaffold2_164	K02502
+Scaffold2_165
+Scaffold2_166	K03469
+Scaffold2_167	K03924
+Scaffold2_168
+Scaffold2_169
+Scaffold2_170	K07114
+Scaffold2_171	K07114
+Scaffold2_172
+Scaffold2_173	K07192
+Scaffold2_174	K07192
+Scaffold2_175
+Scaffold2_176
+Scaffold2_177	K12574
+Scaffold2_178	K03498
+Scaffold2_179	K03499
+Scaffold2_180
+Scaffold2_181	K00971
+Scaffold2_182
+Scaffold2_183
+Scaffold2_184
+Scaffold2_185	K01297
+Scaffold2_186
+Scaffold2_187	K01092
+Scaffold2_188
+Scaffold2_189
+Scaffold2_190
+Scaffold2_191	K03640
+Scaffold2_192
+Scaffold2_193
+Scaffold2_194
+Scaffold2_195	K01868
+Scaffold2_196
+Scaffold2_197
+Scaffold2_198	K11991
+Scaffold2_199
+Scaffold2_200
+Scaffold2_201
+Scaffold2_202
+Scaffold2_203	K02346
+Scaffold2_204	K07053
+Scaffold2_205	K07114
+Scaffold2_206
+Scaffold2_207
+Scaffold2_208
+Scaffold2_209
+Scaffold2_210	K05802
+Scaffold2_211	K01695
+Scaffold2_212	K01696
+Scaffold2_213
+Scaffold2_214
+Scaffold2_215
+Scaffold2_216	K01299
+Scaffold2_217
+Scaffold2_218
+Scaffold2_219
+Scaffold2_220
+Scaffold2_221	K06894
+Scaffold2_222
+Scaffold2_223
+Scaffold2_224
+Scaffold2_225	K15876
+Scaffold2_226	K03385
+Scaffold2_227
+Scaffold2_228
+Scaffold2_229
+Scaffold2_230
+Scaffold2_231
+Scaffold2_232
+Scaffold2_233
+Scaffold2_234	K22349
+Scaffold2_235
+Scaffold2_236
+Scaffold2_237
+Scaffold2_238
+Scaffold2_239
+Scaffold2_240
+Scaffold2_241
+Scaffold2_242	K03427
+Scaffold2_243	K01154
+Scaffold2_244
+Scaffold2_245
+Scaffold2_246	K01153
+Scaffold2_247
+Scaffold2_248
+Scaffold2_249
+Scaffold2_250
+Scaffold2_251
+Scaffold2_252
+Scaffold2_253	K09927
+Scaffold2_254
+Scaffold2_255
+Scaffold2_256
+Scaffold2_257
+Scaffold2_258	K01431
+Scaffold2_259	K03321
+Scaffold2_260	K02806
+Scaffold2_261
+Scaffold2_262
+Scaffold2_263	K01897
+Scaffold2_264	K00091
+Scaffold2_265
+Scaffold2_266
+Scaffold2_267
+Scaffold2_268
+Scaffold2_269	K03657
+Scaffold2_270	K01714
+Scaffold2_271	K00215
+Scaffold2_272
+Scaffold2_273	K02687
+Scaffold2_274	K09761
+Scaffold2_275	K00948
+Scaffold2_276
+Scaffold2_277
+Scaffold2_278
+Scaffold2_279	K03215
+Scaffold2_280	K12132
+Scaffold2_281
+Scaffold2_282	K01474
+Scaffold2_283	K01473
+Scaffold2_284	K00261
+Scaffold2_285
+Scaffold2_286
+Scaffold2_287
+Scaffold2_288
+Scaffold2_289	K03088
+Scaffold2_290	K00259
+Scaffold2_291
+Scaffold2_292
+Scaffold2_293
+Scaffold2_294
+Scaffold2_295
+Scaffold2_296	K00528
+Scaffold2_297
+Scaffold2_298
+Scaffold2_299
+Scaffold2_300
+Scaffold2_301	K03724
+Scaffold2_302	K06131
+Scaffold2_303	K03575
+Scaffold2_304
+Scaffold2_305	K12132
+Scaffold2_306
+Scaffold2_307
+Scaffold2_308
+Scaffold2_309
+Scaffold2_310	K07056
+Scaffold2_311
+Scaffold2_312
+Scaffold2_313
+Scaffold2_314
+Scaffold2_315
+Scaffold2_316
+Scaffold2_317
+Scaffold2_318
+Scaffold2_319
+Scaffold2_320
+Scaffold2_321	K07460
+Scaffold2_322	K03470
+Scaffold2_323
+Scaffold2_324	K02884
+Scaffold2_325
+Scaffold2_326	K01843
+Scaffold2_327	K01066
+Scaffold2_328
+Scaffold2_329
+Scaffold2_330
+Scaffold2_331	K03642
+Scaffold2_332	K00632
+Scaffold2_333	K07516
+Scaffold2_334
+Scaffold2_335	K07390
+Scaffold2_336	K02959
+Scaffold2_337	K06960
+Scaffold2_338	K02860
+Scaffold2_339	K00554
+Scaffold2_340	K23239
+Scaffold2_341	K00121
+Scaffold2_342	K01070
+Scaffold2_343
+Scaffold2_344
+Scaffold2_345
+Scaffold2_346
+Scaffold2_347	K03703
+Scaffold2_348	K03769
+Scaffold2_349	K00024
+Scaffold2_350	K20074
+Scaffold2_351	K09065
+Scaffold2_352	K01940
+Scaffold2_353	K01438
+Scaffold2_354
+Scaffold2_355	K11741
+Scaffold2_356	K22478
+Scaffold2_357	K00145
+Scaffold2_358	K01755
+Scaffold2_359
+Scaffold2_360
+Scaffold2_361	K02003
+Scaffold2_362
+Scaffold2_363
+Scaffold2_364
+Scaffold2_365
+Scaffold2_366
+Scaffold2_367
+Scaffold2_368
+Scaffold2_369
+Scaffold2_370
+Scaffold2_371
+Scaffold2_372
+Scaffold2_373
+Scaffold2_374
+Scaffold2_375
+Scaffold2_376	K03594
+Scaffold2_377
+Scaffold2_378
+Scaffold2_379
+Scaffold2_380
+Scaffold2_381
+Scaffold2_382
+Scaffold2_383
+Scaffold2_384
+Scaffold2_385
+Scaffold2_386	K08764
+Scaffold2_387	K04083
+Scaffold2_388	K07098
+Scaffold2_389	K21071
+Scaffold2_390
+Scaffold2_391	K01438
+Scaffold2_392	K01087
+Scaffold2_393	K03885
+Scaffold2_394
+Scaffold2_395	K07126
+Scaffold2_396	K12132
+Scaffold2_397
+Scaffold2_398
+Scaffold2_399
+Scaffold2_400
+Scaffold2_401	K01951
+Scaffold2_402
+Scaffold2_403
+Scaffold2_404
+Scaffold2_405	K00232
+Scaffold2_406
+Scaffold2_407
+Scaffold2_408
+Scaffold2_409	K02945
+Scaffold2_410	K11741
+Scaffold2_411	K02200
+Scaffold2_412
+Scaffold2_413
+Scaffold2_414
+Scaffold2_415
+Scaffold2_416
+Scaffold2_417
+Scaffold2_418
+Scaffold2_419
+Scaffold2_420
+Scaffold2_421
+Scaffold2_422
+Scaffold2_423	K03555
+Scaffold2_424
+Scaffold2_425
+Scaffold2_426	K12132
+Scaffold2_427
+Scaffold2_428
+Scaffold2_429
+Scaffold2_430	K03701
+Scaffold2_431
+Scaffold2_432
+Scaffold2_433
+Scaffold2_434	K02460
+Scaffold2_435	K02459
+Scaffold2_436
+Scaffold2_437
+Scaffold2_438	K02456
+Scaffold2_439	K02456
+Scaffold2_440	K02455
+Scaffold2_441	K02454
+Scaffold2_442	K02453
+Scaffold2_443	K02452
+Scaffold2_444	K07713
+Scaffold2_445	K01768
+Scaffold2_446	K12132
+Scaffold2_447	K00975
+Scaffold2_448
+Scaffold2_449
+Scaffold2_450	K03593
+Scaffold2_451	K03711
+Scaffold2_452
+Scaffold2_453
+Scaffold2_454
+Scaffold2_455
+Scaffold2_456
+Scaffold2_457	K03306
+Scaffold2_458	K07220
+Scaffold2_459	K00681
+Scaffold2_460	K12132
+Scaffold2_461
+Scaffold2_462	K00928
+Scaffold2_463
+Scaffold2_464
+Scaffold2_465	K06176
+Scaffold2_466	K00990
+Scaffold2_467	K04763
+Scaffold2_468	K05896
+Scaffold2_469	K06024
+Scaffold2_470	K06178
+Scaffold2_471	K01992
+Scaffold2_472	K01990
+Scaffold2_473	K02652
+Scaffold2_474	K02669
+Scaffold2_475	K02653
+Scaffold2_476	K02668
+Scaffold2_477	K02667
+Scaffold2_478
+Scaffold2_479
+Scaffold2_480
+Scaffold2_481	K01990
+Scaffold2_482
+Scaffold2_483
+Scaffold2_484
+Scaffold2_485	K03642
+Scaffold2_486
+Scaffold2_487
+Scaffold2_488	K03696
+Scaffold2_489
+Scaffold2_490
+Scaffold2_491	K12132
+Scaffold2_492	K09808
+Scaffold2_493
+Scaffold2_494
+Scaffold2_495	K03750
+Scaffold2_496
+Scaffold2_497
+Scaffold2_498
+Scaffold2_499	K12132
+Scaffold2_500
+Scaffold2_501
+Scaffold2_502
+Scaffold2_503	K15011
+Scaffold2_504	K15012
+Scaffold2_505
+Scaffold2_506	K04485
+Scaffold2_507
+Scaffold2_508
+Scaffold2_509	K01736
+Scaffold2_510	K13292
+Scaffold2_511	K17686
+Scaffold2_512
+Scaffold2_513	K00963
+Scaffold2_514
+Scaffold2_515
+Scaffold2_516	K00981
+Scaffold2_517	K11749
+Scaffold2_518	K14742
+Scaffold2_519	K12132
+Scaffold2_520
+Scaffold2_521
+Scaffold2_522	K03655
+Scaffold2_523	K04066
+Scaffold2_524	K00662
+Scaffold2_525	K03453
+Scaffold2_526
+Scaffold2_527
+Scaffold2_528	K00963
+Scaffold2_529
+Scaffold2_530	K00254
+Scaffold2_531	K06415
+Scaffold2_532	K09786
+Scaffold2_533	K07180
+Scaffold2_534	K10773
+Scaffold2_535	K05606
+Scaffold2_536
+Scaffold2_537
+Scaffold2_538	K02838
+Scaffold2_539	K09903
+Scaffold2_540	K02357
+Scaffold2_541	K02967
+Scaffold2_542
+Scaffold2_543
+Scaffold2_544	K06131
+Scaffold2_545	K13830
+Scaffold2_546
+Scaffold2_547	K16264
+Scaffold2_548
+Scaffold2_549
+Scaffold2_550
+Scaffold2_551	K12132
+Scaffold2_552
+Scaffold2_553	K07074
+Scaffold2_554
+Scaffold2_555	K01462
+Scaffold2_556	K00604
+Scaffold2_557	K03500
+Scaffold2_558	K01783
+Scaffold2_559	K19271
+Scaffold2_560
+Scaffold2_561
+Scaffold2_562
+Scaffold2_563
+Scaffold2_564
+Scaffold2_565
+Scaffold2_566
+Scaffold2_567
+Scaffold2_568	K06147
+Scaffold2_569
+Scaffold2_570
+Scaffold2_571
+Scaffold2_572	K03406
+Scaffold2_573
+Scaffold2_574
+Scaffold2_575
+Scaffold2_576	K07257
+Scaffold2_577
+Scaffold2_578	K09705
+Scaffold2_579
+Scaffold2_580
+Scaffold2_581
+Scaffold2_582
+Scaffold2_583
+Scaffold2_584	K03687
+Scaffold2_585
+Scaffold2_586
+Scaffold2_587	K03664
+Scaffold2_588
+Scaffold2_589
+Scaffold2_590	K03106
+Scaffold2_591
+Scaffold2_592
+Scaffold2_593
+Scaffold2_594
+Scaffold2_595	K02871
+Scaffold2_596	K02996
+Scaffold2_597	K05807
+Scaffold2_598
+Scaffold2_599
+Scaffold2_600
+Scaffold2_601
+Scaffold2_602
+Scaffold2_603
+Scaffold2_604
+Scaffold2_605
+Scaffold2_606
+Scaffold2_607
+Scaffold2_608
+Scaffold2_609
+Scaffold2_610
+Scaffold2_611
+Scaffold2_612
+Scaffold2_613
+Scaffold2_614
+Scaffold2_615
+Scaffold2_616	K00640
+Scaffold2_617	K01738
+Scaffold2_618	K00547
+Scaffold2_618	K00297
+Scaffold2_619	K01737
+Scaffold2_620
+Scaffold2_621
+Scaffold2_622	K01866
+Scaffold2_623	K18682
+Scaffold2_624	K01934
+Scaffold2_625	K09888
+Scaffold2_626
+Scaffold2_627
+Scaffold2_628
+Scaffold2_629	K07277
+Scaffold2_630	K09800
+Scaffold2_631
+Scaffold2_632
+Scaffold2_633	K02342
+Scaffold2_634
+Scaffold2_635	K03775
+Scaffold2_636
+Scaffold2_637
+Scaffold2_638
+Scaffold2_639	K01754
+Scaffold3_1
+Scaffold3_2
+Scaffold3_3
+Scaffold3_4	K00453
+Scaffold3_5	K13787
+Scaffold3_6	K01640
+Scaffold3_7
+Scaffold3_8
+Scaffold3_9
+Scaffold3_10
+Scaffold3_11	K04043
+Scaffold3_12
+Scaffold3_13	K07259
+Scaffold3_14
+Scaffold3_15
+Scaffold3_16	K12132
+Scaffold3_17
+Scaffold3_18	K00721
+Scaffold3_19
+Scaffold3_20
+Scaffold3_21
+Scaffold3_22	K03412
+Scaffold3_23	K00575
+Scaffold3_24
+Scaffold3_25
+Scaffold3_26
+Scaffold3_27	K06204
+Scaffold3_28
+Scaffold3_29	K03657
+Scaffold3_30	K00030
+Scaffold3_31
+Scaffold3_32
+Scaffold3_33
+Scaffold3_34
+Scaffold3_35
+Scaffold3_36
+Scaffold3_37
+Scaffold3_38	K20860
+Scaffold3_39
+Scaffold3_40
+Scaffold3_41
+Scaffold3_42
+Scaffold3_43
+Scaffold3_44
+Scaffold3_45
+Scaffold3_46
+Scaffold3_47
+Scaffold3_48	K01991
+Scaffold3_49
+Scaffold3_50
+Scaffold3_51
+Scaffold3_52
+Scaffold3_53
+Scaffold3_54
+Scaffold3_55
+Scaffold3_56
+Scaffold3_57
+Scaffold3_58
+Scaffold3_59
+Scaffold3_60	K00797
+Scaffold3_61	K01611
+Scaffold3_62	K02347
+Scaffold3_63	K11065
+Scaffold3_64
+Scaffold3_65
+Scaffold3_66
+Scaffold3_67
+Scaffold3_68
+Scaffold3_69
+Scaffold3_70
+Scaffold3_71
+Scaffold3_72
+Scaffold3_73
+Scaffold3_74
+Scaffold3_75	K01077
+Scaffold3_76
+Scaffold3_77	K02879
+Scaffold3_78	K03040
+Scaffold3_79	K02948
+Scaffold3_80	K02952
+Scaffold3_81	K02919
+Scaffold3_82	K02518
+Scaffold3_83	K00939
+Scaffold3_84	K03076
+Scaffold3_85	K02876
+Scaffold3_86	K02907
+Scaffold3_87	K02988
+Scaffold3_88	K02881
+Scaffold3_89	K02933
+Scaffold3_90	K02994
+Scaffold3_91	K02931
+Scaffold3_92	K02895
+Scaffold3_93	K02874
+Scaffold3_94	K02961
+Scaffold3_95	K02904
+Scaffold3_96	K02878
+Scaffold3_97	K02982
+Scaffold3_98	K02890
+Scaffold3_99	K02965
+Scaffold3_100	K02886
+Scaffold3_101	K02892
+Scaffold3_102	K02926
+Scaffold3_103	K02946
+Scaffold3_104	K02355
+Scaffold3_105	K02992
+Scaffold3_106	K02950
+Scaffold3_107
+Scaffold3_108
+Scaffold3_109
+Scaffold3_110
+Scaffold3_111
+Scaffold3_112
+Scaffold3_113
+Scaffold3_114
+Scaffold3_115	K00648
+Scaffold3_116
+Scaffold3_117
+Scaffold3_118
+Scaffold3_119
+Scaffold3_120
+Scaffold3_121
+Scaffold3_122
+Scaffold3_123
+Scaffold3_124
+Scaffold3_125
+Scaffold3_126	K02674
+Scaffold3_127
+Scaffold3_128
+Scaffold3_129
+Scaffold3_130
+Scaffold3_131
+Scaffold3_132
+Scaffold3_133
+Scaffold3_134
+Scaffold3_135
+Scaffold3_136
+Scaffold3_137
+Scaffold3_138
+Scaffold3_139
+Scaffold3_140
+Scaffold3_141
+Scaffold3_142
+Scaffold3_143
+Scaffold3_144
+Scaffold3_145
+Scaffold3_146	K02343
+Scaffold3_147
+Scaffold3_148
+Scaffold3_149
+Scaffold3_150
+Scaffold3_151
+Scaffold3_152
+Scaffold3_153	K09121
+Scaffold3_154	K06898
+Scaffold3_155	K06864
+Scaffold3_156
+Scaffold3_157
+Scaffold3_158
+Scaffold3_159
+Scaffold3_160
+Scaffold3_161
+Scaffold3_162
+Scaffold3_163	K01448
+Scaffold3_164	K00989
+Scaffold3_165	K02446
+Scaffold3_166
+Scaffold3_167	K06942
+Scaffold3_168
+Scaffold3_169
+Scaffold3_170	K10217
+Scaffold3_171	K15067
+Scaffold3_172
+Scaffold3_173
+Scaffold3_174
+Scaffold3_175	K01610
+Scaffold3_176
+Scaffold3_177
+Scaffold3_178
+Scaffold3_179
+Scaffold3_180
+Scaffold3_181
+Scaffold3_182
+Scaffold3_183	K02653
+Scaffold3_184	K00058
+Scaffold3_185	K01848
+Scaffold3_186
+Scaffold3_187	K01961
+Scaffold3_188
+Scaffold3_189	K00096
+Scaffold3_190
+Scaffold3_191
+Scaffold3_192	K03088
+Scaffold3_193
+Scaffold3_194	K01681
+Scaffold3_195
+Scaffold3_196
+Scaffold3_197
+Scaffold3_198
+Scaffold3_199
+Scaffold3_200
+Scaffold3_201	K01958
+Scaffold3_202	K10907
+Scaffold3_203
+Scaffold3_204
+Scaffold3_205
+Scaffold3_206	K17103
+Scaffold3_207
+Scaffold3_208	K00097
+Scaffold3_209	K03771
+Scaffold3_210	K03769
+Scaffold3_211	K03723
+Scaffold3_212
+Scaffold3_213	K02651
+Scaffold3_214
+Scaffold3_215	K02278
+Scaffold3_216	K03153
+Scaffold3_217
+Scaffold3_218	K03089
+Scaffold3_219	K03101
+Scaffold3_220	K01870
+Scaffold3_221	K00941
+Scaffold3_222
+Scaffold3_223
+Scaffold3_224
+Scaffold3_225	K12132
+Scaffold3_226	K00673
+Scaffold3_227
+Scaffold3_228
+Scaffold3_229
+Scaffold3_230
+Scaffold3_231	K03631
+Scaffold3_232	K12942
+Scaffold3_233
+Scaffold3_234
+Scaffold3_235	K07263
+Scaffold3_236	K00817
+Scaffold3_237
+Scaffold3_238
+Scaffold3_239	K02314
+Scaffold3_240
+Scaffold3_241
+Scaffold3_242	K00548
+Scaffold3_243	K07400
+Scaffold3_244	K03317
+Scaffold3_245	K03783
+Scaffold3_246	K01489
+Scaffold3_247	K12132
+Scaffold3_248	K00520
+Scaffold3_249
+Scaffold3_250
+Scaffold3_251	K03797
+Scaffold3_252	K05516
+Scaffold3_253
+Scaffold3_254	K03524
+Scaffold3_255	K00767
+Scaffold3_256
+Scaffold3_257
+Scaffold3_258
+Scaffold3_259	K01843
+Scaffold3_260
+Scaffold3_261
+Scaffold3_262
+Scaffold3_263
+Scaffold3_264
+Scaffold3_265	K12132
+Scaffold3_266
+Scaffold3_267
+Scaffold3_268
+Scaffold3_269
+Scaffold3_270
+Scaffold3_271	K00606
+Scaffold3_272	K01918
+Scaffold3_273
+Scaffold3_274	K13770
+Scaffold3_275	K03521
+Scaffold3_276	K03522
+Scaffold3_277
+Scaffold3_278
+Scaffold3_279
+Scaffold3_280
+Scaffold3_281	K07736
+Scaffold3_282
+Scaffold3_283
+Scaffold3_284	K06173
+Scaffold3_285
+Scaffold3_286
+Scaffold3_287	K00133
+Scaffold3_288	K01878
+Scaffold3_289	K01879
+Scaffold3_290	K06178
+Scaffold3_291
+Scaffold3_292
+Scaffold3_293
+Scaffold3_294
+Scaffold3_295	K06076
+Scaffold3_296
+Scaffold3_297	K00627
+Scaffold3_298
+Scaffold3_299	K01266
+Scaffold3_300	K01921
+Scaffold3_301
+Scaffold3_302	K01885
+Scaffold3_303	K00135
+Scaffold3_304	K07074
+Scaffold3_305	K09919
+Scaffold3_306
+Scaffold3_307
+Scaffold3_308
+Scaffold3_309
+Scaffold3_310
+Scaffold3_311	K04750
+Scaffold3_312
+Scaffold3_313	K03088
+Scaffold3_314
+Scaffold3_315
+Scaffold3_316	K15977
+Scaffold3_317
+Scaffold3_318
+Scaffold3_319
+Scaffold3_320	K00459
+Scaffold3_321
+Scaffold3_322
+Scaffold3_323	K10805
+Scaffold3_324
+Scaffold3_325	K06973
+Scaffold3_326
+Scaffold3_327
+Scaffold3_328
+Scaffold3_329	K03060
+Scaffold3_330	K02493
+Scaffold3_331
+Scaffold3_332
+Scaffold3_333
+Scaffold3_334	K01784
+Scaffold3_335
+Scaffold3_336
+Scaffold3_337	K17103
+Scaffold3_338
+Scaffold3_339
+Scaffold3_340
+Scaffold3_341
+Scaffold3_342
+Scaffold3_343
+Scaffold3_344
+Scaffold3_345
+Scaffold3_346
+Scaffold3_347	K14652
+Scaffold3_348	K01782
+Scaffold3_349	K00632
+Scaffold3_350	K00486
+Scaffold3_351	K01556
+Scaffold3_352
+Scaffold3_353	K03392
+Scaffold3_354	K00452
+Scaffold3_355
+Scaffold3_356
+Scaffold3_357
+Scaffold3_358
+Scaffold3_359
+Scaffold3_360	K00615
+Scaffold3_361
+Scaffold3_362
+Scaffold3_363
+Scaffold3_364
+Scaffold3_365
+Scaffold3_366
+Scaffold3_367	K06168
+Scaffold3_368	K00789
+Scaffold3_369	K02013
+Scaffold3_370	K02015
+Scaffold3_371	K02016
+Scaffold3_372
+Scaffold3_373	K03665
+Scaffold3_374
+Scaffold3_375
+Scaffold3_376
+Scaffold3_377
+Scaffold3_378	K06076
+Scaffold3_379
+Scaffold3_380
+Scaffold3_381
+Scaffold3_382
+Scaffold3_383	K01358
+Scaffold3_384	K06877
+Scaffold3_385	K03831
+Scaffold3_386
+Scaffold3_387
+Scaffold3_388	K02469
+Scaffold3_389
+Scaffold4_1
+Scaffold4_2
+Scaffold4_3
+Scaffold4_4
+Scaffold4_5	K02356
+Scaffold4_6
+Scaffold4_7
+Scaffold4_8
+Scaffold4_9
+Scaffold4_10	K01251
+Scaffold4_11
+Scaffold4_12	K12132
+Scaffold4_13
+Scaffold4_14
+Scaffold4_15
+Scaffold4_16	K02557
+Scaffold4_17
+Scaffold4_18
+Scaffold4_19	K13924
+Scaffold4_20
+Scaffold4_21
+Scaffold4_22
+Scaffold4_23
+Scaffold4_24	K02986
+Scaffold4_25
+Scaffold4_26
+Scaffold4_27	K03043
+Scaffold4_28	K03046
+Scaffold4_29
+Scaffold4_30
+Scaffold4_31
+Scaffold4_32
+Scaffold4_33
+Scaffold4_34	K01776
+Scaffold4_35
+Scaffold4_36
+Scaffold4_37	K09812
+Scaffold4_38	K09811
+Scaffold4_39	K22719
+Scaffold4_40
+Scaffold4_41
+Scaffold4_42
+Scaffold4_43	K21470
+Scaffold4_44
+Scaffold4_45
+Scaffold4_46
+Scaffold4_47
+Scaffold4_48
+Scaffold4_49	K03932
+Scaffold4_50	K11068
+Scaffold4_51
+Scaffold4_52
+Scaffold4_53
+Scaffold4_54
+Scaffold4_55	K01533
+Scaffold4_56
+Scaffold4_57
+Scaffold4_58	K00406
+Scaffold4_59
+Scaffold4_60	K15862
+Scaffold4_61	K09792
+Scaffold4_62	K00275
+Scaffold4_63	K03652
+Scaffold4_64
+Scaffold4_65
+Scaffold4_66	K07124
+Scaffold4_67
+Scaffold4_68
+Scaffold4_69
+Scaffold4_70
+Scaffold4_71
+Scaffold4_72
+Scaffold4_73
+Scaffold4_74	K01081
+Scaffold4_75	K00507
+Scaffold4_76	K03584
+Scaffold4_77
+Scaffold4_78
+Scaffold4_79
+Scaffold4_80
+Scaffold4_81
+Scaffold4_82
+Scaffold4_83
+Scaffold4_84	K12132
+Scaffold4_85
+Scaffold4_86
+Scaffold4_87	K04127
+Scaffold4_88	K01892
+Scaffold4_89	K07102
+Scaffold4_90
+Scaffold4_91
+Scaffold4_92	K08309
+Scaffold4_93
+Scaffold4_94
+Scaffold4_95
+Scaffold4_96
+Scaffold4_97
+Scaffold4_98
+Scaffold4_99
+Scaffold4_100	K01895
+Scaffold4_101
+Scaffold4_102	K10563
+Scaffold4_103
+Scaffold4_104
+Scaffold4_105
+Scaffold4_106
+Scaffold4_107
+Scaffold4_108
+Scaffold4_109
+Scaffold4_110
+Scaffold4_111
+Scaffold4_112
+Scaffold4_113
+Scaffold4_114
+Scaffold4_115
+Scaffold4_116
+Scaffold4_117
+Scaffold4_118
+Scaffold4_119
+Scaffold4_120
+Scaffold4_121
+Scaffold4_122
+Scaffold4_123
+Scaffold4_124
+Scaffold4_125
+Scaffold4_126
+Scaffold4_127	K00426
+Scaffold4_128	K00425
+Scaffold4_129
+Scaffold4_130	K03707
+Scaffold4_131
+Scaffold4_132
+Scaffold4_133
+Scaffold4_134
+Scaffold4_135
+Scaffold4_136
+Scaffold4_137
+Scaffold4_138	K00662
+Scaffold4_139
+Scaffold4_140	K02069
+Scaffold4_141	K02068
+Scaffold4_142
+Scaffold4_143
+Scaffold4_144
+Scaffold4_145
+Scaffold4_146
+Scaffold4_147
+Scaffold4_148
+Scaffold4_149
+Scaffold4_150
+Scaffold4_151
+Scaffold4_152
+Scaffold4_153
+Scaffold4_154
+Scaffold4_155
+Scaffold4_156
+Scaffold4_157	K06006
+Scaffold4_158
+Scaffold4_159	K03088
+Scaffold4_160
+Scaffold4_161
+Scaffold4_162
+Scaffold4_163
+Scaffold4_164	K02470
+Scaffold4_165
+Scaffold4_166
+Scaffold4_167	K02469
+Scaffold4_168	K12132
+Scaffold4_169
+Scaffold4_170	K03118
+Scaffold4_171
+Scaffold4_172
+Scaffold4_173
+Scaffold4_174	K01438
+Scaffold4_175	K01262
+Scaffold4_176
+Scaffold4_177
+Scaffold4_178	K09861
+Scaffold4_179	K02945
+Scaffold4_180	K01867
+Scaffold4_181	K06969
+Scaffold4_182	K05564
+Scaffold4_183	K05563
+Scaffold4_184	K05562
+Scaffold4_185	K05561
+Scaffold4_186	K05560
+Scaffold4_187	K05559
+Scaffold4_188
+Scaffold4_189	K01897
+Scaffold4_190
+Scaffold4_191	K05844
+Scaffold4_192	K06987
+Scaffold4_193	K01069
+Scaffold4_194
+Scaffold4_195
+Scaffold4_196
+Scaffold4_197	K13038
+Scaffold4_198	K21929
+Scaffold4_199	K18012
+Scaffold4_200	K03544
+Scaffold4_201
+Scaffold4_202
+Scaffold4_203
+Scaffold4_204
+Scaffold4_205
+Scaffold4_206
+Scaffold4_207
+Scaffold4_208	K14441
+Scaffold4_209
+Scaffold4_210
+Scaffold4_211
+Scaffold4_212
+Scaffold4_213
+Scaffold4_214	K01434
+Scaffold4_215
+Scaffold4_216	K03089
+Scaffold4_217
+Scaffold4_218
+Scaffold4_219	K02379
+Scaffold4_220
+Scaffold4_221
+Scaffold4_222
+Scaffold4_223
+Scaffold4_224
+Scaffold4_225
+Scaffold4_226
+Scaffold4_227
+Scaffold4_228
+Scaffold4_229
+Scaffold4_230
+Scaffold4_231	K09989
+Scaffold4_232
+Scaffold4_233
+Scaffold4_234
+Scaffold4_235
+Scaffold4_236	K00954
+Scaffold4_237
+Scaffold4_238
+Scaffold4_239
+Scaffold4_240	K01990
+Scaffold4_241	K01992
+Scaffold4_242
+Scaffold4_243
+Scaffold4_244	K01920
+Scaffold4_245	K04565
+Scaffold4_246
+Scaffold4_247
+Scaffold4_248
+Scaffold4_249
+Scaffold4_250
+Scaffold4_251	K12132
+Scaffold4_252
+Scaffold4_253	K01147
+Scaffold4_254	K01029
+Scaffold4_255	K01028
+Scaffold4_256
+Scaffold4_257
+Scaffold4_258
+Scaffold4_259
+Scaffold4_260
+Scaffold4_261
+Scaffold4_262
+Scaffold4_263
+Scaffold4_264	K00428
+Scaffold4_265
+Scaffold4_266
+Scaffold4_267
+Scaffold4_268
+Scaffold4_269
+Scaffold4_270
+Scaffold4_271
+Scaffold4_272	K02554
+Scaffold4_273	K04073
+Scaffold4_274	K01666
+Scaffold4_275	K01617
+Scaffold4_276
+Scaffold4_277	K13652
+Scaffold4_278	K03303
+Scaffold4_279
+Scaffold4_280
+Scaffold4_281
+Scaffold4_282
+Scaffold4_283
+Scaffold4_284
+Scaffold4_285
+Scaffold4_286
+Scaffold4_287	K00697
+Scaffold4_288	K05343
+Scaffold4_289
+Scaffold4_290	K07090
+Scaffold4_291
+Scaffold4_292
+Scaffold4_293
+Scaffold4_294	K00432
+Scaffold4_295
+Scaffold4_296
+Scaffold4_297
+Scaffold4_298
+Scaffold4_299
+Scaffold4_300
+Scaffold4_301	K02168
+Scaffold4_302
+Scaffold4_303	K02495
+Scaffold4_304	K02238
+Scaffold4_305
+Scaffold4_306	K03070
+Scaffold4_307	K01633
+Scaffold4_308
+Scaffold4_309	K03407
+Scaffold4_310	K03406
+Scaffold4_311
+Scaffold4_312	K03408
+Scaffold4_313
+Scaffold4_314
+Scaffold5_1
+Scaffold5_2
+Scaffold5_3	K02004
+Scaffold5_4	K02003
+Scaffold5_5	K02005
+Scaffold5_6
+Scaffold5_7	K06878
+Scaffold5_8	K07001
+Scaffold5_9
+Scaffold5_10
+Scaffold5_11
+Scaffold5_12
+Scaffold5_13
+Scaffold5_14
+Scaffold5_15
+Scaffold5_16	K01953
+Scaffold5_17
+Scaffold5_18
+Scaffold5_19
+Scaffold5_20
+Scaffold5_21
+Scaffold5_22
+Scaffold5_23
+Scaffold5_24
+Scaffold5_25
+Scaffold5_26
+Scaffold5_27
+Scaffold5_28
+Scaffold5_29
+Scaffold5_30
+Scaffold5_31
+Scaffold5_32
+Scaffold5_33
+Scaffold5_34
+Scaffold5_35
+Scaffold5_36
+Scaffold5_37
+Scaffold5_38	K03226
+Scaffold5_39	K02420
+Scaffold5_40	K02421
+Scaffold5_41	K02401
+Scaffold5_42
+Scaffold5_43	K03413
+Scaffold5_44
+Scaffold5_45	K02520
+Scaffold5_46	K01775
+Scaffold5_47	K00941
+Scaffold5_48	K00806
+Scaffold5_49	K06980
+Scaffold5_50
+Scaffold5_51
+Scaffold5_52
+Scaffold5_53
+Scaffold5_54
+Scaffold5_55	K01745
+Scaffold5_56
+Scaffold5_57
+Scaffold5_58
+Scaffold5_59
+Scaffold5_60
+Scaffold5_61	K01950
+Scaffold5_62	K07301
+Scaffold5_63
+Scaffold5_64
+Scaffold5_65
+Scaffold5_66
+Scaffold5_67	K01844
+Scaffold5_68
+Scaffold5_69	K21142
+Scaffold5_70	K03639
+Scaffold5_71
+Scaffold5_72	K03215
+Scaffold5_73	K03629
+Scaffold5_74	K02338
+Scaffold5_75
+Scaffold5_76	K00525
+Scaffold5_77	K00526
+Scaffold5_78
+Scaffold5_79	K00428
+Scaffold5_80
+Scaffold5_81	K15726
+Scaffold5_82	K15727
+Scaffold5_83
+Scaffold5_84
+Scaffold5_85
+Scaffold5_86
+Scaffold5_87	K03101
+Scaffold5_88
+Scaffold5_89
+Scaffold5_90
+Scaffold5_91	K01803
+Scaffold5_92	K00927
+Scaffold5_93	K00134
+Scaffold5_94
+Scaffold5_95	K09933
+Scaffold5_96
+Scaffold5_97	K01480
+Scaffold5_98
+Scaffold5_99	K03696
+Scaffold5_100	K03501
+Scaffold5_101
+Scaffold5_102
+Scaffold5_103
+Scaffold5_104
+Scaffold5_105	K02470
+Scaffold5_106
+Scaffold5_107
+Scaffold5_108
+Scaffold5_109
+Scaffold5_110
+Scaffold5_111
+Scaffold5_112
+Scaffold5_113
+Scaffold5_114
+Scaffold5_115	K00057
+Scaffold5_116	K02428
+Scaffold5_117
+Scaffold5_118
+Scaffold5_119
+Scaffold5_120
+Scaffold5_121	K00451
+Scaffold5_122
+Scaffold5_123
+Scaffold5_124	K14414
+Scaffold5_125	K01974
+Scaffold5_126	K14415
+Scaffold5_127
+Scaffold5_128
+Scaffold5_129	K00230
+Scaffold5_130
+Scaffold5_131
+Scaffold5_132
+Scaffold5_133
+Scaffold5_134	K06911
+Scaffold5_135
+Scaffold5_136
+Scaffold5_137
+Scaffold5_138	K11717
+Scaffold5_139
+Scaffold5_140
+Scaffold5_141	K06180
+Scaffold5_142
+Scaffold5_143
+Scaffold5_144
+Scaffold5_145
+Scaffold5_146	K03671
+Scaffold5_147
+Scaffold5_148	K01897
+Scaffold5_149
+Scaffold5_150	K07560
+Scaffold5_151
+Scaffold5_152
+Scaffold5_153	K03650
+Scaffold5_154
+Scaffold5_155	K03217
+Scaffold5_156	K08998
+Scaffold5_157	K03536
+Scaffold5_158	K02914
+Scaffold5_159	K02313
+Scaffold5_160	K07735
+Scaffold5_161	K03545
+Scaffold5_162	K01358
+Scaffold5_163	K03544
+Scaffold5_164	K01338
+Scaffold5_165
+Scaffold5_166
+Scaffold5_167
+Scaffold5_168
+Scaffold5_169	K03498
+Scaffold5_170	K03499
+Scaffold5_171
+Scaffold5_172
+Scaffold5_173
+Scaffold5_174
+Scaffold5_175
+Scaffold5_176
+Scaffold5_177
+Scaffold5_178
+Scaffold5_179
+Scaffold5_180
+Scaffold5_181
+Scaffold5_182
+Scaffold5_183
+Scaffold5_184
+Scaffold5_185
+Scaffold5_186
+Scaffold5_187	K01069
+Scaffold5_188
+Scaffold5_189	K12132
+Scaffold5_190
+Scaffold5_191	K07114
+Scaffold5_192
+Scaffold5_193	K07114
+Scaffold5_194
+Scaffold5_195
+Scaffold5_196
+Scaffold5_197
+Scaffold5_198	K12132
+Scaffold5_199
+Scaffold5_200
+Scaffold5_201
+Scaffold5_202
+Scaffold5_203
+Scaffold5_204	K03565
+Scaffold5_205
+Scaffold5_206
+Scaffold5_207
+Scaffold5_208	K07305
+Scaffold5_209
+Scaffold5_210
+Scaffold5_211
+Scaffold5_212	K00872
+Scaffold5_213	K06147
+Scaffold5_214
+Scaffold5_215
+Scaffold5_216
+Scaffold5_217
+Scaffold5_218
+Scaffold5_219
+Scaffold5_220
+Scaffold5_221
+Scaffold5_222
+Scaffold5_223
+Scaffold5_224	K07012
+Scaffold5_225	K19136
+Scaffold5_226	K19131
+Scaffold5_227	K19132
+Scaffold5_228	K15342
+Scaffold5_229	K09951
+Scaffold5_230
+Scaffold5_231
+Scaffold5_232
+Scaffold5_233
+Scaffold5_234
+Scaffold5_235
+Scaffold5_236	K19131
+Scaffold5_237	K19132
+Scaffold5_238	K07012
+Scaffold5_239
+Scaffold5_240
+Scaffold5_241
+Scaffold5_242
+Scaffold5_243
+Scaffold5_244
+Scaffold5_245
+Scaffold5_246
+Scaffold5_247
+Scaffold5_248
+Scaffold5_249
+Scaffold5_250
+Scaffold5_251	K07154
+Scaffold5_252
+Scaffold5_253
+Scaffold5_254	K07038
+Scaffold5_255	K06911
+Scaffold5_256	K22579
+Scaffold5_257	K03926
+Scaffold5_258
+Scaffold5_259	K18398
+Scaffold5_260	K06442
+Scaffold5_261	K21470
+Scaffold5_262
+Scaffold5_263
+Scaffold5_264	K16053
+Scaffold5_265
+Scaffold5_266
+Scaffold5_267
+Scaffold5_268
+Scaffold5_269
+Scaffold5_270
+Scaffold5_271
+Scaffold5_272
+Scaffold5_273
+Scaffold5_274
+Scaffold5_275
+Scaffold5_276	K00111
+Scaffold5_277	K01953
+Scaffold5_278
+Scaffold5_279
+Scaffold5_280	K05304
+Scaffold5_281	K07257
+Scaffold5_282	K04761
+Scaffold5_283	K03782
+Scaffold5_284
+Scaffold5_285
+Scaffold5_286
+Scaffold5_287
+Scaffold5_288
+Scaffold5_289
+Scaffold5_290
+Scaffold5_291
+Scaffold5_292
+Scaffold5_293
+Scaffold5_294
+Scaffold5_295
+Scaffold5_296
+Scaffold5_297
+Scaffold5_298
+Scaffold5_299
+Scaffold5_300
+Scaffold5_301
+Scaffold5_302
+Scaffold5_303
+Scaffold5_304
+Scaffold5_305
+Scaffold5_306
+Scaffold5_307
+Scaffold6_1
+Scaffold6_2
+Scaffold6_3
+Scaffold6_4
+Scaffold6_5
+Scaffold6_6
+Scaffold6_7
+Scaffold6_8
+Scaffold6_9
+Scaffold6_10
+Scaffold6_11
+Scaffold6_12
+Scaffold6_13
+Scaffold6_14
+Scaffold6_15
+Scaffold6_16
+Scaffold6_17
+Scaffold6_18
+Scaffold6_19
+Scaffold6_20
+Scaffold6_21
+Scaffold6_22
+Scaffold6_23
+Scaffold6_24
+Scaffold6_25	K02114
+Scaffold6_26	K02112
+Scaffold6_27	K02115
+Scaffold6_28	K02111
+Scaffold6_29	K02113
+Scaffold6_30	K02109
+Scaffold6_31	K02109
+Scaffold6_32	K00164
+Scaffold6_33	K00658
+Scaffold6_34	K00382
+Scaffold6_35	K06886
+Scaffold6_36
+Scaffold6_37
+Scaffold6_38
+Scaffold6_39
+Scaffold6_40
+Scaffold6_41	K12132
+Scaffold6_42
+Scaffold6_43	K16052
+Scaffold6_44
+Scaffold6_45
+Scaffold6_46
+Scaffold6_47
+Scaffold6_48
+Scaffold6_49
+Scaffold6_50
+Scaffold6_51	K18014
+Scaffold6_52	K18013
+Scaffold6_53	K03530
+Scaffold6_54
+Scaffold6_55
+Scaffold6_56	K00788
+Scaffold6_57	K03149
+Scaffold6_58	K03154
+Scaffold6_59	K03980
+Scaffold6_60	K12132
+Scaffold6_61
+Scaffold6_62
+Scaffold6_63
+Scaffold6_64	K10026
+Scaffold6_65	K05788
+Scaffold6_66
+Scaffold6_67	K02902
+Scaffold6_68
+Scaffold6_69
+Scaffold6_70
+Scaffold6_71
+Scaffold6_72	K02913
+Scaffold6_73	K02963
+Scaffold6_74
+Scaffold6_75	K12132
+Scaffold6_76
+Scaffold6_77	K20074
+Scaffold6_78	K06958
+Scaffold6_79
+Scaffold6_80
+Scaffold6_81
+Scaffold6_82
+Scaffold6_83	K06969
+Scaffold6_84
+Scaffold6_85	K00803
+Scaffold6_86
+Scaffold6_87
+Scaffold6_88
+Scaffold6_89	K01534
+Scaffold6_90
+Scaffold6_91
+Scaffold6_92	K02676
+Scaffold6_93
+Scaffold6_94
+Scaffold6_95
+Scaffold6_96	K01637
+Scaffold6_97	K01638
+Scaffold6_98	K03752
+Scaffold6_99
+Scaffold6_100	K08676
+Scaffold6_101
+Scaffold6_102
+Scaffold6_103
+Scaffold6_104
+Scaffold6_105	K03581
+Scaffold6_106
+Scaffold6_107
+Scaffold6_108
+Scaffold6_109	K08602
+Scaffold6_110
+Scaffold6_111
+Scaffold6_112
+Scaffold6_113
+Scaffold6_114
+Scaffold6_115
+Scaffold6_116
+Scaffold6_117
+Scaffold6_118
+Scaffold6_119
+Scaffold6_120
+Scaffold6_121
+Scaffold6_122
+Scaffold6_123
+Scaffold6_124	K01634
+Scaffold6_125
+Scaffold6_126
+Scaffold6_127	K16149
+Scaffold6_128
+Scaffold6_129	K03563
+Scaffold6_130	K07456
+Scaffold6_131
+Scaffold6_132	K06883
+Scaffold6_133
+Scaffold6_134	K06187
+Scaffold6_135	K09747
+Scaffold6_136
+Scaffold6_137
+Scaffold6_138	K03654
+Scaffold6_139
+Scaffold6_140	K03168
+Scaffold6_141
+Scaffold6_142	K03671
+Scaffold6_143	K00658
+Scaffold6_144	K00382
+Scaffold6_145
+Scaffold6_146	K06193
+Scaffold6_147
+Scaffold6_148	K00230
+Scaffold6_149	K07225
+Scaffold6_150	K02013
+Scaffold6_151	K02015
+Scaffold6_152	K02016
+Scaffold6_153	K16089
+Scaffold6_154
+Scaffold6_155
+Scaffold6_156	K02016
+Scaffold6_157
+Scaffold6_158
+Scaffold6_159	K00467
+Scaffold6_160
+Scaffold6_161
+Scaffold6_162
+Scaffold6_163	K00799
+Scaffold6_164	K00382
+Scaffold6_165	K04767
+Scaffold6_166	K07713
+Scaffold6_167
+Scaffold6_168	K03089
+Scaffold6_169	K06133
+Scaffold6_170	K01006
+Scaffold6_171
+Scaffold6_172
+Scaffold6_173
+Scaffold6_174	K06902
+Scaffold6_175
+Scaffold6_176
+Scaffold6_177
+Scaffold6_178
+Scaffold6_179
+Scaffold6_180
+Scaffold6_181	K07304
+Scaffold6_182
+Scaffold6_183
+Scaffold6_184
+Scaffold6_185
+Scaffold6_186
+Scaffold6_187	K06076
+Scaffold6_188
+Scaffold6_189
+Scaffold6_190
+Scaffold6_191
+Scaffold6_192	K04564
+Scaffold6_193
+Scaffold6_194
+Scaffold6_195
+Scaffold6_196
+Scaffold6_197	K07337
+Scaffold6_198	K09859
+Scaffold6_199
+Scaffold6_200
+Scaffold6_201
+Scaffold6_202
+Scaffold6_203
+Scaffold6_204
+Scaffold6_205
+Scaffold6_206
+Scaffold6_207
+Scaffold6_208
+Scaffold6_209
+Scaffold6_210
+Scaffold6_211
+Scaffold6_212
+Scaffold6_213
+Scaffold6_214
+Scaffold6_215
+Scaffold6_216
+Scaffold6_217
+Scaffold6_218
+Scaffold6_219
+Scaffold6_220	K11068
+Scaffold6_221
+Scaffold6_222
+Scaffold6_223
+Scaffold6_224
+Scaffold6_225
+Scaffold6_226
+Scaffold6_227
+Scaffold6_228
+Scaffold6_229	K07112
+Scaffold6_230	K07112
+Scaffold6_231
+Scaffold6_232
+Scaffold6_233
+Scaffold6_234
+Scaffold6_235	K07483
+Scaffold7_1
+Scaffold7_2
+Scaffold7_3
+Scaffold7_4
+Scaffold7_5	K07448
+Scaffold7_6
+Scaffold7_7
+Scaffold7_8
+Scaffold7_9
+Scaffold7_10
+Scaffold7_11
+Scaffold7_12
+Scaffold7_13
+Scaffold7_14
+Scaffold7_15
+Scaffold7_16
+Scaffold7_17
+Scaffold7_18
+Scaffold7_19
+Scaffold7_20	K07104
+Scaffold7_21
+Scaffold7_22
+Scaffold7_23
+Scaffold7_24
+Scaffold7_25	K06907
+Scaffold7_26
+Scaffold7_27
+Scaffold7_28
+Scaffold7_29	K00059
+Scaffold7_30
+Scaffold7_31	K15336
+Scaffold7_32
+Scaffold7_33
+Scaffold7_34
+Scaffold7_35	K01735
+Scaffold7_36
+Scaffold7_37
+Scaffold7_38
+Scaffold7_39	K07722
+Scaffold7_40
+Scaffold7_41
+Scaffold7_42
+Scaffold7_43
+Scaffold7_44
+Scaffold7_45
+Scaffold7_46
+Scaffold7_47
+Scaffold7_48
+Scaffold7_49
+Scaffold7_50
+Scaffold7_51
+Scaffold7_52
+Scaffold7_53
+Scaffold7_54
+Scaffold7_55
+Scaffold7_56	K03918
+Scaffold7_57
+Scaffold7_58
+Scaffold7_59
+Scaffold7_60
+Scaffold7_61	K01354
+Scaffold7_62
+Scaffold7_63	K12132
+Scaffold7_64
+Scaffold7_65
+Scaffold7_66	K00002
+Scaffold7_67
+Scaffold7_68
+Scaffold7_69
+Scaffold7_70
+Scaffold7_71
+Scaffold7_72
+Scaffold7_73
+Scaffold7_74
+Scaffold7_75
+Scaffold7_76
+Scaffold7_77
+Scaffold7_78	K01537
+Scaffold7_79
+Scaffold7_80
+Scaffold7_81
+Scaffold7_82
+Scaffold7_83	K11312
+Scaffold7_84
+Scaffold7_85
+Scaffold7_86
+Scaffold7_87	K01586
+Scaffold7_88	K00845
+Scaffold7_89
+Scaffold7_90	K03767
+Scaffold7_91
+Scaffold7_92	K00937
+Scaffold7_93
+Scaffold7_94
+Scaffold7_95
+Scaffold7_96
+Scaffold7_97
+Scaffold7_98	K00076
+Scaffold7_99
+Scaffold7_100
+Scaffold7_101	K00799
+Scaffold7_102
+Scaffold7_103
+Scaffold7_104
+Scaffold7_105
+Scaffold7_106	K17218
+Scaffold7_107
+Scaffold7_108	K00249
+Scaffold7_109
+Scaffold7_110
+Scaffold7_111
+Scaffold7_112
+Scaffold7_113
+Scaffold7_114
+Scaffold7_115
+Scaffold7_116	K00970
+Scaffold7_117
+Scaffold7_118
+Scaffold7_119
+Scaffold7_120	K00054
+Scaffold7_121
+Scaffold7_122
+Scaffold7_123
+Scaffold7_124	K03111
+Scaffold7_125
+Scaffold7_126
+Scaffold7_127
+Scaffold7_128
+Scaffold7_129
+Scaffold7_130
+Scaffold7_131
+Scaffold7_132	K03979
+Scaffold7_133	K02899
+Scaffold7_134	K02888
+Scaffold7_135
+Scaffold7_136
+Scaffold7_137	K00059
+Scaffold7_138	K10780
+Scaffold7_139
+Scaffold7_140	K00639
+Scaffold7_141	K02372
+Scaffold7_142
+Scaffold7_143	K05591
+Scaffold7_144
+Scaffold7_145
+Scaffold7_146
+Scaffold7_147
+Scaffold7_148
+Scaffold7_149
+Scaffold7_150	K01697
+Scaffold7_151	K01525
+Scaffold7_152
+Scaffold7_153	K03573
+Scaffold7_154
+Scaffold7_155
+Scaffold7_156
+Scaffold7_157
+Scaffold7_158
+Scaffold7_159	K10800
+Scaffold7_160
+Scaffold7_161
+Scaffold7_162
+Scaffold7_163
+Scaffold7_164
+Scaffold7_165
+Scaffold7_166
+Scaffold7_167	K06889
+Scaffold7_168
+Scaffold7_169	K00261
+Scaffold7_170
+Scaffold7_171
+Scaffold7_172
+Scaffold7_173
+Scaffold7_174
+Scaffold7_175
+Scaffold7_176
+Scaffold7_177	K01886
+Scaffold7_178
+Scaffold7_179
+Scaffold7_180	K01265
+Scaffold7_181
+Scaffold7_182
+Scaffold7_183
+Scaffold7_184	K03564
+Scaffold7_185
+Scaffold7_186
+Scaffold7_187
+Scaffold7_188	K07071
+Scaffold7_189
+Scaffold7_190
+Scaffold7_191
+Scaffold7_192
+Scaffold7_193
+Scaffold7_194
+Scaffold7_195
+Scaffold7_196	K03327
+Scaffold7_197
+Scaffold7_198
+Scaffold7_199	K03695
+Scaffold7_200
+Scaffold7_201	K02342
+Scaffold7_202
+Scaffold7_203	K03722
+Scaffold7_204
+Scaffold7_205
+Scaffold7_206	K12132
+Scaffold7_207
+Scaffold7_208
+Scaffold7_209
+Scaffold7_210
+Scaffold7_211
+Scaffold7_212
+Scaffold7_213	K03924
+Scaffold7_214
+Scaffold7_215
+Scaffold7_216
+Scaffold7_217
+Scaffold7_218
+Scaffold7_219
+Scaffold7_220	K03092
+Scaffold7_221	K05808
+Scaffold7_222
+Scaffold8_1
+Scaffold8_2
+Scaffold8_3
+Scaffold8_4
+Scaffold8_5
+Scaffold8_6
+Scaffold8_7
+Scaffold8_8
+Scaffold8_9	K03088
+Scaffold8_10
+Scaffold8_11
+Scaffold8_12
+Scaffold8_13
+Scaffold8_14
+Scaffold8_15	K01533
+Scaffold8_16
+Scaffold8_17
+Scaffold8_18
+Scaffold8_19
+Scaffold8_20
+Scaffold8_21
+Scaffold8_22
+Scaffold8_23
+Scaffold8_24
+Scaffold8_25
+Scaffold8_26	K06153
+Scaffold8_27
+Scaffold8_28
+Scaffold8_29	K13821
+Scaffold8_30
+Scaffold8_31
+Scaffold8_32
+Scaffold8_33
+Scaffold8_34	K04771
+Scaffold8_35
+Scaffold8_36	K07566
+Scaffold8_37
+Scaffold8_38	K02909
+Scaffold8_39
+Scaffold8_40	K03801
+Scaffold8_41	K00790
+Scaffold8_42	K06885
+Scaffold8_43
+Scaffold8_44
+Scaffold8_45
+Scaffold8_46
+Scaffold8_47
+Scaffold8_48	K13481
+Scaffold8_49	K13482
+Scaffold8_50	K07402
+Scaffold8_51
+Scaffold8_52
+Scaffold8_53	K22491
+Scaffold8_54	K07393
+Scaffold8_55
+Scaffold8_56
+Scaffold8_57
+Scaffold8_58
+Scaffold8_59	K07391
+Scaffold8_60	K12132
+Scaffold8_61
+Scaffold8_62
+Scaffold8_63	K00500
+Scaffold8_64
+Scaffold8_65
+Scaffold8_66
+Scaffold8_67
+Scaffold8_68
+Scaffold8_69
+Scaffold8_70	K00626
+Scaffold8_71
+Scaffold8_72	K00275
+Scaffold8_73	K06891
+Scaffold8_74	K03694
+Scaffold8_75	K00938
+Scaffold8_76	K00240
+Scaffold8_77	K00239
+Scaffold8_78	K00241
+Scaffold8_79
+Scaffold8_80	K12526
+Scaffold8_81
+Scaffold8_82	K00263
+Scaffold8_83
+Scaffold8_84	K07175
+Scaffold8_85
+Scaffold8_86
+Scaffold8_87	K03559
+Scaffold8_88
+Scaffold8_89	K03561
+Scaffold8_90
+Scaffold8_91
+Scaffold8_92
+Scaffold8_93
+Scaffold8_94
+Scaffold8_95
+Scaffold8_96
+Scaffold8_97	K12132
+Scaffold8_98
+Scaffold8_99
+Scaffold8_100
+Scaffold8_101
+Scaffold8_102
+Scaffold8_103
+Scaffold8_104
+Scaffold8_105	K04566
+Scaffold8_106	K04568
+Scaffold8_107	K01897
+Scaffold8_108
+Scaffold8_109	K02666
+Scaffold8_110
+Scaffold8_111	K02664
+Scaffold8_112	K02663
+Scaffold8_113	K02662
+Scaffold8_114	K06204
+Scaffold8_115
+Scaffold8_116
+Scaffold8_117	K00931
+Scaffold8_118
+Scaffold8_119	K00525
+Scaffold8_120
+Scaffold8_121	K03885
+Scaffold8_122
+Scaffold8_123
+Scaffold8_124	K08023
+Scaffold8_125
+Scaffold8_126
+Scaffold8_127
+Scaffold8_128
+Scaffold8_129	K07107
+Scaffold8_130	K09862
+Scaffold8_131
+Scaffold8_132	K04079
+Scaffold8_133
+Scaffold8_134
+Scaffold8_135	K12132
+Scaffold8_136	K06889
+Scaffold8_137
+Scaffold8_138	K12132
+Scaffold8_139
+Scaffold8_140
+Scaffold8_141
+Scaffold8_142	K23139
+Scaffold8_143
+Scaffold8_144
+Scaffold8_145
+Scaffold8_146
+Scaffold8_147	K06876
+Scaffold8_148
+Scaffold8_149
+Scaffold8_150
+Scaffold8_151
+Scaffold8_152	K03098
+Scaffold8_153
+Scaffold8_154	K03321
+Scaffold8_155
+Scaffold8_156
+Scaffold8_157
+Scaffold8_158
+Scaffold8_159
+Scaffold8_160
+Scaffold8_161
+Scaffold8_162	K00389
+Scaffold8_163
+Scaffold8_164
+Scaffold8_165
+Scaffold8_166
+Scaffold8_167
+Scaffold8_168
+Scaffold8_169
+Scaffold8_170
+Scaffold8_171
+Scaffold8_172
+Scaffold8_173
+Scaffold8_174	K07456
+Scaffold8_175
+Scaffold8_176
+Scaffold8_177
+Scaffold8_178
+Scaffold8_179	K06447
+Scaffold9_1
+Scaffold9_2
+Scaffold9_3
+Scaffold9_4
+Scaffold9_5
+Scaffold9_6
+Scaffold9_7
+Scaffold9_8
+Scaffold9_9
+Scaffold9_10
+Scaffold9_11
+Scaffold9_12
+Scaffold9_13
+Scaffold9_14
+Scaffold9_15	K03665
+Scaffold9_16
+Scaffold9_17
+Scaffold9_18
+Scaffold9_19
+Scaffold9_20
+Scaffold9_21
+Scaffold9_22
+Scaffold9_23
+Scaffold9_24	K05592
+Scaffold9_25
+Scaffold9_26	K15034
+Scaffold9_27	K09768
+Scaffold9_28
+Scaffold9_29
+Scaffold9_30
+Scaffold9_31
+Scaffold9_32
+Scaffold9_33
+Scaffold9_34
+Scaffold9_35	K09695
+Scaffold9_36	K09694
+Scaffold9_37
+Scaffold9_38
+Scaffold9_39	K11927
+Scaffold9_40	K00799
+Scaffold9_41
+Scaffold9_42	K09858
+Scaffold9_43
+Scaffold9_44	K03781
+Scaffold9_45	K03381
+Scaffold9_46	K06886
+Scaffold9_47	K06886
+Scaffold9_48	K03321
+Scaffold9_49	K03113
+Scaffold9_50
+Scaffold9_51
+Scaffold9_52	K00031
+Scaffold9_53
+Scaffold9_54	K09836
+Scaffold9_55	K10027
+Scaffold9_56	K02291
+Scaffold9_57	K09844
+Scaffold9_58	K09845
+Scaffold9_59	K00769
+Scaffold9_60
+Scaffold9_61
+Scaffold9_62	K00662
+Scaffold9_63
+Scaffold9_64
+Scaffold9_65
+Scaffold9_66
+Scaffold9_67
+Scaffold9_68
+Scaffold9_69
+Scaffold9_70	K05979
+Scaffold9_71	K03817
+Scaffold9_72
+Scaffold9_73
+Scaffold9_74
+Scaffold9_75
+Scaffold9_76
+Scaffold9_77
+Scaffold9_78	K02433
+Scaffold9_79	K02434
+Scaffold9_80	K08963
+Scaffold9_81
+Scaffold9_82
+Scaffold9_83
+Scaffold9_84
+Scaffold9_85
+Scaffold9_86
+Scaffold9_87
+Scaffold9_88
+Scaffold9_89	K01524
+Scaffold9_90
+Scaffold9_91	K03215
+Scaffold9_92	K03688
+Scaffold9_93
+Scaffold9_94	K03832
+Scaffold9_95	K03559
+Scaffold9_96	K03561
+Scaffold9_97	K01011
+Scaffold9_98	K01011
+Scaffold9_99
+Scaffold9_100
+Scaffold9_101
+Scaffold9_102
+Scaffold9_103
+Scaffold9_104
+Scaffold9_105	K01409
+Scaffold9_106
+Scaffold9_107
+Scaffold9_108	K03116
+Scaffold9_109
+Scaffold9_110
+Scaffold9_111
+Scaffold9_112
+Scaffold9_113
+Scaffold9_114	K02837
+Scaffold9_115	K00057
+Scaffold9_116
+Scaffold9_117	K10914
+Scaffold9_118
+Scaffold9_119	K00287
+Scaffold9_120	K00560
+Scaffold9_121
+Scaffold9_122	K01759
+Scaffold9_123
+Scaffold9_124
+Scaffold9_125	K09165
+Scaffold9_126	K01669
+Scaffold9_127	K07071
+Scaffold9_128
+Scaffold9_129
+Scaffold9_130
+Scaffold9_131
+Scaffold9_132
+Scaffold9_133	K01955
+Scaffold9_134
+Scaffold9_135	K00067
+Scaffold9_136	K07232
+Scaffold9_137
+Scaffold9_138
+Scaffold9_139	K07164
+Scaffold9_140
+Scaffold9_141	K00756
+Scaffold9_142	K13993
+Scaffold9_143
+Scaffold9_144
+Scaffold9_145
+Scaffold9_146
+Scaffold9_147
+Scaffold9_148
+Scaffold9_149
+Scaffold9_150	K13020
+Scaffold9_151	K13018
+Scaffold9_152
+Scaffold9_153	K16554
+Scaffold9_154
+Scaffold9_155
+Scaffold9_156	K00012
+Scaffold9_157	K02474
+Scaffold9_158	K08679
+Scaffold9_159
+Scaffold9_160
+Scaffold9_161	K01790
+Scaffold9_162	K00973
+Scaffold9_163	K01710
+Scaffold9_164
+Scaffold9_165
+Scaffold9_166
+Scaffold9_167
+Scaffold9_168
+Scaffold9_169
+Scaffold9_170
+Scaffold9_171
+Scaffold9_172
+Scaffold9_173	K00688
+Scaffold9_174
+Scaffold9_175	K00798
+Scaffold9_176
+Scaffold9_177
+Scaffold9_178	K02014
+Scaffold9_179	K02077
+Scaffold9_180	K09817
+Scaffold9_181	K09816
+Scaffold9_182
+Scaffold9_183
+Scaffold9_184
+Scaffold9_185
+Scaffold9_186
+Scaffold9_187
+Scaffold9_188
+Scaffold9_189
+Scaffold9_190
+Scaffold9_191
+Scaffold9_192
+Scaffold9_193
+Scaffold9_194
+Scaffold9_195
+Scaffold9_196
+Scaffold9_197
+Scaffold10_1
+Scaffold10_2
+Scaffold10_3
+Scaffold10_4
+Scaffold10_5
+Scaffold10_6	K12132
+Scaffold10_7	K00864
+Scaffold10_8	K08301
+Scaffold10_9	K03628
+Scaffold10_10	K02835
+Scaffold10_11
+Scaffold10_12
+Scaffold10_13
+Scaffold10_14
+Scaffold10_15
+Scaffold10_16
+Scaffold10_17	K12132
+Scaffold10_18	K13288
+Scaffold10_19	K12132
+Scaffold10_20
+Scaffold10_21
+Scaffold10_22
+Scaffold10_23
+Scaffold10_24
+Scaffold10_25
+Scaffold10_26
+Scaffold10_27
+Scaffold10_28	K01488
+Scaffold10_29	K04042
+Scaffold10_30
+Scaffold10_31	K01465
+Scaffold10_32
+Scaffold10_33	K01619
+Scaffold10_34	K00128
+Scaffold10_35
+Scaffold10_36
+Scaffold10_37
+Scaffold10_38
+Scaffold10_39
+Scaffold10_40	K09117
+Scaffold10_41
+Scaffold10_42
+Scaffold10_43
+Scaffold10_44	K08967
+Scaffold10_45
+Scaffold10_46
+Scaffold10_47	K06969
+Scaffold10_48	K07052
+Scaffold10_49
+Scaffold10_50
+Scaffold10_51	K20074
+Scaffold10_52
+Scaffold10_53
+Scaffold10_54
+Scaffold10_55
+Scaffold10_56
+Scaffold10_57
+Scaffold10_58	K13628
+Scaffold10_59
+Scaffold10_60	K02335
+Scaffold10_61	K03564
+Scaffold10_62	K00784
+Scaffold10_63	K03797
+Scaffold10_64	K12132
+Scaffold10_65
+Scaffold10_66
+Scaffold10_67
+Scaffold10_68
+Scaffold10_69
+Scaffold10_70
+Scaffold10_71
+Scaffold10_72
+Scaffold10_73
+Scaffold10_74	K01468
+Scaffold10_75	K01712
+Scaffold10_76
+Scaffold10_77
+Scaffold10_78
+Scaffold10_79	K03621
+Scaffold10_80
+Scaffold10_81
+Scaffold10_82
+Scaffold10_83	K07003
+Scaffold10_84
+Scaffold10_85
+Scaffold10_86	K00943
+Scaffold10_87
+Scaffold10_88
+Scaffold10_89
+Scaffold10_90
+Scaffold10_91	K00705
+Scaffold10_92	K08309
+Scaffold10_93
+Scaffold10_94
+Scaffold10_95
+Scaffold10_96
+Scaffold10_97	K03088
+Scaffold10_98
+Scaffold10_99	K02935
+Scaffold10_100	K02864
+Scaffold10_101	K02863
+Scaffold10_102	K02867
+Scaffold10_103	K02601
+Scaffold10_104	K03073
+Scaffold10_105	K02358
+Scaffold10_106	K03218
+Scaffold10_107	K01591
+Scaffold10_108	K01881
+Scaffold10_109
+Scaffold10_110
+Scaffold10_111
+Scaffold10_112
+Scaffold10_113
+Scaffold10_114
+Scaffold10_115	K01999
+Scaffold10_116	K01999
+Scaffold10_117	K01304
+Scaffold10_118
+Scaffold10_119
+Scaffold10_120	K03086
+Scaffold10_121	K02316
+Scaffold10_122
+Scaffold10_123
+Scaffold10_124	K00820
+Scaffold10_125
+Scaffold10_126	K12405
+Scaffold10_127
+Scaffold10_128	K02503
+Scaffold10_129
+Scaffold10_130
+Scaffold10_131
+Scaffold10_132
+Scaffold10_133	K00631
+Scaffold10_134	K22320
+Scaffold10_135	K22319
+Scaffold10_136	K22318
+Scaffold10_137	K22317
+Scaffold10_138
+Scaffold10_139
+Scaffold11_1	K12132
+Scaffold11_2
+Scaffold11_3
+Scaffold11_4
+Scaffold11_5
+Scaffold11_6
+Scaffold11_7	K03525
+Scaffold11_8	K02033
+Scaffold11_9	K02034
+Scaffold11_10	K01207
+Scaffold11_11	K00788
+Scaffold11_12	K03644
+Scaffold11_13
+Scaffold11_14
+Scaffold11_15	K08964
+Scaffold11_16
+Scaffold11_17	K03386
+Scaffold11_18	K04756
+Scaffold11_19	K00772
+Scaffold11_20
+Scaffold11_21
+Scaffold11_22	K07478
+Scaffold11_23
+Scaffold11_24
+Scaffold11_25
+Scaffold11_26
+Scaffold11_27
+Scaffold11_28	K13687
+Scaffold11_29
+Scaffold11_30
+Scaffold11_31
+Scaffold11_32
+Scaffold11_33
+Scaffold11_34
+Scaffold11_35	K10773
+Scaffold11_36
+Scaffold11_37	K01679
+Scaffold11_38	K00684
+Scaffold11_39
+Scaffold11_40	K00869
+Scaffold11_41	K01597
+Scaffold11_42	K03695
+Scaffold11_43
+Scaffold11_44
+Scaffold11_45	K12132
+Scaffold11_46
+Scaffold11_47
+Scaffold11_48
+Scaffold11_49
+Scaffold11_50
+Scaffold11_51	K00761
+Scaffold11_52
+Scaffold11_53
+Scaffold11_54
+Scaffold11_55
+Scaffold11_56
+Scaffold11_57
+Scaffold11_58
+Scaffold11_59
+Scaffold11_60
+Scaffold11_61
+Scaffold11_62
+Scaffold11_63
+Scaffold11_64
+Scaffold11_65	K04771
+Scaffold11_66	K02044
+Scaffold11_67	K02041
+Scaffold11_68	K02042
+Scaffold11_69	K02042
+Scaffold11_70
+Scaffold11_71
+Scaffold11_72
+Scaffold11_73	K05595
+Scaffold11_74
+Scaffold11_75
+Scaffold11_76
+Scaffold11_77	K00797
+Scaffold11_78
+Scaffold11_79
+Scaffold11_80
+Scaffold11_81
+Scaffold11_82
+Scaffold11_83
+Scaffold11_84
+Scaffold11_85
+Scaffold11_86
+Scaffold11_87
+Scaffold11_88
+Scaffold11_89	K07497
+Scaffold11_90
+Scaffold11_91
+Scaffold11_92
+Scaffold12_1
+Scaffold12_2
+Scaffold12_3
+Scaffold12_4
+Scaffold12_5
+Scaffold12_6
+Scaffold12_7
+Scaffold12_8
+Scaffold12_9
+Scaffold12_10
+Scaffold12_11
+Scaffold12_12
+Scaffold12_13
+Scaffold12_14
+Scaffold12_15
+Scaffold12_16
+Scaffold12_17
+Scaffold12_18
+Scaffold12_19	K03707
+Scaffold12_20
+Scaffold12_21
+Scaffold12_22
+Scaffold12_23
+Scaffold12_24
+Scaffold12_25
+Scaffold12_26	K07221
+Scaffold12_27
+Scaffold12_28
+Scaffold12_29
+Scaffold12_30
+Scaffold12_31
+Scaffold12_32
+Scaffold12_33
+Scaffold12_34
+Scaffold12_35
+Scaffold12_36
+Scaffold12_37
+Scaffold12_38
+Scaffold12_39
+Scaffold12_40	K09781
+Scaffold12_41
+Scaffold12_42
+Scaffold12_43
+Scaffold12_44	K16091
+Scaffold12_45
+Scaffold12_46
+Scaffold12_47
+Scaffold12_48
+Scaffold12_49
+Scaffold12_50
+Scaffold12_51
+Scaffold12_52
+Scaffold12_53
+Scaffold12_54
+Scaffold12_55
+Scaffold12_56	K00228
+Scaffold12_57
+Scaffold12_58
+Scaffold12_59	K03088
+Scaffold12_60
+Scaffold12_61
+Scaffold12_62	K03775
+Scaffold12_63
+Scaffold12_64	K00950
+Scaffold12_65	K03702
+Scaffold12_66
+Scaffold12_67
+Scaffold12_68
+Scaffold12_69
+Scaffold12_70
+Scaffold12_71
+Scaffold12_72	K07484
+Scaffold12_73
+Scaffold12_74
+Scaffold12_75
+Scaffold12_76
+Scaffold12_77
+Scaffold12_78
+Scaffold12_79
+Scaffold13_1
+Scaffold13_2
+Scaffold13_3
+Scaffold13_4
+Scaffold13_5
+Scaffold13_6
+Scaffold13_7	K00243
+Scaffold13_8
+Scaffold13_9
+Scaffold13_10	K03581
+Scaffold13_11	K03582
+Scaffold13_12	K03583
+Scaffold13_13	K07502
+Scaffold13_14
+Scaffold13_15	K01839
+Scaffold13_16
+Scaffold13_17	K03088
+Scaffold13_18
+Scaffold13_19
+Scaffold13_20	K02478
+Scaffold13_21	K02477
+Scaffold13_22	K03183
+Scaffold13_23
+Scaffold13_24	K06178
+Scaffold13_25
+Scaffold13_26
+Scaffold13_27
+Scaffold13_28
+Scaffold13_29	K12297
+Scaffold13_30
+Scaffold13_31
+Scaffold13_32
+Scaffold13_33
+Scaffold13_34
+Scaffold13_35	K12132
+Scaffold13_36	K12132
+Scaffold14_1
+Scaffold14_2	K02652
+Scaffold14_3	K01883
+Scaffold14_4
+Scaffold14_5
+Scaffold14_6
+Scaffold14_7
+Scaffold14_8	K02405
+Scaffold14_9	K03088
+Scaffold14_10
+Scaffold14_11
+Scaffold14_12
+Scaffold14_13
+Scaffold14_14
+Scaffold14_15
+Scaffold14_16
+Scaffold14_17
+Scaffold14_18
+Scaffold14_19	K13075
+Scaffold14_20
+Scaffold14_21	K00631
+Scaffold14_22
+Scaffold14_23
+Scaffold14_24	K00812
+Scaffold14_25	K00954
+Scaffold14_26	K08316
+Scaffold15_1
+Scaffold15_2
+Scaffold15_3
+Scaffold15_4
+Scaffold15_5
+Scaffold15_6
+Scaffold15_7
+Scaffold15_8	K07043
+Scaffold15_9	K01153
+Scaffold15_10	K01154
+Scaffold15_11	K03427
+Scaffold15_12
+Scaffold15_13
+Scaffold15_14
+Scaffold15_15
+Scaffold15_16
+Scaffold15_17
+Scaffold15_18
+Scaffold15_19
+Scaffold15_20
+Scaffold15_21
+Scaffold15_22
+Scaffold15_23
+Scaffold16_1
+Scaffold16_2
+Scaffold16_3
+Scaffold16_4
+Scaffold16_5
+Scaffold16_6
+Scaffold16_7	K06213
+Scaffold16_8	K18890
+Scaffold16_9	K18889
+Scaffold16_10	K03100
+Scaffold16_11
+Scaffold16_12
+Scaffold17_1
+Scaffold17_2
+Scaffold17_3
+Scaffold17_4
+Scaffold17_5
+Scaffold17_6
+Scaffold17_7
+Scaffold17_8
+Scaffold17_9
+Scaffold19_1
+Scaffold19_2	K01937
+Scaffold19_3
+Scaffold19_4
+Scaffold20_1
+Scaffold20_2	K07483
+Scaffold20_3
+Scaffold21_1
+Scaffold21_2
+Scaffold22_1	K07484
