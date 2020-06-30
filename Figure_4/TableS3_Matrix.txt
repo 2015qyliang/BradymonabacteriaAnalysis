@@ -1,0 +1,173 @@
+Bradymonadales_bin_CSSed10_215	Bradymonadales_bin_T3Sed10_190	Bradymonadales_FA350	Bradymonadales_TMQ2	Bradymonadales_B210	Bradymonadales_SEH01	Bradymonadales_TMQ4	Bradymonadales_TMQ3	Bradymonadales_TMQ1	Bradymonadales_YN101	Bradymonadales_V1718	Bradymonadales_bin_CSSed11_191	Bradymonadales_bin_T3Sed10_204	Vampirovibrio_chlorellavorus	Micavibrio_aeruginosavorus_EPB	Micavibrio_aeruginosavorus_ARL	Halobacteriovorax_sp_BSW11	Halobacteriovorax_marinus	Bdellovibrio_exovorus	Bdellovibrio_bacteriovorus_HD100	Bdellovibrio_bacteriovorus_109J	Stigmatella_aurantiaca	Myxococcus_xanthus	Corallococcus_coralloides	Flavobacterium_johnsoniae	Ensifer_adhaerens	Bacillus_subtilis	Cupriavidus_necator	Stenotrophomonas_maltophilia	Lysobacter_enzymogenes	Lysobacter_antibioticus	Herpetosiphon_aurantiacu	Fibrisoma_limi	Fibrella_aestuarina	Micrococcus_luteus	Cytophaga_hutchinsonii	Saprospira_grandis
+K02529;LacI family transcriptional regulator;lacI, galR	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	8	7	6	1	5	4	5	7	4	2	0	0	0
+K00033;6-phosphogluconate dehydrogenase ;PGD, gnd, gntZ	0	0	1	0	0	0	0	0	0	1	0	2	0	0	0	0	0	0	0	0	0	1	1	1	1	1	3	0	1	1	1	1	1	1	1	1	0
+K00390;phosphoadenosine phosphosulfate reductase ;cysH	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	1	2	1	0	1	1	1	1	1	1	1	0
+K00549;5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase ;metE	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	0	3	1	1	1	1	1	1	1	1	1	0
+K01817;phosphoribosylanthranilate isomerase ;trpF	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	1	1	1	1	1	1	1	1	1	1	3	3	1	2	1
+K07141;molybdenum cofactor cytidylyltransferase ;mocA	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	2	2	2	1	1	1	1	1	1	1	0	2	2	0	0	0
+K09691;lipopolysaccharide transport system ATP-binding protein;ABC-2.LPSE.A	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	1	1	2	1	2	1	1	0	1	1
+K11755;phosphoribosyl-ATP pyrophosphohydrolase / phosphoribosyl-AMP cyclohydrolase ;hisIE	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1	0	1	1	1	1	1	1	0	1	0
+K02361;isochorismate synthase ;entC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1	0	1	1	1	1	1	1	0	1	0
+K05982;deoxyribonuclease V ;E3.1.21.7, nfi	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	2	2	1	0	1	0	1	1	0	1	1	1	0	1	1
+K00833;adenosylmethionine---8-amino-7-oxononanoate aminotransferase ;bioA	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1	1	1	1	1	0	1	1	0	1	1
+K01443;N-acetylglucosamine-6-phosphate deacetylase ;nagA, AMDHD2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	1	1	1	1	2	2	2	1	1	1	1	0	0
+K01057;6-phosphogluconolactonase ;PGLS, pgl, devB	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	1	1	2	2	1	1	1	0	0	0
+K00266;glutamate synthase (NADPH) small chain ;gltD	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0
+K01814;phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase ;hisA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+K01609;indole-3-glycerol phosphate synthase ;trpC	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+K00013;histidinol dehydrogenase ;hisD	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+K00901;diacylglycerol kinase (ATP) ;dgkA, DGK	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	1	2	1	0	1	2	1	1	1	2	1	0	1	0
+K09125;uncharacterized protein;K09125	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	1	1	1	1	1	2	1	1	0	1	1	1	1	1
+K00766;anthranilate phosphoribosyltransferase ;trpD	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0
+K01657;anthranilate synthase component I ;trpE	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	1	1	1	0	1	1	2	1	1	1	1	1	1	1	0
+K03320;ammonium transporter, Amt family;amt, AMT, MEP	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	0	1	1	1	2	1	1	2	1	1	1	3	1	1	1	4	0
+K00937;polyphosphate kinase ;ppk	0	0	0	1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	1	1	1	2	1	1	2	1	0	2	1	1	1	1	1	1	0	1	1
+K03719;Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein;lrp	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	3	4	4	4	2	1	1	0	0	0	1	1	0
+K00375;GntR family transcriptional regulator / MocR family aminotransferase;K00375	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	1	3	4	0	3	3	0	2	1	0	0	0
+K07088;uncharacterized protein;K07088	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	3	1	2	0	1	1	0	1	0	1	0	0
+K00036;glucose-6-phosphate 1-dehydrogenase ;G6PD, zwf	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	3	1	2	2	1	1	1	2	0	0
+K11103;aerobic C4-dicarboxylate transport protein;dctA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	1	4	1	1	1	0	1	1	1	0	0
+K03413;two-component system, chemotaxis family, chemotaxis protein CheY;cheY	0	0	0	1	1	1	1	1	1	4	0	1	1	2	4	5	7	5	4	4	4	7	7	7	0	3	2	2	2	1	0	0	0	0	0	0	1
+K03821;polyhydroxyalkanoate synthase subunit PhaC ;phbC, phaC	0	0	0	0	0	0	0	0	0	2	2	2	2	0	2	2	0	0	0	0	0	0	1	0	0	1	0	2	1	1	1	0	0	0	0	0	0
+K02388;flagellar basal-body rod protein FlgC;flgC	0	0	0	0	0	0	0	0	0	1	1	1	1	2	2	2	1	1	2	1	1	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+K02412;flagellum-specific ATP synthase ;fliI	0	0	0	0	1	0	0	0	0	1	1	1	1	2	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+K02409;flagellar M-ring protein FliF;fliF	0	0	0	0	0	0	0	0	0	1	1	1	1	2	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+K02400;flagellar biosynthesis protein FlhA;flhA	0	0	0	0	0	0	0	0	0	1	1	1	1	2	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+K02419;flagellar biosynthetic protein FliP;fliP	0	0	0	0	0	0	0	0	0	1	1	1	1	2	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+K02387;flagellar basal-body rod protein FlgB;flgB	0	0	0	0	0	0	0	0	0	1	1	1	1	2	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+K02408;flagellar hook-basal body complex protein FliE;fliE	0	0	0	0	0	0	0	0	0	1	1	1	1	2	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+K02411;flagellar assembly protein FliH;fliH	0	0	1	0	0	0	0	0	0	1	2	1	2	1	1	1	1	1	1	1	1	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0
+K02416;flagellar motor switch protein FliM;fliM	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	0	0	0	0	0	0	0
+K02390;flagellar hook protein FlgE;flgE	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	2	1	1	1	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+K02394;flagellar P-ring protein precursor FlgI;flgI	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0
+K02417;flagellar motor switch protein FliN/FliY;fliNY, fliN	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+K02389;flagellar basal-body rod modification protein FlgD;flgD	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+K02410;flagellar motor switch protein FliG;fliG	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	2	2	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+K02396;flagellar hook-associated protein 1 FlgK;flgK	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+K02397;flagellar hook-associated protein 3 FlgL;flgL	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+K02392;flagellar basal-body rod protein FlgG;flgG	0	0	0	0	0	0	0	0	0	1	2	2	2	5	1	1	2	2	2	2	2	0	0	0	0	1	2	1	1	2	0	0	0	0	0	0	0
+K02556;chemotaxis protein MotA;motA	0	0	0	1	1	1	1	1	1	1	2	1	2	2	2	2	2	1	1	3	3	0	0	0	0	1	2	1	2	0	0	0	0	0	0	0	0
+K02280;pilus assembly protein CpaC;cpaC, rcpA	0	0	1	1	1	1	1	1	1	1	1	1	0	2	1	1	1	1	1	2	2	1	1	1	0	1	0	2	1	0	0	0	0	0	0	0	0
+K00263;leucine dehydrogenase ;E1.4.1.9	0	0	1	1	1	1	1	1	1	2	1	1	1	1	2	2	1	1	1	1	1	0	1	0	1	0	1	1	1	1	1	0	0	0	0	0	0
+K04760;transcription elongation factor GreB;greB	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	2	2	2	0	0	0	1	1	1	1	0	0	1	0	0	0
+K02535;UDP-3-O-;lpxC	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	0	0	0	0	0
+K04744;LPS-assembly protein;lptD, imp, ostA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	0	0	0	0	0
+K02427;23S rRNA (uridine2552-2'-O)-methyltransferase ;rlmE, rrmJ, ftsJ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1	1	0	0	0	0	0	0
+K01969;3-methylcrotonyl-CoA carboxylase beta subunit ;E6.4.1.4B	1	2	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	0	0	0	0	0	0	2	1	1	1	1	0	0	1	0	0
+K05973;poly(3-hydroxybutyrate) depolymerase ;phaZ	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	2	1	1	1	0	0	0	0	0	0
+K13766;methylglutaconyl-CoA hydratase ;liuC	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	0	0	0	1	0	0	1	1	1	1	1	0	0	0	1	0
+K06445;acyl-CoA dehydrogenase ;fadE	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0
+K04562;flagellar biosynthesis protein FlhG;flhG, fleN	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	2	2	1	2	2	1	1	1	0	0	1	1	1	0	0	0	0	0	0	0	0
+K02415;flagellar FliL protein;fliL	0	0	0	0	0	0	0	0	0	1	1	1	1	0	2	2	2	2	2	2	2	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+K03274;ADP-L-glycero-D-manno-heptose 6-epimerase ;gmhD, rfaD	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0
+K01880;glycyl-tRNA synthetase ;GARS, glyS1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	1	0	0	0	0	0	0	1	1	1	1	1	1
+K01095;phosphatidylglycerophosphatase A ;pgpA	0	0	1	0	0	0	0	0	0	2	1	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+K09773;;ppsR	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+K16898;ATP-dependent helicase/nuclease subunit A ;addA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	1	1	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0
+K22617;lyso-ornithine lipid O-acyltransferase ;olsA	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+K13894;microcin C transport system permease protein;yejB	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+K13895;microcin C transport system permease protein;yejE	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+K03409;chemotaxis protein CheX;cheX	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	1	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+K09778;Kdo2-lipid IVA 3' secondary acyltransferase ;lpxJ	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	2	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K14054;protein MpaA;mpaA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K13626;flagellar assembly factor FliW;fliW	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+K01006;pyruvate, orthophosphate dikinase ;ppdK	1	0	0	1	1	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+K04094;methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase ;trmFO, gid	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0
+K09131;uncharacterized protein;K09131	0	0	1	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0
+K00645;;fabD, MCAT, MCT1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	2	2	2	1	1	1	1	1	1	2	1	1	1	1	1	1	1	1
+K00979;3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) ;kdsB	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	2	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1
+K11720;lipopolysaccharide export system permease protein;lptG	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1
+K00748;lipid-A-disaccharide synthase ;lpxB	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1
+K01627;2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) ;kdsA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1
+K06041;arabinose-5-phosphate isomerase ;kdsD, kpsF	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1
+K06861;lipopolysaccharide export system ATP-binding protein ;lptB	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1
+K02527;3-deoxy-D-manno-octulosonic-acid transferase ;kdtA, waaA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1
+K00912;tetraacyldisaccharide 4'-kinase ;lpxK	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1
+K00677;UDP-N-acetylglucosamine acyltransferase ;lpxA	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	1	0	1	1	0	1	1
+K06999;phospholipase/carboxylesterase;K06999	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	1	3	3	1	2	2	3	1	1	1	1	1	1	2	1	1	2	0	0
+K03799;heat shock protein HtpX ;htpX	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	2	1	2	2	2	1	2	1	0	1	1	2	1	1	1	0	0	0	0	1	0
+K01255;leucyl aminopeptidase ;CARP, pepA	0	0	0	0	0	0	0	0	0	1	1	0	0	2	2	2	1	2	2	2	2	1	1	2	0	2	1	1	2	2	2	1	1	1	1	0	0
+K01259;proline iminopeptidase ;pip	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	1	1	1	1	1	2	1	3	2	1	2	2	2	2	0	0	1	0	0	0
+K03696;ATP-dependent Clp protease ATP-binding subunit ClpC;clpC	1	1	6	3	3	3	3	3	3	6	5	3	3	2	1	0	0	0	0	0	0	1	5	2	1	0	1	1	0	1	1	4	1	1	1	1	3
+K06076;long-chain fatty acid transport protein;fadL	5	2	4	5	5	5	5	5	5	6	6	4	4	0	1	1	0	0	0	0	0	1	1	1	0	1	0	0	1	1	1	0	0	0	0	1	0
+K20074;PPM family protein phosphatase ;prpC, phpP	6	4	5	6	5	5	6	5	5	7	5	4	4	0	0	0	2	2	1	1	1	3	4	4	0	0	1	1	1	1	1	4	3	3	2	0	0
+K00091;dihydroflavonol-4-reductase ;E1.1.1.219	2	0	3	3	3	3	3	3	3	3	2	3	1	0	0	0	0	0	1	1	1	1	2	1	0	0	0	1	0	1	0	1	2	1	0	0	0
+K03581;exodeoxyribonuclease V alpha subunit ;recD	2	2	3	2	2	2	2	2	2	2	3	3	2	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	1	1	1	0	0	0	0	1
+K00631;glycerol-3-phosphate O-acyltransferase ;plsB	1	1	2	2	2	2	2	2	2	2	2	2	2	0	0	0	1	1	0	0	0	1	1	1	0	0	0	0	1	1	1	0	0	0	0	0	1
+K07192;flotillin;FLOT	0	0	2	2	2	2	2	2	2	2	2	2	2	0	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0
+K03498;trk system potassium uptake protein;trkH, trkG, ktrB	1	1	1	2	2	2	2	2	2	2	1	1	2	0	1	1	1	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1
+K03453;bile acid:Na+ symporter, BASS family;TC.BASS	2	1	3	2	2	2	2	2	2	3	1	3	3	0	0	0	0	0	0	0	0	1	2	3	0	0	1	0	0	1	1	0	1	1	1	0	1
+K00941;hydroxymethylpyrimidine/phosphomethylpyrimidine kinase ;thiD	1	1	2	2	2	2	2	2	2	2	2	1	2	0	0	0	0	0	0	0	0	2	2	2	1	0	1	1	1	1	1	1	0	0	1	1	1
+K07074;uncharacterized protein;K07074	0	0	1	1	2	1	2	2	2	3	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0	1	1	1	1	0	1	0	0	0
+K01634;sphinganine-1-phosphate aldolase ;SGPL1, DPL1	2	2	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0	1	1	0	0	0	0	0	1
+K02459;general secretion pathway protein J;gspJ	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	1	2	1	1	0	0	0	0	0	0
+K06176;tRNA pseudouridine13 synthase ;truD, PUS7	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	1	0	0	0	2	2	2	0	0	0	0	1	1	1	0	0	0	0	0	0
+K07714;two-component system, NtrC family, response regulator AtoC;atoC	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	3	3	3	0	0	0	0	0	0	0	1	0	0	0	0	0
+K00705;4-alpha-glucanotransferase ;malQ	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	2	1	1	0	0	0	1	0	0	0	1	0	1	1	1	0
+K11731;citronellyl-CoA dehydrogenase ;atuD	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	3	0	0	0	1	0	0	0	1	0	0	0	0	0
+K07023;putative hydrolases of HD superfamily;K07023	1	0	0	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+K01431;beta-ureidopropionase ;UPB1, pydC	1	0	0	1	1	1	1	1	1	0	1	2	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K17723;dihydropyrimidine dehydrogenase (NAD+) subunit PreA ;preA	1	1	0	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+K09744;uncharacterized protein;K09744	1	1	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+K18012;L-erythro-3,5-diaminohexanoate dehydrogenase ;kdd	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K00938;phosphomevalonate kinase ;E2.7.4.2, mvaK2	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K06898;pyridinium-3,5-biscarboxylic acid mononucleotide synthase ;larB	0	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K18013;3-keto-5-aminohexanoate cleavage enzyme ;kce	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K18014;3-aminobutyryl-CoA ammonia-lyase ;kal	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K01844;beta-lysine 5,6-aminomutase alpha subunit ;kamD	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K18011;beta-lysine 5,6-aminomutase beta subunit ;kamE	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K07051;uncharacterized protein;K07051	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	1	1	1	0	0	0
+K09989;uncharacterized protein;K09989	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	1	0	1	0	0	0	0	0	1	0	0	0
+K13049;carboxypeptidase PM20D1 ;PM20D1	0	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+K09836;beta-carotene/zeaxanthin 4-ketolase ;crtW, BKT	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+K06976;uncharacterized protein;K06976	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+K20656;transmembrane protein 189;TMEM189	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K06864;pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase ;larE	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K09844;carotenoid 1,2-hydratase ;crtC	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K09121;pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelatase ;larC	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K16554;polysaccharide biosynthesis transport protein;exoP, vpsO	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K02315;DNA replication protein DnaC;dnaC	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	2	0	0	0	0	3	0	0	0	0	0
+K01849;methylmalonyl-CoA mutase, C-terminal domain ;E5.4.99.2B, mcmA2	2	2	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+K01848;methylmalonyl-CoA mutase, N-terminal domain ;E5.4.99.2A, mcmA1	2	2	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+K00965;UDPglucose--hexose-1-phosphate uridylyltransferase ;galT, GALT	1	1	0	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0
+K01839;phosphopentomutase ;deoB	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0
+K00803;alkyldihydroxyacetonephosphate synthase ;AGPS, agpS	1	1	2	1	1	1	1	1	1	2	2	2	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+K03831;molybdopterin adenylyltransferase ;mogA	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0
+K01147;exoribonuclease II ;rnb	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+K15635;2,3-bisphosphoglycerate-independent phosphoglycerate mutase ;apgM	1	1	1	1	1	1	1	1	1	2	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K01604;methylmalonyl-CoA decarboxylase subunit alpha ;mmdA	1	1	1	1	0	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K10800;single-strand selective monofunctional uracil DNA glycosylase ;SMUG1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K08974;putative membrane protein;K08974	1	1	0	1	1	1	1	1	1	1	1	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+K07787;Cu(I)/Ag(I) efflux system membrane protein CusA/SilA;cusA, silA	1	1	1	1	1	1	1	1	1	2	1	1	1	0	0	0	1	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	1	0
+K12942;aminobenzoyl-glutamate transport protein;abgT	3	1	1	1	1	1	1	1	1	1	1	2	2	0	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+K07588;LAO/AO transport system kinase ;argK	2	2	1	1	1	1	1	1	1	1	1	1	2	0	0	0	1	1	0	0	0	1	1	1	1	0	0	0	0	0	0	1	1	1	0	0	1
+K12339;S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent) ;cysM	1	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	1	1	0	1	1
+K03582;exodeoxyribonuclease V beta subunit ;recB	0	1	2	1	1	1	1	1	1	1	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0
+K03583;exodeoxyribonuclease V gamma subunit ;recC	0	1	2	1	1	1	1	1	1	1	2	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0
+K12526;bifunctional diaminopimelate decarboxylase / aspartate kinase ;lysAC	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0
+K09065;N-acetylornithine carbamoyltransferase ;argF	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	1	1	0	0	0	0	0	0
+K22478;bifunctional N-acetylglutamate synthase/kinase ;K22478	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0
+K01525;bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ;apaH	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0
+K02502;ATP phosphoribosyltransferase regulatory subunit;hisZ	1	0	1	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0
+K00547;homocysteine S-methyltransferase ;mmuM, BHMT2	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	1	0	0	0	0	0
+K00096;glycerol-1-phosphate dehydrogenase ;araM, egsA	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+K11708;manganese/zinc/iron transport system permease protein;troC, mntC, znuB	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0
+K11709;manganese/zinc/iron transport system permease protein;troD, mntD, znuB	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0
+K13770;TetR/AcrR family transcriptional regulator, fatty acid metabolism regulator protein;ysiA, fadR	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+K02068;putative ABC transport system ATP-binding protein;ABC.X2.A	0	0	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+K02069;putative ABC transport system permease protein;ABC.X2.P	0	0	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+K09931;uncharacterized protein;K09931	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0
+K07755;arsenite methyltransferase ;AS3MT	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	1	0
+K07393;glutathionyl-hydroquinone reductase ;ECM4, yqjG	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	0	1	0	0
+K13830;pentafunctional AROM polypeptide ;ARO1	0	0	1	0	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K10843;DNA excision repair protein ERCC-3 ;ERCC3, XPB	1	0	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K10742;DNA replication ATP-dependent helicase Dna2 ;DNA2	0	0	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K03727;ATP-dependent RNA helicase HelY ;helY	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+K00002;alcohol dehydrogenase (NADP+) ;AKR1A1, adh	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K11259;acetolactate synthase-like protein ;ILVBL	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K02478;two-component system, LytTR family, sensor kinase ;K02478	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K13020;UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase ;wlbA, bplA	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K03573;DNA mismatch repair protein MutH;mutH	0	0	0	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+K08764;sterol carrier protein 2 ;SCP2, SCPX	0	0	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+K05396;D-cysteine desulfhydrase ;dcyD	0	0	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+K07232;glutathione-specific gamma-glutamylcyclotransferase ;CHAC, chaC	0	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0
