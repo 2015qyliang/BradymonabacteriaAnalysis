@@ -40,5 +40,7 @@ sh 03.summaryOTUsTax.sh
 python 05.SummaryOrderRelativeAbundanceRound5.py
 sh 07.freshFormatTaxOtutab.sh
 python 08.getOrderRelativeAbundance.py
+Rscript 09.summaryAlphaDiversity.R
+Rscript 11.summaryBetaDiversity.R
 ```
 
