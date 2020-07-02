@@ -25,5 +25,5 @@ do
 	vsearch --usearch_global $workPath/2.nonchimerfile/$fn"_nonchimer.fasta" --db $workPath/8.rarefaction/1_summaryOTUs.fasta --id 0.8 --otutabout $workPath/8.rarefaction/$fn"_otuTab.txt"
 done
 rm -rf nonchimerfile
-
+rm -rf $workPath/8.rarefaction/0_rawAllOTUs.fasta
 
