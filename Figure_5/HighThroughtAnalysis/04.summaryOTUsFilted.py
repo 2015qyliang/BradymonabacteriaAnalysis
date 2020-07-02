@@ -5,9 +5,13 @@
 from Bio import SeqIO
 otulist = [ line.strip() for line in open('8.1_summaryOTUsNameList.txt').readlines()]
 newseq = []
+OTUsNameListFilted = []
 readscount = 0
 for read in SeqIO.parse(open('8.1_summaryOTUs.fasta'),'fasta'):
 	if read.id in otulist:
 		readscount +=1
 		newseq.append('>' + read.id + '\n' + str(read.seq) + '\n')
+		OTUsNameListFilted.append(read.id + '\n')
 open('8.1_summaryOTUsFilted.fasta','w').writelines(newseq)
+open('8.1_summaryOTUsNameListFilted.txt','w').writelines(OTUsNameListFilted)
+
