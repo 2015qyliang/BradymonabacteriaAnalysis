@@ -1,3 +1,7 @@
+# Copyright： qyliang
+# email: qfsfdxlqy@163.com
+# GitHub: https://github.com/2015qyliang
+
 import numpy as np
 import os
 
