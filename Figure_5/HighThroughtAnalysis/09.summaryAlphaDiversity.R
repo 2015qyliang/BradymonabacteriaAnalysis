@@ -43,7 +43,7 @@ adiv.summary <- merge(adiv.summary, adiv.goods_coverage,
 adiv.summary <- merge(adiv.summary, adiv.observed_otus, 
                       by = "Samples", all.x = TRUE)
 
-write.table(adiv.summary, 'SummaryAlphaDiversity.txt', 
+write.table(adiv.summary, '9_SummaryAlphaDiversity.txt', 
             quote = F, sep = '\t',
             row.names = F, col.names = T)
 
