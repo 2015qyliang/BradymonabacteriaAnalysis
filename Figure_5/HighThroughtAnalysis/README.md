@@ -35,5 +35,10 @@ Using [pear](https://www.h-its.org/downloads/pear-academic/) ([download link](ht
 ```
 # bash
 pyhton 01.VsearchFlow.py 1-6 HighThroughtAnalysis
+sh 02.summaryRarefaction.sh
+sh 03.summaryOTUsTax.sh
+python 05.SummaryOrderRelativeAbundanceRound5.py
+sh 07.freshFormatTaxOtutab.sh
+python 08.getOrderRelativeAbundance.py
 ```
 
