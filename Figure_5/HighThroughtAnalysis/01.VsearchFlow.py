@@ -7,36 +7,36 @@
 import os
 import sys
 
-def Vsearch(processType, idOTU, idChimerotus, idTax):
-	vsearch = './vsearchlinux/bin/vsearch' # v2.8.4_linux_x86_64
+def VsearchFlow(processType, idOTU, idChimerotus, idTax):
+	# vsearch v2.8.4_linux_x86_64
 	fnlist = os.listdir(fileAddr)
 	for fn in fnlist:
 		fnfirst = fn.split('.')[0]
 		# 1
-		proc11 = vsearch + ' --fastq_filter ./' + projectname + '/0.fqfile/' + fn
-		proc12 = ' --fastq_maxee_rate 0.01 --fastaout ./' + projectname + '/1.filtedfile/'
+		proc11 = 'vsearch --fastq_filter ./0.fqfile/' + fn
+		proc12 = ' --fastq_maxee_rate 0.01 --fastaout ./1.filtedfile/'
 		process1 = proc11 + proc12 + fnfirst + '_filted.fasta'
 		# 2
 		# wget http://drive5.com/uchime/rdp_gold.fa
-		proc21 = vsearch + ' --uchime_ref ../' + projectname + '/1.filtedfile/' + fnfirst + '_filted.fasta'
-		proc22 = ' --db ./rdp_gold.fa --nonchimeras ./' + projectname + '/2.nonchimerfile/'
+		proc21 = 'vsearch --uchime_ref ./1.filtedfile/' + fnfirst + '_filted.fasta'
+		proc22 = ' --db ./rdp_gold.fa --nonchimeras ./2.nonchimerfile/'
 		process2 = proc21 + proc22 + fnfirst + '_nonchimer.fasta'
 		# 3
-		proc31 = vsearch + ' --derep_fulllength ../' + projectname + '/2.nonchimerfile/' + fnfirst + '_nonchimer.fasta'
-		proc32 = ' --sizeout --minuniquesize 2 --output ./' + projectname + '/3.uniquesfile/'
+		proc31 = 'vsearch --derep_fulllength ./2.nonchimerfile/' + fnfirst + '_nonchimer.fasta'
+		proc32 = ' --sizeout --minuniquesize 2 --output ./3.uniquesfile/'
 		process3 = proc31 + proc32 + fnfirst + '_uniques.fasta'
 		# 4
-		proc41 = vsearch + ' --cluster_fast ../' + projectname + '/3.uniquesfile/' + fnfirst + '_uniques.fasta --id '
-		proc42 = idOTU + ' --centroids ./' + projectname + '/4.otusfile/'
+		proc41 = 'vsearch --cluster_fast ./3.uniquesfile/' + fnfirst + '_uniques.fasta --id '
+		proc42 = idOTU + ' --centroids ./4.otusfile/'
 		process4 = proc41 + proc42 + fnfirst + '_otus.fasta' + ' --relabel ' + fnfirst +'_otu_'
 		# 5
-		proc51 = vsearch + ' --usearch_global ../' + projectname + '/2.nonchimerfile/' + fnfirst + '_nonchimer.fasta'+ ' --db '
-		proc52 = './' + projectname + '/4.otusfile/' + fnfirst + '_otus.fasta --id '
-		proc53 = idChimerotus + ' --otutabout ./'+ projectname + '/5.otutabfile/'
+		proc51 = 'vsearch --usearch_global ./2.nonchimerfile/' + fnfirst + '_nonchimer.fasta'+ ' --db '
+		proc52 = './4.otusfile/' + fnfirst + '_otus.fasta --id '
+		proc53 = idChimerotus + ' --otutabout ./5.otutabfile/'
 		process5 = proc51 + proc52 + proc53 + fnfirst + '_otutab.txt'
 		# 6
-		proc61 = vsearch + ' --usearch_global ../' + projectname + '/4.otusfile/'  + fnfirst + '_otus.fasta'
-		proc62 = ' --db ./vsearchsilva.udb --id ' + idTax + ' --blast6out ./' + projectname + '/6.taxfile/'
+		proc61 = 'vsearch --usearch_global ./4.otusfile/'  + fnfirst + '_otus.fasta'
+		proc62 = ' --db ./vsearchsilva.udb --id ' + idTax + ' --blast6out ./6.taxfile/'
 		process6 = proc61 + proc62 + fnfirst + '_tax.txt'
 
 		if processType == '1-6':
@@ -76,11 +76,9 @@ def Vsearch(processType, idOTU, idChimerotus, idTax):
 		else:
 			pass
 
-projectname = sys.argv[1] # '1-6' '2-6' '6' '3-6'
-processType = sys.argv[2]
+processType = sys.argv[1] # '1-6' '2-6' '6' '3-6'
 
-dbAddr = '../'
-os.chdir('../')
-fileAddr = dbAddr + projectname + '/0.fqfile'
+os.chdir(os.getcwd())
+fileAddr = os.getcwd() + '/0.fqfile/'
 # species, 0.97; genus, 0.93; family, 0.86; order, 0.82
-Vsearch(processType, idOTU = '0.97', idChimerotus = '0.8', idTax = '0.82')
+VsearchFlow(processType, idOTU = '0.97', idChimerotus = '0.8', idTax = '0.82')
