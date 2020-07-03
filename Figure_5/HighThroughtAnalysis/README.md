@@ -8,7 +8,9 @@ The version in this study was v2.8.4
 
 ### Prepare database for vsearch pipeline
 
-- 16S rRNA taxonomy database -- SILVA_132_NR99
+16S rRNA taxonomy database -- SILVA_132_NR99
+
+[Download SILVA_132_NR99.udb](https://figshare.com/articles/dataset/_/12608177)
 
 ```
 # bash
@@ -34,7 +36,7 @@ Using [pear](https://www.h-its.org/downloads/pear-academic/) ([download link](ht
 
 ```
 # bash
-pyhton 01.VsearchFlow.py HighThroughtAnalysis 3-6
+pyhton 01.VsearchFlow.py 3-6
 sh 02.summaryRarefaction.sh
 sh 03.summaryOTUsTax.sh
 python 05.SummaryOrderRelativeAbundanceRound5.py
