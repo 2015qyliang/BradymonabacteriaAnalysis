@@ -34,7 +34,7 @@ Using [pear](https://www.h-its.org/downloads/pear-academic/) ([download link](ht
 
 ```
 # bash
-pyhton 01.VsearchFlow.py 1-6 HighThroughtAnalysis
+pyhton 01.VsearchFlow.py 3-6 HighThroughtAnalysis
 sh 02.summaryRarefaction.sh
 sh 03.summaryOTUsTax.sh
 python 05.SummaryOrderRelativeAbundanceRound5.py
