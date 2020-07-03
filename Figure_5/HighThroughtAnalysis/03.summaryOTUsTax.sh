@@ -7,4 +7,4 @@ grep ">" 8.1_summaryOTUs.fasta | awk -F ">" '{print $2}' > 8.1_summaryOTUsNameLi
 
 python 04.summaryOTUsFilted.py
 
-vsearch  --usearch_global  8.1_summaryOTUsFilted.fasta  --db ../vsearchsilva.udb --id 0.60  --blast6out  8.1_summaryOTUsFilted_tax.txt
+vsearch  --usearch_global  8.1_summaryOTUsFilted.fasta  --db ./vsearchsilva.udb --id 0.60  --blast6out  8.1_summaryOTUsFilted_tax.txt
