@@ -1,7 +1,6 @@
 # email: qfsfdxlqy@163.com
 # GitHub: https://github.com/2015qyliang
 
-library(ggplot2)
 library(ggfortify)
 library(vegan) # 2.5-6
 
