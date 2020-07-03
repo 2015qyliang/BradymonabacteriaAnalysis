@@ -34,6 +34,8 @@ Using [pear](https://www.h-its.org/downloads/pear-academic/) ([download link](ht
 
 ## Step_3
 
+Downloading [2.nonchimerfile folder](https://doi.org/10.6084/m9.figshare.12608654.v1), then start from process_3...
+
 ```
 # bash
 pyhton 01.VsearchFlow.py 3-6
