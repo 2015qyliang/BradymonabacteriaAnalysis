@@ -10,7 +10,7 @@ The version in this study was v2.8.4
 
 16S rRNA taxonomy database -- SILVA_132_NR99
 
-[Download SILVA_132_NR99.udb](https://figshare.com/articles/dataset/_/12608177)
+[Download SILVA_132_NR99.udb](https://doi.org/10.6084/m9.figshare.12608177.v1)
 
 ```
 # bash
