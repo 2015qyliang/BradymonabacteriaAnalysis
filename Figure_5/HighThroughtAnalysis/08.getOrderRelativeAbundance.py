@@ -26,7 +26,10 @@ fileList = os.listdir('taxfile')
 
 if not os.path.exists('9.OrderRelative'):
 	os.mkdir('9.OrderRelative')
-
+else:
+	os.system('rm -rf 9.OrderRelative')
+	os.mkdir('9.OrderRelative')
+	
 for ordername in orderList:
 	print('-- ',orderList.index(ordername)+1,' of ',len(orderList))
 	summaryOrder = []
