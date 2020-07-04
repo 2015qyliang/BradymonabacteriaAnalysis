@@ -45,12 +45,15 @@ for otu in OtuList:
 			OtuTaxFile.append(newline)
 		else:
 			print('- ', otu, ' -')
-open('8.1_summaryOTUs_order_tax.txt ', 'w').writelines(set(OtuTaxFile))
+# open('8.1_summaryOTUs_order_tax.txt ', 'w').writelines(set(OtuTaxFile))
 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+os.chdir(workpath)
 fileList = os.listdir('8.rarefaction/')
-otuTaxDict = { line.split('\t')[0]:line.strip().split('\t')[1].replace('(','').replace(')','').replace('-','') for line in open('8.1_summaryOTUs_order_tax.txt').readlines() }
-orderTaxList = list(set([ line.strip().split('\t')[1].replace('(','').replace(')','').replace('-','') for line in open('8.1_summaryOTUs_order_tax.txt').readlines() ]))
+otuTaxDict = { line.split('\t')[0]:line.strip().split('\t')[1].replace('(','').replace(')','').replace('-','') for line in OtuTaxFile }
+orderTaxList = list(set([ line.strip().split('\t')[1].replace('(','').replace(')','').replace('-','') for line in OtuTaxFile ]))
+# otuTaxDict = { line.split('\t')[0]:line.strip().split('\t')[1].replace('(','').replace(')','').replace('-','') for line in open('8.1_summaryOTUs_order_tax.txt').readlines() }
+# orderTaxList = list(set([ line.strip().split('\t')[1].replace('(','').replace(')','').replace('-','') for line in open('8.1_summaryOTUs_order_tax.txt').readlines() ]))
 
 if not os.path.exists('10.rarefaction'):
 	os.mkdir('10.rarefaction')
