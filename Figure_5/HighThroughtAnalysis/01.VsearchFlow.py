@@ -9,7 +9,6 @@ import sys
 
 def VsearchFlow(processType, idOTU, idChimerotus, idTax):
 	# vsearch v2.8.4_linux_x86_64
-	fnlist = os.listdir(fileAddr)
 	for fn in fnlist:
 		fnfirst = fn.split('.')[0]
 		# 1
@@ -79,6 +78,20 @@ def VsearchFlow(processType, idOTU, idChimerotus, idTax):
 processType = sys.argv[1] # '1-6' '2-6' '6' '3-6'
 
 os.chdir(os.getcwd())
-fileAddr = os.getcwd() + '/0.fqfile/'
+
+if processType == '1-6':
+	fnlist = os.listdir('0.fqfile/')
+elif processType == '2-6':
+	fileAddr = '1.filtedfile/'
+	fnlist = [ fn.split('_')[0] + '.fasta' for fn in os.listdir(fileAddr) ]
+elif processType == '3-6':
+	fileAddr = '2.nonchimerfile/'
+	fnlist = [ fn.split('_')[0] + '.fasta' for fn in os.listdir(fileAddr) ]
+elif processType == '6':
+	fileAddr = '4.otusfile/'
+	fnlist = [ fn.split('_')[0] + '.fasta' for fn in os.listdir(fileAddr) ]
+else:
+	pass
+print(fnlist)
 # species, 0.97; genus, 0.93; family, 0.86; order, 0.82
 VsearchFlow(processType, idOTU = '0.97', idChimerotus = '0.8', idTax = '0.82')
