@@ -40,7 +40,6 @@ OtuTaxFile = []
 for otu in OtuList:
 	if otu in OtuTax.keys():
 		if '	o_' in OtuTax[otu]:
-			pass
 			tax = '_'.join(OtuTax[otu].split('\t')[:4]) + '\n'
 			newline = otu + '\t' + tax[2:]
 			OtuTaxFile.append(newline)
