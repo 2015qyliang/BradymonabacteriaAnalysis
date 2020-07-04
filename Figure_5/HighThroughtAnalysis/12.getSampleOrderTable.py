@@ -57,7 +57,10 @@ orderTaxList = list(set([ line.strip().split('\t')[1].replace('(','').replace(')
 
 if not os.path.exists('10.rarefaction'):
 	os.mkdir('10.rarefaction')
-
+else:
+	os.system('rm -rf 10.rarefaction')
+	os.mkdir('10.rarefaction')
+	
 for fn in fileList:
 	os.chdir(workpath)
 	os.chdir('8.rarefaction')
