@@ -23,7 +23,10 @@ open('order.list','w').writelines(set(text))
 # Second step: summaryHitOtusReads
 orderList = [ line.strip() for line in open('order.list').readlines()]
 fileList = os.listdir('taxfile')
-os.mkdir('9.OrderRelative')
+
+if not os.path.exists('9.OrderRelative'):
+	os.mkdir('9.OrderRelative')
+
 for ordername in orderList:
 	print('-- ',orderList.index(ordername)+1,' of ',len(orderList))
 	summaryOrder = []
