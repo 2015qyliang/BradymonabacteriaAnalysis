@@ -13,11 +13,16 @@ pca <- prcomp(df)
 salineNum <- summary(file.df$salineType)['saline']
 nonsalNum <- summary(file.df$salineType)['non-saline']
 p <- autoplot(pca, data = file.df, colour = 'salineType',alpha = 0.8,size = 0.6) + 
+  # scale_color_manual(values = c("#000000", "#808080"),
+  #                    limits = c("saline", "non-saline"),
+  #                    labels = c(paste0("Saline (", salineNum, ")"), 
+  #                               paste0("Non_saline (", nonsalNum, ")")
+  #                               ))+
   scale_color_manual(values = c("#000000", "#808080"),
                      limits = c("saline", "non-saline"),
-                     labels = c(paste0("Saline (", salineNum, ")"), 
-                                paste0("Non_saline (", nonsalNum, ")")
-                                ))+
+                     labels = c(paste0("Saline"), 
+                                paste0("Non_saline")
+                     ))+
   geom_hline(yintercept=0, colour="#000000", linetype="dashed")+
   geom_vline(xintercept=0, colour="#000000", linetype="dashed")+
   theme( panel.background = element_rect(fill="white",color="black"),
