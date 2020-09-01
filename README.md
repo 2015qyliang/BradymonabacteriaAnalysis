@@ -1,7 +1,7 @@
 # Bradymonabacteria group analysis
 Partial materials of Bradymonabacteria, a novel bacterial predator group with versatile survival strategies in saline environments
 
-## [BMC Microbiome](https://microbiomejournal.biomedcentral.com/)
+## [BMC Microbiome Paper Link](https://doi.org/10.1186/s40168-020-00902-0)
 
 ## Full Title: Bradymonabacteria, a novel bacterial predator group with versatile survival strategies in saline environments
 
